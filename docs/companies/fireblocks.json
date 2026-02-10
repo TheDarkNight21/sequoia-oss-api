@@ -1,6 +1,6 @@
 {
   "id": "sequoia:fireblocks",
-  "sequoia_id": null,
+  "sequoia_id": "361",
   "name": "Fireblocks",
   "slug": "fireblocks",
   "description": "Fireblocks is an enterprise-grade platform with a secure infrastructure for moving, storing and issuing digital assets. It lets exchanges, custodians, banks, trading desks and hedge funds securely scale digital asset operations through the Fireblocks Network and MPC-based Wallet Infrastructure. Fireblocks’ insurance policy covers assets in storage and transit.",
@@ -13,7 +13,7 @@
     "crypto",
     "fintech"
   ],
-  "current_stage": null,
+  "current_stage": "growth",
   "first_partnered_year": 2021,
   "partners": [
     "ravi-gupta"

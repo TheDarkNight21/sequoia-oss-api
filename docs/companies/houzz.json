@@ -1,6 +1,6 @@
 {
   "id": "sequoia:houzz",
-  "sequoia_id": null,
+  "sequoia_id": "405",
   "name": "Houzz",
   "slug": "houzz",
   "description": "Houzz is a marketplace for homeowners and home professionals. It’s where homeowners get ideas for their projects, buy products from vendors, and find the help they need to bring their vision to life.",
@@ -13,7 +13,7 @@
     "consumer",
     "marketplace"
   ],
-  "current_stage": null,
+  "current_stage": "growth",
   "first_partnered_year": 2011,
   "partners": [
     "alfred-lin"

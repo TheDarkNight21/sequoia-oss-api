@@ -1,6 +1,6 @@
 {
   "id": "sequoia:netapp",
-  "sequoia_id": null,
+  "sequoia_id": "486",
   "name": "NetApp",
   "slug": "netapp",
   "description": "NetApp is a cloud storage and network data management company. It specializes in storage efficiency and makes information management easier. NetApp connects users’ cloud to on-prem, maximizes security and optimizes application performance.",

@@ -1,6 +1,6 @@
 {
   "id": "sequoia:doppler",
-  "sequoia_id": null,
+  "sequoia_id": "327",
   "name": "Doppler",
   "slug": "doppler",
   "description": "Doppler is a central source of truth for env vars and secrets. It enables sharing of API keys, database urls and certs across users’ team and infra.",
@@ -12,7 +12,7 @@
   "categories": [
     "security"
   ],
-  "current_stage": null,
+  "current_stage": "growth",
   "first_partnered_year": 2019,
   "partners": [],
   "primary_partner": null,

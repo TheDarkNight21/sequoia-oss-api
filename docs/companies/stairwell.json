@@ -1,6 +1,6 @@
 {
   "id": "sequoia:stairwell",
-  "sequoia_id": null,
+  "sequoia_id": "608",
   "name": "Stairwell",
   "slug": "stairwell",
   "description": "Stairwell is turning security inside out by leaving the world of passive alerts behind and looking inward at a company’s data. It provides an intelligent view of a company’s environment and enriches it with emerging threat intelligence to identify artifacts, patterns and relationships that indicate nefarious activity.",
@@ -12,7 +12,7 @@
   "categories": [
     "security"
   ],
-  "current_stage": null,
+  "current_stage": "early",
   "first_partnered_year": 2019,
   "partners": [
     "bill-coughran"

@@ -1,6 +1,6 @@
 {
   "id": "sequoia:thumbtack",
-  "sequoia_id": null,
+  "sequoia_id": "644",
   "name": "Thumbtack",
   "slug": "thumbtack",
   "description": "Thumbtack helps people care for their homes from top to bottom, whether it’s a minor repair or a major remodel. Its home management platform connects customers to the right professionals for projects, empowering them to fix, maintain and improve their most valuable asset.",
@@ -12,7 +12,7 @@
   "categories": [
     "consumer"
   ],
-  "current_stage": null,
+  "current_stage": "growth",
   "first_partnered_year": 2013,
   "partners": [
     "bryan-schreier",

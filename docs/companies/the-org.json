@@ -1,6 +1,6 @@
 {
   "id": "sequoia:the-org",
-  "sequoia_id": null,
+  "sequoia_id": "636",
   "name": "The Org",
   "slug": "the-org",
   "description": "The Org is an online professional community platform. It helps organizations get more exposure externally and operate more efficiently internally.",
@@ -13,7 +13,7 @@
   "categories": [
     "gtm"
   ],
-  "current_stage": null,
+  "current_stage": "growth",
   "first_partnered_year": 2019,
   "partners": [
     "roelof-botha"

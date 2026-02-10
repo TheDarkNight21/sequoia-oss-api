@@ -1,6 +1,6 @@
 {
   "id": "sequoia:opendns",
-  "sequoia_id": null,
+  "sequoia_id": "510",
   "name": "OpenDNS",
   "slug": "opendns",
   "description": "OpenDNS is a suite of consumer products aimed at making the internet faster, safer and more reliable. Providing a layer of protection on and off a company’s network, it prevents malicious attacks over any port or protocol. OpenDNS easy to deploy without any hardware, software or manual updates. The company is now part of Cisco.",

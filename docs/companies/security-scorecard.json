@@ -1,6 +1,6 @@
 {
   "id": "sequoia:security-scorecard",
-  "sequoia_id": null,
+  "sequoia_id": "580",
   "name": "Security Scorecard",
   "slug": "security-scorecard",
   "description": "Security Scorecard is the global leader in cybersecurity rankings. Its patented technology makes organizations more resilient with self-monitoring, third-party risk management, board reporting and cyber insurance underwriting.",
@@ -11,7 +11,7 @@
   "categories": [
     "security"
   ],
-  "current_stage": null,
+  "current_stage": "growth",
   "first_partnered_year": 2015,
   "partners": [
     "doug-leone"

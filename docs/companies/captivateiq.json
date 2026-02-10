@@ -1,6 +1,6 @@
 {
   "id": "sequoia:captivateiq",
-  "sequoia_id": null,
+  "sequoia_id": "280",
   "name": "CaptivateIQ",
   "slug": "captivateiq",
   "description": "CaptivateIQ helps enterprise companies make their sales commissions transparent. With CaptivateIQ, businesses can design and measure incentive plans so their teams feel more connected and motivated to work together.",
@@ -12,7 +12,7 @@
   "categories": [
     "gtm"
   ],
-  "current_stage": null,
+  "current_stage": "growth",
   "first_partnered_year": 2020,
   "partners": [
     "konstantine-buhler",

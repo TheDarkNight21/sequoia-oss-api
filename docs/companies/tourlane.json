@@ -1,6 +1,6 @@
 {
   "id": "sequoia:tourlane",
-  "sequoia_id": null,
+  "sequoia_id": "646",
   "name": "Tourlane",
   "slug": "tourlane",
   "description": "Tourlane connects travelers with handpicked travel experts to organize authentic customized experiences, from safaris in Tanzania to diving in the Galápagos Islands.",
@@ -12,7 +12,7 @@
   "categories": [
     "consumer"
   ],
-  "current_stage": null,
+  "current_stage": "growth",
   "first_partnered_year": 2018,
   "partners": [
     "andrew-reed",

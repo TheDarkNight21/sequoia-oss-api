@@ -1,6 +1,6 @@
 {
   "id": "sequoia:genedit",
-  "sequoia_id": null,
+  "sequoia_id": "377",
   "name": "GenEdit",
   "slug": "genedit",
   "description": "GenEdit wants to transform the delivery of gene therapies for the next generation of non-viral, gene editing-based therapeutics. GenEdit’s technology platform solves delivery challenges by systematically screening its proprietary nanoparticle library and providing safe, efficient delivery to target tissues. Its proprietary nanoparticles have broad applications, from CRISPR-based therapeutics to gene therapy products.",
@@ -11,7 +11,7 @@
   "categories": [
     "healthcare"
   ],
-  "current_stage": null,
+  "current_stage": "early",
   "first_partnered_year": 2016,
   "partners": [
     "roelof-botha"

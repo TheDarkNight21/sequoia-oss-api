@@ -18,11 +18,6 @@
       "slug": "opendns"
     },
     {
-      "id": "sequoia:trulia",
-      "name": "Trulia",
-      "slug": "trulia"
-    },
-    {
       "id": "sequoia:tumblr",
       "name": "Tumblr",
       "slug": "tumblr"

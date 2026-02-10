@@ -1,6 +1,6 @@
 {
   "id": "sequoia:dbt-labs",
-  "sequoia_id": null,
+  "sequoia_id": "314",
   "name": "dbt Labs",
   "slug": "dbt-labs",
   "description": "dbt uses integrated analytics to help data teams work like software engineers to ship data faster. Users can work directly within their data warehouse to quickly produce trusted datasets for reporting, ML modeling and operational workflows.",
@@ -12,7 +12,7 @@
   "categories": [
     "data-analytics"
   ],
-  "current_stage": null,
+  "current_stage": "growth",
   "first_partnered_year": 2020,
   "partners": [
     "sonya-huang"

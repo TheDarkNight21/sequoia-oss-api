@@ -1,6 +1,6 @@
 {
   "id": "sequoia:truework",
-  "sequoia_id": null,
+  "sequoia_id": "652",
   "name": "Truework",
   "slug": "truework",
   "description": "Truework is building a network for verified identity that puts consumers in control of their sensitive personal information. Truework’s platform digitizes employment verification processes for HR departments, banks and others to make verification faster and more secure.",
@@ -12,7 +12,7 @@
   "categories": [
     "operations"
   ],
-  "current_stage": null,
+  "current_stage": "growth",
   "first_partnered_year": 2018,
   "partners": [
     "alfred-lin"

@@ -1,6 +1,6 @@
 {
   "id": "sequoia:alkira",
-  "sequoia_id": null,
+  "sequoia_id": "232",
   "name": "Alkira",
   "slug": "alkira",
   "description": "Alkira equips its users with the first on-demand, multi-cloud network. Akira’s solution allows customers to build and deploy global secure cloud networks in minutes.",
@@ -12,7 +12,7 @@
   "categories": [
     "infrastructure"
   ],
-  "current_stage": null,
+  "current_stage": "growth",
   "first_partnered_year": 2018,
   "partners": [
     "bill-coughran"

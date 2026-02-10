@@ -1,6 +1,6 @@
 {
   "id": "sequoia:cellworks",
-  "sequoia_id": null,
+  "sequoia_id": "288",
   "name": "Cellworks",
   "slug": "cellworks",
   "description": "Cellworks is a personalized medicine platform that uses AI to predict successful matches between patients and drug therapies, which are then clinically validated. This technology drives down costs and provides payors with transparency.",
@@ -14,7 +14,7 @@
   "categories": [
     "healthcare"
   ],
-  "current_stage": null,
+  "current_stage": "growth",
   "first_partnered_year": 2012,
   "partners": [],
   "primary_partner": null,

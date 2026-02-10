@@ -1,6 +1,6 @@
 {
   "id": "sequoia:trulia",
-  "sequoia_id": null,
+  "sequoia_id": "654",
   "name": "Trulia",
   "slug": "trulia",
   "description": "Trulia is an all-in-one real estate site. It gives the local scoop on homes for sale, apartments for rent, neighborhood insights, real estate markets and trends. It also helps visitors decide what, where and when to buy, sell or rent. Trulia was acquired by Zillow in 2014.",
@@ -13,7 +13,7 @@
     "consumer",
     "marketplace"
   ],
-  "current_stage": "acquired",
+  "current_stage": "ipo",
   "first_partnered_year": 2007,
   "partners": [
     "bryan-schreier"

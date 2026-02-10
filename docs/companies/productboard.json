@@ -1,6 +1,6 @@
 {
   "id": "sequoia:productboard",
-  "sequoia_id": null,
+  "sequoia_id": "543",
   "name": "Productboard",
   "slug": "productboard",
   "description": "Productboard is a product management system helping organizations build the right products. It helps product managers learn what customers need, prioritize what to build next, and rally everyone around the roadmap.",
@@ -13,7 +13,7 @@
   "categories": [
     "operations"
   ],
-  "current_stage": null,
+  "current_stage": "growth",
   "first_partnered_year": 2019,
   "partners": [
     "andrew-reed"

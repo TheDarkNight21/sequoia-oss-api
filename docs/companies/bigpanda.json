@@ -1,6 +1,6 @@
 {
   "id": "sequoia:bigpanda",
-  "sequoia_id": null,
+  "sequoia_id": "264",
   "name": "BigPanda",
   "slug": "bigpanda",
   "description": "BigPanda improves how IT teams manage data. It analyzes IT alerts from fragmented clouds, applications and systems, and turns them into actionable insights.",
@@ -12,7 +12,7 @@
   "categories": [
     "infrastructure"
   ],
-  "current_stage": null,
+  "current_stage": "growth",
   "first_partnered_year": 2011,
   "partners": [],
   "primary_partner": null,

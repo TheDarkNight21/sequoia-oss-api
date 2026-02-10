@@ -1,0 +1,101 @@
+{
+  "id": "growth",
+  "label": "Growth",
+  "companies": [
+    {
+      "id": "sequoia:alkira",
+      "name": "Alkira",
+      "slug": "alkira"
+    },
+    {
+      "id": "sequoia:bigpanda",
+      "name": "BigPanda",
+      "slug": "bigpanda"
+    },
+    {
+      "id": "sequoia:dolls-kill",
+      "name": "Dolls Kill",
+      "slug": "dolls-kill"
+    },
+    {
+      "id": "sequoia:houzz",
+      "name": "Houzz",
+      "slug": "houzz"
+    },
+    {
+      "id": "sequoia:rappi",
+      "name": "Rappi",
+      "slug": "rappi"
+    },
+    {
+      "id": "sequoia:productboard",
+      "name": "Productboard",
+      "slug": "productboard"
+    },
+    {
+      "id": "sequoia:remote",
+      "name": "Remote",
+      "slug": "remote"
+    },
+    {
+      "id": "sequoia:security-scorecard",
+      "name": "Security Scorecard",
+      "slug": "security-scorecard"
+    },
+    {
+      "id": "sequoia:starkware",
+      "name": "StarkWare",
+      "slug": "starkware"
+    },
+    {
+      "id": "sequoia:the-org",
+      "name": "The Org",
+      "slug": "the-org"
+    },
+    {
+      "id": "sequoia:tourlane",
+      "name": "Tourlane",
+      "slug": "tourlane"
+    },
+    {
+      "id": "sequoia:thumbtack",
+      "name": "Thumbtack",
+      "slug": "thumbtack"
+    },
+    {
+      "id": "sequoia:truework",
+      "name": "Truework",
+      "slug": "truework"
+    },
+    {
+      "id": "sequoia:versa-networks",
+      "name": "Versa Networks",
+      "slug": "versa-networks"
+    },
+    {
+      "id": "sequoia:captivateiq",
+      "name": "CaptivateIQ",
+      "slug": "captivateiq"
+    },
+    {
+      "id": "sequoia:dbt-labs",
+      "name": "dbt Labs",
+      "slug": "dbt-labs"
+    },
+    {
+      "id": "sequoia:fireblocks",
+      "name": "Fireblocks",
+      "slug": "fireblocks"
+    },
+    {
+      "id": "sequoia:cellworks",
+      "name": "Cellworks",
+      "slug": "cellworks"
+    },
+    {
+      "id": "sequoia:doppler",
+      "name": "Doppler",
+      "slug": "doppler"
+    }
+  ]
+}

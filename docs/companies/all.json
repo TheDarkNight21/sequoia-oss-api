@@ -1,7 +1,7 @@
 [
   {
     "id": "sequoia:admob",
-    "sequoia_id": null,
+    "sequoia_id": "228",
     "name": "AdMob",
     "slug": "admob",
     "description": "AdMob built a pay-per click marketplace for mobile apps. Now part of Google, AdMob continues to help businesses gain user insights and drive in-app purchases.",
@@ -39,7 +39,7 @@
   },
   {
     "id": "sequoia:alkira",
-    "sequoia_id": null,
+    "sequoia_id": "232",
     "name": "Alkira",
     "slug": "alkira",
     "description": "Alkira equips its users with the first on-demand, multi-cloud network. Akira’s solution allows customers to build and deploy global secure cloud networks in minutes.",
@@ -51,7 +51,7 @@
     "categories": [
       "infrastructure"
     ],
-    "current_stage": null,
+    "current_stage": "growth",
     "first_partnered_year": 2018,
     "partners": [
       "bill-coughran"
@@ -81,7 +81,7 @@
   },
   {
     "id": "sequoia:bigpanda",
-    "sequoia_id": null,
+    "sequoia_id": "264",
     "name": "BigPanda",
     "slug": "bigpanda",
     "description": "BigPanda improves how IT teams manage data. It analyzes IT alerts from fragmented clouds, applications and systems, and turns them into actionable insights.",
@@ -93,7 +93,7 @@
     "categories": [
       "infrastructure"
     ],
-    "current_stage": null,
+    "current_stage": "growth",
     "first_partnered_year": 2011,
     "partners": [],
     "primary_partner": null,
@@ -121,7 +121,7 @@
   },
   {
     "id": "sequoia:bird",
-    "sequoia_id": null,
+    "sequoia_id": "266",
     "name": "Bird",
     "slug": "bird",
     "description": "Bird is an electric vehicle maker and bike-sharing network focused on sustainability. Its products make cities more livable by reducing car usage, traffic and carbon emissions.",
@@ -160,7 +160,7 @@
   },
   {
     "id": "sequoia:bridgebio",
-    "sequoia_id": null,
+    "sequoia_id": "274",
     "name": "BridgeBio",
     "slug": "bridgebio",
     "description": "BridgeBio develops breakthrough medicines for genetic diseases. Its portfolio of more than 15 drugs, all in various stages of development, addresses everything from genetic skin, cancer- and heart-related issues to renal disease.",
@@ -197,7 +197,7 @@
   },
   {
     "id": "sequoia:dolls-kill",
-    "sequoia_id": null,
+    "sequoia_id": "322",
     "name": "Dolls Kill",
     "slug": "dolls-kill",
     "description": "Dolls Kill is a global fashion brand championing radically unapologetic self-expression. By curating the most unique assortment of brands across a range of looks, Dolls Kill is building a platform to empower the next generation.",
@@ -208,7 +208,7 @@
     "categories": [
       "consumer"
     ],
-    "current_stage": null,
+    "current_stage": "growth",
     "first_partnered_year": 2019,
     "partners": [
       "alfred-lin"
@@ -238,7 +238,7 @@
   },
   {
     "id": "sequoia:genedit",
-    "sequoia_id": null,
+    "sequoia_id": "377",
     "name": "GenEdit",
     "slug": "genedit",
     "description": "GenEdit wants to transform the delivery of gene therapies for the next generation of non-viral, gene editing-based therapeutics. GenEdit’s technology platform solves delivery challenges by systematically screening its proprietary nanoparticle library and providing safe, efficient delivery to target tissues. Its proprietary nanoparticles have broad applications, from CRISPR-based therapeutics to gene therapy products.",
@@ -249,7 +249,7 @@
     "categories": [
       "healthcare"
     ],
-    "current_stage": null,
+    "current_stage": "early",
     "first_partnered_year": 2016,
     "partners": [
       "roelof-botha"
@@ -283,7 +283,7 @@
   },
   {
     "id": "sequoia:graphiant",
-    "sequoia_id": null,
+    "sequoia_id": "393",
     "name": "Graphiant",
     "slug": "graphiant",
     "description": "Graphiant is creating a new model for connectivity in a rapidly changing world.",
@@ -295,7 +295,7 @@
     "categories": [
       "infrastructure"
     ],
-    "current_stage": null,
+    "current_stage": "early",
     "first_partnered_year": 2020,
     "partners": [
       "bill-coughran"
@@ -325,7 +325,7 @@
   },
   {
     "id": "sequoia:green-dot",
-    "sequoia_id": null,
+    "sequoia_id": "395",
     "name": "Green Dot",
     "slug": "green-dot",
     "description": "Green Dot is a financial technology and bank holding company. Through its retail and direct bank, Green Dot offers a suite of financial products for consumers and businesses that includes credit cards, payroll cards and money processing.",
@@ -363,7 +363,7 @@
   },
   {
     "id": "sequoia:houzz",
-    "sequoia_id": null,
+    "sequoia_id": "405",
     "name": "Houzz",
     "slug": "houzz",
     "description": "Houzz is a marketplace for homeowners and home professionals. It’s where homeowners get ideas for their projects, buy products from vendors, and find the help they need to bring their vision to life.",
@@ -376,7 +376,7 @@
       "consumer",
       "marketplace"
     ],
-    "current_stage": null,
+    "current_stage": "growth",
     "first_partnered_year": 2011,
     "partners": [
       "alfred-lin"
@@ -406,7 +406,7 @@
   },
   {
     "id": "sequoia:kayak",
-    "sequoia_id": null,
+    "sequoia_id": "427",
     "name": "KAYAK",
     "slug": "kayak",
     "description": "By consolidating search functions for hundreds of travel companies, KAYAK became a one-stop shop for plane tickets, hotels, cars and travel packages. Its app solves a number of travel logistic issues on several platforms with the goal of improving travel.",
@@ -448,7 +448,7 @@
   },
   {
     "id": "sequoia:linkedin",
-    "sequoia_id": null,
+    "sequoia_id": "447",
     "name": "LinkedIn",
     "slug": "linkedin",
     "description": "In 2003, LinkedIn launched the social network for professionals. Today LinkedIn, which is now part of Microsoft, helps hundreds of millions of users worldwide become more productive and successful.",
@@ -491,7 +491,7 @@
   },
   {
     "id": "sequoia:netapp",
-    "sequoia_id": null,
+    "sequoia_id": "486",
     "name": "NetApp",
     "slug": "netapp",
     "description": "NetApp is a cloud storage and network data management company. It specializes in storage efficiency and makes information management easier. NetApp connects users’ cloud to on-prem, maximizes security and optimizes application performance.",
@@ -535,7 +535,7 @@
   },
   {
     "id": "sequoia:otter",
-    "sequoia_id": null,
+    "sequoia_id": "520",
     "name": "Otter",
     "slug": "otter",
     "description": "Otter connects parents who need childcare with stay-at-home parents who can watch their kids. Its goal is for every child to have access to safe, high-quality childcare and for every stay-at-home parent to be economically empowered in a way that has never been possible.",
@@ -547,7 +547,7 @@
     "categories": [
       "consumer"
     ],
-    "current_stage": null,
+    "current_stage": "early",
     "first_partnered_year": 2021,
     "partners": [
       "jess-lee",
@@ -574,7 +574,7 @@
   },
   {
     "id": "sequoia:oracle",
-    "sequoia_id": null,
+    "sequoia_id": "512",
     "name": "Oracle",
     "slug": "oracle",
     "description": "For decades, Oracle has engineered integrated hardware and software systems for some of the largest companies in the world. Oracle optimizes cloud monitoring and storage, develops databases and enterprises, and provides complementary services for cloud and real-world data centers.",
@@ -611,7 +611,7 @@
   },
   {
     "id": "sequoia:oso",
-    "sequoia_id": null,
+    "sequoia_id": "518",
     "name": "Oso",
     "slug": "oso",
     "description": "Oso puts security in the hands of the makers by presenting security as code. It gives developers a library for authorization, with the freedom to shape and extend it as their needs evolve. By offloading this mental work, developers all over the world can shift their focus to moving fast.",
@@ -624,7 +624,7 @@
       "developer-tools",
       "security"
     ],
-    "current_stage": null,
+    "current_stage": "early",
     "first_partnered_year": 2019,
     "partners": [
       "bill-coughran"
@@ -654,7 +654,7 @@
   },
   {
     "id": "sequoia:opendns",
-    "sequoia_id": null,
+    "sequoia_id": "510",
     "name": "OpenDNS",
     "slug": "opendns",
     "description": "OpenDNS is a suite of consumer products aimed at making the internet faster, safer and more reliable. Providing a layer of protection on and off a company’s network, it prevents malicious attacks over any port or protocol. OpenDNS easy to deploy without any hardware, software or manual updates. The company is now part of Cisco.",
@@ -693,7 +693,7 @@
   },
   {
     "id": "sequoia:rappi",
-    "sequoia_id": null,
+    "sequoia_id": "552",
     "name": "Rappi",
     "slug": "rappi",
     "description": "Rappi is an on-demand delivery platform for Latin America. It delivers everything from groceries to bandages in minutes.",
@@ -705,7 +705,7 @@
     "categories": [
       "consumer"
     ],
-    "current_stage": null,
+    "current_stage": "growth",
     "first_partnered_year": 2016,
     "partners": [
       "andrew-reed"
@@ -739,7 +739,7 @@
   },
   {
     "id": "sequoia:productboard",
-    "sequoia_id": null,
+    "sequoia_id": "543",
     "name": "Productboard",
     "slug": "productboard",
     "description": "Productboard is a product management system helping organizations build the right products. It helps product managers learn what customers need, prioritize what to build next, and rally everyone around the roadmap.",
@@ -752,7 +752,7 @@
     "categories": [
       "operations"
     ],
-    "current_stage": null,
+    "current_stage": "growth",
     "first_partnered_year": 2019,
     "partners": [
       "andrew-reed"
@@ -782,7 +782,7 @@
   },
   {
     "id": "sequoia:remote",
-    "sequoia_id": null,
+    "sequoia_id": "560",
     "name": "Remote",
     "slug": "remote",
     "description": "Remote helps companies of all sizes employ top talent around the world with international payroll, benefits, taxes, compliance and more.",
@@ -795,7 +795,7 @@
     "categories": [
       "operations"
     ],
-    "current_stage": null,
+    "current_stage": "growth",
     "first_partnered_year": 2020,
     "partners": [
       "ravi-gupta"
@@ -825,7 +825,7 @@
   },
   {
     "id": "sequoia:security-scorecard",
-    "sequoia_id": null,
+    "sequoia_id": "580",
     "name": "Security Scorecard",
     "slug": "security-scorecard",
     "description": "Security Scorecard is the global leader in cybersecurity rankings. Its patented technology makes organizations more resilient with self-monitoring, third-party risk management, board reporting and cyber insurance underwriting.",
@@ -836,7 +836,7 @@
     "categories": [
       "security"
     ],
-    "current_stage": null,
+    "current_stage": "growth",
     "first_partnered_year": 2015,
     "partners": [
       "doug-leone"
@@ -866,7 +866,7 @@
   },
   {
     "id": "sequoia:starkware",
-    "sequoia_id": null,
+    "sequoia_id": "610",
     "name": "StarkWare",
     "slug": "starkware",
     "description": "StarkWare brings scalability and privacy to blockchains with zero-knowledge STARK proofs. It is a permissionless, decentralized ZK-Rollup operating as an L2 network over Ethereum. And it achieves scale while preserving the security of L1 Ethereum by producing STARK proofs off-chain and verifying those proofs on-chain.",
@@ -879,7 +879,7 @@
       "crypto",
       "infrastructure"
     ],
-    "current_stage": null,
+    "current_stage": "growth",
     "first_partnered_year": 2018,
     "partners": [],
     "primary_partner": null,
@@ -915,7 +915,7 @@
   },
   {
     "id": "sequoia:sumo-logic",
-    "sequoia_id": null,
+    "sequoia_id": "622",
     "name": "Sumo Logic",
     "slug": "sumo-logic",
     "description": "Sumo Logic brings together data to put the power of machine data and analytics in everyone’s hands. It enables universal access and leverages cloud economics from a single cloud-native continuous intelligence platform.",
@@ -959,7 +959,7 @@
   },
   {
     "id": "sequoia:the-org",
-    "sequoia_id": null,
+    "sequoia_id": "636",
     "name": "The Org",
     "slug": "the-org",
     "description": "The Org is an online professional community platform. It helps organizations get more exposure externally and operate more efficiently internally.",
@@ -972,7 +972,7 @@
     "categories": [
       "gtm"
     ],
-    "current_stage": null,
+    "current_stage": "growth",
     "first_partnered_year": 2019,
     "partners": [
       "roelof-botha"
@@ -1002,7 +1002,7 @@
   },
   {
     "id": "sequoia:tourlane",
-    "sequoia_id": null,
+    "sequoia_id": "646",
     "name": "Tourlane",
     "slug": "tourlane",
     "description": "Tourlane connects travelers with handpicked travel experts to organize authentic customized experiences, from safaris in Tanzania to diving in the Galápagos Islands.",
@@ -1014,7 +1014,7 @@
     "categories": [
       "consumer"
     ],
-    "current_stage": null,
+    "current_stage": "growth",
     "first_partnered_year": 2018,
     "partners": [
       "andrew-reed",
@@ -1045,7 +1045,7 @@
   },
   {
     "id": "sequoia:thumbtack",
-    "sequoia_id": null,
+    "sequoia_id": "644",
     "name": "Thumbtack",
     "slug": "thumbtack",
     "description": "Thumbtack helps people care for their homes from top to bottom, whether it’s a minor repair or a major remodel. Its home management platform connects customers to the right professionals for projects, empowering them to fix, maintain and improve their most valuable asset.",
@@ -1057,7 +1057,7 @@
     "categories": [
       "consumer"
     ],
-    "current_stage": null,
+    "current_stage": "growth",
     "first_partnered_year": 2013,
     "partners": [
       "bryan-schreier",
@@ -1088,7 +1088,7 @@
   },
   {
     "id": "sequoia:truework",
-    "sequoia_id": null,
+    "sequoia_id": "652",
     "name": "Truework",
     "slug": "truework",
     "description": "Truework is building a network for verified identity that puts consumers in control of their sensitive personal information. Truework’s platform digitizes employment verification processes for HR departments, banks and others to make verification faster and more secure.",
@@ -1100,7 +1100,7 @@
     "categories": [
       "operations"
     ],
-    "current_stage": null,
+    "current_stage": "growth",
     "first_partnered_year": 2018,
     "partners": [
       "alfred-lin"
@@ -1134,7 +1134,7 @@
   },
   {
     "id": "sequoia:trulia",
-    "sequoia_id": null,
+    "sequoia_id": "654",
     "name": "Trulia",
     "slug": "trulia",
     "description": "Trulia is an all-in-one real estate site. It gives the local scoop on homes for sale, apartments for rent, neighborhood insights, real estate markets and trends. It also helps visitors decide what, where and when to buy, sell or rent. Trulia was acquired by Zillow in 2014.",
@@ -1147,7 +1147,7 @@
       "consumer",
       "marketplace"
     ],
-    "current_stage": "acquired",
+    "current_stage": "ipo",
     "first_partnered_year": 2007,
     "partners": [
       "bryan-schreier"
@@ -1177,7 +1177,7 @@
   },
   {
     "id": "sequoia:tumblr",
-    "sequoia_id": null,
+    "sequoia_id": "655",
     "name": "Tumblr",
     "slug": "tumblr",
     "description": "Tumblr is a short-form, mixed-media blogging platform focused on visuals and multimedia. Acquired by Yahoo in 2013, Tumblr attracts hundreds of millions of unique visitors who follow hundreds of millions of blogs. The platform also offers ad purchases and blog themes for companies and users.",
@@ -1215,7 +1215,7 @@
   },
   {
     "id": "sequoia:versa-networks",
-    "sequoia_id": null,
+    "sequoia_id": "665",
     "name": "Versa Networks",
     "slug": "versa-networks",
     "description": "Versa Networks enables service providers and large enterprises to build next-generation WAN and branch networks based on a broad set of virtualized network functions (VNFs). Versa’s VNF-based solutions eliminate costly and proprietary network hardware to increase service agility and significantly reduce total cost of ownership.",
@@ -1228,7 +1228,7 @@
       "infrastructure",
       "security"
     ],
-    "current_stage": null,
+    "current_stage": "growth",
     "first_partnered_year": 2012,
     "partners": [
       "jim-goetz"
@@ -1258,7 +1258,7 @@
   },
   {
     "id": "sequoia:xoom",
-    "sequoia_id": null,
+    "sequoia_id": "685",
     "name": "Xoom",
     "slug": "xoom",
     "description": "Xoom is a global money transfer service that lets people send money quickly and cheaply from any web-enabled device. Recipients don’t need a bank account or internet connection, and senders can fund their transfer with a credit or debit card or bank account. Xoom was acquired by PayPal in 2015.",
@@ -1305,7 +1305,7 @@
   },
   {
     "id": "sequoia:captivateiq",
-    "sequoia_id": null,
+    "sequoia_id": "280",
     "name": "CaptivateIQ",
     "slug": "captivateiq",
     "description": "CaptivateIQ helps enterprise companies make their sales commissions transparent. With CaptivateIQ, businesses can design and measure incentive plans so their teams feel more connected and motivated to work together.",
@@ -1317,7 +1317,7 @@
     "categories": [
       "gtm"
     ],
-    "current_stage": null,
+    "current_stage": "growth",
     "first_partnered_year": 2020,
     "partners": [
       "konstantine-buhler",
@@ -1352,7 +1352,7 @@
   },
   {
     "id": "sequoia:plangrid",
-    "sequoia_id": null,
+    "sequoia_id": "541",
     "name": "PlanGrid",
     "slug": "plangrid",
     "description": "Plangrid’s software brings blueprints and construction plans to the cloud, doing away with physical markups. It gets contractors and architects on the same page for instantaneous collaboration. Plangrid is now part of Autodesk.",
@@ -1398,7 +1398,7 @@
   },
   {
     "id": "sequoia:dbt-labs",
-    "sequoia_id": null,
+    "sequoia_id": "314",
     "name": "dbt Labs",
     "slug": "dbt-labs",
     "description": "dbt uses integrated analytics to help data teams work like software engineers to ship data faster. Users can work directly within their data warehouse to quickly produce trusted datasets for reporting, ML modeling and operational workflows.",
@@ -1410,7 +1410,7 @@
     "categories": [
       "data-analytics"
     ],
-    "current_stage": null,
+    "current_stage": "growth",
     "first_partnered_year": 2020,
     "partners": [
       "sonya-huang"
@@ -1436,7 +1436,7 @@
   },
   {
     "id": "sequoia:yahoo",
-    "sequoia_id": null,
+    "sequoia_id": "687",
     "name": "Yahoo",
     "slug": "yahoo",
     "description": "Yahoo is a global media and tech company that connects people to their passions, from finance and sports to shopping, gaming and news. The company also provides a full-stack platform for businesses to amplify growth and drive meaningful connections across advertising, search and media.",
@@ -1478,7 +1478,7 @@
   },
   {
     "id": "sequoia:fireblocks",
-    "sequoia_id": null,
+    "sequoia_id": "361",
     "name": "Fireblocks",
     "slug": "fireblocks",
     "description": "Fireblocks is an enterprise-grade platform with a secure infrastructure for moving, storing and issuing digital assets. It lets exchanges, custodians, banks, trading desks and hedge funds securely scale digital asset operations through the Fireblocks Network and MPC-based Wallet Infrastructure. Fireblocks’ insurance policy covers assets in storage and transit.",
@@ -1491,7 +1491,7 @@
       "crypto",
       "fintech"
     ],
-    "current_stage": null,
+    "current_stage": "growth",
     "first_partnered_year": 2021,
     "partners": [
       "ravi-gupta"
@@ -1525,7 +1525,7 @@
   },
   {
     "id": "sequoia:stairwell",
-    "sequoia_id": null,
+    "sequoia_id": "608",
     "name": "Stairwell",
     "slug": "stairwell",
     "description": "Stairwell is turning security inside out by leaving the world of passive alerts behind and looking inward at a company’s data. It provides an intelligent view of a company’s environment and enriches it with emerging threat intelligence to identify artifacts, patterns and relationships that indicate nefarious activity.",
@@ -1537,7 +1537,7 @@
     "categories": [
       "security"
     ],
-    "current_stage": null,
+    "current_stage": "early",
     "first_partnered_year": 2019,
     "partners": [
       "bill-coughran"
@@ -1563,7 +1563,7 @@
   },
   {
     "id": "sequoia:infracost",
-    "sequoia_id": null,
+    "sequoia_id": "409",
     "name": "Infracost",
     "slug": "infracost",
     "description": "Infracost helps engineering teams see how code changes affect their cloud costs. It scans a Terraform code and checks over 3 million prices to create a simple, understandable cost estimate before launch. Users can view helpful comments like: “This change will increase your AWS bill by 25%.”",
@@ -1576,7 +1576,7 @@
       "developer-tools",
       "operations"
     ],
-    "current_stage": null,
+    "current_stage": "early",
     "first_partnered_year": 2021,
     "partners": [
       "bogomil-balkansky"
@@ -1610,7 +1610,7 @@
   },
   {
     "id": "sequoia:cellworks",
-    "sequoia_id": null,
+    "sequoia_id": "288",
     "name": "Cellworks",
     "slug": "cellworks",
     "description": "Cellworks is a personalized medicine platform that uses AI to predict successful matches between patients and drug therapies, which are then clinically validated. This technology drives down costs and provides payors with transparency.",
@@ -1624,7 +1624,7 @@
     "categories": [
       "healthcare"
     ],
-    "current_stage": null,
+    "current_stage": "growth",
     "first_partnered_year": 2012,
     "partners": [],
     "primary_partner": null,
@@ -1643,7 +1643,7 @@
   },
   {
     "id": "sequoia:thousandeyes",
-    "sequoia_id": null,
+    "sequoia_id": "640",
     "name": "ThousandEyes",
     "slug": "thousandeyes",
     "description": "ThousandEyes is an internet performance and digital experience monitoring company that arms everyone—engineers, teams, developers and end users—with instant insights across all connected devices within an organization.",
@@ -1687,7 +1687,7 @@
   },
   {
     "id": "sequoia:doppler",
-    "sequoia_id": null,
+    "sequoia_id": "327",
     "name": "Doppler",
     "slug": "doppler",
     "description": "Doppler is a central source of truth for env vars and secrets. It enables sharing of API keys, database urls and certs across users’ team and infra.",
@@ -1699,7 +1699,7 @@
     "categories": [
       "security"
     ],
-    "current_stage": null,
+    "current_stage": "growth",
     "first_partnered_year": 2019,
     "partners": [],
     "primary_partner": null,
@@ -1723,7 +1723,7 @@
   },
   {
     "id": "sequoia:evervault",
-    "sequoia_id": null,
+    "sequoia_id": "353",
     "name": "Evervault",
     "slug": "evervault",
     "description": "Evervault is building the internet infrastructure for data privacy. Its simple, secure cloud infrastructure can be set up in minutes.",
@@ -1737,7 +1737,7 @@
       "developer-tools",
       "security"
     ],
-    "current_stage": null,
+    "current_stage": "early",
     "first_partnered_year": 2019,
     "partners": [],
     "primary_partner": null,
@@ -1761,7 +1761,7 @@
   },
   {
     "id": "sequoia:filecoin",
-    "sequoia_id": null,
+    "sequoia_id": "7325",
     "name": "Filecoin",
     "slug": "filecoin",
     "description": "Filecoin is a decentralized storage network designed to store humanity’s most important information. The network verifies that data is stored securely through cryptographic proofs.",
@@ -1770,7 +1770,7 @@
     "categories": [
       "crypto"
     ],
-    "current_stage": null,
+    "current_stage": "early",
     "first_partnered_year": 2017,
     "partners": [
       "alfred-lin"
@@ -1849,7 +1849,7 @@
   },
   {
     "id": "sequoia:clever",
-    "sequoia_id": null,
+    "sequoia_id": "298",
     "name": "Clever",
     "slug": "clever",
     "description": "Clever simplifies educational technology for teachers and students. Its platform puts every application in one place, charging app developers, not schools, for the service.",
@@ -1895,7 +1895,7 @@
   },
   {
     "id": "sequoia:ringcentral",
-    "sequoia_id": null,
+    "sequoia_id": "566",
     "name": "RingCentral",
     "slug": "ringcentral",
     "description": "RingCentral is a global provider of cloud enterprise unified communications and collaboration solutions. It allows mobile and distributed workforces to be connected anywhere and on any device through voice, video, team messaging, collaboration, SMS, conferencing, online meetings, contact center and fax.",
@@ -1980,7 +1980,7 @@
   },
   {
     "id": "sequoia:fireeye",
-    "sequoia_id": null,
+    "sequoia_id": "363",
     "name": "FireEye",
     "slug": "fireeye",
     "description": "FireEye brought a fresh perspective to network security when it launched in 2004. Today FireEye’s virtual machine-based security platform protects countless Fortune 500 companies and governments worldwide against cyberattacks and malware.",
@@ -2018,7 +2018,7 @@
   },
   {
     "id": "sequoia:guardant-health",
-    "sequoia_id": null,
+    "sequoia_id": "397",
     "name": "Guardant Health",
     "slug": "guardant-health",
     "description": "Guardant Health is a leading oncology company focused on conquering cancer worldwide. Its proprietary blood tests, vast data sets and advanced analytics help drive commercial adoption, improve patient outcomes and lower healthcare costs at every stage of the treatment journey.",
@@ -2062,7 +2062,7 @@
   },
   {
     "id": "sequoia:medallia",
-    "sequoia_id": null,
+    "sequoia_id": "453",
     "name": "Medallia",
     "slug": "medallia",
     "description": "Medallia captures signals from face-to-face, digital and IoT interactions. It applies proprietary AI technology to get personalized and predictive insights that drive tremendous results. Using Medallia Experience Cloud, customers reduce churn, turn detractors into buyers, and find cross-sell and upsell opportunities with clear ROI.",

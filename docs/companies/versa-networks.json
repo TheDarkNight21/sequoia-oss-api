@@ -1,6 +1,6 @@
 {
   "id": "sequoia:versa-networks",
-  "sequoia_id": null,
+  "sequoia_id": "665",
   "name": "Versa Networks",
   "slug": "versa-networks",
   "description": "Versa Networks enables service providers and large enterprises to build next-generation WAN and branch networks based on a broad set of virtualized network functions (VNFs). Versa’s VNF-based solutions eliminate costly and proprietary network hardware to increase service agility and significantly reduce total cost of ownership.",
@@ -13,7 +13,7 @@
     "infrastructure",
     "security"
   ],
-  "current_stage": null,
+  "current_stage": "growth",
   "first_partnered_year": 2012,
   "partners": [
     "jim-goetz"

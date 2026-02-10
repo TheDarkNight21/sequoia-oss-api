@@ -1,6 +1,6 @@
 {
   "id": "sequoia:starkware",
-  "sequoia_id": null,
+  "sequoia_id": "610",
   "name": "StarkWare",
   "slug": "starkware",
   "description": "StarkWare brings scalability and privacy to blockchains with zero-knowledge STARK proofs. It is a permissionless, decentralized ZK-Rollup operating as an L2 network over Ethereum. And it achieves scale while preserving the security of L1 Ethereum by producing STARK proofs off-chain and verifying those proofs on-chain.",
@@ -13,7 +13,7 @@
     "crypto",
     "infrastructure"
   ],
-  "current_stage": null,
+  "current_stage": "growth",
   "first_partnered_year": 2018,
   "partners": [],
   "primary_partner": null,

@@ -1,6 +1,6 @@
 {
   "id": "sequoia:graphiant",
-  "sequoia_id": null,
+  "sequoia_id": "393",
   "name": "Graphiant",
   "slug": "graphiant",
   "description": "Graphiant is creating a new model for connectivity in a rapidly changing world.",
@@ -12,7 +12,7 @@
   "categories": [
     "infrastructure"
   ],
-  "current_stage": null,
+  "current_stage": "early",
   "first_partnered_year": 2020,
   "partners": [
     "bill-coughran"

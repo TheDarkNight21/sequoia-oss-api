@@ -1,6 +1,6 @@
 {
   "id": "sequoia:filecoin",
-  "sequoia_id": null,
+  "sequoia_id": "7325",
   "name": "Filecoin",
   "slug": "filecoin",
   "description": "Filecoin is a decentralized storage network designed to store humanity’s most important information. The network verifies that data is stored securely through cryptographic proofs.",
@@ -9,7 +9,7 @@
   "categories": [
     "crypto"
   ],
-  "current_stage": null,
+  "current_stage": "early",
   "first_partnered_year": 2017,
   "partners": [
     "alfred-lin"

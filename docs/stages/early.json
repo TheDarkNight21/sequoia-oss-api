@@ -1,0 +1,46 @@
+{
+  "id": "early",
+  "label": "Early",
+  "companies": [
+    {
+      "id": "sequoia:genedit",
+      "name": "GenEdit",
+      "slug": "genedit"
+    },
+    {
+      "id": "sequoia:graphiant",
+      "name": "Graphiant",
+      "slug": "graphiant"
+    },
+    {
+      "id": "sequoia:otter",
+      "name": "Otter",
+      "slug": "otter"
+    },
+    {
+      "id": "sequoia:oso",
+      "name": "Oso",
+      "slug": "oso"
+    },
+    {
+      "id": "sequoia:stairwell",
+      "name": "Stairwell",
+      "slug": "stairwell"
+    },
+    {
+      "id": "sequoia:infracost",
+      "name": "Infracost",
+      "slug": "infracost"
+    },
+    {
+      "id": "sequoia:evervault",
+      "name": "Evervault",
+      "slug": "evervault"
+    },
+    {
+      "id": "sequoia:filecoin",
+      "name": "Filecoin",
+      "slug": "filecoin"
+    }
+  ]
+}

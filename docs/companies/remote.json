@@ -1,6 +1,6 @@
 {
   "id": "sequoia:remote",
-  "sequoia_id": null,
+  "sequoia_id": "560",
   "name": "Remote",
   "slug": "remote",
   "description": "Remote helps companies of all sizes employ top talent around the world with international payroll, benefits, taxes, compliance and more.",
@@ -13,7 +13,7 @@
   "categories": [
     "operations"
   ],
-  "current_stage": null,
+  "current_stage": "growth",
   "first_partnered_year": 2020,
   "partners": [
     "ravi-gupta"

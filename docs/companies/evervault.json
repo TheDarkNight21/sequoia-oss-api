@@ -1,6 +1,6 @@
 {
   "id": "sequoia:evervault",
-  "sequoia_id": null,
+  "sequoia_id": "353",
   "name": "Evervault",
   "slug": "evervault",
   "description": "Evervault is building the internet infrastructure for data privacy. Its simple, secure cloud infrastructure can be set up in minutes.",
@@ -14,7 +14,7 @@
     "developer-tools",
     "security"
   ],
-  "current_stage": null,
+  "current_stage": "early",
   "first_partnered_year": 2019,
   "partners": [],
   "primary_partner": null,

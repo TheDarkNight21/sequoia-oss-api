@@ -1,6 +1,6 @@
 {
   "id": "sequoia:infracost",
-  "sequoia_id": null,
+  "sequoia_id": "409",
   "name": "Infracost",
   "slug": "infracost",
   "description": "Infracost helps engineering teams see how code changes affect their cloud costs. It scans a Terraform code and checks over 3 million prices to create a simple, understandable cost estimate before launch. Users can view helpful comments like: “This change will increase your AWS bill by 25%.”",
@@ -13,7 +13,7 @@
     "developer-tools",
     "operations"
   ],
-  "current_stage": null,
+  "current_stage": "early",
   "first_partnered_year": 2021,
   "partners": [
     "bogomil-balkansky"

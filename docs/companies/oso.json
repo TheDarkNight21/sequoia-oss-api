@@ -1,6 +1,6 @@
 {
   "id": "sequoia:oso",
-  "sequoia_id": null,
+  "sequoia_id": "518",
   "name": "Oso",
   "slug": "oso",
   "description": "Oso puts security in the hands of the makers by presenting security as code. It gives developers a library for authorization, with the freedom to shape and extend it as their needs evolve. By offloading this mental work, developers all over the world can shift their focus to moving fast.",
@@ -13,7 +13,7 @@
     "developer-tools",
     "security"
   ],
-  "current_stage": null,
+  "current_stage": "early",
   "first_partnered_year": 2019,
   "partners": [
     "bill-coughran"

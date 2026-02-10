@@ -38,6 +38,11 @@
       "slug": "sumo-logic"
     },
     {
+      "id": "sequoia:trulia",
+      "name": "Trulia",
+      "slug": "trulia"
+    },
+    {
       "id": "sequoia:yahoo",
       "name": "Yahoo",
       "slug": "yahoo"
