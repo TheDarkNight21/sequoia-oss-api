@@ -1,0 +1,152 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://sequoia-oss-api.github.io/schema/company.schema.json",
+  "title": "Sequoia Portfolio Company",
+  "description": "Canonical schema for a Sequoia Capital portfolio company record.",
+  "type": "object",
+  "required": ["id", "name", "slug", "source_urls"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Stable identifier in the form sequoia:{slug}.",
+      "pattern": "^sequoia:[a-z0-9][a-z0-9-]*$"
+    },
+    "sequoia_id": {
+      "type": ["string", "null"],
+      "description": "Sequoia's internal identifier if discoverable from the site."
+    },
+    "name": {
+      "type": "string",
+      "description": "Company display name."
+    },
+    "slug": {
+      "type": "string",
+      "description": "URL-safe slug derived from the company name.",
+      "pattern": "^[a-z0-9][a-z0-9-]*$"
+    },
+    "description": {
+      "type": ["string", "null"],
+      "description": "Short company description from the profile page."
+    },
+    "website": {
+      "type": ["string", "null"],
+      "format": "uri",
+      "description": "Company website URL."
+    },
+    "socials": {
+      "type": "object",
+      "description": "Social media links keyed by platform name.",
+      "additionalProperties": {
+        "type": "string",
+        "format": "uri"
+      }
+    },
+    "categories": {
+      "type": "array",
+      "description": "Normalized category IDs assigned to this company.",
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z0-9][a-z0-9-]*$"
+      }
+    },
+    "current_stage": {
+      "type": ["string", "null"],
+      "description": "Current investment stage.",
+      "enum": [
+        "pre-seed-seed",
+        "early",
+        "growth",
+        "ipo",
+        "acquired",
+        "unknown",
+        null
+      ]
+    },
+    "first_partnered_year": {
+      "type": ["integer", "null"],
+      "description": "Year Sequoia first partnered with this company.",
+      "minimum": 1900,
+      "maximum": 2100
+    },
+    "partners": {
+      "type": "array",
+      "description": "Normalized partner IDs associated with this company.",
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z0-9][a-z0-9-]*$"
+      }
+    },
+    "primary_partner": {
+      "type": ["string", "null"],
+      "description": "Normalized ID of the primary Sequoia partner.",
+      "pattern": "^[a-z0-9][a-z0-9-]*$"
+    },
+    "milestones": {
+      "type": "object",
+      "description": "Key milestone years for the company.",
+      "properties": {
+        "founded_year": {
+          "type": ["integer", "null"],
+          "minimum": 1900,
+          "maximum": 2100
+        },
+        "partnered_year": {
+          "type": ["integer", "null"],
+          "minimum": 1900,
+          "maximum": 2100
+        },
+        "ipo_year": {
+          "type": ["integer", "null"],
+          "minimum": 1900,
+          "maximum": 2100
+        },
+        "acquired_year": {
+          "type": ["integer", "null"],
+          "minimum": 1900,
+          "maximum": 2100
+        }
+      },
+      "additionalProperties": false
+    },
+    "team": {
+      "type": "array",
+      "description": "Key team members listed on the company profile.",
+      "items": {
+        "type": "object",
+        "required": ["name"],
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "role": {
+            "type": ["string", "null"]
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "why_partnered": {
+      "type": ["string", "null"],
+      "description": "Sequoia's stated reason for partnering, if available."
+    },
+    "source_urls": {
+      "type": "object",
+      "description": "URLs from which this record was sourced.",
+      "required": ["directory", "profile"],
+      "properties": {
+        "directory": {
+          "type": "string",
+          "format": "uri",
+          "description": "URL of the company's entry in the Sequoia directory listing."
+        },
+        "profile": {
+          "type": "string",
+          "format": "uri",
+          "description": "URL of the company's dedicated profile page."
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}
