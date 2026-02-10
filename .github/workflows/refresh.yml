@@ -1,0 +1,54 @@
+name: Refresh Sequoia API
+
+on:
+  schedule:
+    # Daily at 06:00 UTC
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run crawler and build into temp directory
+        run: python run_build.py --limit 0 --output _build
+
+      - name: Validate build output
+        run: python -m src.validate.postbuild _build
+
+      - name: Replace docs/ with validated build
+        run: |
+          rm -rf docs/companies docs/stages docs/categories docs/partners docs/first-partnered docs/meta.json
+          cp -r _build/* docs/
+          rm -rf _build
+
+      - name: Check for changes
+        id: diff
+        run: |
+          git diff --quiet docs/ && echo "changed=false" >> "$GITHUB_OUTPUT" || echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Commit and push updated data
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/
+          git commit -m "chore: refresh Sequoia API data ($(date -u +%Y-%m-%d))"
+          git push
