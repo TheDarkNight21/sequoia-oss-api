@@ -1,0 +1,46 @@
+{
+  "id": "sequoia:nimble-storage",
+  "sequoia_id": "494",
+  "name": "Nimble Storage",
+  "slug": "nimble-storage",
+  "description": "Nimble Storage is an enterprise storage platform using AI to provide faster storage with better capacity utilization. It is now part of Hewlett-Packard Enterprise.",
+  "website": "https://www.nimblestorage.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/NimbleStorage",
+    "linkedin": "https://www.linkedin.com/company/nimble-storage"
+  },
+  "categories": [
+    "infrastructure"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 2008,
+  "partners": [
+    "jim-goetz"
+  ],
+  "primary_partner": "jim-goetz",
+  "milestones": {
+    "founded_year": 2008,
+    "partnered_year": 2008,
+    "ipo_year": 2013,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Suresh Vasudevan",
+      "role": null
+    },
+    {
+      "name": "Umesh Maheshwari",
+      "role": null
+    },
+    {
+      "name": "Varun Mehta",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/nimble-storage/"
+  }
+}

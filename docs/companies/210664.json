@@ -1,0 +1,40 @@
+{
+  "id": "sequoia:210664",
+  "sequoia_id": null,
+  "name": "Aspora",
+  "slug": "210664",
+  "description": "Aspora is building full stack banking for diaspora populations starting with the Indian diaspora. They enable non-resident Indians to move money seamlessly across borders at the lowest costs.",
+  "website": "https://www.aspora.com/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/get-aspora",
+    "instagram": "https://www.instagram.com/get_aspora/"
+  },
+  "categories": [
+    "fintech"
+  ],
+  "current_stage": null,
+  "first_partnered_year": 2024,
+  "partners": [
+    "luciana-lixandru",
+    "george-robson",
+    "james-flynn"
+  ],
+  "primary_partner": "luciana-lixandru",
+  "milestones": {
+    "founded_year": 2022,
+    "partnered_year": 2024,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Parth Garg",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/210664/"
+  }
+}

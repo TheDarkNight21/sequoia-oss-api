@@ -1,0 +1,66 @@
+{
+  "id": "james-flynn",
+  "name": "James Flynn",
+  "companies": [
+    {
+      "id": "sequoia:phantom",
+      "name": "Phantom",
+      "slug": "phantom"
+    },
+    {
+      "id": "sequoia:vanta",
+      "name": "Vanta",
+      "slug": "vanta"
+    },
+    {
+      "id": "sequoia:clay",
+      "name": "Clay",
+      "slug": "clay"
+    },
+    {
+      "id": "sequoia:neuralink",
+      "name": "Neuralink",
+      "slug": "neuralink"
+    },
+    {
+      "id": "sequoia:210664",
+      "name": "Aspora",
+      "slug": "210664"
+    },
+    {
+      "id": "sequoia:zed",
+      "name": "Zed",
+      "slug": "zed"
+    },
+    {
+      "id": "sequoia:elevenlabs",
+      "name": "ElevenLabs",
+      "slug": "elevenlabs"
+    },
+    {
+      "id": "sequoia:openevidence",
+      "name": "OpenEvidence",
+      "slug": "openevidence"
+    },
+    {
+      "id": "sequoia:instacart",
+      "name": "Instacart",
+      "slug": "instacart"
+    },
+    {
+      "id": "sequoia:neros",
+      "name": "Neros",
+      "slug": "neros"
+    },
+    {
+      "id": "sequoia:fal",
+      "name": "fal",
+      "slug": "fal"
+    },
+    {
+      "id": "sequoia:openai",
+      "name": "OpenAI",
+      "slug": "openai"
+    }
+  ]
+}

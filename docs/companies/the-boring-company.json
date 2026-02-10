@@ -1,0 +1,38 @@
+{
+  "id": "sequoia:the-boring-company",
+  "sequoia_id": "9438",
+  "name": "The Boring Company",
+  "slug": "the-boring-company",
+  "description": "The Boring Company (TBC) was founded by Elon Musk to revolutionize transportation. Its mission is to solve traffic, beautify cities & expand rapid point-to-point transportation by creating safe, fast-to-dig, and low-cost transportation, utility, and freight tunnels. TBC has spent 5 years building core technologies designed to solve traffic and beautify cities via Loop and Hyperloop.",
+  "website": "https://www.boringcompany.com/",
+  "socials": {
+    "twitter": "https://twitter.com/boringcompany",
+    "linkedin": "https://www.linkedin.com/company/tbc-theboringcompany/"
+  },
+  "categories": [
+    "hardware"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2022,
+  "partners": [
+    "shaun-maguire"
+  ],
+  "primary_partner": "shaun-maguire",
+  "milestones": {
+    "founded_year": 2016,
+    "partnered_year": 2022,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Elon Musk",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/the-boring-company/"
+  }
+}

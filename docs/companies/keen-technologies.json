@@ -1,0 +1,30 @@
+{
+  "id": "sequoia:keen-technologies",
+  "sequoia_id": "11345",
+  "name": "Keen Technologies",
+  "slug": "keen-technologies",
+  "description": "Keen Technologies is John Carmack’s AGI effort.",
+  "website": "https://keenagi.com/",
+  "socials": {},
+  "categories": [
+    "ai"
+  ],
+  "current_stage": null,
+  "first_partnered_year": null,
+  "partners": [
+    "sonya-huang"
+  ],
+  "primary_partner": "sonya-huang",
+  "milestones": {
+    "founded_year": null,
+    "partnered_year": null,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/keen-technologies/"
+  }
+}

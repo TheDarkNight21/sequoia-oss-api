@@ -1,0 +1,39 @@
+{
+  "id": "sequoia:meeno",
+  "sequoia_id": "15035",
+  "name": "Meeno",
+  "slug": "meeno",
+  "description": "Meeno’s mission is to help people master the skill of social connection. Its mobile app harnesses AI to enhance all relationships: from friends to romance, from family to work.",
+  "website": "https://meeno.com/",
+  "socials": {
+    "twitter": "https://twitter.com/meeno_official",
+    "linkedin": "https://www.linkedin.com/company/meeno-official/",
+    "instagram": "https://www.instagram.com/meeno.official/"
+  },
+  "categories": [
+    "consumer"
+  ],
+  "current_stage": "pre-seed-seed",
+  "first_partnered_year": 2023,
+  "partners": [
+    "roelof-botha"
+  ],
+  "primary_partner": "roelof-botha",
+  "milestones": {
+    "founded_year": 2023,
+    "partnered_year": 2023,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Renate Nyborg",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/meeno/"
+  }
+}

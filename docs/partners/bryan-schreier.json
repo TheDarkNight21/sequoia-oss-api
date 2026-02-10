@@ -16,6 +16,86 @@
       "id": "sequoia:clever",
       "name": "Clever",
       "slug": "clever"
+    },
+    {
+      "id": "sequoia:qualtrics",
+      "name": "Qualtrics",
+      "slug": "qualtrics"
+    },
+    {
+      "id": "sequoia:clipboard-health",
+      "name": "Clipboard Health",
+      "slug": "clipboard-health"
+    },
+    {
+      "id": "sequoia:zum",
+      "name": "Zum",
+      "slug": "zum"
+    },
+    {
+      "id": "sequoia:commons",
+      "name": "Commons",
+      "slug": "commons"
+    },
+    {
+      "id": "sequoia:guided-energy",
+      "name": "Guided Energy",
+      "slug": "guided-energy"
+    },
+    {
+      "id": "sequoia:retool",
+      "name": "Retool",
+      "slug": "retool"
+    },
+    {
+      "id": "sequoia:domino-data-lab",
+      "name": "Domino Data Lab",
+      "slug": "domino-data-lab"
+    },
+    {
+      "id": "sequoia:gridware",
+      "name": "Gridware",
+      "slug": "gridware"
+    },
+    {
+      "id": "sequoia:dropbox",
+      "name": "Dropbox",
+      "slug": "dropbox"
+    },
+    {
+      "id": "sequoia:titus",
+      "name": "Titus",
+      "slug": "titus"
+    },
+    {
+      "id": "sequoia:front",
+      "name": "Front",
+      "slug": "front"
+    },
+    {
+      "id": "sequoia:nuvo",
+      "name": "Nuvo",
+      "slug": "nuvo"
+    },
+    {
+      "id": "sequoia:elevate",
+      "name": "Elevate",
+      "slug": "elevate"
+    },
+    {
+      "id": "sequoia:listen-labs",
+      "name": "Listen Labs",
+      "slug": "listen-labs"
+    },
+    {
+      "id": "sequoia:pace-2",
+      "name": "Pace",
+      "slug": "pace-2"
+    },
+    {
+      "id": "sequoia:anrok",
+      "name": "Anrok",
+      "slug": "anrok"
     }
   ]
 }

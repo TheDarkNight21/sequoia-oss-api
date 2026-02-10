@@ -1,0 +1,42 @@
+{
+  "id": "sequoia:studeo",
+  "sequoia_id": "9833",
+  "name": "Studeo",
+  "slug": "studeo",
+  "description": "Studeo is on a mission to revolutionise education by digitalising and democratising elite tutoring. On its mission to revolutionise the way education is taught, Studeo hires the best and most passionate tutors and bring their knowledge into a video learning app accessible across the world at a fraction of the cost of private tutoring. Studeo exists to give 100% of students access to generally inaccessible resources. We aim to be the number one platform for students willing to learn faster and get the right tips to enter top universities.",
+  "website": "https://studeo.app",
+  "socials": {
+    "facebook": "https://www.facebook.com/Studeo-France-104488085131908",
+    "linkedin": "https://www.linkedin.com/company/studeomobileapp/",
+    "instagram": "https://www.instagram.com/studeoappfrance/",
+    "youtube": "https://www.youtube.com/channel/UC5BitT0sRzH7AgImsl31dbg"
+  },
+  "categories": [
+    "consumer"
+  ],
+  "current_stage": "pre-seed-seed",
+  "first_partnered_year": 2022,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 2020,
+    "partnered_year": 2022,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Antonin De Laever",
+      "role": null
+    },
+    {
+      "name": "Nicolas Levandowsky",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/studeo/"
+  }
+}

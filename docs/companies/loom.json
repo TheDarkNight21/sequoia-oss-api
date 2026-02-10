@@ -1,0 +1,41 @@
+{
+  "id": "sequoia:loom",
+  "sequoia_id": "449",
+  "name": "Loom",
+  "slug": "loom",
+  "description": "Loom is a workplace collaboration tool focused on video. It delivers an effective way to communicate in the workplace with quick, instantly shareable videos that get the message across.Loom is now part of Atlassian.",
+  "website": "https://www.loom.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/@useloom"
+  },
+  "categories": [
+    "productivity"
+  ],
+  "current_stage": "acquired",
+  "first_partnered_year": 2019,
+  "partners": [
+    "andrew-reed"
+  ],
+  "primary_partner": "andrew-reed",
+  "milestones": {
+    "founded_year": 2016,
+    "partnered_year": 2019,
+    "ipo_year": null,
+    "acquired_year": 2023
+  },
+  "team": [
+    {
+      "name": "Vinay Hiremath",
+      "role": null
+    },
+    {
+      "name": "Joe Thomas",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/loom/"
+  }
+}

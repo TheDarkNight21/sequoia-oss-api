@@ -1,0 +1,48 @@
+{
+  "id": "sequoia:zed",
+  "sequoia_id": "18402",
+  "name": "Zed",
+  "slug": "zed",
+  "description": "Zed is a next-generation open-source, multiplayer code editor designed for high-performance collaboration with humans and AI. Founded by the creators of Atom and Electron, Zed is designed to make software creation joyful, fast and collaborative.",
+  "website": "https://zed.dev/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/zeddotdev/",
+    "youtube": "https://www.youtube.com/@zeddotdev"
+  },
+  "categories": [
+    "ai",
+    "developer-tools"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2024,
+  "partners": [
+    "sonya-huang",
+    "james-flynn"
+  ],
+  "primary_partner": "sonya-huang",
+  "milestones": {
+    "founded_year": 2021,
+    "partnered_year": 2024,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Max Brunsfeld",
+      "role": null
+    },
+    {
+      "name": "Antonio Scandurra",
+      "role": null
+    },
+    {
+      "name": "Nathan Sobo",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/zed/"
+  }
+}

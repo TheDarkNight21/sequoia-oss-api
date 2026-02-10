@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:reflect-orbital",
+  "sequoia_id": "17156",
+  "name": "Reflect Orbital",
+  "slug": "reflect-orbital",
+  "description": "Reflect Orbital sells sunlight from orbit to solar farms and large-scale lighting applications after sunset using a very large constellation of in-space reflectors. More hours of sunlight translates into higher solar energy production for existing solar farms and other economic benefits.",
+  "website": "https://www.reflectorbital.com/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/reflectorbital",
+    "instagram": "https://www.instagram.com/reflect_orbital/",
+    "youtube": "https://www.youtube.com/@BenNBuilds"
+  },
+  "categories": [
+    "hardware"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2024,
+  "partners": [
+    "shaun-maguire"
+  ],
+  "primary_partner": "shaun-maguire",
+  "milestones": {
+    "founded_year": 2022,
+    "partnered_year": 2024,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Ben Nowack",
+      "role": null
+    },
+    {
+      "name": "Tristan Semmelhack",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/reflect-orbital/"
+  }
+}

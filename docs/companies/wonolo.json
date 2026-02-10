@@ -1,0 +1,38 @@
+{
+  "id": "sequoia:wonolo",
+  "sequoia_id": "682",
+  "name": "Wonolo",
+  "slug": "wonolo",
+  "description": "Wonolo is an on-demand staffing platform redefining the way businesses find talent for their immediate labor needs. Wonolo provides a broad range of jobs, from warehouse, delivery and merchandising to event staffing and admin.",
+  "website": "https://www.wonolo.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/wonolo",
+    "linkedin": "https://www.linkedin.com/company/wonolo/"
+  },
+  "categories": [
+    "operations"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2017,
+  "partners": [
+    "jess-lee"
+  ],
+  "primary_partner": "jess-lee",
+  "milestones": {
+    "founded_year": 2013,
+    "partnered_year": 2017,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Yong Kim",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/wonolo/"
+  }
+}

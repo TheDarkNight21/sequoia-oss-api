@@ -1,0 +1,28 @@
+{
+  "id": "sequoia:quicklogic",
+  "sequoia_id": "18465",
+  "name": "QuickLogic",
+  "slug": "quicklogic",
+  "description": "QuickLogic is the leading provider of open reconfigurable computing solutions based on 100% open source software and hardware.",
+  "website": "https://www.quicklogic.com/",
+  "socials": {},
+  "categories": [
+    "hardware"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 1989,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 1988,
+    "partnered_year": 1989,
+    "ipo_year": 1999,
+    "acquired_year": null
+  },
+  "team": [],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/quicklogic/"
+  }
+}

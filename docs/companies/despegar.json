@@ -1,0 +1,28 @@
+{
+  "id": "sequoia:despegar",
+  "sequoia_id": "18461",
+  "name": "Despegar",
+  "slug": "despegar",
+  "description": "Despegar is the leading travel technology company in Latin America.",
+  "website": "https://www.us.despegar.com/",
+  "socials": {},
+  "categories": [
+    "consumer"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 2011,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 1999,
+    "partnered_year": 2011,
+    "ipo_year": 2017,
+    "acquired_year": null
+  },
+  "team": [],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/despegar/"
+  }
+}

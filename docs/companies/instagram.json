@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:instagram",
+  "sequoia_id": "413",
+  "name": "Instagram",
+  "slug": "instagram",
+  "description": "Instagram changed the way we share photos and video with mobile devices. It enables anyone to connect with more people, build a following and create compelling content that’s distinctly their own. Instagram is now part of Meta.",
+  "website": null,
+  "socials": {
+    "instagram": "https://instagram.com",
+    "twitter": "https://www.twitter.com/instagram",
+    "linkedin": "https://www.linkedin.com/company/instagram"
+  },
+  "categories": [
+    "consumer"
+  ],
+  "current_stage": "acquired",
+  "first_partnered_year": 2012,
+  "partners": [
+    "roelof-botha"
+  ],
+  "primary_partner": "roelof-botha",
+  "milestones": {
+    "founded_year": 2010,
+    "partnered_year": 2012,
+    "ipo_year": null,
+    "acquired_year": 2012
+  },
+  "team": [
+    {
+      "name": "Mike Krieger",
+      "role": null
+    },
+    {
+      "name": "Kevin Systrom",
+      "role": null
+    }
+  ],
+  "why_partnered": "In 2012, smartphones were fast supplanting cameras as the primary way to capture photos. But sharing photos was difficult—they took forever to upload and picture quality was only so-so. Kevin offered a fast, beautiful and fun way to share your life with friends. That combined with rapid user growth and engagement led us to believe Instagram had the potential to build a powerful social graph to rival those that already existed.",
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/instagram/"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "sequoia:drift",
+  "sequoia_id": "331",
+  "name": "Drift",
+  "slug": "drift",
+  "description": "Drift is the world’s leading conversational marketing platform. It combines chat, email, video and automation to remove friction from the buying experience. Customers use Drift to upgrade the buyer experience, generate more qualified leads, and dramatically accelerate the sales cycle.",
+  "website": "https://www.drift.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/Drift",
+    "linkedin": "https://www.linkedin.com/company/5337093/"
+  },
+  "categories": [
+    "gtm"
+  ],
+  "current_stage": "acquired",
+  "first_partnered_year": 2017,
+  "partners": [
+    "pat-grady"
+  ],
+  "primary_partner": "pat-grady",
+  "milestones": {
+    "founded_year": 2014,
+    "partnered_year": 2017,
+    "ipo_year": null,
+    "acquired_year": 2021
+  },
+  "team": [
+    {
+      "name": "David Cancel",
+      "role": null
+    },
+    {
+      "name": "Elias Torres",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/drift/"
+  }
+}

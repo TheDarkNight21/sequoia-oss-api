@@ -1,0 +1,41 @@
+{
+  "id": "sequoia:gladia",
+  "sequoia_id": "15893",
+  "name": "Gladia",
+  "slug": "gladia",
+  "description": "Powered by generative AI, Gladia is an audio intelligence API distinguished by exceptional accuracy and speed of transcription, extended multilingual capabilities, and state-of-the-art features, including speaker separation, word-level timestamps, and code-switching. It allows companies to easily embed language AI into their products to derive valuable insights from audio data.",
+  "website": "https://www.gladia.io/",
+  "socials": {
+    "twitter": "https://twitter.com/gladia_io",
+    "linkedin": "https://www.linkedin.com/company/gladia-io/"
+  },
+  "categories": [
+    "ai",
+    "developer-tools"
+  ],
+  "current_stage": "pre-seed-seed",
+  "first_partnered_year": 2022,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 2022,
+    "partnered_year": 2022,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Jean-Louis Quéguiner",
+      "role": null
+    },
+    {
+      "name": "Jonathan Soto",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/gladia/"
+  }
+}

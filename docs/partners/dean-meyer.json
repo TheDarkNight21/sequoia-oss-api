@@ -1,0 +1,26 @@
+{
+  "id": "dean-meyer",
+  "name": "Dean Meyer",
+  "companies": [
+    {
+      "id": "sequoia:eon",
+      "name": "Eon",
+      "slug": "eon"
+    },
+    {
+      "id": "sequoia:decart",
+      "name": "Decart",
+      "slug": "decart"
+    },
+    {
+      "id": "sequoia:kela",
+      "name": "Kela",
+      "slug": "kela"
+    },
+    {
+      "id": "sequoia:irregular",
+      "name": "Irregular",
+      "slug": "irregular"
+    }
+  ]
+}

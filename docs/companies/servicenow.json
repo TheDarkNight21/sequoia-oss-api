@@ -1,0 +1,45 @@
+{
+  "id": "sequoia:servicenow",
+  "sequoia_id": "582",
+  "name": "ServiceNow",
+  "slug": "servicenow",
+  "description": "ServiceNow is a digital workflow engine that increases productivity by simplifying work. Its suite of products make it easy to predict, prioritize and proactively manage work.",
+  "website": "https://www.servicenow.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/servicenow",
+    "linkedin": "https://www.linkedin.com/company/servicenow",
+    "youtube": "https://www.youtube.com/watch?v=-hUJTEDOQDs"
+  },
+  "categories": [
+    "ai",
+    "operations"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 2009,
+  "partners": [
+    "doug-leone",
+    "pat-grady"
+  ],
+  "primary_partner": "doug-leone",
+  "milestones": {
+    "founded_year": 2003,
+    "partnered_year": 2009,
+    "ipo_year": 2012,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Frank Slootman",
+      "role": null
+    },
+    {
+      "name": "Fred Luddy",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/servicenow/"
+  }
+}

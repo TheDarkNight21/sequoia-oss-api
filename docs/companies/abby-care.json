@@ -1,0 +1,41 @@
+{
+  "id": "sequoia:abby-care",
+  "sequoia_id": "10359",
+  "name": "Abby Care",
+  "slug": "abby-care",
+  "description": "Abby Care trains family members to become paid caregivers for loved ones with disabilities or special needs. It provides training and community support to deliver better care at lower cost.",
+  "website": "https://www.abbycare.org/",
+  "socials": {
+    "facebook": "https://www.facebook.com/abbycareorg",
+    "linkedin": "https://www.linkedin.com/company/abbycareorg/",
+    "instagram": "https://instagram.com/abbycareorg"
+  },
+  "categories": [
+    "consumer",
+    "healthcare"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2021,
+  "partners": [
+    "josephine-chen",
+    "alfred-lin"
+  ],
+  "primary_partner": "josephine-chen",
+  "milestones": {
+    "founded_year": 2021,
+    "partnered_year": 2021,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Havi Nguyen",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/abby-care/"
+  }
+}

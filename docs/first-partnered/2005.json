@@ -10,6 +10,26 @@
       "id": "sequoia:barracuda-networks",
       "name": "Barracuda",
       "slug": "barracuda-networks"
+    },
+    {
+      "id": "sequoia:jasper",
+      "name": "Jasper",
+      "slug": "jasper"
+    },
+    {
+      "id": "sequoia:cafepress",
+      "name": "CafePress",
+      "slug": "cafepress"
+    },
+    {
+      "id": "sequoia:youtube",
+      "name": "YouTube",
+      "slug": "youtube"
+    },
+    {
+      "id": "sequoia:palo-alto-networks",
+      "name": "Palo Alto Networks",
+      "slug": "palo-alto-networks"
     }
   ]
 }

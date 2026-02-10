@@ -1,0 +1,34 @@
+{
+  "id": "sequoia:espresso-systems",
+  "sequoia_id": "10353",
+  "name": "Espresso Systems",
+  "slug": "espresso-systems",
+  "description": "Espresso Systems provides fast, reliable transaction confirmations for L2 crypto chains. Its network supports open, permissionless and composable services with decentralized sequencing and low-cost data availability.",
+  "website": "https://espressosys.com/",
+  "socials": {
+    "twitter": "https://twitter.com/EspressoSys",
+    "linkedin": "https://www.linkedin.com/company/espresso-sys/"
+  },
+  "categories": [
+    "crypto",
+    "developer-tools"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2022,
+  "partners": [
+    "shaun-maguire"
+  ],
+  "primary_partner": "shaun-maguire",
+  "milestones": {
+    "founded_year": 2020,
+    "partnered_year": 2022,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/espresso-systems/"
+  }
+}

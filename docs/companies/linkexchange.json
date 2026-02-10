@@ -1,0 +1,48 @@
+{
+  "id": "sequoia:linkexchange",
+  "sequoia_id": "445",
+  "name": "LinkExchange",
+  "slug": "linkexchange",
+  "description": "LinkExchange developed an internet advertising network for small businesses. It bartered ads and banner space with smaller sites and is now part of Microsoft.",
+  "website": "https://www.microsoft.com/en-us/",
+  "socials": {},
+  "categories": [
+    "gtm",
+    "marketplace"
+  ],
+  "current_stage": "acquired",
+  "first_partnered_year": 1997,
+  "partners": [
+    "michael-moritz"
+  ],
+  "primary_partner": "michael-moritz",
+  "milestones": {
+    "founded_year": 1996,
+    "partnered_year": 1997,
+    "ipo_year": null,
+    "acquired_year": 1998
+  },
+  "team": [
+    {
+      "name": "Mark Bozzini",
+      "role": null
+    },
+    {
+      "name": "Tony Hsieh",
+      "role": null
+    },
+    {
+      "name": "Ali Partovi",
+      "role": null
+    },
+    {
+      "name": "Hadi Partovi",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/linkexchange/"
+  }
+}

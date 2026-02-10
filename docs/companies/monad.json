@@ -1,0 +1,42 @@
+{
+  "id": "sequoia:monad",
+  "sequoia_id": "470",
+  "name": "Monad",
+  "slug": "monad",
+  "description": "Founded by security industry veterans and backed by world-class investors, Monad provides data infrastructure for the modern enterprise security data lake. It connects to the most important security tools, organizes data from those tools into a schema that fits analytics needs, and delivers it directly to data warehouses. Security teams use Monad to get a consolidated view of security data and to create sophisticated security analytics.",
+  "website": "https://www.monad.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/monad_inc",
+    "linkedin": "https://www.linkedin.com/company/monad-inc"
+  },
+  "categories": [
+    "security"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2020,
+  "partners": [
+    "shaun-maguire"
+  ],
+  "primary_partner": "shaun-maguire",
+  "milestones": {
+    "founded_year": 2020,
+    "partnered_year": 2020,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Christian Almenar",
+      "role": null
+    },
+    {
+      "name": "Jacolon Walker",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/monad/"
+  }
+}

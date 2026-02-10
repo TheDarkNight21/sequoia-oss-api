@@ -1,0 +1,39 @@
+{
+  "id": "sequoia:ricursive-intelligence",
+  "sequoia_id": "21086",
+  "name": "Ricursive Intelligence",
+  "slug": "ricursive-intelligence",
+  "description": "Ricursive builds the AI stack that designs, verifies and closes silicon, so models and chips co-evolve in a tight loop. It enables a paradigm shift from fabless to “designless”: clients select the tradeoffs that matter to them, and Ricursive delivers a fully optimized, ready-to-build chip design. Models design next-gen chips that enable next-gen models, recursively accelerating our path to artificial superintelligence.",
+  "website": "https://ricursive.com",
+  "socials": {},
+  "categories": [
+    "ai"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2025,
+  "partners": [
+    "stephanie-zhan"
+  ],
+  "primary_partner": "stephanie-zhan",
+  "milestones": {
+    "founded_year": 2025,
+    "partnered_year": 2025,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Anna Goldie",
+      "role": null
+    },
+    {
+      "name": "Azalia Mirhoseini",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/ricursive-intelligence/"
+  }
+}

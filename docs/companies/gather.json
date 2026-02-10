@@ -1,0 +1,51 @@
+{
+  "id": "sequoia:gather",
+  "sequoia_id": "375",
+  "name": "Gather",
+  "slug": "gather",
+  "description": "Gather is building a social platform that fosters authentic connections. Its platform combines video chat with virtual spaces to make conversations more human.",
+  "website": "https://gather.town",
+  "socials": {
+    "twitter": "https://www.twitter.com/gather_town",
+    "linkedin": "https://www.linkedin.com/company/gathertown/"
+  },
+  "categories": [
+    "productivity"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2021,
+  "partners": [
+    "shaun-maguire",
+    "pat-grady"
+  ],
+  "primary_partner": "shaun-maguire",
+  "milestones": {
+    "founded_year": 2020,
+    "partnered_year": 2021,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Alex Chen",
+      "role": null
+    },
+    {
+      "name": "Nate Foss",
+      "role": null
+    },
+    {
+      "name": "Kumail Jaffer",
+      "role": null
+    },
+    {
+      "name": "Phillip Wang",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/gather/"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "sequoia:listen-labs",
+  "sequoia_id": "15484",
+  "name": "Listen Labs",
+  "slug": "listen-labs",
+  "description": "Listen Labs is an autonomous researcher that talks to thousands of customers to find out what they want and why. Its AI platform goes from market question to interview design, participant sourcing and response analysis, delivering insights in hours instead of weeks.",
+  "website": "https://listenlabs.ai/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/listenlabss",
+    "youtube": "https://www.youtube.com/@ListenLabsAI"
+  },
+  "categories": [
+    "ai",
+    "gtm"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2023,
+  "partners": [
+    "bryan-schreier",
+    "charlie-curnin"
+  ],
+  "primary_partner": "bryan-schreier",
+  "milestones": {
+    "founded_year": 2023,
+    "partnered_year": 2023,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Florian Juengermann",
+      "role": null
+    },
+    {
+      "name": "Alfred Wahlforss",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/listen-labs/"
+  }
+}

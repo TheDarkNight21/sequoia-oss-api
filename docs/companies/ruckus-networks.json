@@ -1,0 +1,47 @@
+{
+  "id": "sequoia:ruckus-networks",
+  "sequoia_id": "574",
+  "name": "Ruckus Networks",
+  "slug": "ruckus-networks",
+  "description": "Ruckus Networks builds award-winning routing and switching products to deliver information quickly and reliably. It is a pioneer in the wireless infrastructure market for high bandwidth applications and services. Ruckus Networks is now part of CommScope.",
+  "website": "https://www.ruckuswireless.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/ruckuswireless",
+    "linkedin": "https://www.linkedin.com/company/ruckus-wireless"
+  },
+  "categories": [
+    "hardware",
+    "infrastructure"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 2002,
+  "partners": [
+    "jim-goetz"
+  ],
+  "primary_partner": "jim-goetz",
+  "milestones": {
+    "founded_year": 2004,
+    "partnered_year": 2002,
+    "ipo_year": 2012,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Selina Lo",
+      "role": null
+    },
+    {
+      "name": "Bill Kish",
+      "role": null
+    },
+    {
+      "name": "Victor Shtrom",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/ruckus-networks/"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "sequoia:mellanox",
+  "sequoia_id": "19737",
+  "name": "Mellanox",
+  "slug": "mellanox",
+  "description": "Mellanox (acquired by Nvidia) provided high-speed networking hardware including InfiniBand and Ethernet adapters for data centers. It specialized in low-latency interconnect solutions essential for AI and high-performance computing workloads.",
+  "website": "https://www.nvidia.com/en-us/networking/management-software/",
+  "socials": {},
+  "categories": [
+    "hardware",
+    "infrastructure"
+  ],
+  "current_stage": "acquired",
+  "first_partnered_year": 1999,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 1999,
+    "partnered_year": 1999,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/mellanox/"
+  }
+}

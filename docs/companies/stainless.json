@@ -1,0 +1,38 @@
+{
+  "id": "sequoia:stainless",
+  "sequoia_id": "10344",
+  "name": "Stainless",
+  "slug": "stainless",
+  "description": "Stainless helps API providers easily create high-quality SDKs to drive faster integration, broader feature adoption, quicker upgrades and build trust in engineering quality.",
+  "website": "https://www.stainlessapi.com/",
+  "socials": {
+    "twitter": "https://twitter.com/StainlessAPI",
+    "linkedin": "https://www.linkedin.com/company/stainless-api/"
+  },
+  "categories": [
+    "developer-tools"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2022,
+  "partners": [
+    "lauren-reeder"
+  ],
+  "primary_partner": "lauren-reeder",
+  "milestones": {
+    "founded_year": 2021,
+    "partnered_year": 2022,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Alex Rattray",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/stainless/"
+  }
+}

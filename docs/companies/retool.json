@@ -1,0 +1,39 @@
+{
+  "id": "sequoia:retool",
+  "sequoia_id": "562",
+  "name": "Retool",
+  "slug": "retool",
+  "description": "Retool is the fastest way to build internal applications. Instead of coding from scratch, Retool equips developers with the building blocks they need to make the basics and code the rest.",
+  "website": "https://retool.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/retool",
+    "linkedin": "https://www.linkedin.com/company/tryretool/"
+  },
+  "categories": [
+    "developer-tools"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2019,
+  "partners": [
+    "bryan-schreier",
+    "carl-eschenbach"
+  ],
+  "primary_partner": "bryan-schreier",
+  "milestones": {
+    "founded_year": 2017,
+    "partnered_year": 2019,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "David Hsu",
+      "role": null
+    }
+  ],
+  "why_partnered": "The premise of Retool was simple, yet powerful. Internal tools were the largest category of software, and yet, despite innovation in nearly every other software sector, this was a space that had yet to benefit from a focus on design, user experience and the low-code movement. David Hsu deeply understood the pain engineers experienced building internal tools, and with Retool, set out to make it better. He helped us see what he saw: a future where millions of developers could be “liberated” to spend their time on their most fulfilling work.",
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/retool/"
+  }
+}

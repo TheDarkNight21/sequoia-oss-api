@@ -1,0 +1,42 @@
+{
+  "id": "sequoia:magentic",
+  "sequoia_id": "18405",
+  "name": "Magentic",
+  "slug": "magentic",
+  "description": "Magentic is building the AI Agent Platform for the world’s supply chains. It helps global manufacturers and infrastructure operators hunt down and deliver cost savings opportunities with AI teammates called “Mages.”",
+  "website": "https://www.magentic.com/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/magentic-inc/"
+  },
+  "categories": [
+    "ai",
+    "operations"
+  ],
+  "current_stage": "pre-seed-seed",
+  "first_partnered_year": 2024,
+  "partners": [
+    "julien-bek"
+  ],
+  "primary_partner": "julien-bek",
+  "milestones": {
+    "founded_year": 2024,
+    "partnered_year": 2024,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Odhran O’Donoghue",
+      "role": null
+    },
+    {
+      "name": "Robin Van Aeken",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/magentic/"
+  }
+}

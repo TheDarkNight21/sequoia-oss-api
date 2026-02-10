@@ -1,0 +1,10 @@
+{
+  "year": 2002,
+  "companies": [
+    {
+      "id": "sequoia:ruckus-networks",
+      "name": "Ruckus Networks",
+      "slug": "ruckus-networks"
+    }
+  ]
+}

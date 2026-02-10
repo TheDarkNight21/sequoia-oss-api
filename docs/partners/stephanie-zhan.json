@@ -1,0 +1,51 @@
+{
+  "id": "stephanie-zhan",
+  "name": "Stephanie Zhan",
+  "companies": [
+    {
+      "id": "sequoia:middesk",
+      "name": "Middesk",
+      "slug": "middesk"
+    },
+    {
+      "id": "sequoia:rec-room",
+      "name": "Rec Room",
+      "slug": "rec-room"
+    },
+    {
+      "id": "sequoia:linear",
+      "name": "Linear",
+      "slug": "linear"
+    },
+    {
+      "id": "sequoia:skild-ai",
+      "name": "Skild AI",
+      "slug": "skild-ai"
+    },
+    {
+      "id": "sequoia:mach",
+      "name": "Mach Industries",
+      "slug": "mach"
+    },
+    {
+      "id": "sequoia:reflection-ai",
+      "name": "Reflection AI",
+      "slug": "reflection-ai"
+    },
+    {
+      "id": "sequoia:tavus",
+      "name": "Tavus",
+      "slug": "tavus"
+    },
+    {
+      "id": "sequoia:ricursive-intelligence",
+      "name": "Ricursive Intelligence",
+      "slug": "ricursive-intelligence"
+    },
+    {
+      "id": "sequoia:evy",
+      "name": "Evy",
+      "slug": "evy"
+    }
+  ]
+}

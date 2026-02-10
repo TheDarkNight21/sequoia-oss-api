@@ -1,0 +1,51 @@
+{
+  "id": "sequoia:census",
+  "sequoia_id": "290",
+  "name": "Census",
+  "slug": "census",
+  "description": "Census takes models and insights from data warehouses to help go-to-market teams streamline their workflows.",
+  "website": "https://www.getcensus.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/getcensus",
+    "linkedin": "https://www.linkedin.com/company/getcensus/"
+  },
+  "categories": [
+    "data-analytics",
+    "gtm"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2020,
+  "partners": [
+    "sonya-huang"
+  ],
+  "primary_partner": "sonya-huang",
+  "milestones": {
+    "founded_year": 2018,
+    "partnered_year": 2020,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Bradley Buda",
+      "role": null
+    },
+    {
+      "name": "Boris Jabes",
+      "role": null
+    },
+    {
+      "name": "Sean Lynch",
+      "role": null
+    },
+    {
+      "name": "Anton Vaynshtok",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/census/"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "sequoia:stripe",
+  "sequoia_id": "618",
+  "name": "Stripe",
+  "slug": "stripe",
+  "description": "Stripe is building an economic infrastructure for the internet. Businesses of every size, from new startups to public companies like Salesforce and Facebook, use the company’s software to accept online payments and run technically sophisticated financial operations in more than 100 countries.",
+  "website": "https://stripe.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/stripe",
+    "linkedin": "https://www.linkedin.com/company/stripe"
+  },
+  "categories": [
+    "fintech"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2010,
+  "partners": [
+    "michael-moritz",
+    "bill-coughran",
+    "luciana-lixandru"
+  ],
+  "primary_partner": "michael-moritz",
+  "milestones": {
+    "founded_year": 2010,
+    "partnered_year": 2010,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "John Collison",
+      "role": null
+    },
+    {
+      "name": "Patrick Collison",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/stripe/"
+  }
+}

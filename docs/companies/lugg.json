@@ -1,0 +1,34 @@
+{
+  "id": "sequoia:lugg",
+  "sequoia_id": "17269",
+  "name": "Lugg",
+  "slug": "lugg",
+  "description": "Lugg is an on-demand moving and storage company.",
+  "website": "https://lugg.com/",
+  "socials": {
+    "facebook": "https://facebook.com/lugg",
+    "twitter": "https://twitter.com/lugg",
+    "linkedin": "https://www.linkedin.com/company/lugg",
+    "instagram": "https://instagram.com/lugg",
+    "youtube": "https://www.youtube.com/channel/UC1XNu5o7S_zVKISNDJI3uFg"
+  },
+  "categories": [
+    "consumer"
+  ],
+  "current_stage": "pre-seed-seed",
+  "first_partnered_year": 2015,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 2014,
+    "partnered_year": 2015,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/lugg/"
+  }
+}

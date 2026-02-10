@@ -1,0 +1,39 @@
+{
+  "id": "sequoia:curie",
+  "sequoia_id": "9828",
+  "name": "Curie",
+  "slug": "curie",
+  "description": "Curie is a voice-driven AI assistant for clinicians.",
+  "website": "https://www.wearecurie.ai/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/wearecurie/"
+  },
+  "categories": [
+    "healthcare"
+  ],
+  "current_stage": "pre-seed-seed",
+  "first_partnered_year": 2022,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 2021,
+    "partnered_year": 2022,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "India Healy O'Connor",
+      "role": null
+    },
+    {
+      "name": "Portia Healy O’Connor",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/curie/"
+  }
+}

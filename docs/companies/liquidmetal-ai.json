@@ -1,0 +1,50 @@
+{
+  "id": "sequoia:liquidmetal-ai",
+  "sequoia_id": "9442",
+  "name": "LiquidMetal AI",
+  "slug": "liquidmetal-ai",
+  "description": "LiquidMetal AI (fka Seaplane) builds your AI infused application on top of the worldclass Cloudflare infrastructure.",
+  "website": "https://liquidmetal.ai/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/liquidmetal-ai/"
+  },
+  "categories": [
+    "ai",
+    "developer-tools"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2020,
+  "partners": [
+    "bill-coughran"
+  ],
+  "primary_partner": "bill-coughran",
+  "milestones": {
+    "founded_year": 2020,
+    "partnered_year": 2020,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Niall Dalton",
+      "role": null
+    },
+    {
+      "name": "Denzil Dunn",
+      "role": null
+    },
+    {
+      "name": "Suneil Mishra",
+      "role": null
+    },
+    {
+      "name": "Cath Schikkerling",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/liquidmetal-ai/"
+  }
+}

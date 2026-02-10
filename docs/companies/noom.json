@@ -1,0 +1,47 @@
+{
+  "id": "sequoia:noom",
+  "sequoia_id": "498",
+  "name": "Noom",
+  "slug": "noom",
+  "description": "Noom is the world’s leading behavior change company focused on disrupting the weight loss and healthcare industries. Combining the power of AI, mobile tech and psychology with empathetic personal coaches, Noom helps people live healthier lives by changing their long-term habits.",
+  "website": "https://www.noom.com/#/",
+  "socials": {
+    "twitter": "https://www.twitter.com/noomcoach",
+    "linkedin": "https://www.linkedin.com/company/noom-inc/about/"
+  },
+  "categories": [
+    "consumer",
+    "healthcare"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2019,
+  "partners": [
+    "ravi-gupta"
+  ],
+  "primary_partner": "ravi-gupta",
+  "milestones": {
+    "founded_year": 2008,
+    "partnered_year": 2019,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Geoff Cook",
+      "role": null
+    },
+    {
+      "name": "Saeju Jeong",
+      "role": null
+    },
+    {
+      "name": "Artem Petakov",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/noom/"
+  }
+}

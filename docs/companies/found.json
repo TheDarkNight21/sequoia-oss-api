@@ -1,0 +1,45 @@
+{
+  "id": "sequoia:found",
+  "sequoia_id": "367",
+  "name": "Found",
+  "slug": "found",
+  "description": "Found gives self-employed people the support and confidence to work for themselves. It offers an all-in-one business banking, bookkeeping and tax solution for self-employed businesses.",
+  "website": "https://found.com/",
+  "socials": {
+    "twitter": "https://twitter.com/foundforbiz",
+    "linkedin": "https://www.linkedin.com/company/foundforbusiness/",
+    "instagram": "https://www.instagram.com/foundforbusiness/"
+  },
+  "categories": [
+    "fintech",
+    "operations"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2020,
+  "partners": [
+    "alfred-lin",
+    "josephine-chen"
+  ],
+  "primary_partner": "alfred-lin",
+  "milestones": {
+    "founded_year": 2019,
+    "partnered_year": 2020,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Connor Dunn",
+      "role": null
+    },
+    {
+      "name": "Lauren Myrick",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/found/"
+  }
+}

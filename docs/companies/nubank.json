@@ -1,0 +1,48 @@
+{
+  "id": "sequoia:nubank",
+  "sequoia_id": "500",
+  "name": "Nubank",
+  "slug": "nubank",
+  "description": "Nubank is the leading financial technology company in Latin America and the largest independent neobank worldwide, with more than 20 million clients. Initially a no-fee credit card managed by a mobile app, Nubank has since expanded to include a proprietary loyalty rewards program, digital account and personal loans.",
+  "website": "https://www.nubank.com.br",
+  "socials": {
+    "twitter": "https://www.twitter.com/nubankbrasil",
+    "linkedin": "https://www.linkedin.com/company/nubank-brasil"
+  },
+  "categories": [
+    "consumer",
+    "fintech"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 2013,
+  "partners": [
+    "doug-leone",
+    "sonya-huang"
+  ],
+  "primary_partner": "doug-leone",
+  "milestones": {
+    "founded_year": 2013,
+    "partnered_year": 2013,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Cristina Junqueira",
+      "role": null
+    },
+    {
+      "name": "David Vélez",
+      "role": null
+    },
+    {
+      "name": "Edward Wible",
+      "role": null
+    }
+  ],
+  "why_partnered": "David had an idea to serve a large, underserved group of customers in the financial services market in Brazil. It had the potential to be a big opportunity if tackled right. His vision combined with astonishing executional zeal and digital design prowess quickly made us believers in Nubank’s ability to transform banking.",
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/nubank/"
+  }
+}

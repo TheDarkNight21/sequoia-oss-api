@@ -1,0 +1,40 @@
+{
+  "id": "sequoia:deno",
+  "sequoia_id": "10327",
+  "name": "Deno",
+  "slug": "deno",
+  "description": "Deno is building application development for the modern web.",
+  "website": "https://deno.land/",
+  "socials": {},
+  "categories": [
+    "developer-tools"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2022,
+  "partners": [
+    "lauren-reeder",
+    "bogomil-balkansky"
+  ],
+  "primary_partner": "lauren-reeder",
+  "milestones": {
+    "founded_year": 2021,
+    "partnered_year": 2022,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Bert Belder",
+      "role": null
+    },
+    {
+      "name": "Ryan Dahl",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/deno/"
+  }
+}

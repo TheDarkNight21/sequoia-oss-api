@@ -1,0 +1,46 @@
+{
+  "id": "sequoia:openevidence",
+  "sequoia_id": "18617",
+  "name": "OpenEvidence",
+  "slug": "openevidence",
+  "description": "OpenEvidence is an AI copilot for doctors that helps them make high stakes decisions at the point of care. Its mission is to organize and expand the world’s collective medical knowledge. Aside from the iPhone, there has never been a piece of technology adopted by doctors as quickly as OpenEvidence.",
+  "website": "https://www.openevidence.com/",
+  "socials": {
+    "facebook": "https://www.facebook.com/people/Open-Evidence/61573039753787/",
+    "linkedin": "https://www.linkedin.com/company/openevidence/",
+    "instagram": "https://www.instagram.com/open.evidence",
+    "youtube": "https://www.youtube.com/@OpenEvidence"
+  },
+  "categories": [
+    "ai",
+    "data-analytics"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2024,
+  "partners": [
+    "pat-grady",
+    "james-flynn"
+  ],
+  "primary_partner": "pat-grady",
+  "milestones": {
+    "founded_year": 2022,
+    "partnered_year": 2024,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Daniel Nadler",
+      "role": null
+    },
+    {
+      "name": "Zachary Ziegler",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/openevidence/"
+  }
+}

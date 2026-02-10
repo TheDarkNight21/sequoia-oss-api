@@ -1,0 +1,28 @@
+{
+  "id": "sequoia:pharming-group",
+  "sequoia_id": "18462",
+  "name": "Pharming Group",
+  "slug": "pharming-group",
+  "description": "A global biopharmaceutical company developing and commercializing innovative protein replacement therapies and precision medicines to serve the unserved rare disease patient.",
+  "website": "https://www.pharming.com/",
+  "socials": {},
+  "categories": [
+    "healthcare"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 1995,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 1988,
+    "partnered_year": 1995,
+    "ipo_year": 1998,
+    "acquired_year": null
+  },
+  "team": [],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/pharming-group/"
+  }
+}

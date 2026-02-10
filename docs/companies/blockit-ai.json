@@ -1,0 +1,41 @@
+{
+  "id": "sequoia:blockit-ai",
+  "sequoia_id": "14895",
+  "name": "Blockit AI",
+  "slug": "blockit-ai",
+  "description": "Blockit is the first AI scheduling agent that actually understands time. The calendar is the last untouched social network—and AI finally unlocks it. When two Blockit users meet in the wild, the agent sees both calendars and instantly finds the best time. No back-and-forth. Scheduling accelerates from days to minutes. Come for the agent, stay for the network.",
+  "website": "https://www.blockit.com",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/blockit-ai/"
+  },
+  "categories": [
+    "ai"
+  ],
+  "current_stage": "pre-seed-seed",
+  "first_partnered_year": 2024,
+  "partners": [
+    "pat-grady"
+  ],
+  "primary_partner": "pat-grady",
+  "milestones": {
+    "founded_year": 2024,
+    "partnered_year": 2024,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "John Han",
+      "role": null
+    },
+    {
+      "name": "Kais Khimji",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/blockit-ai/"
+  }
+}

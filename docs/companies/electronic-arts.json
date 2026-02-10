@@ -1,0 +1,40 @@
+{
+  "id": "sequoia:electronic-arts",
+  "sequoia_id": "337",
+  "name": "Electronic Arts",
+  "slug": "electronic-arts",
+  "description": "Electronic Arts was a pioneer of the early home computer games industry. Now a global leader in interactive entertainment software, EA delivers games, content and online services for internet-connected consoles, personal computers, mobile phones and tablets. EA is best known for franchises like The Sims and Madden NFL.",
+  "website": "https://www.ea.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/EA",
+    "linkedin": "https://www.linkedin.com/company/electronic-arts"
+  },
+  "categories": [
+    "consumer"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 1982,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 1982,
+    "partnered_year": 1982,
+    "ipo_year": 1989,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "John Riccitiello",
+      "role": null
+    },
+    {
+      "name": "Trip Hawkins",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/electronic-arts/"
+  }
+}

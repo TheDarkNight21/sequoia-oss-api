@@ -21,6 +21,66 @@
       "id": "sequoia:medallia",
       "name": "Medallia",
       "slug": "medallia"
+    },
+    {
+      "id": "sequoia:island",
+      "name": "Island",
+      "slug": "island"
+    },
+    {
+      "id": "sequoia:cyera",
+      "name": "Cyera",
+      "slug": "cyera"
+    },
+    {
+      "id": "sequoia:oasis-security",
+      "name": "Oasis Security",
+      "slug": "oasis-security"
+    },
+    {
+      "id": "sequoia:strongdm",
+      "name": "strongDM",
+      "slug": "strongdm"
+    },
+    {
+      "id": "sequoia:meraki",
+      "name": "Meraki",
+      "slug": "meraki"
+    },
+    {
+      "id": "sequoia:zafran",
+      "name": "Zafran",
+      "slug": "zafran"
+    },
+    {
+      "id": "sequoia:nubank",
+      "name": "Nubank",
+      "slug": "nubank"
+    },
+    {
+      "id": "sequoia:servicenow",
+      "name": "ServiceNow",
+      "slug": "servicenow"
+    },
+    {
+      "id": "sequoia:wiz",
+      "name": "Wiz",
+      "slug": "wiz"
+    },
+    {
+      "id": "sequoia:physna",
+      "name": "Physna",
+      "slug": "physna"
+    },
+    {
+      "id": "sequoia:cresta",
+      "name": "Cresta",
+      "slug": "cresta"
+    },
+    {
+      "id": "sequoia:trade-republic",
+      "name": "Trade Republic",
+      "slug": "trade-republic"
     }
   ]
 }

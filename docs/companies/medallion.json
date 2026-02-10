@@ -1,0 +1,39 @@
+{
+  "id": "sequoia:medallion",
+  "sequoia_id": "455",
+  "name": "Medallion",
+  "slug": "medallion",
+  "description": "Medallion reduces healthcare paperwork with its all-in-one licensing, credentialing and payer enrollment platform. Its workflow automation streamlines back-office operations so providers can put the focus back to patients.",
+  "website": "https://medallion.co",
+  "socials": {
+    "twitter": "https://www.twitter.com/medallion",
+    "linkedin": "https://www.linkedin.com/company/medallion-credentials/"
+  },
+  "categories": [
+    "ai",
+    "healthcare"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2021,
+  "partners": [
+    "andrew-reed"
+  ],
+  "primary_partner": "andrew-reed",
+  "milestones": {
+    "founded_year": 2020,
+    "partnered_year": 2021,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Derek Lo",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/medallion/"
+  }
+}

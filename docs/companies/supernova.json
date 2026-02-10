@@ -1,0 +1,45 @@
+{
+  "id": "sequoia:supernova",
+  "sequoia_id": "8079",
+  "name": "Supernova",
+  "slug": "supernova",
+  "description": "Supernova (fka Canvas) is a collaborative data exploration tool that helps modern business teams make decisions without SQL.",
+  "website": "https://supernova.ai/",
+  "socials": {
+    "twitter": "https://twitter.com/canvas",
+    "linkedin": "https://www.linkedin.com/company/canvasapp"
+  },
+  "categories": [
+    "ai",
+    "data-analytics"
+  ],
+  "current_stage": "pre-seed-seed",
+  "first_partnered_year": 2020,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 2020,
+    "partnered_year": 2020,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Ryan Buick",
+      "role": null
+    },
+    {
+      "name": "Will Pride",
+      "role": null
+    },
+    {
+      "name": "Luke Zapart",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/supernova/"
+  }
+}

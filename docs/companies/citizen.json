@@ -1,0 +1,32 @@
+{
+  "id": "sequoia:citizen",
+  "sequoia_id": "17215",
+  "name": "Citizen",
+  "slug": "citizen",
+  "description": "Citizen is a personal safety app and mobile protection service.",
+  "website": "https://citizen.com/",
+  "socials": {
+    "facebook": "https://www.facebook.com/citizenapp",
+    "twitter": "https://twitter.com/citizenapp",
+    "instagram": "https://www.instagram.com/citizen"
+  },
+  "categories": [
+    "consumer"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2017,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 2015,
+    "partnered_year": 2017,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/citizen/"
+  }
+}

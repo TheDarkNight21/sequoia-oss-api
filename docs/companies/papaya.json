@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:papaya",
+  "sequoia_id": "524",
+  "name": "Papaya",
+  "slug": "papaya",
+  "description": "Papaya takes the pain out of paying bills. Its user-friendly app allows consumers to pay bills on mobile and integrates seamlessly with billers’ systems. The result is a better bill payment experience for everyone.",
+  "website": "https://www.papayapay.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/papayapay",
+    "linkedin": "https://www.linkedin.com/company/papaya-payments/"
+  },
+  "categories": [
+    "fintech",
+    "operations"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2018,
+  "partners": [
+    "andrew-reed"
+  ],
+  "primary_partner": "andrew-reed",
+  "milestones": {
+    "founded_year": 2016,
+    "partnered_year": 2018,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Patrick Kann",
+      "role": null
+    },
+    {
+      "name": "Jason Meltzer",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/papaya/"
+  }
+}

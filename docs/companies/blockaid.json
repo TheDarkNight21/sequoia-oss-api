@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:blockaid",
+  "sequoia_id": "10760",
+  "name": "Blockaid",
+  "slug": "blockaid",
+  "description": "Blockaid provides security tools to web3 builders and protects users from scams, phishing, and hacks. Built by a team of engineers out of Israeli cyberintelligence, Blockaid is trusted by some of the biggest names in crypto.",
+  "website": "https://www.blockaid.io/",
+  "socials": {
+    "twitter": "https://twitter.com/blockaid_",
+    "linkedin": "https://www.linkedin.com/company/blockaid/"
+  },
+  "categories": [
+    "crypto",
+    "security"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2022,
+  "partners": [
+    "shaun-maguire"
+  ],
+  "primary_partner": "shaun-maguire",
+  "milestones": {
+    "founded_year": 2022,
+    "partnered_year": 2022,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Ido Ben-Natan",
+      "role": null
+    },
+    {
+      "name": "Raz Niv",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/blockaid/"
+  }
+}

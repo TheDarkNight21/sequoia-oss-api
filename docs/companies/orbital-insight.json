@@ -1,0 +1,36 @@
+{
+  "id": "sequoia:orbital-insight",
+  "sequoia_id": "515",
+  "name": "Orbital Insight",
+  "slug": "orbital-insight",
+  "description": "Through a technique called deep learning, Orbital Insight harnesses and analyzes satellite imagery, creating opportunities for innovation in just about every sector, from agricultural development to deforestation policy.",
+  "website": "https://www.orbitalinsight.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/orbital_insight",
+    "linkedin": "https://www.linkedin.com/company/orbital-insight-inc-"
+  },
+  "categories": [
+    "data-analytics"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2014,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 2013,
+    "partnered_year": 2014,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "James Crawford",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/orbital-insight/"
+  }
+}

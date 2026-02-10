@@ -1,0 +1,44 @@
+{
+  "id": "sequoia:amp-robotics",
+  "sequoia_id": "234",
+  "name": "AMP Robotics",
+  "slug": "amp-robotics",
+  "description": "AMP Robotics is changing the face of recycling with high-speed guided robotics. Powered by advanced computer vision and machine learning, the company’s robotics system automates the identification, sorting and processing done by recycling businesses.",
+  "website": "https://www.amprobotics.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/AMPRobotics",
+    "linkedin": "https://www.linkedin.com/company/amp-robotics/"
+  },
+  "categories": [
+    "climate",
+    "hardware"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2019,
+  "partners": [
+    "shaun-maguire",
+    "josephine-chen"
+  ],
+  "primary_partner": "shaun-maguire",
+  "milestones": {
+    "founded_year": 2015,
+    "partnered_year": 2019,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Tim Stuart",
+      "role": null
+    },
+    {
+      "name": "Matanya Horowitz",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/amp-robotics/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "sequoia:xbow",
+  "sequoia_id": "17100",
+  "name": "XBOW",
+  "slug": "xbow",
+  "description": "XBOW is an AI-powered offensive security company that automates pentesting and accelerates the discovery of vulnerabilities and exploits in all types of software.",
+  "website": "https://xbow.com/",
+  "socials": {
+    "linkedin": "https://linkedin.com/company/xbow"
+  },
+  "categories": [
+    "ai",
+    "security"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2024,
+  "partners": [
+    "konstantine-buhler",
+    "lauren-reeder"
+  ],
+  "primary_partner": "konstantine-buhler",
+  "milestones": {
+    "founded_year": 2024,
+    "partnered_year": 2024,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Oege de Moor",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/xbow/"
+  }
+}

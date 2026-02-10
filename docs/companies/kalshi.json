@@ -1,0 +1,45 @@
+{
+  "id": "sequoia:kalshi",
+  "sequoia_id": "423",
+  "name": "Kalshi",
+  "slug": "kalshi",
+  "description": "Kalshi is the first federally regulated exchange dedicated to trading on future events. Its exchange allows investors to buy yes or no positions on possible events through a novel asset class called event contracts.",
+  "website": "https://kalshi.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/kalshi_official",
+    "linkedin": "https://www.linkedin.com/company/kalshi/",
+    "instagram": "https://www.instagram.com/kalshi_official"
+  },
+  "categories": [
+    "consumer",
+    "fintech"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2020,
+  "partners": [
+    "alfred-lin",
+    "abhishek-malani"
+  ],
+  "primary_partner": "alfred-lin",
+  "milestones": {
+    "founded_year": 2018,
+    "partnered_year": 2020,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Luana Lopes Lara",
+      "role": null
+    },
+    {
+      "name": "Tarek Mansour",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/kalshi/"
+  }
+}

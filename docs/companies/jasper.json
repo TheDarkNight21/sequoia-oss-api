@@ -1,0 +1,46 @@
+{
+  "id": "sequoia:jasper",
+  "sequoia_id": "419",
+  "name": "Jasper",
+  "slug": "jasper",
+  "description": "Jasper Technologies is a mobile data carrier service. Its SaaS IoT platform lets companies quickly launch, manage and monetize IoT services worldwide. Cisco acquired Jasper Technologies in 2016.",
+  "website": "https://www.jasper.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/jasper_iot",
+    "linkedin": "https://www.linkedin.com/company/jasper-wireless"
+  },
+  "categories": [
+    "infrastructure"
+  ],
+  "current_stage": "acquired",
+  "first_partnered_year": 2005,
+  "partners": [
+    "jim-goetz"
+  ],
+  "primary_partner": "jim-goetz",
+  "milestones": {
+    "founded_year": 2004,
+    "partnered_year": 2005,
+    "ipo_year": null,
+    "acquired_year": 2016
+  },
+  "team": [
+    {
+      "name": "Daniel Collins",
+      "role": null
+    },
+    {
+      "name": "Amit Gupta",
+      "role": null
+    },
+    {
+      "name": "Jahangir Mohammed",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/jasper/"
+  }
+}

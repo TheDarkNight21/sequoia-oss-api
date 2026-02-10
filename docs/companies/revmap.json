@@ -1,0 +1,35 @@
+{
+  "id": "sequoia:revmap",
+  "sequoia_id": "9869",
+  "name": "RevMap",
+  "slug": "revmap",
+  "description": "The product sales feedback loop is broken in most companies, for cultural and operational reasons. RevMap bridges product and sales teams so companies can build better products, speed up product market fit and sell more efficiently. By unlocking valuable insights from sales, RevMap powers the best product and roadmap decisions, based on actionable customer and market feedback. We gamify and capture collaboration in Slack and other workflows, make product and roadmap insights easily discoverable for sales teams, and help companies reward product teams for their contribution to sales success.",
+  "website": "https://www.revmap.com",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/revmap"
+  },
+  "categories": [
+    "gtm"
+  ],
+  "current_stage": "pre-seed-seed",
+  "first_partnered_year": 2022,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 2022,
+    "partnered_year": 2022,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Berber Krop",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/revmap/"
+  }
+}

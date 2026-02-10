@@ -1,0 +1,50 @@
+{
+  "id": "sequoia:quantenna",
+  "sequoia_id": "548",
+  "name": "Quantenna",
+  "slug": "quantenna",
+  "description": "Quantenna’s wireless semiconductors improved Wi-Fi networks in the home, enterprise and outdoors. Its technology is transformed the way HD video and data streams for homes and businesses by improving connectivity speeds. Acquired by ON Semiconductor in 2019.",
+  "website": null,
+  "socials": {
+    "twitter": "https://www.twitter.com/QuantennaCom",
+    "linkedin": "https://www.linkedin.com/company/quantenna-communications"
+  },
+  "categories": [
+    "hardware"
+  ],
+  "current_stage": "acquired",
+  "first_partnered_year": 2006,
+  "partners": [
+    "jim-goetz"
+  ],
+  "primary_partner": "jim-goetz",
+  "milestones": {
+    "founded_year": 2006,
+    "partnered_year": 2006,
+    "ipo_year": 2016,
+    "acquired_year": 2019
+  },
+  "team": [
+    {
+      "name": "Sam Heidari",
+      "role": null
+    },
+    {
+      "name": "Farrokh Farrokhi",
+      "role": null
+    },
+    {
+      "name": "Andrea Goldsmith",
+      "role": null
+    },
+    {
+      "name": "Behrooz Rezvani",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/quantenna/"
+  }
+}

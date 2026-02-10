@@ -5,6 +5,36 @@
       "id": "sequoia:security-scorecard",
       "name": "Security Scorecard",
       "slug": "security-scorecard"
+    },
+    {
+      "id": "sequoia:armis-security",
+      "name": "Armis",
+      "slug": "armis-security"
+    },
+    {
+      "id": "sequoia:nimble-rx",
+      "name": "Nimble Rx",
+      "slug": "nimble-rx"
+    },
+    {
+      "id": "sequoia:cockroach-labs",
+      "name": "Cockroach Labs",
+      "slug": "cockroach-labs"
+    },
+    {
+      "id": "sequoia:lugg",
+      "name": "Lugg",
+      "slug": "lugg"
+    },
+    {
+      "id": "sequoia:github",
+      "name": "GitHub",
+      "slug": "github"
+    },
+    {
+      "id": "sequoia:uber",
+      "name": "Uber",
+      "slug": "uber"
     }
   ]
 }

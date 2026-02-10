@@ -1,0 +1,47 @@
+{
+  "id": "sequoia:kumo",
+  "sequoia_id": "9104",
+  "name": "Kumo",
+  "slug": "kumo",
+  "description": "Kumo is a SaaS AI platform for the modern data stack that allows businesses to make faster, simpler, and smarter predictions. Founded by several pre-eminent AI executives from companies like Pinterest, Airbnb, and LinkedIn, the core technology that underpins Kumo’s product has been in development for the past five years through Stanford/Dortmund labs and PyG open-source software. Kumo makes graph learning easy to use – so any business can leverage the power of graph-based AI to better their business.",
+  "website": "https://kumo.ai",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/76262108"
+  },
+  "categories": [
+    "ai",
+    "data-analytics"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2021,
+  "partners": [
+    "konstantine-buhler",
+    "carl-eschenbach"
+  ],
+  "primary_partner": "konstantine-buhler",
+  "milestones": {
+    "founded_year": 2021,
+    "partnered_year": 2021,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Vanja Josifovski",
+      "role": null
+    },
+    {
+      "name": "Jure Leskovec",
+      "role": null
+    },
+    {
+      "name": "Hema Raghavan",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/kumo/"
+  }
+}

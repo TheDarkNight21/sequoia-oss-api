@@ -1,0 +1,42 @@
+{
+  "id": "sequoia:whatsapp",
+  "sequoia_id": "676",
+  "name": "WhatsApp",
+  "slug": "whatsapp",
+  "description": "WhatsApp is an end-to-end encrypted mobile messaging app that lets users send messages free of charge. Acquired by Facebook in 2014, more than 2 billion people in over 180 countries now use WhatsApp to stay in touch.",
+  "website": "https://www.whatsapp.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/WhatsApp",
+    "linkedin": "https://www.linkedin.com/company/whatsapp-inc."
+  },
+  "categories": [
+    "consumer"
+  ],
+  "current_stage": "acquired",
+  "first_partnered_year": 2011,
+  "partners": [
+    "jim-goetz"
+  ],
+  "primary_partner": "jim-goetz",
+  "milestones": {
+    "founded_year": 2009,
+    "partnered_year": 2011,
+    "ipo_year": null,
+    "acquired_year": 2014
+  },
+  "team": [
+    {
+      "name": "Brian Acton",
+      "role": null
+    },
+    {
+      "name": "Jan Koum",
+      "role": null
+    }
+  ],
+  "why_partnered": "We believed there was an opportunity for an independent, mobile-focused upstart to challenge the status quo of SMS messaging on the back of rising smartphone adoption. Jan and Brian had built WhatsApp to be a clean, no-nonsense messaging platform. Loved by those who adopted it, we were astonished by how rapidly it scaled with no marketing spend. It was simple and it worked.",
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/whatsapp/"
+  }
+}

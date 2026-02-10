@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:zipline",
+  "sequoia_id": "695",
+  "name": "Zipline",
+  "slug": "zipline",
+  "description": "As the world’s leading on-demand drone delivery service, Zipline helps pioneering organizations transform how life moves. Zipline facilitates new models of care, extends reach and leverages data to continuously improve on-demand operation.",
+  "website": "https://flyzipline.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/zipline",
+    "linkedin": "https://www.linkedin.com/company/7602863?trk=prof-exp-company-name"
+  },
+  "categories": [
+    "hardware",
+    "healthcare"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2012,
+  "partners": [
+    "alfred-lin"
+  ],
+  "primary_partner": "alfred-lin",
+  "milestones": {
+    "founded_year": 2012,
+    "partnered_year": 2012,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Keller Rinaudo",
+      "role": null
+    },
+    {
+      "name": "Keenan Wyrobek",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/zipline/"
+  }
+}

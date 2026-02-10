@@ -1,0 +1,45 @@
+{
+  "id": "sequoia:avelios",
+  "sequoia_id": "18692",
+  "name": "Avelios",
+  "slug": "avelios",
+  "description": "Avelios is a modern and modular hospital information system, including documentation (EHR, medication, operating room management); administration (billing, staff, clinic management); patient portals; AI solutions, and more.",
+  "website": "https://en.avelios.com/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/avelios-medical"
+  },
+  "categories": [
+    "healthcare"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2025,
+  "partners": [
+    "anas-biad"
+  ],
+  "primary_partner": "anas-biad",
+  "milestones": {
+    "founded_year": 2020,
+    "partnered_year": 2025,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Christian Albrecht",
+      "role": null
+    },
+    {
+      "name": "Nicolas Jakob",
+      "role": null
+    },
+    {
+      "name": "Sebastian Krammer",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/avelios/"
+  }
+}

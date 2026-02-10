@@ -10,6 +10,66 @@
       "id": "sequoia:faire-wholesale",
       "name": "Faire",
       "slug": "faire-wholesale"
+    },
+    {
+      "id": "sequoia:confluent",
+      "name": "Confluent",
+      "slug": "confluent"
+    },
+    {
+      "id": "sequoia:wonolo",
+      "name": "Wonolo",
+      "slug": "wonolo"
+    },
+    {
+      "id": "sequoia:pendulum-therapeutics",
+      "name": "Pendulum",
+      "slug": "pendulum-therapeutics"
+    },
+    {
+      "id": "sequoia:drift",
+      "name": "Drift",
+      "slug": "drift"
+    },
+    {
+      "id": "sequoia:semgrep",
+      "name": "Semgrep",
+      "slug": "semgrep"
+    },
+    {
+      "id": "sequoia:snapdocs",
+      "name": "Snapdocs",
+      "slug": "snapdocs"
+    },
+    {
+      "id": "sequoia:zum",
+      "name": "Zum",
+      "slug": "zum"
+    },
+    {
+      "id": "sequoia:citizen",
+      "name": "Citizen",
+      "slug": "citizen"
+    },
+    {
+      "id": "sequoia:quantum-circuits",
+      "name": "Quantum Circuits",
+      "slug": "quantum-circuits"
+    },
+    {
+      "id": "sequoia:front",
+      "name": "Front",
+      "slug": "front"
+    },
+    {
+      "id": "sequoia:formation-bio",
+      "name": "Formation Bio",
+      "slug": "formation-bio"
+    },
+    {
+      "id": "sequoia:ethos-technologies",
+      "name": "Ethos",
+      "slug": "ethos-technologies"
     }
   ]
 }

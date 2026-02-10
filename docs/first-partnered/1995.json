@@ -5,6 +5,16 @@
       "id": "sequoia:yahoo",
       "name": "Yahoo",
       "slug": "yahoo"
+    },
+    {
+      "id": "sequoia:pharming-group",
+      "name": "Pharming Group",
+      "slug": "pharming-group"
+    },
+    {
+      "id": "sequoia:omnicell",
+      "name": "Omnicell",
+      "slug": "omnicell"
     }
   ]
 }

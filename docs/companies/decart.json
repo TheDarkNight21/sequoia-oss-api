@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:decart",
+  "sequoia_id": "18417",
+  "name": "Decart",
+  "slug": "decart",
+  "description": "The Decart efficient AI platform provides an order of magnitude improvement in both training and inferencing of the largest generative models. Leveraging these advanced capabilities, Decart is able to train foundational generative interactive models and make it accessible for everyone in real-time.",
+  "website": "https://www.decart.ai/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/decart-ai/"
+  },
+  "categories": [
+    "ai",
+    "consumer"
+  ],
+  "current_stage": "pre-seed-seed",
+  "first_partnered_year": 2024,
+  "partners": [
+    "shaun-maguire",
+    "dean-meyer"
+  ],
+  "primary_partner": "shaun-maguire",
+  "milestones": {
+    "founded_year": 2023,
+    "partnered_year": 2024,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Dean Leitersdorf",
+      "role": null
+    },
+    {
+      "name": "Moshe Shalev",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/decart/"
+  }
+}

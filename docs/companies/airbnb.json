@@ -1,0 +1,48 @@
+{
+  "id": "sequoia:airbnb",
+  "sequoia_id": "230",
+  "name": "Airbnb",
+  "slug": "airbnb",
+  "description": "Airbnb brought consumers into the sharing economy with its revolutionary peer-to-peer travel marketplace. Today the company connects people around the world with its unique homes and unforgettable experiences.",
+  "website": "https://www.airbnb.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/airbnb",
+    "linkedin": "https://www.linkedin.com/company/airbnb",
+    "instagram": "https://www.instagram.com/airbnb/"
+  },
+  "categories": [
+    "consumer",
+    "marketplace"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 2009,
+  "partners": [
+    "alfred-lin"
+  ],
+  "primary_partner": "alfred-lin",
+  "milestones": {
+    "founded_year": 2007,
+    "partnered_year": 2009,
+    "ipo_year": 2020,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Nathan Blecharczyk",
+      "role": null
+    },
+    {
+      "name": "Brian Chesky",
+      "role": null
+    },
+    {
+      "name": "Joe Gebbia",
+      "role": null
+    }
+  ],
+  "why_partnered": "Brian, Joe and Nate had a clear vision to disrupt a fragmented vacation rental market. The frustration of trying to book hotels during convention peaks was just the hook. They drew us in further with their scrappiness, imagination and storytelling. If everything went right, Airbnb saw an opportunity to redefine the large, global and enduring travel market.",
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/airbnb/"
+  }
+}

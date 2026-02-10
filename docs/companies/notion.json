@@ -1,0 +1,47 @@
+{
+  "id": "sequoia:notion",
+  "sequoia_id": "1522",
+  "name": "Notion",
+  "slug": "notion",
+  "description": "Notion is a collaborative workspace for teams. With easy doc sharing, free wiki-software, and project tracking, Notion makes it easy to add information and find later.",
+  "website": "https://www.notion.so",
+  "socials": {
+    "twitter": "https://www.twitter.com/NotionHQ",
+    "linkedin": "https://www.linkedin.com/company/notionhq/"
+  },
+  "categories": [
+    "productivity"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2021,
+  "partners": [
+    "pat-grady",
+    "david-cahn"
+  ],
+  "primary_partner": "pat-grady",
+  "milestones": {
+    "founded_year": 2013,
+    "partnered_year": 2021,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Akshay Kothari",
+      "role": null
+    },
+    {
+      "name": "Simon Last",
+      "role": null
+    },
+    {
+      "name": "Ivan Zhao",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/notion/"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:dropbox",
+  "sequoia_id": "333",
+  "name": "Dropbox",
+  "slug": "dropbox",
+  "description": "Dropbox is a collaboration and storage platform transforming the way people and teams work together.",
+  "website": "https://www.dropbox.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/Dropbox",
+    "linkedin": "https://www.linkedin.com/company/dropbox"
+  },
+  "categories": [
+    "consumer",
+    "productivity"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 2007,
+  "partners": [
+    "bryan-schreier"
+  ],
+  "primary_partner": "bryan-schreier",
+  "milestones": {
+    "founded_year": 2007,
+    "partnered_year": 2007,
+    "ipo_year": 2018,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Arash Ferdowsi",
+      "role": null
+    },
+    {
+      "name": "Drew Houston",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/dropbox/"
+  }
+}

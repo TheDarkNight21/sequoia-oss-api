@@ -1,0 +1,47 @@
+{
+  "id": "sequoia:ironclad",
+  "sequoia_id": "417",
+  "name": "Ironclad",
+  "slug": "ironclad",
+  "description": "Ironclad is a contract lifecycle management platform that enables collaboration and negotiation while maintaining compliance. It’s the only platform flexible enough to handle every type of contract workflow, be it a sales agreement, HR agreement or a complex non-disclosure agreement.",
+  "website": "https://ironcladapp.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/ironclad_inc",
+    "linkedin": "https://www.linkedin.com/company/ironclad-inc-/"
+  },
+  "categories": [
+    "ai",
+    "legal"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2018,
+  "partners": [
+    "jess-lee"
+  ],
+  "primary_partner": "jess-lee",
+  "milestones": {
+    "founded_year": 2014,
+    "partnered_year": 2018,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Dan Springer",
+      "role": null
+    },
+    {
+      "name": "Jason Boehmig",
+      "role": null
+    },
+    {
+      "name": "Cai GoGwilt",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/ironclad/"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:island",
+  "sequoia_id": "7848",
+  "name": "Island",
+  "slug": "island",
+  "description": "With the core needs of the enterprise naturally embedded in the browser itself, the Island Enterprise Browser gives organizations complete control, visibility, and governance over the last mile, while delivering the same Chromium-based browser experience users expect. Island is redefining the future of work for some of the largest, most respected enterprises in the world.",
+  "website": "https://island.io/",
+  "socials": {
+    "twitter": "https://twitter.com/island_io",
+    "linkedin": "https://www.linkedin.com/company/island-io"
+  },
+  "categories": [
+    "productivity",
+    "security"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2020,
+  "partners": [
+    "doug-leone"
+  ],
+  "primary_partner": "doug-leone",
+  "milestones": {
+    "founded_year": 2020,
+    "partnered_year": 2020,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Dan Amiga",
+      "role": null
+    },
+    {
+      "name": "Mike Fey",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/island/"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "sequoia:piazza",
+  "sequoia_id": "17272",
+  "name": "Piazza",
+  "slug": "piazza",
+  "description": "Piazza is a social learning platform connecting students, instructors and employers.",
+  "website": "https://piazza.com/",
+  "socials": {
+    "facebook": "https://www.facebook.com/piazzza",
+    "twitter": "https://twitter.com/piazza"
+  },
+  "categories": [
+    "consumer"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2011,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 2009,
+    "partnered_year": 2011,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/piazza/"
+  }
+}

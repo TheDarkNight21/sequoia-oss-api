@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:uipath",
+  "sequoia_id": "657",
+  "name": "UiPath",
+  "slug": "uipath",
+  "description": "UiPath offers an end-to-end platform for automation, combining the leading Robotic Process Automation (RPA) solution with a full suite of capabilities like AI, process mining and the cloud, so every organization can rapidly scale their digital operations.",
+  "website": "https://www.uipath.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/uipath",
+    "linkedin": "https://www.linkedin.com/company/uipath/"
+  },
+  "categories": [
+    "ai",
+    "operations"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 2018,
+  "partners": [
+    "carl-eschenbach"
+  ],
+  "primary_partner": "carl-eschenbach",
+  "milestones": {
+    "founded_year": 2005,
+    "partnered_year": 2018,
+    "ipo_year": 2021,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Daniel Dines",
+      "role": null
+    },
+    {
+      "name": "Marius Tirca",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/uipath/"
+  }
+}

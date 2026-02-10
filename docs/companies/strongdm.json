@@ -1,0 +1,50 @@
+{
+  "id": "sequoia:strongdm",
+  "sequoia_id": "620",
+  "name": "strongDM",
+  "slug": "strongdm",
+  "description": "strongDM is an infrastructure access platform that connects any person or service to infrastructure. It gives technical staff frictionless and auditable access to everything they need across an entire stack.",
+  "website": "https://www.strongdm.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/strongdatam",
+    "linkedin": "https://www.linkedin.com/company/strongdm/"
+  },
+  "categories": [
+    "security"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2019,
+  "partners": [
+    "doug-leone"
+  ],
+  "primary_partner": "doug-leone",
+  "milestones": {
+    "founded_year": 2015,
+    "partnered_year": 2019,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Tim Prendergast",
+      "role": null
+    },
+    {
+      "name": "Schuyler Brown",
+      "role": null
+    },
+    {
+      "name": "Justin McCarthy",
+      "role": null
+    },
+    {
+      "name": "Liz Zalman",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/strongdm/"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:sourcegraph",
+  "sequoia_id": "602",
+  "name": "Sourcegraph",
+  "slug": "sourcegraph",
+  "description": "Sourcegraph is a universal code search tool. It helps developers find and fix things faster across all their code. Sourcegraph also searches every open-source repository so engineers can explore, learn and reference the best community-developed code out there.",
+  "website": "https://about.sourcegraph.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/srcgraph",
+    "linkedin": "https://www.linkedin.com/company/sourcegraph/"
+  },
+  "categories": [
+    "ai",
+    "developer-tools"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2020,
+  "partners": [
+    "andrew-reed"
+  ],
+  "primary_partner": "andrew-reed",
+  "milestones": {
+    "founded_year": 2013,
+    "partnered_year": 2020,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Beyang Liu",
+      "role": null
+    },
+    {
+      "name": "Quinn Slack",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/sourcegraph/"
+  }
+}

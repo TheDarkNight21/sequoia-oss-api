@@ -6,6 +6,86 @@
       "id": "sequoia:otter",
       "name": "Otter",
       "slug": "otter"
+    },
+    {
+      "id": "sequoia:wonolo",
+      "name": "Wonolo",
+      "slug": "wonolo"
+    },
+    {
+      "id": "sequoia:pendulum-therapeutics",
+      "name": "Pendulum",
+      "slug": "pendulum-therapeutics"
+    },
+    {
+      "id": "sequoia:maven-clinic",
+      "name": "Maven",
+      "slug": "maven-clinic"
+    },
+    {
+      "id": "sequoia:protege",
+      "name": "Protégé",
+      "slug": "protege"
+    },
+    {
+      "id": "sequoia:pace",
+      "name": "Pace",
+      "slug": "pace"
+    },
+    {
+      "id": "sequoia:flagship",
+      "name": "Flagship",
+      "slug": "flagship"
+    },
+    {
+      "id": "sequoia:iris-labs",
+      "name": "Iris Labs",
+      "slug": "iris-labs"
+    },
+    {
+      "id": "sequoia:cove",
+      "name": "Cove",
+      "slug": "cove"
+    },
+    {
+      "id": "sequoia:roon",
+      "name": "Roon",
+      "slug": "roon"
+    },
+    {
+      "id": "sequoia:freed",
+      "name": "Freed",
+      "slug": "freed"
+    },
+    {
+      "id": "sequoia:claim",
+      "name": "Claim",
+      "slug": "claim"
+    },
+    {
+      "id": "sequoia:ironclad",
+      "name": "Ironclad",
+      "slug": "ironclad"
+    },
+    {
+      "id": "sequoia:gigi",
+      "name": "Gigi",
+      "slug": "gigi"
+    },
+    {
+      "id": "sequoia:squint",
+      "name": "Squint",
+      "slug": "squint"
+    },
+    {
+      "id": "sequoia:delphi",
+      "name": "Delphi",
+      "slug": "delphi"
+    },
+    {
+      "id": "sequoia:mos",
+      "name": "Mos",
+      "slug": "mos"
     }
   ]
 }

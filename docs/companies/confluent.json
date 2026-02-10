@@ -1,0 +1,44 @@
+{
+  "id": "sequoia:confluent",
+  "sequoia_id": "304",
+  "name": "Confluent",
+  "slug": "confluent",
+  "description": "Founded by the Apache Kafka team at LinkedIn, Confluent is a streaming data platform that helps companies access enterprise data in real time.",
+  "website": "https://www.confluent.io/",
+  "socials": {
+    "twitter": "https://www.twitter.com/ConfluentInc",
+    "linkedin": "https://www.linkedin.com/company/confluent"
+  },
+  "categories": [
+    "data-analytics"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 2017,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 2014,
+    "partnered_year": 2017,
+    "ipo_year": 2021,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Jay Kreps",
+      "role": null
+    },
+    {
+      "name": "Neha Narkhede",
+      "role": null
+    },
+    {
+      "name": "Jun Rao",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/confluent/"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "sequoia:paypal",
+  "sequoia_id": "526",
+  "name": "PayPal",
+  "slug": "paypal",
+  "description": "For more than 20 years, PayPal has remained at the forefront of the digital payment revolution, growing into a two-sided network that connects merchants and consumers in more than 200 markets worldwide.",
+  "website": "https://www.paypal.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/PayPal",
+    "linkedin": "https://www.linkedin.com/company/paypal"
+  },
+  "categories": [
+    "consumer",
+    "fintech"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 1999,
+  "partners": [
+    "michael-moritz"
+  ],
+  "primary_partner": "michael-moritz",
+  "milestones": {
+    "founded_year": 1999,
+    "partnered_year": 1999,
+    "ipo_year": 2002,
+    "acquired_year": 2002
+  },
+  "team": [
+    {
+      "name": "Max Levchin",
+      "role": null
+    },
+    {
+      "name": "Elon Musk",
+      "role": null
+    },
+    {
+      "name": "Peter Thiel",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/paypal/"
+  }
+}

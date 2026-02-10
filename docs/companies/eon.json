@@ -1,0 +1,46 @@
+{
+  "id": "sequoia:eon",
+  "sequoia_id": "16383",
+  "name": "Eon",
+  "slug": "eon",
+  "description": "Eon transforms your cloud backups into an accessible, useful asset. Use Eon to back up your entire cloud environment with automatic mapping and classification, so you only store what you need. Nothing more, nothing less.",
+  "website": "https://www.eon.io/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/eon-io/"
+  },
+  "categories": [
+    "infrastructure"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2024,
+  "partners": [
+    "shaun-maguire",
+    "dean-meyer"
+  ],
+  "primary_partner": "shaun-maguire",
+  "milestones": {
+    "founded_year": 2024,
+    "partnered_year": 2024,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Ofir Ehrlich",
+      "role": null
+    },
+    {
+      "name": "Ron Kimchi",
+      "role": null
+    },
+    {
+      "name": "Gonen Stein",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/eon/"
+  }
+}

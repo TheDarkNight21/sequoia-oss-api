@@ -1,0 +1,47 @@
+{
+  "id": "sequoia:layerzero",
+  "sequoia_id": "8909",
+  "name": "LayerZero",
+  "slug": "layerzero",
+  "description": "LayerZero is an omnichain interoperability protocol that allows dApps to build across multiple blockchains in a trustless, efficient manner. LayerZero connects dApps across chains using on-chain Ultra Light Nodes, which achieve the security of a light node with the cost-effectiveness of a middle-chain. Using the protocol, developers can turn their dapps into omnichain-applications using a single, simple interface.",
+  "website": "https://layerzero.network/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/layerzerolabs/",
+    "youtube": "https://www.youtube.com/channel/UCm4R3LIk_DuPfoykmWfZRrQ"
+  },
+  "categories": [
+    "crypto",
+    "developer-tools"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2022,
+  "partners": [
+    "shaun-maguire"
+  ],
+  "primary_partner": "shaun-maguire",
+  "milestones": {
+    "founded_year": 2021,
+    "partnered_year": 2022,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Caleb Banister",
+      "role": null
+    },
+    {
+      "name": "Bryan Pellegrino",
+      "role": null
+    },
+    {
+      "name": "Ryan Zarick",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/layerzero/"
+  }
+}

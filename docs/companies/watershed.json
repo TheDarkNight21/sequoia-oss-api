@@ -1,0 +1,48 @@
+{
+  "id": "sequoia:watershed",
+  "sequoia_id": "674",
+  "name": "Watershed",
+  "slug": "watershed",
+  "description": "Watershed is a software platform helping companies get to net zero carbon. Its platform equips customers to run a climate program the way they would their business: It analyzes a company’s full carbon footprint, including Scope 3 emissions; maps out a plan to get to net zero; funds carbon removal; and reports progress to stakeholders.",
+  "website": "https://www.watershedclimate.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/watershed",
+    "linkedin": "https://www.linkedin.com/company/watershedclimate/"
+  },
+  "categories": [
+    "climate"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2020,
+  "partners": [
+    "michael-moritz",
+    "shaun-maguire",
+    "pat-grady"
+  ],
+  "primary_partner": "michael-moritz",
+  "milestones": {
+    "founded_year": 2019,
+    "partnered_year": 2020,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Christian Anderson",
+      "role": null
+    },
+    {
+      "name": "Taylor Francis",
+      "role": null
+    },
+    {
+      "name": "Avi Itskovich",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/watershed/"
+  }
+}

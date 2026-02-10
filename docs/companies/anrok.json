@@ -1,0 +1,48 @@
+{
+  "id": "sequoia:anrok",
+  "sequoia_id": "238",
+  "name": "Anrok",
+  "slug": "anrok",
+  "description": "Anrok is an end-to-end compliance solution for finance leaders of SaaS businesses. With a Supreme Court ruling increasing the paperwork required for software companies, Anrok allows them to track state nexus thresholds, taxability rules and tax rates, all in real time.",
+  "website": "https://anrok.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/anrok",
+    "linkedin": "https://www.linkedin.com/company/anrok"
+  },
+  "categories": [
+    "fintech",
+    "operations"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2020,
+  "partners": [
+    "bryan-schreier",
+    "josephine-chen"
+  ],
+  "primary_partner": "bryan-schreier",
+  "milestones": {
+    "founded_year": 2020,
+    "partnered_year": 2020,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Bradley Silicani",
+      "role": null
+    },
+    {
+      "name": "Kannan Goundan",
+      "role": null
+    },
+    {
+      "name": "Michelle Valentine",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/anrok/"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "sequoia:ledgy",
+  "sequoia_id": "435",
+  "name": "Ledgy",
+  "slug": "ledgy",
+  "description": "Ledgy is transforming the culture of ownership in Europe and beyond. Equity can be a powerful catalyst for growth, helping companies raise funds and reward talent. But as companies grow, managing equity gets harder, not easier. Ledgy’s platform gives companies, employees and investors unparalleled insight into their ownership.",
+  "website": "https://ledgy.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/Ledgy",
+    "linkedin": "https://www.linkedin.com/company/ledgy/"
+  },
+  "categories": [
+    "fintech"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2021,
+  "partners": [
+    "luciana-lixandru",
+    "anas-biad"
+  ],
+  "primary_partner": "luciana-lixandru",
+  "milestones": {
+    "founded_year": 2017,
+    "partnered_year": 2021,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Armon Bättig",
+      "role": null
+    },
+    {
+      "name": "Ben Brandt",
+      "role": null
+    },
+    {
+      "name": "Timo Horstschäefer",
+      "role": null
+    },
+    {
+      "name": "Yoko Spirig",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/ledgy/"
+  }
+}

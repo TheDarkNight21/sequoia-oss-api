@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:commure",
+  "sequoia_id": "250",
+  "name": "Commure",
+  "slug": "commure",
+  "description": "Commure (FKA Athelas) is an AI-powered operating system for healthcare providers that connects data and workflows while boosting clinical and financial performance.",
+  "website": "https://www.commure.com/",
+  "socials": {
+    "facebook": "https://www.facebook.com/commureinc/",
+    "twitter": "https://twitter.com/commureos",
+    "linkedin": "https://www.linkedin.com/company/commure"
+  },
+  "categories": [
+    "healthcare"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2016,
+  "partners": [
+    "alfred-lin"
+  ],
+  "primary_partner": "alfred-lin",
+  "milestones": {
+    "founded_year": 2016,
+    "partnered_year": 2016,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Deepika Bodapati",
+      "role": null
+    },
+    {
+      "name": "Tanay Tandon",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/commure/"
+  }
+}

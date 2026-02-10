@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:meter",
+  "sequoia_id": "9994",
+  "name": "Meter",
+  "slug": "meter",
+  "description": "Meter’s full-stack approach to internet infrastructure combines hardware, software, and operations so that any company can easily set up and run a modern network. The goal is to make secure enterprise-grade networks more accessible, and to help innovative organizations get and stay online seamlessly. Our ambition is to turn Meter’s infrastructure into a turnkey utility––when a company moves into any commercial space, the internet and WiFi just works.",
+  "website": "https://www.meter.com/",
+  "socials": {
+    "twitter": "https://twitter.com/meter",
+    "linkedin": "https://www.linkedin.com/company/meter-com/"
+  },
+  "categories": [
+    "infrastructure"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2022,
+  "partners": [
+    "ravi-gupta",
+    "isaiah-boone"
+  ],
+  "primary_partner": "ravi-gupta",
+  "milestones": {
+    "founded_year": 2015,
+    "partnered_year": 2022,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Anil Varanasi",
+      "role": null
+    },
+    {
+      "name": "Sunil Varanasi",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/meter/"
+  }
+}

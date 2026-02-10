@@ -1,0 +1,36 @@
+{
+  "id": "sequoia:parallel",
+  "sequoia_id": "7861",
+  "name": "Parallel",
+  "slug": "parallel",
+  "description": "Parallel is an institutional-grade lending protocol for proof-of-stake blockchains. Parallel offers cross-chain money markets, leveraged staking, and zero collateral loans across blockchains.",
+  "website": "https://parallel.fi/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/parallel-finance/"
+  },
+  "categories": [
+    "crypto",
+    "fintech"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2021,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 2021,
+    "partnered_year": 2021,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Yubo Ruan",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/parallel/"
+  }
+}

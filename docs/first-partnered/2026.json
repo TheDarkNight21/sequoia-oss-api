@@ -1,0 +1,10 @@
+{
+  "year": 2026,
+  "companies": [
+    {
+      "id": "sequoia:waymo",
+      "name": "Waymo",
+      "slug": "waymo"
+    }
+  ]
+}

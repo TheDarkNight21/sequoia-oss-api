@@ -1,0 +1,10 @@
+{
+  "year": 1981,
+  "companies": [
+    {
+      "id": "sequoia:lsi-logic",
+      "name": "LSI Logic",
+      "slug": "lsi-logic"
+    }
+  ]
+}

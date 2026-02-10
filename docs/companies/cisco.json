@@ -1,0 +1,41 @@
+{
+  "id": "sequoia:cisco",
+  "sequoia_id": "292",
+  "name": "Cisco",
+  "slug": "cisco",
+  "description": "Cisco was one of the first companies to sell commercially successful routers for multiple network protocols. Today Cisco connects people, data and processes through its cloud-computing applications and services. Its hardware, software and services create the internet solutions that make networks possible.",
+  "website": "https://www.cisco.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/Cisco",
+    "linkedin": "https://www.linkedin.com/company/cisco"
+  },
+  "categories": [
+    "hardware",
+    "infrastructure"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 1987,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 1984,
+    "partnered_year": 1987,
+    "ipo_year": 1990,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Leonard Bosack",
+      "role": null
+    },
+    {
+      "name": "Sandy Lerner",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/cisco/"
+  }
+}

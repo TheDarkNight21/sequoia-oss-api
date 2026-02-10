@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:fal",
+  "sequoia_id": "21100",
+  "name": "fal",
+  "slug": "fal",
+  "description": "fal is redefining the generative-media infrastructure layer for the AI era. As the leading platform for real-time video, image, audio and 3D generation, fal is building the world’s first Generative Media Cloud—designed to give developers and enterprises access to more than 600 production-ready models through a unified API. fal’s systems already support hundreds of millions of end users globally, a clear demonstration of the platform’s ability to operate at extraordinary scale.",
+  "website": "https://fal.ai/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/features-and-labels/",
+    "youtube": "https://www.youtube.com/@fal.ai.official"
+  },
+  "categories": [
+    "ai"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2025,
+  "partners": [
+    "sonya-huang",
+    "james-flynn"
+  ],
+  "primary_partner": "sonya-huang",
+  "milestones": {
+    "founded_year": 2021,
+    "partnered_year": 2025,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Burkay Gur",
+      "role": null
+    },
+    {
+      "name": "Gorkem Yurtseven",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/fal/"
+  }
+}

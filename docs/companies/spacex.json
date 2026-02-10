@@ -1,0 +1,40 @@
+{
+  "id": "sequoia:spacex",
+  "sequoia_id": "604",
+  "name": "SpaceX",
+  "slug": "spacex",
+  "description": "SpaceX designs, manufactures and launches the world’s most advanced rockets and spacecraft. The company is revolutionizing space transportation and developing a low latency, broadband internet system to meet the needs of consumers across the globe.",
+  "website": "https://www.spacex.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/spacex",
+    "linkedin": "https://www.linkedin.com/company/spacex/",
+    "instagram": "https://www.instagram.com/spacex/",
+    "youtube": "https://www.youtube.com/spacex"
+  },
+  "categories": [
+    "hardware"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2020,
+  "partners": [
+    "shaun-maguire"
+  ],
+  "primary_partner": "shaun-maguire",
+  "milestones": {
+    "founded_year": 2002,
+    "partnered_year": 2020,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Elon Musk",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/spacex/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "sequoia:observable",
+  "sequoia_id": "504",
+  "name": "Observable",
+  "slug": "observable",
+  "description": "Observable is a web-based platform that brings data, context and logic together in one place. With no environments to set up, users can share, collaborate and iterate, right in the browser. It facilitates collaborative business intelligence work and accelerates data-driven insights and decision-making.",
+  "website": "https://observablehq.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/observablehq",
+    "linkedin": "https://www.linkedin.com/company/observable/"
+  },
+  "categories": [
+    "data-analytics",
+    "developer-tools"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2016,
+  "partners": [
+    "jim-goetz"
+  ],
+  "primary_partner": "jim-goetz",
+  "milestones": {
+    "founded_year": 2016,
+    "partnered_year": 2016,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Michael Bostock",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/observable/"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "sequoia:carbon",
+  "sequoia_id": "282",
+  "name": "Carbon",
+  "slug": "carbon",
+  "description": "Carbon is transforming 3D printing through the process of light extrusion. This technology moves beyond basic prototyping to 3D to deliver materials faster than ever before.",
+  "website": "https://carbon3d.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/Carbon3D",
+    "linkedin": "https://www.linkedin.com/company/carbon3d"
+  },
+  "categories": [
+    "hardware"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2013,
+  "partners": [
+    "jim-goetz"
+  ],
+  "primary_partner": "jim-goetz",
+  "milestones": {
+    "founded_year": 2013,
+    "partnered_year": 2013,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Craig Carlson",
+      "role": null
+    },
+    {
+      "name": "Phil DeSimone",
+      "role": null
+    },
+    {
+      "name": "Joseph DeSimone",
+      "role": null
+    },
+    {
+      "name": "Alex Ermoshkin",
+      "role": null
+    },
+    {
+      "name": "Steve Nelson",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/carbon/"
+  }
+}

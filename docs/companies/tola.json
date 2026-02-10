@@ -1,0 +1,41 @@
+{
+  "id": "sequoia:tola",
+  "sequoia_id": "10352",
+  "name": "Tola",
+  "slug": "tola",
+  "description": null,
+  "website": "https://usetola.com/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/tolahq/"
+  },
+  "categories": [
+    "fintech"
+  ],
+  "current_stage": "acquired",
+  "first_partnered_year": 2022,
+  "partners": [
+    "george-robson"
+  ],
+  "primary_partner": "george-robson",
+  "milestones": {
+    "founded_year": 2022,
+    "partnered_year": 2022,
+    "ipo_year": null,
+    "acquired_year": 2025
+  },
+  "team": [
+    {
+      "name": "Alen Cvisic",
+      "role": null
+    },
+    {
+      "name": "Guillaume Simard",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/tola/"
+  }
+}

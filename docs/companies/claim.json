@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:claim",
+  "sequoia_id": "16279",
+  "name": "Claim",
+  "slug": "claim",
+  "description": "Claim is building a new way for friends to connect and for brands to reward their customers. On Claim, friends earn cash back, exchange rewards, and redeem together by shopping at their favorite brands. The result is a social network that focuses on real-world value, authenticity, and communal experience — rather than manufactured content and reposts. Consumers discover brands on Claim via rewards from friends. For high-growth brands, this word-of-mouth matching creates the perfect introduction to a new customer — a reward from a friend is always better than an ad from an influencer.",
+  "website": "https://www.claim.co/",
+  "socials": {
+    "twitter": "https://twitter.com/claim",
+    "linkedin": "https://www.linkedin.com/company/claim-co",
+    "instagram": "https://www.instagram.com/claim_app/"
+  },
+  "categories": [
+    "consumer"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2023,
+  "partners": [
+    "jess-lee"
+  ],
+  "primary_partner": "jess-lee",
+  "milestones": {
+    "founded_year": 2021,
+    "partnered_year": 2023,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Sam Obletz",
+      "role": null
+    },
+    {
+      "name": "Tap Stephenson",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/claim/"
+  }
+}

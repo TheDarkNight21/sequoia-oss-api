@@ -5,6 +5,46 @@
       "id": "sequoia:tumblr",
       "name": "Tumblr",
       "slug": "tumblr"
+    },
+    {
+      "id": "sequoia:evernote",
+      "name": "Evernote",
+      "slug": "evernote"
+    },
+    {
+      "id": "sequoia:sunrun",
+      "name": "Sunrun",
+      "slug": "sunrun"
+    },
+    {
+      "id": "sequoia:stripe",
+      "name": "Stripe",
+      "slug": "stripe"
+    },
+    {
+      "id": "sequoia:pocket-gems",
+      "name": "Pocket Gems",
+      "slug": "pocket-gems"
+    },
+    {
+      "id": "sequoia:the-melt",
+      "name": "The Melt",
+      "slug": "the-melt"
+    },
+    {
+      "id": "sequoia:futureadvisor",
+      "name": "FutureAdvisor",
+      "slug": "futureadvisor"
+    },
+    {
+      "id": "sequoia:klarna",
+      "name": "Klarna",
+      "slug": "klarna"
+    },
+    {
+      "id": "sequoia:mongodb",
+      "name": "MongoDB",
+      "slug": "mongodb"
     }
   ]
 }

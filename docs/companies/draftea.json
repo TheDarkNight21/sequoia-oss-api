@@ -1,0 +1,44 @@
+{
+  "id": "sequoia:draftea",
+  "sequoia_id": "7624",
+  "name": "Draftea",
+  "slug": "draftea",
+  "description": "Draftea is the premier real-money gaming platform in the Spanish-speaking world. Sports fans can easily place bets on their favorite teams, players and matches while enjoying an engaging live experience that brings the action closer than ever.",
+  "website": "https://draftea.com/",
+  "socials": {
+    "facebook": "https://www.facebook.com/Draftea-Mexico-104224608762223",
+    "twitter": "https://twitter.com/Draftea_Mexico",
+    "linkedin": "https://www.linkedin.com/company/draftea",
+    "instagram": "https://www.instagram.com/draftea_mexico"
+  },
+  "categories": [
+    "consumer"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2021,
+  "partners": [
+    "konstantine-buhler"
+  ],
+  "primary_partner": "konstantine-buhler",
+  "milestones": {
+    "founded_year": 2021,
+    "partnered_year": 2021,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Joe Cohen",
+      "role": null
+    },
+    {
+      "name": "Alán Jaime",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/draftea/"
+  }
+}

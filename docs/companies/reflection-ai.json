@@ -1,0 +1,42 @@
+{
+  "id": "sequoia:reflection-ai",
+  "sequoia_id": "16811",
+  "name": "Reflection AI",
+  "slug": "reflection-ai",
+  "description": "Reflection AI is building superintelligent autonomous systems, starting with coding agents.",
+  "website": "https://www.reflection.ai/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/reflectionai/"
+  },
+  "categories": [
+    "ai"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2024,
+  "partners": [
+    "stephanie-zhan",
+    "charlie-curnin"
+  ],
+  "primary_partner": "stephanie-zhan",
+  "milestones": {
+    "founded_year": 2024,
+    "partnered_year": 2024,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Ioannis Antonoglou",
+      "role": null
+    },
+    {
+      "name": "Misha Laskin",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/reflection-ai/"
+  }
+}

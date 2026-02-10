@@ -26,6 +26,81 @@
       "id": "sequoia:fireeye",
       "name": "FireEye",
       "slug": "fireeye"
+    },
+    {
+      "id": "sequoia:prelude",
+      "name": "Prelude",
+      "slug": "prelude"
+    },
+    {
+      "id": "sequoia:cohesity",
+      "name": "Cohesity",
+      "slug": "cohesity"
+    },
+    {
+      "id": "sequoia:jitx",
+      "name": "JITX",
+      "slug": "jitx"
+    },
+    {
+      "id": "sequoia:lilt",
+      "name": "Lilt",
+      "slug": "lilt"
+    },
+    {
+      "id": "sequoia:tecton",
+      "name": "Tecton",
+      "slug": "tecton"
+    },
+    {
+      "id": "sequoia:chkk",
+      "name": "Chkk",
+      "slug": "chkk"
+    },
+    {
+      "id": "sequoia:stripe",
+      "name": "Stripe",
+      "slug": "stripe"
+    },
+    {
+      "id": "sequoia:iambic-therapeutics",
+      "name": "Iambic Therapeutics",
+      "slug": "iambic-therapeutics"
+    },
+    {
+      "id": "sequoia:neeva",
+      "name": "Neeva",
+      "slug": "neeva"
+    },
+    {
+      "id": "sequoia:nxyz",
+      "name": "nxyz",
+      "slug": "nxyz"
+    },
+    {
+      "id": "sequoia:quantum-circuits",
+      "name": "Quantum Circuits",
+      "slug": "quantum-circuits"
+    },
+    {
+      "id": "sequoia:robust-intelligence",
+      "name": "Robust Intelligence",
+      "slug": "robust-intelligence"
+    },
+    {
+      "id": "sequoia:querypal",
+      "name": "QueryPal",
+      "slug": "querypal"
+    },
+    {
+      "id": "sequoia:liquidmetal-ai",
+      "name": "LiquidMetal AI",
+      "slug": "liquidmetal-ai"
+    },
+    {
+      "id": "sequoia:cue-labs",
+      "name": "CUE Labs",
+      "slug": "cue-labs"
     }
   ]
 }

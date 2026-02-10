@@ -1,0 +1,52 @@
+{
+  "id": "sequoia:traversal",
+  "sequoia_id": "17101",
+  "name": "Traversal",
+  "slug": "traversal",
+  "description": "Traversal is an AI SRE agent that troubleshoots, resolves and prevents production incidents—so engineers can ship features, not fixes.",
+  "website": "https://www.traversal.com/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/traversal-ai/",
+    "youtube": "https://www.youtube.com/@traversal_ai"
+  },
+  "categories": [
+    "ai",
+    "developer-tools"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2024,
+  "partners": [
+    "bogomil-balkansky",
+    "charlie-curnin"
+  ],
+  "primary_partner": "bogomil-balkansky",
+  "milestones": {
+    "founded_year": 2024,
+    "partnered_year": 2024,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Anish Agarwal",
+      "role": null
+    },
+    {
+      "name": "Raj Agrawal",
+      "role": null
+    },
+    {
+      "name": "Raaz Dwivedi",
+      "role": null
+    },
+    {
+      "name": "Ahmed Lone",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/traversal/"
+  }
+}

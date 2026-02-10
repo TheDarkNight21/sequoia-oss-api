@@ -1,0 +1,44 @@
+{
+  "id": "sequoia:ramp",
+  "sequoia_id": "17454",
+  "name": "Ramp",
+  "slug": "ramp",
+  "description": "Ramp provides spend management, corporate cards and accounts payable solutions to help businesses optimize finance operations in a single platform.",
+  "website": "https://ramp.com/",
+  "socials": {},
+  "categories": [
+    "fintech",
+    "operations"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2023,
+  "partners": [
+    "ravi-gupta"
+  ],
+  "primary_partner": "ravi-gupta",
+  "milestones": {
+    "founded_year": 2019,
+    "partnered_year": 2023,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Karim Atiyeh",
+      "role": null
+    },
+    {
+      "name": "Eric Glyman",
+      "role": null
+    },
+    {
+      "name": "Gene Lee",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/ramp/"
+  }
+}

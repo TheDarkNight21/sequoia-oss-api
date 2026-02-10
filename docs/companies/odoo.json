@@ -1,0 +1,44 @@
+{
+  "id": "sequoia:odoo",
+  "sequoia_id": "18404",
+  "name": "Odoo",
+  "slug": "odoo",
+  "description": "Odoo is a leading integrated business solutions provider. It offers a comprehensive, modular suite of scalable apps that meets the specific needs of every business, making it a suitable solution for organizations of all sizes and sectors, from start-ups to large corporations.",
+  "website": "https://www.odoo.com/",
+  "socials": {
+    "facebook": "https://www.facebook.com/odoo",
+    "twitter": "https://twitter.com/Odoo",
+    "linkedin": "https://www.linkedin.com/company/odoo",
+    "instagram": "https://www.instagram.com/odoo.official",
+    "youtube": "https://www.youtube.com/@Odoo"
+  },
+  "categories": [
+    "gtm",
+    "operations"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2024,
+  "partners": [
+    "andrew-reed",
+    "pat-grady",
+    "isaiah-boone"
+  ],
+  "primary_partner": "andrew-reed",
+  "milestones": {
+    "founded_year": 2002,
+    "partnered_year": 2024,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Fabien Pinckaers",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/odoo/"
+  }
+}

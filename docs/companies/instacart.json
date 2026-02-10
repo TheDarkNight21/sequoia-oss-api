@@ -1,0 +1,53 @@
+{
+  "id": "sequoia:instacart",
+  "sequoia_id": "411",
+  "name": "Instacart",
+  "slug": "instacart",
+  "description": "Instacart is building the best way for people around the world to shop for groceries and get them delivered instantly. With its vast network of pre-existing grocers and drivers, Instacart offers tremendous inventory and convenience to customers. Its on-demand service is available in most major U.S. metropolitan areas.",
+  "website": "https://instacart.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/Instacart",
+    "linkedin": "https://www.linkedin.com/company/instacart"
+  },
+  "categories": [
+    "consumer"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 2013,
+  "partners": [
+    "michael-moritz",
+    "alfred-lin",
+    "ravi-gupta",
+    "james-flynn"
+  ],
+  "primary_partner": "michael-moritz",
+  "milestones": {
+    "founded_year": 2012,
+    "partnered_year": 2013,
+    "ipo_year": 2023,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Chris Rogers",
+      "role": null
+    },
+    {
+      "name": "Brandon Leonardo",
+      "role": null
+    },
+    {
+      "name": "Apoorva Mehta",
+      "role": null
+    },
+    {
+      "name": "Max Mullen",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/instacart/"
+  }
+}

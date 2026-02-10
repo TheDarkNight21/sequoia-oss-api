@@ -1,0 +1,10 @@
+{
+  "year": 2000,
+  "companies": [
+    {
+      "id": "sequoia:rackspace",
+      "name": "Rackspace",
+      "slug": "rackspace"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "sequoia:airtop",
+  "sequoia_id": "9566",
+  "name": "Airtop",
+  "slug": "airtop",
+  "description": "Airtop (fka Switchboard) provides intelligent browser automation for AI agents, enabling seamless web interaction with any site, even those requiring complex authentication processes. Airtop simplifies the development and deployment of AI-powered agents, making it an essential tool for AI-driven projects that require dynamic web interaction.",
+  "website": "https://www.airtop.ai/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/airtop-ai/"
+  },
+  "categories": [
+    "ai",
+    "productivity"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2020,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 2020,
+    "partnered_year": 2020,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Amir Ashkenazi",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/airtop/"
+  }
+}

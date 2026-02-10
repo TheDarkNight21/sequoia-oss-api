@@ -1,0 +1,39 @@
+{
+  "id": "sequoia:rippling",
+  "sequoia_id": "4548",
+  "name": "Rippling",
+  "slug": "rippling",
+  "description": "Rippling is a human resource management company that manages employees’ payroll, benefits, devices, and apps. It automates manual work, like onboarding new hires.",
+  "website": "https://www.rippling.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/rippling",
+    "linkedin": "https://www.linkedin.com/company/rippling/",
+    "instagram": "https://www.instagram.com/ripplinghr/"
+  },
+  "categories": [
+    "operations"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2021,
+  "partners": [
+    "isaiah-boone"
+  ],
+  "primary_partner": "isaiah-boone",
+  "milestones": {
+    "founded_year": 2016,
+    "partnered_year": 2021,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Parker Conrad",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/rippling/"
+  }
+}

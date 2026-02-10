@@ -1,0 +1,47 @@
+{
+  "id": "sequoia:linear",
+  "sequoia_id": "443",
+  "name": "Linear",
+  "slug": "linear",
+  "description": "Linear helps developers streamline software projects, sprints, tasks and bug tracking without hampering progress.",
+  "website": "https://linear.app/",
+  "socials": {
+    "twitter": "https://www.twitter.com/linear_app",
+    "linkedin": "https://www.linkedin.com/company/linearapp/"
+  },
+  "categories": [
+    "developer-tools",
+    "productivity"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2019,
+  "partners": [
+    "stephanie-zhan"
+  ],
+  "primary_partner": "stephanie-zhan",
+  "milestones": {
+    "founded_year": 2019,
+    "partnered_year": 2019,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Tuomas Artman",
+      "role": null
+    },
+    {
+      "name": "Jori Lallo",
+      "role": null
+    },
+    {
+      "name": "Karri Saarinen",
+      "role": null
+    }
+  ],
+  "why_partnered": "Linear’s ambition was to become the new standard for modern software development and project management—a Jira 2.0. Karri and his team’s understanding of the pain points experienced by engineers and PMs was apparent as was their ability to translate that into a product. The speed with which they moved and the early engagement they were able to drive gave us conviction that Linear could define the next generation of software development tools.",
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/linear/"
+  }
+}

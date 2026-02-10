@@ -1,0 +1,1421 @@
+[
+  {
+    "id": "sequoia:admob",
+    "sequoia_id": "228",
+    "name": "AdMob",
+    "slug": "admob",
+    "description": "AdMob built a pay-per click marketplace for mobile apps. Now part of Google, AdMob continues to help businesses gain user insights and drive in-app purchases.",
+    "website": "https://www.admob.com",
+    "socials": {
+      "twitter": "https://www.twitter.com/admob",
+      "linkedin": "https://www.linkedin.com/company/admob"
+    },
+    "categories": [
+      "gtm"
+    ],
+    "current_stage": "acquired",
+    "first_partnered_year": 2006,
+    "partners": [
+      "jim-goetz"
+    ],
+    "primary_partner": "jim-goetz",
+    "milestones": {
+      "founded_year": 2006,
+      "partnered_year": 2006,
+      "ipo_year": null,
+      "acquired_year": 2010
+    },
+    "team": [
+      {
+        "name": "Omar Hamoui",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/admob/"
+    }
+  },
+  {
+    "id": "sequoia:kayak",
+    "sequoia_id": "427",
+    "name": "KAYAK",
+    "slug": "kayak",
+    "description": "By consolidating search functions for hundreds of travel companies, KAYAK became a one-stop shop for plane tickets, hotels, cars and travel packages. Its app solves a number of travel logistic issues on several platforms with the goal of improving travel.",
+    "website": "https://www.kayak.com",
+    "socials": {
+      "twitter": "https://www.twitter.com/KAYAK",
+      "linkedin": "https://www.linkedin.com/company/kayak"
+    },
+    "categories": [
+      "consumer"
+    ],
+    "current_stage": "acquired",
+    "first_partnered_year": 2005,
+    "partners": [
+      "michael-moritz"
+    ],
+    "primary_partner": "michael-moritz",
+    "milestones": {
+      "founded_year": 2004,
+      "partnered_year": 2005,
+      "ipo_year": 2012,
+      "acquired_year": 2013
+    },
+    "team": [
+      {
+        "name": "Paul English",
+        "role": null
+      },
+      {
+        "name": "Steve Hafner",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/kayak/"
+    }
+  },
+  {
+    "id": "sequoia:opendns",
+    "sequoia_id": "510",
+    "name": "OpenDNS",
+    "slug": "opendns",
+    "description": "OpenDNS is a suite of consumer products aimed at making the internet faster, safer and more reliable. Providing a layer of protection on and off a company’s network, it prevents malicious attacks over any port or protocol. OpenDNS easy to deploy without any hardware, software or manual updates. The company is now part of Cisco.",
+    "website": "https://www.opendns.com",
+    "socials": {
+      "twitter": "https://www.twitter.com/opendns",
+      "linkedin": "https://www.linkedin.com/company/opendns"
+    },
+    "categories": [
+      "infrastructure",
+      "security"
+    ],
+    "current_stage": "acquired",
+    "first_partnered_year": 2009,
+    "partners": [
+      "pat-grady"
+    ],
+    "primary_partner": "pat-grady",
+    "milestones": {
+      "founded_year": 2006,
+      "partnered_year": 2009,
+      "ipo_year": null,
+      "acquired_year": 2015
+    },
+    "team": [
+      {
+        "name": "David Ulevitch",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/opendns/"
+    }
+  },
+  {
+    "id": "sequoia:tumblr",
+    "sequoia_id": "655",
+    "name": "Tumblr",
+    "slug": "tumblr",
+    "description": "Tumblr is a short-form, mixed-media blogging platform focused on visuals and multimedia. Acquired by Yahoo in 2013, Tumblr attracts hundreds of millions of unique visitors who follow hundreds of millions of blogs. The platform also offers ad purchases and blog themes for companies and users.",
+    "website": "https://www.tumblr.com",
+    "socials": {
+      "twitter": "https://www.twitter.com/tumblr",
+      "linkedin": "https://www.linkedin.com/company/tumblr"
+    },
+    "categories": [
+      "consumer"
+    ],
+    "current_stage": "acquired",
+    "first_partnered_year": 2010,
+    "partners": [
+      "roelof-botha"
+    ],
+    "primary_partner": "roelof-botha",
+    "milestones": {
+      "founded_year": 2007,
+      "partnered_year": 2010,
+      "ipo_year": null,
+      "acquired_year": 2013
+    },
+    "team": [
+      {
+        "name": "David Karp",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/tumblr/"
+    }
+  },
+  {
+    "id": "sequoia:xoom",
+    "sequoia_id": "685",
+    "name": "Xoom",
+    "slug": "xoom",
+    "description": "Xoom is a global money transfer service that lets people send money quickly and cheaply from any web-enabled device. Recipients don’t need a bank account or internet connection, and senders can fund their transfer with a credit or debit card or bank account. Xoom was acquired by PayPal in 2015.",
+    "website": "https://www.xoom.com",
+    "socials": {
+      "twitter": "https://www.twitter.com/Xoom",
+      "linkedin": "https://www.linkedin.com/company/xoom-corporation"
+    },
+    "categories": [
+      "consumer",
+      "fintech"
+    ],
+    "current_stage": "acquired",
+    "first_partnered_year": 2003,
+    "partners": [
+      "roelof-botha"
+    ],
+    "primary_partner": "roelof-botha",
+    "milestones": {
+      "founded_year": 2001,
+      "partnered_year": 2003,
+      "ipo_year": 2013,
+      "acquired_year": 2015
+    },
+    "team": [
+      {
+        "name": "Alan Braverman",
+        "role": null
+      },
+      {
+        "name": "Kevin Hartz",
+        "role": null
+      },
+      {
+        "name": "John Kunze",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/xoom/"
+    }
+  },
+  {
+    "id": "sequoia:plangrid",
+    "sequoia_id": "541",
+    "name": "PlanGrid",
+    "slug": "plangrid",
+    "description": "Plangrid’s software brings blueprints and construction plans to the cloud, doing away with physical markups. It gets contractors and architects on the same page for instantaneous collaboration. Plangrid is now part of Autodesk.",
+    "website": "https://www.plangrid.com",
+    "socials": {
+      "twitter": "https://www.twitter.com/PlanGrid",
+      "linkedin": "https://www.linkedin.com/company/plangrid"
+    },
+    "categories": [
+      "productivity"
+    ],
+    "current_stage": "acquired",
+    "first_partnered_year": 2014,
+    "partners": [
+      "doug-leone"
+    ],
+    "primary_partner": "doug-leone",
+    "milestones": {
+      "founded_year": 2011,
+      "partnered_year": 2014,
+      "ipo_year": null,
+      "acquired_year": 2018
+    },
+    "team": [
+      {
+        "name": "Ralph Gootee",
+        "role": null
+      },
+      {
+        "name": "Ryan Sutton-Gee",
+        "role": null
+      },
+      {
+        "name": "Tracy Young",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/plangrid/"
+    }
+  },
+  {
+    "id": "sequoia:thousandeyes",
+    "sequoia_id": "640",
+    "name": "ThousandEyes",
+    "slug": "thousandeyes",
+    "description": "ThousandEyes is an internet performance and digital experience monitoring company that arms everyone—engineers, teams, developers and end users—with instant insights across all connected devices within an organization.",
+    "website": "https://www.thousandeyes.com",
+    "socials": {
+      "twitter": "https://www.twitter.com/thousandeyes",
+      "linkedin": "https://www.linkedin.com/company/thousandeyes",
+      "instagram": "https://www.instagram.com/thousandeyes/"
+    },
+    "categories": [
+      "security"
+    ],
+    "current_stage": "acquired",
+    "first_partnered_year": 2011,
+    "partners": [
+      "jim-goetz",
+      "carl-eschenbach"
+    ],
+    "primary_partner": "jim-goetz",
+    "milestones": {
+      "founded_year": 2010,
+      "partnered_year": 2011,
+      "ipo_year": null,
+      "acquired_year": 2020
+    },
+    "team": [
+      {
+        "name": "Mohit Lad",
+        "role": null
+      },
+      {
+        "name": "Ricardo Oliveira",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/thousandeyes/"
+    }
+  },
+  {
+    "id": "sequoia:clever",
+    "sequoia_id": "298",
+    "name": "Clever",
+    "slug": "clever",
+    "description": "Clever simplifies educational technology for teachers and students. Its platform puts every application in one place, charging app developers, not schools, for the service.",
+    "website": "https://clever.com",
+    "socials": {
+      "twitter": "https://www.twitter.com/clever",
+      "linkedin": "https://www.linkedin.com/company/clever-inc-"
+    },
+    "categories": [
+      "security"
+    ],
+    "current_stage": "acquired",
+    "first_partnered_year": 2013,
+    "partners": [
+      "bryan-schreier"
+    ],
+    "primary_partner": "bryan-schreier",
+    "milestones": {
+      "founded_year": 2012,
+      "partnered_year": 2013,
+      "ipo_year": null,
+      "acquired_year": 2021
+    },
+    "team": [
+      {
+        "name": "Tyler Bosmeny",
+        "role": null
+      },
+      {
+        "name": "Dan Carroll",
+        "role": null
+      },
+      {
+        "name": "Rafael Garcia",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/clever/"
+    }
+  },
+  {
+    "id": "sequoia:armis-security",
+    "sequoia_id": null,
+    "name": "Armis",
+    "slug": "armis-security",
+    "description": "Armis is the first agentless, enterprise-class security platform for unmanaged and IoT devices. With Armis, companies can adopt new connected devices without fear of comprise.",
+    "website": "https://armis.com/",
+    "socials": {
+      "twitter": "https://www.twitter.com/ArmisSecurity",
+      "linkedin": "https://www.linkedin.com/company/armis-security/"
+    },
+    "categories": [
+      "security"
+    ],
+    "current_stage": "acquired",
+    "first_partnered_year": 2015,
+    "partners": [
+      "carl-eschenbach",
+      "sonya-huang"
+    ],
+    "primary_partner": "carl-eschenbach",
+    "milestones": {
+      "founded_year": 2015,
+      "partnered_year": 2015,
+      "ipo_year": null,
+      "acquired_year": 2020
+    },
+    "team": [
+      {
+        "name": "Yevgeny Dibrov",
+        "role": null
+      },
+      {
+        "name": "Nadir Izrael",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/armis-security/"
+    }
+  },
+  {
+    "id": "sequoia:whatsapp",
+    "sequoia_id": "676",
+    "name": "WhatsApp",
+    "slug": "whatsapp",
+    "description": "WhatsApp is an end-to-end encrypted mobile messaging app that lets users send messages free of charge. Acquired by Facebook in 2014, more than 2 billion people in over 180 countries now use WhatsApp to stay in touch.",
+    "website": "https://www.whatsapp.com",
+    "socials": {
+      "twitter": "https://www.twitter.com/WhatsApp",
+      "linkedin": "https://www.linkedin.com/company/whatsapp-inc."
+    },
+    "categories": [
+      "consumer"
+    ],
+    "current_stage": "acquired",
+    "first_partnered_year": 2011,
+    "partners": [
+      "jim-goetz"
+    ],
+    "primary_partner": "jim-goetz",
+    "milestones": {
+      "founded_year": 2009,
+      "partnered_year": 2011,
+      "ipo_year": null,
+      "acquired_year": 2014
+    },
+    "team": [
+      {
+        "name": "Brian Acton",
+        "role": null
+      },
+      {
+        "name": "Jan Koum",
+        "role": null
+      }
+    ],
+    "why_partnered": "We believed there was an opportunity for an independent, mobile-focused upstart to challenge the status quo of SMS messaging on the back of rising smartphone adoption. Jan and Brian had built WhatsApp to be a clean, no-nonsense messaging platform. Loved by those who adopted it, we were astonished by how rapidly it scaled with no marketing spend. It was simple and it worked.",
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/whatsapp/"
+    }
+  },
+  {
+    "id": "sequoia:instagram",
+    "sequoia_id": "413",
+    "name": "Instagram",
+    "slug": "instagram",
+    "description": "Instagram changed the way we share photos and video with mobile devices. It enables anyone to connect with more people, build a following and create compelling content that’s distinctly their own. Instagram is now part of Meta.",
+    "website": null,
+    "socials": {
+      "instagram": "https://instagram.com",
+      "twitter": "https://www.twitter.com/instagram",
+      "linkedin": "https://www.linkedin.com/company/instagram"
+    },
+    "categories": [
+      "consumer"
+    ],
+    "current_stage": "acquired",
+    "first_partnered_year": 2012,
+    "partners": [
+      "roelof-botha"
+    ],
+    "primary_partner": "roelof-botha",
+    "milestones": {
+      "founded_year": 2010,
+      "partnered_year": 2012,
+      "ipo_year": null,
+      "acquired_year": 2012
+    },
+    "team": [
+      {
+        "name": "Mike Krieger",
+        "role": null
+      },
+      {
+        "name": "Kevin Systrom",
+        "role": null
+      }
+    ],
+    "why_partnered": "In 2012, smartphones were fast supplanting cameras as the primary way to capture photos. But sharing photos was difficult—they took forever to upload and picture quality was only so-so. Kevin offered a fast, beautiful and fun way to share your life with friends. That combined with rapid user growth and engagement led us to believe Instagram had the potential to build a powerful social graph to rival those that already existed.",
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/instagram/"
+    }
+  },
+  {
+    "id": "sequoia:zappos",
+    "sequoia_id": "693",
+    "name": "Zappos",
+    "slug": "zappos",
+    "description": "Zappos is an online shoe, handbag, clothing and accessory retailer driven by exceptional customer service. The company carries thousands of footwear products and was the pioneer of free return shipping. Zappos is now part of Amazon.",
+    "website": "https://www.zappos.com/about.zhtml",
+    "socials": {
+      "twitter": "https://www.twitter.com/zappos",
+      "linkedin": "https://www.linkedin.com/company/zappos.com"
+    },
+    "categories": [
+      "consumer"
+    ],
+    "current_stage": "acquired",
+    "first_partnered_year": 2004,
+    "partners": [
+      "michael-moritz",
+      "alfred-lin"
+    ],
+    "primary_partner": "michael-moritz",
+    "milestones": {
+      "founded_year": 1999,
+      "partnered_year": 2004,
+      "ipo_year": null,
+      "acquired_year": 2009
+    },
+    "team": [
+      {
+        "name": "Tony Hsieh",
+        "role": null
+      },
+      {
+        "name": "Nick Swinmurn",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/zappos/"
+    }
+  },
+  {
+    "id": "sequoia:drift",
+    "sequoia_id": "331",
+    "name": "Drift",
+    "slug": "drift",
+    "description": "Drift is the world’s leading conversational marketing platform. It combines chat, email, video and automation to remove friction from the buying experience. Customers use Drift to upgrade the buyer experience, generate more qualified leads, and dramatically accelerate the sales cycle.",
+    "website": "https://www.drift.com/",
+    "socials": {
+      "twitter": "https://www.twitter.com/Drift",
+      "linkedin": "https://www.linkedin.com/company/5337093/"
+    },
+    "categories": [
+      "gtm"
+    ],
+    "current_stage": "acquired",
+    "first_partnered_year": 2017,
+    "partners": [
+      "pat-grady"
+    ],
+    "primary_partner": "pat-grady",
+    "milestones": {
+      "founded_year": 2014,
+      "partnered_year": 2017,
+      "ipo_year": null,
+      "acquired_year": 2021
+    },
+    "team": [
+      {
+        "name": "David Cancel",
+        "role": null
+      },
+      {
+        "name": "Elias Torres",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/drift/"
+    }
+  },
+  {
+    "id": "sequoia:linkexchange",
+    "sequoia_id": "445",
+    "name": "LinkExchange",
+    "slug": "linkexchange",
+    "description": "LinkExchange developed an internet advertising network for small businesses. It bartered ads and banner space with smaller sites and is now part of Microsoft.",
+    "website": "https://www.microsoft.com/en-us/",
+    "socials": {},
+    "categories": [
+      "gtm",
+      "marketplace"
+    ],
+    "current_stage": "acquired",
+    "first_partnered_year": 1997,
+    "partners": [
+      "michael-moritz"
+    ],
+    "primary_partner": "michael-moritz",
+    "milestones": {
+      "founded_year": 1996,
+      "partnered_year": 1997,
+      "ipo_year": null,
+      "acquired_year": 1998
+    },
+    "team": [
+      {
+        "name": "Mark Bozzini",
+        "role": null
+      },
+      {
+        "name": "Tony Hsieh",
+        "role": null
+      },
+      {
+        "name": "Ali Partovi",
+        "role": null
+      },
+      {
+        "name": "Hadi Partovi",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/linkexchange/"
+    }
+  },
+  {
+    "id": "sequoia:evernote",
+    "sequoia_id": "351",
+    "name": "Evernote",
+    "slug": "evernote",
+    "description": "Evernote brings your life’s work together in one digital workspace. It makes it easy to capture and organize notes and collaborate in a single workspace.",
+    "website": "https://www.evernote.com",
+    "socials": {
+      "twitter": "https://www.twitter.com/evernote",
+      "linkedin": "https://www.linkedin.com/company/evernote"
+    },
+    "categories": [
+      "productivity"
+    ],
+    "current_stage": "acquired",
+    "first_partnered_year": 2010,
+    "partners": [
+      "roelof-botha"
+    ],
+    "primary_partner": "roelof-botha",
+    "milestones": {
+      "founded_year": 2007,
+      "partnered_year": 2010,
+      "ipo_year": null,
+      "acquired_year": 2023
+    },
+    "team": [
+      {
+        "name": "Phil Libin",
+        "role": null
+      },
+      {
+        "name": "Stepan Pachikov",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/evernote/"
+    }
+  },
+  {
+    "id": "sequoia:loom",
+    "sequoia_id": "449",
+    "name": "Loom",
+    "slug": "loom",
+    "description": "Loom is a workplace collaboration tool focused on video. It delivers an effective way to communicate in the workplace with quick, instantly shareable videos that get the message across.Loom is now part of Atlassian.",
+    "website": "https://www.loom.com/",
+    "socials": {
+      "twitter": "https://www.twitter.com/@useloom"
+    },
+    "categories": [
+      "productivity"
+    ],
+    "current_stage": "acquired",
+    "first_partnered_year": 2019,
+    "partners": [
+      "andrew-reed"
+    ],
+    "primary_partner": "andrew-reed",
+    "milestones": {
+      "founded_year": 2016,
+      "partnered_year": 2019,
+      "ipo_year": null,
+      "acquired_year": 2023
+    },
+    "team": [
+      {
+        "name": "Vinay Hiremath",
+        "role": null
+      },
+      {
+        "name": "Joe Thomas",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/loom/"
+    }
+  },
+  {
+    "id": "sequoia:meraki",
+    "sequoia_id": "459",
+    "name": "Meraki",
+    "slug": "meraki",
+    "description": "Meraki offered a complete system of networking products, doing away with market fragmentation so companies could leverage quality network connections. Now part of Cisco, Meraki still provides routing and security solutions for home and enterprise networks through its hardware and cloud-based solutions.",
+    "website": "https://www.meraki.com",
+    "socials": {
+      "twitter": "https://www.twitter.com/meraki",
+      "linkedin": "https://www.linkedin.com/company/meraki-inc"
+    },
+    "categories": [
+      "infrastructure"
+    ],
+    "current_stage": "acquired",
+    "first_partnered_year": 2006,
+    "partners": [
+      "doug-leone",
+      "jim-goetz"
+    ],
+    "primary_partner": "doug-leone",
+    "milestones": {
+      "founded_year": 2006,
+      "partnered_year": 2006,
+      "ipo_year": null,
+      "acquired_year": 2012
+    },
+    "team": [
+      {
+        "name": "John Bicket",
+        "role": null
+      },
+      {
+        "name": "Sanjit Biswas",
+        "role": null
+      },
+      {
+        "name": "Hans Robertson",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/meraki/"
+    }
+  },
+  {
+    "id": "sequoia:neeva",
+    "sequoia_id": "484",
+    "name": "Neeva",
+    "slug": "neeva",
+    "description": "Neeva is the world’s first completely ad-free private search engine. It helps users find exactly what matters to them, whether that information is on the web, in their buried emails or an impossible-to-find document. Neeva never shows distracting ads and keeps all searches private.",
+    "website": "https://www.neeva.co",
+    "socials": {
+      "twitter": "https://www.twitter.com/neevaco",
+      "linkedin": "https://www.linkedin.com/company/neevaco/"
+    },
+    "categories": [
+      "ai"
+    ],
+    "current_stage": "acquired",
+    "first_partnered_year": 2019,
+    "partners": [
+      "bill-coughran",
+      "jim-goetz",
+      "pat-grady"
+    ],
+    "primary_partner": "bill-coughran",
+    "milestones": {
+      "founded_year": 2019,
+      "partnered_year": 2019,
+      "ipo_year": null,
+      "acquired_year": 2023
+    },
+    "team": [
+      {
+        "name": "Vivek Raghunathan",
+        "role": null
+      },
+      {
+        "name": "Sridhar Ramaswamy",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/neeva/"
+    }
+  },
+  {
+    "id": "sequoia:nxyz",
+    "sequoia_id": "10339",
+    "name": "nxyz",
+    "slug": "nxyz",
+    "description": "nxyz indexes the blockchain and provides performant, real-time, flexible blockchain data APIs for web3 developers.",
+    "website": "https://n.xyz/",
+    "socials": {
+      "twitter": "https://twitter.com/nxyzdata"
+    },
+    "categories": [
+      "crypto"
+    ],
+    "current_stage": "acquired",
+    "first_partnered_year": 2022,
+    "partners": [
+      "bill-coughran"
+    ],
+    "primary_partner": "bill-coughran",
+    "milestones": {
+      "founded_year": 2022,
+      "partnered_year": 2022,
+      "ipo_year": null,
+      "acquired_year": 2023
+    },
+    "team": [
+      {
+        "name": "Sridhar Ramaswamy",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/nxyz/"
+    }
+  },
+  {
+    "id": "sequoia:jasper",
+    "sequoia_id": "419",
+    "name": "Jasper",
+    "slug": "jasper",
+    "description": "Jasper Technologies is a mobile data carrier service. Its SaaS IoT platform lets companies quickly launch, manage and monetize IoT services worldwide. Cisco acquired Jasper Technologies in 2016.",
+    "website": "https://www.jasper.com",
+    "socials": {
+      "twitter": "https://www.twitter.com/jasper_iot",
+      "linkedin": "https://www.linkedin.com/company/jasper-wireless"
+    },
+    "categories": [
+      "infrastructure"
+    ],
+    "current_stage": "acquired",
+    "first_partnered_year": 2005,
+    "partners": [
+      "jim-goetz"
+    ],
+    "primary_partner": "jim-goetz",
+    "milestones": {
+      "founded_year": 2004,
+      "partnered_year": 2005,
+      "ipo_year": null,
+      "acquired_year": 2016
+    },
+    "team": [
+      {
+        "name": "Daniel Collins",
+        "role": null
+      },
+      {
+        "name": "Amit Gupta",
+        "role": null
+      },
+      {
+        "name": "Jahangir Mohammed",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/jasper/"
+    }
+  },
+  {
+    "id": "sequoia:jive-software",
+    "sequoia_id": "17494",
+    "name": "Jive Software",
+    "slug": "jive-software",
+    "description": "Jive pioneered Social Business Software combining the power of social networking, collaboration and community.",
+    "website": "https://www.jivesoftware.com/",
+    "socials": {
+      "twitter": "https://twitter.com/jivesoftware",
+      "linkedin": "https://www.linkedin.com/company/jive-software"
+    },
+    "categories": [
+      "productivity"
+    ],
+    "current_stage": "acquired",
+    "first_partnered_year": 2007,
+    "partners": [
+      "jim-goetz",
+      "pat-grady"
+    ],
+    "primary_partner": "jim-goetz",
+    "milestones": {
+      "founded_year": 2001,
+      "partnered_year": 2007,
+      "ipo_year": 2011,
+      "acquired_year": 2017
+    },
+    "team": [
+      {
+        "name": "Dave Hersh",
+        "role": null
+      },
+      {
+        "name": "Tony Zingale",
+        "role": null
+      },
+      {
+        "name": "Bill Lynch",
+        "role": null
+      },
+      {
+        "name": "Matt Tucker",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/jive-software/"
+    }
+  },
+  {
+    "id": "sequoia:moovit",
+    "sequoia_id": "10959",
+    "name": "Moovit",
+    "slug": "moovit",
+    "description": "Moovit is a Mobility as a Service (MaaS) solutions provider and creator of the popular urban mobility app. In 2020, Moovit was acquired by Intel to join forces with Mobileye and accelerate the adoption of autonomous transportation. Moovit’s urban mobility app has guided more than 1.5 billion users in more than 3,500 across 112 countries in getting around town, using any mode of transport. For governments, cities, and transit agencies, Moovit offers AI-powered MaaS solutions covering planning, operations, and optimization with proven value in reducing congestion, growing ridership, and increasing efficiency.",
+    "website": "https://www.moovit.com",
+    "socials": {
+      "facebook": "https://www.facebook.com/moovit",
+      "twitter": "https://twitter.com/moovit",
+      "linkedin": "https://www.linkedin.com/company/moovit",
+      "instagram": "https://www.instagram.com/moovit/",
+      "youtube": "https://www.youtube.com/user/TranzMateYTChannel?app=desktop"
+    },
+    "categories": [
+      "consumer"
+    ],
+    "current_stage": "acquired",
+    "first_partnered_year": 2013,
+    "partners": [
+      "alfred-lin"
+    ],
+    "primary_partner": "alfred-lin",
+    "milestones": {
+      "founded_year": 2012,
+      "partnered_year": 2013,
+      "ipo_year": null,
+      "acquired_year": 2020
+    },
+    "team": [
+      {
+        "name": "Roy Bick",
+        "role": null
+      },
+      {
+        "name": "Nir Erez",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/moovit/"
+    }
+  },
+  {
+    "id": "sequoia:robust-intelligence",
+    "sequoia_id": "570",
+    "name": "Robust Intelligence",
+    "slug": "robust-intelligence",
+    "description": "Robust Intelligence, now a part of Cisco, builds products that integrate seamlessly into the AI-development life cycle to ensure robustness and reliability. Founded by academics at Harvard in 2019, Robust Intelligence’s platform eliminates the risks inherent in AI systems.",
+    "website": "https://robustintelligence.com/",
+    "socials": {
+      "twitter": "https://www.twitter.com/robusthq",
+      "linkedin": "https://www.linkedin.com/company/robust-intelligence/"
+    },
+    "categories": [
+      "ai"
+    ],
+    "current_stage": "acquired",
+    "first_partnered_year": 2019,
+    "partners": [
+      "bill-coughran"
+    ],
+    "primary_partner": "bill-coughran",
+    "milestones": {
+      "founded_year": 2019,
+      "partnered_year": 2019,
+      "ipo_year": null,
+      "acquired_year": 2024
+    },
+    "team": [
+      {
+        "name": "Kojin Oshiba",
+        "role": null
+      },
+      {
+        "name": "Yaron Singer",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/robust-intelligence/"
+    }
+  },
+  {
+    "id": "sequoia:youtube",
+    "sequoia_id": "689",
+    "name": "YouTube",
+    "slug": "youtube",
+    "description": "YouTube is the world’s leading video-sharing service. It makes uploading and sharing videos with family, friends and the entire world effortless. It was acquired by Google and is the web’s second most visited website.",
+    "website": null,
+    "socials": {
+      "youtube": "https://www.youtube.com",
+      "twitter": "https://www.twitter.com/YouTube",
+      "linkedin": "https://www.linkedin.com/company/youtube"
+    },
+    "categories": [
+      "consumer"
+    ],
+    "current_stage": "acquired",
+    "first_partnered_year": 2005,
+    "partners": [
+      "roelof-botha"
+    ],
+    "primary_partner": "roelof-botha",
+    "milestones": {
+      "founded_year": 2005,
+      "partnered_year": 2005,
+      "ipo_year": null,
+      "acquired_year": 2006
+    },
+    "team": [
+      {
+        "name": "Steve Chen",
+        "role": null
+      },
+      {
+        "name": "Chad Hurley",
+        "role": null
+      },
+      {
+        "name": "Jawed Karim",
+        "role": null
+      }
+    ],
+    "why_partnered": "It was 2005. User-generated content and online advertising were taking off. Video was the natural next space in this content evolution. Chad, Steve and Jawed were scrappy, smart and had built an easy-to-use product we believed in. YouTube’s goal was clear from the outset—become the primary destination for user-generated video content on the web.",
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/youtube/"
+    }
+  },
+  {
+    "id": "sequoia:github",
+    "sequoia_id": "381",
+    "name": "GitHub",
+    "slug": "github",
+    "description": "GitHub is the system of record for code, now part of Microsoft. Through its passionate community developers discover and build millions of projects assisted by AI.",
+    "website": null,
+    "socials": {
+      "github": "https://www.github.com",
+      "twitter": "https://www.twitter.com/github",
+      "linkedin": "https://www.linkedin.com/company/github"
+    },
+    "categories": [
+      "developer-tools"
+    ],
+    "current_stage": "acquired",
+    "first_partnered_year": 2015,
+    "partners": [
+      "jim-goetz",
+      "andrew-reed"
+    ],
+    "primary_partner": "jim-goetz",
+    "milestones": {
+      "founded_year": 2008,
+      "partnered_year": 2015,
+      "ipo_year": null,
+      "acquired_year": 2018
+    },
+    "team": [
+      {
+        "name": "PJ Hyett",
+        "role": null
+      },
+      {
+        "name": "Chris Wanstrath",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/github/"
+    }
+  },
+  {
+    "id": "sequoia:humble-bundle",
+    "sequoia_id": "18988",
+    "name": "Humble Bundle",
+    "slug": "humble-bundle",
+    "description": "Humble Bundle is a digital content distribution service, now a part of Ziff Davis.",
+    "website": "https://www.humblebundle.com/",
+    "socials": {
+      "facebook": "https://www.facebook.com/humblebundle/",
+      "twitter": "https://twitter.com/humble",
+      "linkedin": "https://www.linkedin.com/company/humble-bundle/",
+      "instagram": "https://www.instagram.com/humblebundle"
+    },
+    "categories": [
+      "consumer",
+      "marketplace"
+    ],
+    "current_stage": "acquired",
+    "first_partnered_year": 2011,
+    "partners": [
+      "alfred-lin"
+    ],
+    "primary_partner": "alfred-lin",
+    "milestones": {
+      "founded_year": 2010,
+      "partnered_year": 2011,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "John Graham",
+        "role": null
+      },
+      {
+        "name": "Jeff Rosen",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/humble-bundle/"
+    }
+  },
+  {
+    "id": "sequoia:futureadvisor",
+    "sequoia_id": "18989",
+    "name": "FutureAdvisor",
+    "slug": "futureadvisor",
+    "description": "FutureAdvisor was a financial services provider for individuals, acquired by BlackRock.",
+    "website": null,
+    "socials": {},
+    "categories": [
+      "consumer",
+      "fintech"
+    ],
+    "current_stage": "acquired",
+    "first_partnered_year": 2010,
+    "partners": [
+      "alfred-lin"
+    ],
+    "primary_partner": "alfred-lin",
+    "milestones": {
+      "founded_year": 2010,
+      "partnered_year": 2010,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Bo Lu",
+        "role": null
+      },
+      {
+        "name": "Jon Xu",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/futureadvisor/"
+    }
+  },
+  {
+    "id": "sequoia:quantenna",
+    "sequoia_id": "548",
+    "name": "Quantenna",
+    "slug": "quantenna",
+    "description": "Quantenna’s wireless semiconductors improved Wi-Fi networks in the home, enterprise and outdoors. Its technology is transformed the way HD video and data streams for homes and businesses by improving connectivity speeds. Acquired by ON Semiconductor in 2019.",
+    "website": null,
+    "socials": {
+      "twitter": "https://www.twitter.com/QuantennaCom",
+      "linkedin": "https://www.linkedin.com/company/quantenna-communications"
+    },
+    "categories": [
+      "hardware"
+    ],
+    "current_stage": "acquired",
+    "first_partnered_year": 2006,
+    "partners": [
+      "jim-goetz"
+    ],
+    "primary_partner": "jim-goetz",
+    "milestones": {
+      "founded_year": 2006,
+      "partnered_year": 2006,
+      "ipo_year": 2016,
+      "acquired_year": 2019
+    },
+    "team": [
+      {
+        "name": "Sam Heidari",
+        "role": null
+      },
+      {
+        "name": "Farrokh Farrokhi",
+        "role": null
+      },
+      {
+        "name": "Andrea Goldsmith",
+        "role": null
+      },
+      {
+        "name": "Behrooz Rezvani",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/quantenna/"
+    }
+  },
+  {
+    "id": "sequoia:mellanox",
+    "sequoia_id": "19737",
+    "name": "Mellanox",
+    "slug": "mellanox",
+    "description": "Mellanox (acquired by Nvidia) provided high-speed networking hardware including InfiniBand and Ethernet adapters for data centers. It specialized in low-latency interconnect solutions essential for AI and high-performance computing workloads.",
+    "website": "https://www.nvidia.com/en-us/networking/management-software/",
+    "socials": {},
+    "categories": [
+      "hardware",
+      "infrastructure"
+    ],
+    "current_stage": "acquired",
+    "first_partnered_year": 1999,
+    "partners": [],
+    "primary_partner": null,
+    "milestones": {
+      "founded_year": 1999,
+      "partnered_year": 1999,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/mellanox/"
+    }
+  },
+  {
+    "id": "sequoia:bridge",
+    "sequoia_id": "18039",
+    "name": "Bridge",
+    "slug": "bridge",
+    "description": "Bridge, now a part of Stripe, is building critical infrastructure to support stablecoin payments enabling companies to move money at internet speed.",
+    "website": "https://www.bridge.xyz/",
+    "socials": {
+      "linkedin": "https://www.linkedin.com/company/bridge-apis/"
+    },
+    "categories": [
+      "crypto"
+    ],
+    "current_stage": "acquired",
+    "first_partnered_year": 2023,
+    "partners": [
+      "shaun-maguire",
+      "josephine-chen"
+    ],
+    "primary_partner": "shaun-maguire",
+    "milestones": {
+      "founded_year": 2022,
+      "partnered_year": 2023,
+      "ipo_year": null,
+      "acquired_year": 2024
+    },
+    "team": [
+      {
+        "name": "Zach Abrams",
+        "role": null
+      },
+      {
+        "name": "Sean Yu",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/bridge/"
+    }
+  },
+  {
+    "id": "sequoia:privy",
+    "sequoia_id": "9394",
+    "name": "Privy",
+    "slug": "privy",
+    "description": "Privy (acquired by Stripe) builds privacy tooling for Web3. With Privy, developers can manage users’ private data off-chain. Privy makes user data simple. With a few lines of code, developers integrate sensitive user data into your product securely. They can build more delightful experiences into their product. Their users stay in control of their data.",
+    "website": "https://privy.io",
+    "socials": {
+      "twitter": "https://twitter.com/privy_io",
+      "linkedin": "https://www.linkedin.com/company/privyio"
+    },
+    "categories": [
+      "crypto",
+      "security"
+    ],
+    "current_stage": "acquired",
+    "first_partnered_year": 2021,
+    "partners": [
+      "shaun-maguire",
+      "josephine-chen"
+    ],
+    "primary_partner": "shaun-maguire",
+    "milestones": {
+      "founded_year": 2021,
+      "partnered_year": 2021,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Asta Li",
+        "role": null
+      },
+      {
+        "name": "Henri Stern",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/privy/"
+    }
+  },
+  {
+    "id": "sequoia:tola",
+    "sequoia_id": "10352",
+    "name": "Tola",
+    "slug": "tola",
+    "description": null,
+    "website": "https://usetola.com/",
+    "socials": {
+      "linkedin": "https://www.linkedin.com/company/tolahq/"
+    },
+    "categories": [
+      "fintech"
+    ],
+    "current_stage": "acquired",
+    "first_partnered_year": 2022,
+    "partners": [
+      "george-robson"
+    ],
+    "primary_partner": "george-robson",
+    "milestones": {
+      "founded_year": 2022,
+      "partnered_year": 2022,
+      "ipo_year": null,
+      "acquired_year": 2025
+    },
+    "team": [
+      {
+        "name": "Alen Cvisic",
+        "role": null
+      },
+      {
+        "name": "Guillaume Simard",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/tola/"
+    }
+  },
+  {
+    "id": "sequoia:mos",
+    "sequoia_id": "474",
+    "name": "Mos",
+    "slug": "mos",
+    "description": "Mos is an app that gives college students access to the largest pool of financial aid and scholarships in America.",
+    "website": "https://www.mos.com/",
+    "socials": {
+      "twitter": "https://www.twitter.com/mosdotcom",
+      "linkedin": "https://www.linkedin.com/company/mosdotcom/",
+      "instagram": "https://www.instagram.com/mosdotcom/"
+    },
+    "categories": [
+      "consumer",
+      "fintech"
+    ],
+    "current_stage": "acquired",
+    "first_partnered_year": 2020,
+    "partners": [
+      "jess-lee",
+      "george-robson"
+    ],
+    "primary_partner": "jess-lee",
+    "milestones": {
+      "founded_year": 2017,
+      "partnered_year": 2020,
+      "ipo_year": null,
+      "acquired_year": 2025
+    },
+    "team": [
+      {
+        "name": "Amira Yahyaoui",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/mos/"
+    }
+  }
+]

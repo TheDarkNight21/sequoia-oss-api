@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:armis-security",
+  "sequoia_id": null,
+  "name": "Armis",
+  "slug": "armis-security",
+  "description": "Armis is the first agentless, enterprise-class security platform for unmanaged and IoT devices. With Armis, companies can adopt new connected devices without fear of comprise.",
+  "website": "https://armis.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/ArmisSecurity",
+    "linkedin": "https://www.linkedin.com/company/armis-security/"
+  },
+  "categories": [
+    "security"
+  ],
+  "current_stage": "acquired",
+  "first_partnered_year": 2015,
+  "partners": [
+    "carl-eschenbach",
+    "sonya-huang"
+  ],
+  "primary_partner": "carl-eschenbach",
+  "milestones": {
+    "founded_year": 2015,
+    "partnered_year": 2015,
+    "ipo_year": null,
+    "acquired_year": 2020
+  },
+  "team": [
+    {
+      "name": "Yevgeny Dibrov",
+      "role": null
+    },
+    {
+      "name": "Nadir Izrael",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/armis-security/"
+  }
+}

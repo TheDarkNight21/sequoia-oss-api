@@ -1,28 +1,32 @@
 {
-  "last_updated_iso": "2026-02-10T20:13:59.895529+00:00",
+  "last_updated_iso": "2026-02-10T20:27:09.156958+00:00",
   "schema_version": "1.0.0",
-  "total_companies": 50,
+  "total_companies": 393,
   "counts_by_stage": {
-    "acquired": 8,
-    "growth": 19,
-    "ipo": 14,
-    "early": 8
+    "acquired": 33,
+    "growth": 157,
+    "ipo": 66,
+    "early": 77,
+    "pre-seed-seed": 48
   },
   "counts_by_category": {
-    "gtm": 4,
-    "infrastructure": 8,
-    "consumer": 13,
-    "hardware": 2,
-    "healthcare": 4,
-    "fintech": 3,
-    "marketplace": 3,
-    "data-analytics": 3,
-    "developer-tools": 3,
-    "security": 11,
-    "operations": 5,
-    "crypto": 3,
-    "ai": 2,
-    "productivity": 2
+    "gtm": 30,
+    "infrastructure": 22,
+    "consumer": 86,
+    "hardware": 33,
+    "healthcare": 34,
+    "fintech": 40,
+    "marketplace": 16,
+    "data-analytics": 30,
+    "developer-tools": 34,
+    "security": 34,
+    "operations": 32,
+    "crypto": 22,
+    "ai": 110,
+    "productivity": 25,
+    "legal": 9,
+    "climate": 6,
+    "defense": 4
   },
   "source_entry_url": "https://sequoiacap.com/our-companies/"
 }

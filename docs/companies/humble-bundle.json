@@ -1,0 +1,45 @@
+{
+  "id": "sequoia:humble-bundle",
+  "sequoia_id": "18988",
+  "name": "Humble Bundle",
+  "slug": "humble-bundle",
+  "description": "Humble Bundle is a digital content distribution service, now a part of Ziff Davis.",
+  "website": "https://www.humblebundle.com/",
+  "socials": {
+    "facebook": "https://www.facebook.com/humblebundle/",
+    "twitter": "https://twitter.com/humble",
+    "linkedin": "https://www.linkedin.com/company/humble-bundle/",
+    "instagram": "https://www.instagram.com/humblebundle"
+  },
+  "categories": [
+    "consumer",
+    "marketplace"
+  ],
+  "current_stage": "acquired",
+  "first_partnered_year": 2011,
+  "partners": [
+    "alfred-lin"
+  ],
+  "primary_partner": "alfred-lin",
+  "milestones": {
+    "founded_year": 2010,
+    "partnered_year": 2011,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "John Graham",
+      "role": null
+    },
+    {
+      "name": "Jeff Rosen",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/humble-bundle/"
+  }
+}

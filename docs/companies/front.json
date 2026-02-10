@@ -1,0 +1,48 @@
+{
+  "id": "sequoia:front",
+  "sequoia_id": "369",
+  "name": "Front",
+  "slug": "front",
+  "description": "Front is the AI-powered customer service platform built for collaboration. It brings all support channels into a modern, intuitive workspace where teams can collaborate on requests, automate manual processes and delight customers.",
+  "website": "https://front.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/FrontHQ",
+    "linkedin": "https://www.linkedin.com/company/3809194/"
+  },
+  "categories": [
+    "productivity"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2017,
+  "partners": [
+    "bryan-schreier",
+    "andrew-reed",
+    "ravi-gupta"
+  ],
+  "primary_partner": "bryan-schreier",
+  "milestones": {
+    "founded_year": 2013,
+    "partnered_year": 2017,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Dan O'Connell",
+      "role": null
+    },
+    {
+      "name": "Mathilde Collin",
+      "role": null
+    },
+    {
+      "name": "Laurent Perrin",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/front/"
+  }
+}

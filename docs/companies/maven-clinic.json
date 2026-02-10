@@ -1,0 +1,37 @@
+{
+  "id": "sequoia:maven-clinic",
+  "sequoia_id": null,
+  "name": "Maven",
+  "slug": "maven-clinic",
+  "description": "Maven is the largest virtual clinic for women and family health that provides holistic care. Maven’s platform cuts costs and drives better health outcomes for parents and children alike.",
+  "website": "https://www.mavenclinic.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/mavenclinic"
+  },
+  "categories": [
+    "healthcare"
+  ],
+  "current_stage": null,
+  "first_partnered_year": 2018,
+  "partners": [
+    "jess-lee"
+  ],
+  "primary_partner": "jess-lee",
+  "milestones": {
+    "founded_year": 2014,
+    "partnered_year": 2018,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Katherine Ryder",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/maven-clinic/"
+  }
+}

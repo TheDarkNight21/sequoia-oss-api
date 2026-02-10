@@ -1,0 +1,54 @@
+{
+  "id": "sequoia:glean",
+  "sequoia_id": "9768",
+  "name": "Glean",
+  "slug": "glean",
+  "description": "Glean is the work assistant with intuition. It brings all your company’s knowledge together, so you can search for exactly what you need and discover the things you should know. Glean searches across all your company’s apps, using its understanding of who you are, what you’re working on, and who you’re working with, to deliver highly personalized results, instantly. It surfaces knowledge and makes connections with the people who can help—making it easier for you and your team to get big things done.",
+  "website": "https://www.glean.com",
+  "socials": {
+    "facebook": "https://www.facebook.com/GleanWork/",
+    "twitter": "https://twitter.com/gleanwork",
+    "linkedin": "https://www.linkedin.com/company/gleanwork",
+    "instagram": "https://www.instagram.com/gleanwork/",
+    "youtube": "https://www.youtube.com/channel/UCY0JDJWRBXrR0m1SqWPVB9A"
+  },
+  "categories": [
+    "ai",
+    "productivity"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2022,
+  "partners": [
+    "sonya-huang"
+  ],
+  "primary_partner": "sonya-huang",
+  "milestones": {
+    "founded_year": 2019,
+    "partnered_year": 2022,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Tony Gentilcore",
+      "role": null
+    },
+    {
+      "name": "Arvind Jain",
+      "role": null
+    },
+    {
+      "name": "Piyush Prahladka",
+      "role": null
+    },
+    {
+      "name": "T.R. Vishwanath",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/glean/"
+  }
+}

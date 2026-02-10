@@ -1,0 +1,28 @@
+{
+  "id": "sequoia:brewbird",
+  "sequoia_id": "17421",
+  "name": "Brewbird",
+  "slug": "brewbird",
+  "description": "Brewbird provides coffee machines and sustainable whole-bean pods for the workplace.",
+  "website": "https://www.brewbird.com/",
+  "socials": {},
+  "categories": [
+    "operations"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2019,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 2012,
+    "partnered_year": 2019,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/brewbird/"
+  }
+}

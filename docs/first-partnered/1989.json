@@ -1,0 +1,15 @@
+{
+  "year": 1989,
+  "companies": [
+    {
+      "id": "sequoia:microchip-technology",
+      "name": "Microchip Technology",
+      "slug": "microchip-technology"
+    },
+    {
+      "id": "sequoia:quicklogic",
+      "name": "QuickLogic",
+      "slug": "quicklogic"
+    }
+  ]
+}

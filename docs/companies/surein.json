@@ -1,0 +1,44 @@
+{
+  "id": "sequoia:surein",
+  "sequoia_id": "9906",
+  "name": "SureIn",
+  "slug": "surein",
+  "description": "SureIn empowers SMBs to efficiently manage their risk and insurance. As an independent insurance platform, we keep track of the customer’s risk profile & insurance portfolio on an ongoing basis. Starting with the gastronomy vertical, SureIn tackles one vertical at a time to provide a best-in-class user centric product and service experience. We subsequently expand the proposition with the development of own and highly individualized insurance products, adding them into the mix of our all-in-one platform as well expanding vertically into adjacent industries.",
+  "website": "https://www.surein.de/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/sure-in",
+    "instagram": "https://www.instagram.com/gosurein/"
+  },
+  "categories": [
+    "operations"
+  ],
+  "current_stage": "pre-seed-seed",
+  "first_partnered_year": 2022,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 2021,
+    "partnered_year": 2022,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Daniel Dierkes",
+      "role": null
+    },
+    {
+      "name": "Maximilian Geißinger",
+      "role": null
+    },
+    {
+      "name": "David Schara",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/surein/"
+  }
+}

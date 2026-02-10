@@ -1,0 +1,47 @@
+{
+  "id": "sequoia:nominal",
+  "sequoia_id": "19589",
+  "name": "Nominal",
+  "slug": "nominal",
+  "description": "Nominal builds the essential software stack that enables hardware teams to test and iterate as rapidly as software teams. With deep roots in aerospace and defense, Nominal empowers engineers to continuously monitor, validate and deploy innovations, transforming how mission-critical hardware is built and operated.",
+  "website": "https://nominal.io/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/nominal-inc/"
+  },
+  "categories": [
+    "data-analytics",
+    "defense"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2025,
+  "partners": [
+    "alfred-lin",
+    "anas-biad"
+  ],
+  "primary_partner": "alfred-lin",
+  "milestones": {
+    "founded_year": 2022,
+    "partnered_year": 2025,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Jason Hoch",
+      "role": null
+    },
+    {
+      "name": "Cameron McCord",
+      "role": null
+    },
+    {
+      "name": "Bryce Strauss",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/nominal/"
+  }
+}

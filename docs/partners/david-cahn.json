@@ -1,0 +1,36 @@
+{
+  "id": "david-cahn",
+  "name": "David Cahn",
+  "companies": [
+    {
+      "id": "sequoia:clay",
+      "name": "Clay",
+      "slug": "clay"
+    },
+    {
+      "id": "sequoia:notion",
+      "name": "Notion",
+      "slug": "notion"
+    },
+    {
+      "id": "sequoia:kela",
+      "name": "Kela",
+      "slug": "kela"
+    },
+    {
+      "id": "sequoia:hugging-face",
+      "name": "Hugging Face",
+      "slug": "hugging-face"
+    },
+    {
+      "id": "sequoia:juicebox",
+      "name": "Juicebox",
+      "slug": "juicebox"
+    },
+    {
+      "id": "sequoia:sesame-ai",
+      "name": "Sesame AI",
+      "slug": "sesame-ai"
+    }
+  ]
+}

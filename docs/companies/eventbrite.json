@@ -1,0 +1,47 @@
+{
+  "id": "sequoia:eventbrite",
+  "sequoia_id": "349",
+  "name": "Eventbrite",
+  "slug": "eventbrite",
+  "description": "Eventbrite is a global self-service ticketing platform for live experiences. From music festivals and marathons to conferences and fundraisers, anyone can use the platform to discover enriching events.",
+  "website": "https://www.eventbrite.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/eventbrite",
+    "linkedin": "https://www.linkedin.com/company/eventbrite"
+  },
+  "categories": [
+    "consumer",
+    "marketplace"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 2009,
+  "partners": [
+    "roelof-botha"
+  ],
+  "primary_partner": "roelof-botha",
+  "milestones": {
+    "founded_year": 2006,
+    "partnered_year": 2009,
+    "ipo_year": 2018,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Renaud Visage",
+      "role": null
+    },
+    {
+      "name": "Julia Hartz",
+      "role": null
+    },
+    {
+      "name": "Kevin Hartz",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/eventbrite/"
+  }
+}

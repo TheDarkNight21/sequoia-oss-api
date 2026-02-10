@@ -1,0 +1,10 @@
+{
+  "year": 2008,
+  "companies": [
+    {
+      "id": "sequoia:nimble-storage",
+      "name": "Nimble Storage",
+      "slug": "nimble-storage"
+    }
+  ]
+}

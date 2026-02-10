@@ -1,0 +1,44 @@
+{
+  "id": "sequoia:telda",
+  "sequoia_id": "630",
+  "name": "Telda",
+  "slug": "telda",
+  "description": "Telda is a payment and money transfer platform for millennials and Gen Z. For those who’ve sought an alternative to traditional banking, Telda offers a better way to send, spend and save money.",
+  "website": "https://telda.app",
+  "socials": {
+    "twitter": "https://www.twitter.com/teldaapp",
+    "linkedin": "https://www.linkedin.com/company/telda",
+    "instagram": "https://www.instagram.com/teldaapp"
+  },
+  "categories": [
+    "consumer",
+    "fintech"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2021,
+  "partners": [
+    "george-robson"
+  ],
+  "primary_partner": "george-robson",
+  "milestones": {
+    "founded_year": 2021,
+    "partnered_year": 2021,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Ahmed Sabbah",
+      "role": null
+    },
+    {
+      "name": "Youssef Sholkamy",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/telda/"
+  }
+}

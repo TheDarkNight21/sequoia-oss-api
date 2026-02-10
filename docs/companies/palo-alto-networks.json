@@ -1,0 +1,55 @@
+{
+  "id": "sequoia:palo-alto-networks",
+  "sequoia_id": "522",
+  "name": "Palo Alto Networks",
+  "slug": "palo-alto-networks",
+  "description": "Palo Alto Networks is a global cybersecurity leader. It’s shaping the cloud-centric future with technology that transforms the way people and organizations operate. Its software helps address the world’s greatest security challenges using the latest breakthroughs in AI, analytics, automation and orchestration.",
+  "website": "https://www.paloaltonetworks.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/PaloAltoNtwks",
+    "linkedin": "https://www.linkedin.com/company/palo-alto-networks"
+  },
+  "categories": [
+    "security"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 2005,
+  "partners": [
+    "jim-goetz",
+    "carl-eschenbach"
+  ],
+  "primary_partner": "jim-goetz",
+  "milestones": {
+    "founded_year": 2005,
+    "partnered_year": 2005,
+    "ipo_year": 2012,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Nikesh Arora",
+      "role": null
+    },
+    {
+      "name": "Mark McLaughlin",
+      "role": null
+    },
+    {
+      "name": "Rajiv Batra",
+      "role": null
+    },
+    {
+      "name": "Lee Klarich",
+      "role": null
+    },
+    {
+      "name": "Nir Zuk",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/palo-alto-networks/"
+  }
+}

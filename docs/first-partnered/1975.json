@@ -1,0 +1,10 @@
+{
+  "year": 1975,
+  "companies": [
+    {
+      "id": "sequoia:atari",
+      "name": "Atari",
+      "slug": "atari"
+    }
+  ]
+}

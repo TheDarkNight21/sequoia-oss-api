@@ -1,0 +1,240 @@
+{
+  "year": 2022,
+  "companies": [
+    {
+      "id": "sequoia:cyera",
+      "name": "Cyera",
+      "slug": "cyera"
+    },
+    {
+      "id": "sequoia:the-boring-company",
+      "name": "The Boring Company",
+      "slug": "the-boring-company"
+    },
+    {
+      "id": "sequoia:fides",
+      "name": "Fides",
+      "slug": "fides"
+    },
+    {
+      "id": "sequoia:revmap",
+      "name": "RevMap",
+      "slug": "revmap"
+    },
+    {
+      "id": "sequoia:telescope",
+      "name": "Telescope",
+      "slug": "telescope"
+    },
+    {
+      "id": "sequoia:meter",
+      "name": "Meter",
+      "slug": "meter"
+    },
+    {
+      "id": "sequoia:clipboard-health",
+      "name": "Clipboard Health",
+      "slug": "clipboard-health"
+    },
+    {
+      "id": "sequoia:layerzero",
+      "name": "LayerZero",
+      "slug": "layerzero"
+    },
+    {
+      "id": "sequoia:caldera",
+      "name": "Caldera",
+      "slug": "caldera"
+    },
+    {
+      "id": "sequoia:citadel-securities",
+      "name": "Citadel Securities",
+      "slug": "citadel-securities"
+    },
+    {
+      "id": "sequoia:twain",
+      "name": "Twain",
+      "slug": "twain"
+    },
+    {
+      "id": "sequoia:arcwise",
+      "name": "Arcwise",
+      "slug": "arcwise"
+    },
+    {
+      "id": "sequoia:flagship",
+      "name": "Flagship",
+      "slug": "flagship"
+    },
+    {
+      "id": "sequoia:surein",
+      "name": "SureIn",
+      "slug": "surein"
+    },
+    {
+      "id": "sequoia:x",
+      "name": "X",
+      "slug": "x"
+    },
+    {
+      "id": "sequoia:studeo",
+      "name": "Studeo",
+      "slug": "studeo"
+    },
+    {
+      "id": "sequoia:safara",
+      "name": "Safara",
+      "slug": "safara"
+    },
+    {
+      "id": "sequoia:chkk",
+      "name": "Chkk",
+      "slug": "chkk"
+    },
+    {
+      "id": "sequoia:blockaid",
+      "name": "Blockaid",
+      "slug": "blockaid"
+    },
+    {
+      "id": "sequoia:gladia",
+      "name": "Gladia",
+      "slug": "gladia"
+    },
+    {
+      "id": "sequoia:hallway",
+      "name": "Hallway",
+      "slug": "hallway"
+    },
+    {
+      "id": "sequoia:breeze",
+      "name": "Breeze.cash",
+      "slug": "breeze"
+    },
+    {
+      "id": "sequoia:nxyz",
+      "name": "nxyz",
+      "slug": "nxyz"
+    },
+    {
+      "id": "sequoia:summer-health",
+      "name": "Summer Health",
+      "slug": "summer-health"
+    },
+    {
+      "id": "sequoia:otto-finance",
+      "name": "Otto Finance",
+      "slug": "otto-finance"
+    },
+    {
+      "id": "sequoia:roon",
+      "name": "Roon",
+      "slug": "roon"
+    },
+    {
+      "id": "sequoia:stainless",
+      "name": "Stainless",
+      "slug": "stainless"
+    },
+    {
+      "id": "sequoia:curie",
+      "name": "Curie",
+      "slug": "curie"
+    },
+    {
+      "id": "sequoia:nsave",
+      "name": "nsave",
+      "slug": "nsave"
+    },
+    {
+      "id": "sequoia:edx-markets",
+      "name": "EDX Markets",
+      "slug": "edx-markets"
+    },
+    {
+      "id": "sequoia:glean",
+      "name": "Glean",
+      "slug": "glean"
+    },
+    {
+      "id": "sequoia:robco",
+      "name": "Robco",
+      "slug": "robco"
+    },
+    {
+      "id": "sequoia:espresso-systems",
+      "name": "Espresso Systems",
+      "slug": "espresso-systems"
+    },
+    {
+      "id": "sequoia:synativ",
+      "name": "Synativ",
+      "slug": "synativ"
+    },
+    {
+      "id": "sequoia:deno",
+      "name": "Deno",
+      "slug": "deno"
+    },
+    {
+      "id": "sequoia:popsink",
+      "name": "Popsink",
+      "slug": "popsink"
+    },
+    {
+      "id": "sequoia:skyramp",
+      "name": "Skyramp",
+      "slug": "skyramp"
+    },
+    {
+      "id": "sequoia:warp",
+      "name": "Warp",
+      "slug": "warp"
+    },
+    {
+      "id": "sequoia:zefir",
+      "name": "Zefir",
+      "slug": "zefir"
+    },
+    {
+      "id": "sequoia:turnkey",
+      "name": "Turnkey",
+      "slug": "turnkey"
+    },
+    {
+      "id": "sequoia:fireworks-ai",
+      "name": "Fireworks AI",
+      "slug": "fireworks-ai"
+    },
+    {
+      "id": "sequoia:hugging-face",
+      "name": "Hugging Face",
+      "slug": "hugging-face"
+    },
+    {
+      "id": "sequoia:mithril",
+      "name": "Mithril",
+      "slug": "mithril"
+    },
+    {
+      "id": "sequoia:chainguard",
+      "name": "Chainguard",
+      "slug": "chainguard"
+    },
+    {
+      "id": "sequoia:rift",
+      "name": "Rift",
+      "slug": "rift"
+    },
+    {
+      "id": "sequoia:fin",
+      "name": "Fin",
+      "slug": "fin"
+    },
+    {
+      "id": "sequoia:tola",
+      "name": "Tola",
+      "slug": "tola"
+    }
+  ]
+}

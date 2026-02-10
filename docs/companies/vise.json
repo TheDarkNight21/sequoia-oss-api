@@ -1,0 +1,44 @@
+{
+  "id": "sequoia:vise",
+  "sequoia_id": "673",
+  "name": "Vise",
+  "slug": "vise",
+  "description": "Vise automates investment management with AI. Its full-stack platform spans the entire lifecycle of the advisor-client relationship, from customizing and managing client portfolios to providing ongoing intelligence. This frees up financial advisors to focus on what matters most: their client relationships.",
+  "website": "https://vise.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/viseinc",
+    "linkedin": "https://www.linkedin.com/company/viseinc/",
+    "instagram": "https://www.instagram.com/workatvise/"
+  },
+  "categories": [
+    "ai",
+    "fintech"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2019,
+  "partners": [
+    "shaun-maguire"
+  ],
+  "primary_partner": "shaun-maguire",
+  "milestones": {
+    "founded_year": 2016,
+    "partnered_year": 2019,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Runik Mehrotra",
+      "role": null
+    },
+    {
+      "name": "Samir Vasavada",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/vise/"
+  }
+}

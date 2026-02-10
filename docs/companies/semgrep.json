@@ -1,0 +1,48 @@
+{
+  "id": "sequoia:semgrep",
+  "sequoia_id": "564",
+  "name": "Semgrep",
+  "slug": "semgrep",
+  "description": "Semgrep, formerly known as r2c, is a code scanning platform for finding first and third-party security vulnerabilities in your code base.",
+  "website": "https://semgrep.dev/",
+  "socials": {
+    "twitter": "https://twitter.com/semgrep",
+    "linkedin": "https://www.linkedin.com/company/semgrep/"
+  },
+  "categories": [
+    "developer-tools",
+    "security"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2017,
+  "partners": [
+    "jim-goetz",
+    "shaun-maguire"
+  ],
+  "primary_partner": "jim-goetz",
+  "milestones": {
+    "founded_year": 2017,
+    "partnered_year": 2017,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Drew Dennison",
+      "role": null
+    },
+    {
+      "name": "Isaac Evans",
+      "role": null
+    },
+    {
+      "name": "Luke O'Malley",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/semgrep/"
+  }
+}

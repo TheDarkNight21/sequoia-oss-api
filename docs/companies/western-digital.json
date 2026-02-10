@@ -1,0 +1,28 @@
+{
+  "id": "sequoia:western-digital",
+  "sequoia_id": "18476",
+  "name": "Western Digital",
+  "slug": "western-digital",
+  "description": "Western Digital is an integrated circuit and data memory technology developer. It is one of the world’s largest computer hard disk drive (HDD) manufacturers, along with producing solid-state drives (SSDs) and flash memory devices.",
+  "website": "https://www.westerndigital.com/",
+  "socials": {},
+  "categories": [
+    "hardware"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 1980,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 1970,
+    "partnered_year": 1980,
+    "ipo_year": 1987,
+    "acquired_year": null
+  },
+  "team": [],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/western-digital/"
+  }
+}

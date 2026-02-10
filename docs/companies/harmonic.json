@@ -1,0 +1,42 @@
+{
+  "id": "sequoia:harmonic",
+  "sequoia_id": "18071",
+  "name": "Harmonic",
+  "slug": "harmonic",
+  "description": "Harmonic is building a state-of-the-art mathematical reasoning engine in pursuit of mathematical superintelligence. It aims to change the way math is taught, build truthful AI and verify software for safety-critical domains.",
+  "website": "https://harmonic.fun/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/harmonicmath/"
+  },
+  "categories": [
+    "ai"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2024,
+  "partners": [
+    "shaun-maguire",
+    "andrew-reed"
+  ],
+  "primary_partner": "shaun-maguire",
+  "milestones": {
+    "founded_year": 2023,
+    "partnered_year": 2024,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Tudor Achim",
+      "role": null
+    },
+    {
+      "name": "Vlad Tenev",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/harmonic/"
+  }
+}

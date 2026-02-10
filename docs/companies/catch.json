@@ -1,0 +1,52 @@
+{
+  "id": "sequoia:catch",
+  "sequoia_id": "7607",
+  "name": "Catch",
+  "slug": "catch",
+  "description": "Catch helps merchants and their customers save by cutting out the credit card companies. By paying directly by bank, customers save merchants on payment processing fees. Merchants pass those savings back to the customer as store credit and drive retention. Everyone wins—except the card companies.",
+  "website": "https://www.getcatch.com",
+  "socials": {
+    "facebook": "https://www.facebook.com/PayWithCatch",
+    "twitter": "https://twitter.com/paywithcatch",
+    "instagram": "https://www.instagram.com/paywithcatch/"
+  },
+  "categories": [
+    "consumer",
+    "fintech"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2020,
+  "partners": [
+    "alfred-lin"
+  ],
+  "primary_partner": "alfred-lin",
+  "milestones": {
+    "founded_year": 2020,
+    "partnered_year": 2020,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Denia Ebersole",
+      "role": null
+    },
+    {
+      "name": "Whitney LaRow",
+      "role": null
+    },
+    {
+      "name": "Nico Perdomo",
+      "role": null
+    },
+    {
+      "name": "Vijay Singh",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/catch/"
+  }
+}

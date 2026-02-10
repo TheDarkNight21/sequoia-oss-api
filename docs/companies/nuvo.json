@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:nuvo",
+  "sequoia_id": "17811",
+  "name": "Nuvo",
+  "slug": "nuvo",
+  "description": "Nuvo is building the infrastructure to transform how businesses connect, trade and grow. It provides businesses with instant access to critical trust signals that allow them to start working with new customers quickly and confidently.",
+  "website": "https://nuvo.com/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/nuvocredit/"
+  },
+  "categories": [
+    "fintech",
+    "operations"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2024,
+  "partners": [
+    "bryan-schreier",
+    "josephine-chen"
+  ],
+  "primary_partner": "bryan-schreier",
+  "milestones": {
+    "founded_year": 2021,
+    "partnered_year": 2024,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Sid Malladi",
+      "role": null
+    },
+    {
+      "name": "Rameez Remsudeen",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/nuvo/"
+  }
+}

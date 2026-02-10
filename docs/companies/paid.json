@@ -1,0 +1,52 @@
+{
+  "id": "sequoia:paid",
+  "sequoia_id": "19032",
+  "name": "Paid",
+  "slug": "paid",
+  "description": "Paid is an all-in-one, drop-in Revenue Engine for AI Agents that handles pricing, subscriptions, margins, billing, and renewals with just a few lines of code.",
+  "website": "https://paid.ai/",
+  "socials": {
+    "facebook": "https://www.facebook.com/profile.php?id=61573028266397",
+    "linkedin": "https://www.linkedin.com/company/paid-ai/",
+    "youtube": "https://www.youtube.com/@paid-ai"
+  },
+  "categories": [
+    "ai",
+    "gtm"
+  ],
+  "current_stage": "pre-seed-seed",
+  "first_partnered_year": 2025,
+  "partners": [
+    "pat-grady"
+  ],
+  "primary_partner": "pat-grady",
+  "milestones": {
+    "founded_year": 2025,
+    "partnered_year": 2025,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Raj Dosanjh",
+      "role": null
+    },
+    {
+      "name": "Manoj Ganapathy",
+      "role": null
+    },
+    {
+      "name": "Manny Medina",
+      "role": null
+    },
+    {
+      "name": "Arnon Shimoni",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/paid/"
+  }
+}

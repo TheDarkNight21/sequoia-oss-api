@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:google",
+  "sequoia_id": "387",
+  "name": "Google",
+  "slug": "google",
+  "description": "Google founders Larry Page and Sergey Brin wanted to organize the world’s information. The result is Google Search, the world’s most popular way to find information online. Google’s products include email, maps, news, shopping, payment processing and more. Google continues to invest in an open web and new technologies that improve our way of life.",
+  "website": "https://www.google.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/google",
+    "linkedin": "https://www.linkedin.com/company/google"
+  },
+  "categories": [
+    "consumer",
+    "productivity"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 1999,
+  "partners": [
+    "michael-moritz"
+  ],
+  "primary_partner": "michael-moritz",
+  "milestones": {
+    "founded_year": 1998,
+    "partnered_year": 1999,
+    "ipo_year": 2004,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Sergey Brin",
+      "role": null
+    },
+    {
+      "name": "Larry Page",
+      "role": null
+    }
+  ],
+  "why_partnered": "Larry and Sergey were on a mission to organize the world’s information, and make it universally accessible and useful. It was clear to us that they had built a superior search engine with Google. Creative partnerships where Google powered search for the Washington Post and Netscape confirmed their product’s strength and signaled a future where Google would become a verb synonymous with satisfying curiosity.",
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/google/"
+  }
+}

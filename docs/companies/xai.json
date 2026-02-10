@@ -1,0 +1,35 @@
+{
+  "id": "sequoia:xai",
+  "sequoia_id": "17532",
+  "name": "xAI",
+  "slug": "xai",
+  "description": "xAI is an AI platform for accelerating human scientific discovery. Its Grok foundation model serves the AI research community and the general public with tools for information retrieval, knowledge acquisition and understanding.",
+  "website": "https://x.ai/",
+  "socials": {},
+  "categories": [
+    "ai"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2024,
+  "partners": [
+    "shaun-maguire"
+  ],
+  "primary_partner": "shaun-maguire",
+  "milestones": {
+    "founded_year": 2023,
+    "partnered_year": 2024,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Elon Musk",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/xai/"
+  }
+}

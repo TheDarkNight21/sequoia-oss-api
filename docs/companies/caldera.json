@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:caldera",
+  "sequoia_id": "12997",
+  "name": "Caldera",
+  "slug": "caldera",
+  "description": "Caldera specializes in building high-performance, customizable, and application-specific layer-two blockchains. These custom-built blockchains (Caldera Chains) offer high throughput, low latency, and customizable features for optimizing the performance and user experience of decentralized applications, with the ability to process hundreds of transactions per second and sub-second confirmation times.",
+  "website": "https://caldera.xyz",
+  "socials": {
+    "twitter": "https://twitter.com/calderaxyz",
+    "linkedin": "https://www.linkedin.com/company/calderaxyz/"
+  },
+  "categories": [
+    "crypto",
+    "infrastructure"
+  ],
+  "current_stage": "pre-seed-seed",
+  "first_partnered_year": 2022,
+  "partners": [
+    "shaun-maguire"
+  ],
+  "primary_partner": "shaun-maguire",
+  "milestones": {
+    "founded_year": 2022,
+    "partnered_year": 2022,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Parker Jou",
+      "role": null
+    },
+    {
+      "name": "Matt Katz",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/caldera/"
+  }
+}

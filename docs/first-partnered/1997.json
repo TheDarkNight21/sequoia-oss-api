@@ -1,0 +1,10 @@
+{
+  "year": 1997,
+  "companies": [
+    {
+      "id": "sequoia:linkexchange",
+      "name": "LinkExchange",
+      "slug": "linkexchange"
+    }
+  ]
+}

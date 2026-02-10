@@ -16,6 +16,161 @@
       "id": "sequoia:evervault",
       "name": "Evervault",
       "slug": "evervault"
+    },
+    {
+      "id": "sequoia:layerzero",
+      "name": "LayerZero",
+      "slug": "layerzero"
+    },
+    {
+      "id": "sequoia:sourcegraph",
+      "name": "Sourcegraph",
+      "slug": "sourcegraph"
+    },
+    {
+      "id": "sequoia:semgrep",
+      "name": "Semgrep",
+      "slug": "semgrep"
+    },
+    {
+      "id": "sequoia:linear",
+      "name": "Linear",
+      "slug": "linear"
+    },
+    {
+      "id": "sequoia:gladia",
+      "name": "Gladia",
+      "slug": "gladia"
+    },
+    {
+      "id": "sequoia:gadget",
+      "name": "Gadget",
+      "slug": "gadget"
+    },
+    {
+      "id": "sequoia:retool",
+      "name": "Retool",
+      "slug": "retool"
+    },
+    {
+      "id": "sequoia:factory",
+      "name": "Factory",
+      "slug": "factory"
+    },
+    {
+      "id": "sequoia:observable",
+      "name": "Observable",
+      "slug": "observable"
+    },
+    {
+      "id": "sequoia:cortex",
+      "name": "Cortex",
+      "slug": "cortex"
+    },
+    {
+      "id": "sequoia:liquidmetal-ai",
+      "name": "LiquidMetal AI",
+      "slug": "liquidmetal-ai"
+    },
+    {
+      "id": "sequoia:release",
+      "name": "Release",
+      "slug": "release"
+    },
+    {
+      "id": "sequoia:stainless",
+      "name": "Stainless",
+      "slug": "stainless"
+    },
+    {
+      "id": "sequoia:github",
+      "name": "GitHub",
+      "slug": "github"
+    },
+    {
+      "id": "sequoia:pydantic",
+      "name": "Pydantic",
+      "slug": "pydantic"
+    },
+    {
+      "id": "sequoia:espresso-systems",
+      "name": "Espresso Systems",
+      "slug": "espresso-systems"
+    },
+    {
+      "id": "sequoia:deno",
+      "name": "Deno",
+      "slug": "deno"
+    },
+    {
+      "id": "sequoia:fastapi-labs",
+      "name": "FastAPI Labs",
+      "slug": "fastapi-labs"
+    },
+    {
+      "id": "sequoia:skyramp",
+      "name": "Skyramp",
+      "slug": "skyramp"
+    },
+    {
+      "id": "sequoia:warp",
+      "name": "Warp",
+      "slug": "warp"
+    },
+    {
+      "id": "sequoia:zed",
+      "name": "Zed",
+      "slug": "zed"
+    },
+    {
+      "id": "sequoia:langchain",
+      "name": "LangChain",
+      "slug": "langchain"
+    },
+    {
+      "id": "sequoia:magic",
+      "name": "Magic",
+      "slug": "magic"
+    },
+    {
+      "id": "sequoia:traversal",
+      "name": "Traversal",
+      "slug": "traversal"
+    },
+    {
+      "id": "sequoia:n8n",
+      "name": "n8n",
+      "slug": "n8n"
+    },
+    {
+      "id": "sequoia:hugging-face",
+      "name": "Hugging Face",
+      "slug": "hugging-face"
+    },
+    {
+      "id": "sequoia:cue-labs",
+      "name": "CUE Labs",
+      "slug": "cue-labs"
+    },
+    {
+      "id": "sequoia:chainguard",
+      "name": "Chainguard",
+      "slug": "chainguard"
+    },
+    {
+      "id": "sequoia:mongodb",
+      "name": "MongoDB",
+      "slug": "mongodb"
+    },
+    {
+      "id": "sequoia:replicate",
+      "name": "Replicate",
+      "slug": "replicate"
+    },
+    {
+      "id": "sequoia:unity-technologies",
+      "name": "Unity",
+      "slug": "unity-technologies"
     }
   ]
 }

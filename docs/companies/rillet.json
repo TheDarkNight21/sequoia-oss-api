@@ -1,0 +1,44 @@
+{
+  "id": "sequoia:rillet",
+  "sequoia_id": "19719",
+  "name": "Rillet",
+  "slug": "rillet",
+  "description": "Rillet is the AI-native ERP made to tailor fit the workflows of accountants and a full replacement for legacy ERPs. Fast-growing companies use Rillet to enable a smarter close with native integrations, automated journal entries and AI embedded workflows supporting multi-entity, multi-currency and multi-geography.",
+  "website": "https://www.rillet.com/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/team-rillet",
+    "youtube": "https://www.youtube.com/@RilletHQ-zt4rj"
+  },
+  "categories": [
+    "ai",
+    "operations"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2025,
+  "partners": [
+    "julien-bek",
+    "roelof-botha"
+  ],
+  "primary_partner": "julien-bek",
+  "milestones": {
+    "founded_year": 2021,
+    "partnered_year": 2025,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Nicolas Kopp",
+      "role": null
+    },
+    {
+      "name": "Stelios Modes",
+      "role": null
+    }
+  ],
+  "why_partnered": "We partnered with Rillet because Nicolas and Stelios experienced the pain of legacy general ledger solutions firsthand while scaling N26, recognizing that AI’s massive savings potential was pushing CFOs to innovate. They decided to rebuild an AI-native ERP from the ground up with a mission to enable zero-day closes and a “one-person Finance function.” This addresses companies forced to graduate from limited products to arcane systems requiring 10+ specialists and 15-20 days of manual work monthly. What impressed us most was their vision for agentic automation of the Finance function, which we believe will take the CFO experience to a whole new level.",
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/rillet/"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "sequoia:natera",
+  "sequoia_id": "482",
+  "name": "Natera",
+  "slug": "natera",
+  "description": "Natera is a global leader in DNA testing. It is changing disease management across a number of clinical areas, including oncology and women’s health, thanks to its cell-free DNA (cfDNA) technology platform approach.",
+  "website": "https://www.natera.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/NateraPrenatal",
+    "linkedin": "https://www.linkedin.com/company/natera"
+  },
+  "categories": [
+    "healthcare"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 2007,
+  "partners": [
+    "roelof-botha"
+  ],
+  "primary_partner": "roelof-botha",
+  "milestones": {
+    "founded_year": 2004,
+    "partnered_year": 2007,
+    "ipo_year": 2015,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Matthew Rabinowitz",
+      "role": null
+    },
+    {
+      "name": "Jonathan Sheena",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/natera/"
+  }
+}

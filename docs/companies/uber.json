@@ -1,0 +1,50 @@
+{
+  "id": "sequoia:uber",
+  "sequoia_id": "18982",
+  "name": "Uber",
+  "slug": "uber",
+  "description": "Uber is an on-demand ride-hailing and delivery service. Its three-sided marketplace connects consumers, drivers and merchants.",
+  "website": "https://www.uber.com/",
+  "socials": {
+    "facebook": "https://www.facebook.com/uber",
+    "twitter": "https://twitter.com/uber",
+    "linkedin": "https://www.linkedin.com/company/1815218",
+    "instagram": "https://instagram.com/uber/",
+    "youtube": "https://www.youtube.com/channel/UCgnxoUwDmmyzeigmmcf0hZA"
+  },
+  "categories": [
+    "consumer",
+    "marketplace"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 2015,
+  "partners": [
+    "alfred-lin"
+  ],
+  "primary_partner": "alfred-lin",
+  "milestones": {
+    "founded_year": 2009,
+    "partnered_year": 2015,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Dara Khosrowshahi",
+      "role": null
+    },
+    {
+      "name": "Garrett Camp",
+      "role": null
+    },
+    {
+      "name": "Travis Kalanick",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/uber/"
+  }
+}

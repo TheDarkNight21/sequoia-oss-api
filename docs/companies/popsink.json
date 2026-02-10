@@ -1,0 +1,39 @@
+{
+  "id": "sequoia:popsink",
+  "sequoia_id": "9910",
+  "name": "Popsink",
+  "slug": "popsink",
+  "description": "Popsink helps teams build and deploy data products whose impact generalizes well beyond dashboards. It provides a simple interface for users to easily capture, process and share data with humans and systems alike – all in real-time.",
+  "website": "https://popsink.com",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/popsink"
+  },
+  "categories": [
+    "data-analytics"
+  ],
+  "current_stage": "pre-seed-seed",
+  "first_partnered_year": 2022,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 2021,
+    "partnered_year": 2022,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Alexandre Colella",
+      "role": null
+    },
+    {
+      "name": "Benjamin Djidi",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/popsink/"
+  }
+}

@@ -15,6 +15,11 @@
       "id": "sequoia:xoom",
       "name": "Xoom",
       "slug": "xoom"
+    },
+    {
+      "id": "sequoia:247",
+      "name": "[24]7.ai",
+      "slug": "247"
     }
   ]
 }

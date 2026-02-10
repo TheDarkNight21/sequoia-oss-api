@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:otto-finance",
+  "sequoia_id": "9853",
+  "name": "Otto Finance",
+  "slug": "otto-finance",
+  "description": "Otto is transforming wealth management by automating key advisory workflows with AI, freeing wealth managers from outdated systems and processes. Its orchestration platform enhances efficiency, enabling advisers to serve more clients with precision. Otto streamlines & automates client onboarding, servicing, reporting, and communication, generating content and highlighting key actions. The platform also elevates the client experience through a next-gen portal, delivering scalable, personalised service seamlessly integrated into the adviser’s workflow.",
+  "website": "https://www.ottofinance.io/",
+  "socials": {
+    "facebook": "https://www.facebook.com/ottofinanceuk",
+    "twitter": "https://twitter.com/FinanceOtto",
+    "linkedin": "https://www.linkedin.com/company/ottofinance",
+    "instagram": "https://www.instagram.com/otto_finance/"
+  },
+  "categories": [
+    "ai",
+    "fintech"
+  ],
+  "current_stage": "pre-seed-seed",
+  "first_partnered_year": 2022,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 2020,
+    "partnered_year": 2022,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Madeleine Debney",
+      "role": null
+    },
+    {
+      "name": "Jan Thomas",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/otto-finance/"
+  }
+}

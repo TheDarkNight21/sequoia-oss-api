@@ -1,0 +1,46 @@
+{
+  "id": "sequoia:biomodal",
+  "sequoia_id": "12966",
+  "name": "biomodal",
+  "slug": "biomodal",
+  "description": "biomodal is an omics based life-sciences technology and analytics company delivering products that bring the dynamism of our ever-changing biology into focus. Their duet multiomics solution enables more epigenetic information from a single, low input DNA library without complex, resource intensive bioinformatics or harsh chemical treatment. Their single-base-resolution, phased sequencing approach unlocks the combinatorial power of genetic and epigenetic information in one workflow, elucidating greater biological insight within the fields of cancer, neurodegenerative disease, and ageing.",
+  "website": "https://www.biomodal.com",
+  "socials": {
+    "twitter": "https://twitter.com/biomodalhq",
+    "linkedin": "https://www.linkedin.com/company/biomodal"
+  },
+  "categories": [
+    "healthcare"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2016,
+  "partners": [
+    "roelof-botha"
+  ],
+  "primary_partner": "roelof-botha",
+  "milestones": {
+    "founded_year": 2012,
+    "partnered_year": 2016,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Peter Fromen",
+      "role": null
+    },
+    {
+      "name": "Shankar Balasubramanian",
+      "role": null
+    },
+    {
+      "name": "Bobby Yerramilli-Rao",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/biomodal/"
+  }
+}

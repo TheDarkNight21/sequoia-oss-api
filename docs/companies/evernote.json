@@ -1,0 +1,42 @@
+{
+  "id": "sequoia:evernote",
+  "sequoia_id": "351",
+  "name": "Evernote",
+  "slug": "evernote",
+  "description": "Evernote brings your life’s work together in one digital workspace. It makes it easy to capture and organize notes and collaborate in a single workspace.",
+  "website": "https://www.evernote.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/evernote",
+    "linkedin": "https://www.linkedin.com/company/evernote"
+  },
+  "categories": [
+    "productivity"
+  ],
+  "current_stage": "acquired",
+  "first_partnered_year": 2010,
+  "partners": [
+    "roelof-botha"
+  ],
+  "primary_partner": "roelof-botha",
+  "milestones": {
+    "founded_year": 2007,
+    "partnered_year": 2010,
+    "ipo_year": null,
+    "acquired_year": 2023
+  },
+  "team": [
+    {
+      "name": "Phil Libin",
+      "role": null
+    },
+    {
+      "name": "Stepan Pachikov",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/evernote/"
+  }
+}

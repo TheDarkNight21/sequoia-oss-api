@@ -1,0 +1,42 @@
+{
+  "id": "sequoia:reddit",
+  "sequoia_id": "556",
+  "name": "reddit",
+  "slug": "reddit",
+  "description": "Reddit is the internet’s leading source of interest-based content. Subreddits devoted to every imaginable topic form a network of highly-specific, community curated information.",
+  "website": "https://www.reddit.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/reddit",
+    "linkedin": "https://www.linkedin.com/company/150573"
+  },
+  "categories": [
+    "consumer"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 2014,
+  "partners": [
+    "alfred-lin"
+  ],
+  "primary_partner": "alfred-lin",
+  "milestones": {
+    "founded_year": 2005,
+    "partnered_year": 2014,
+    "ipo_year": 2024,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Steve Huffman",
+      "role": null
+    },
+    {
+      "name": "Alexis Ohanian",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/reddit/"
+  }
+}

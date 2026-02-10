@@ -1,0 +1,61 @@
+{
+  "id": "sequoia:physical-intelligence",
+  "sequoia_id": "17448",
+  "name": "Physical Intelligence",
+  "slug": "physical-intelligence",
+  "description": "Physical Intelligence is building a foundation model for robotics, bringing general-purpose AI into the physical world.",
+  "website": "https://physicalintelligence.company/",
+  "socials": {
+    "twitter": "https://twitter.com/physical_int"
+  },
+  "categories": [
+    "ai"
+  ],
+  "current_stage": "pre-seed-seed",
+  "first_partnered_year": 2024,
+  "partners": [
+    "alfred-lin"
+  ],
+  "primary_partner": "alfred-lin",
+  "milestones": {
+    "founded_year": 2024,
+    "partnered_year": 2024,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Adnan Esmail",
+      "role": null
+    },
+    {
+      "name": "Chelsea Finn",
+      "role": null
+    },
+    {
+      "name": "Lachy Groom",
+      "role": null
+    },
+    {
+      "name": "Karol Hausman",
+      "role": null
+    },
+    {
+      "name": "Brian Ichter",
+      "role": null
+    },
+    {
+      "name": "Sergey Levine",
+      "role": null
+    },
+    {
+      "name": "Quan Vuong",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/physical-intelligence/"
+  }
+}

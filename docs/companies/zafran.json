@@ -1,0 +1,47 @@
+{
+  "id": "sequoia:zafran",
+  "sequoia_id": "14926",
+  "name": "Zafran",
+  "slug": "zafran",
+  "description": "Zafran is a threat exposure management platform that integrates with security tools to reveal, remediate and mitigate all infrastructure risks. Its agentless approach reveals what is truly exploitable, while reducing manual effort.",
+  "website": "https://www.zafran.io/",
+  "socials": {
+    "twitter": "https://twitter.com/Zafran_io",
+    "linkedin": "https://www.linkedin.com/company/zafran-security/"
+  },
+  "categories": [
+    "security"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2023,
+  "partners": [
+    "doug-leone",
+    "bogomil-balkansky"
+  ],
+  "primary_partner": "doug-leone",
+  "milestones": {
+    "founded_year": 2022,
+    "partnered_year": 2023,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Snir Havdala",
+      "role": null
+    },
+    {
+      "name": "Ben Seri",
+      "role": null
+    },
+    {
+      "name": "Sanaz Yashar",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/zafran/"
+  }
+}

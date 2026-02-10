@@ -1,0 +1,47 @@
+{
+  "id": "sequoia:jitx",
+  "sequoia_id": "11384",
+  "name": "JITX",
+  "slug": "jitx",
+  "description": "Circuit boards are in every piece of electronics you have ever owned from your smartphone to your car, and are designed today by the determined efforts of expert electrical engineers. JITX lets these engineers write code to design circuit boards, bringing all the power of software development to hardware design.",
+  "website": "https://www.jitx.com",
+  "socials": {
+    "twitter": "https://twitter.com/DuncanHaldane",
+    "linkedin": "https://www.linkedin.com/company/jitx/",
+    "youtube": "https://www.youtube.com/channel/UCIVQFNAoWnHDG1dHO_x1g2g/"
+  },
+  "categories": [
+    "hardware"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2019,
+  "partners": [
+    "bill-coughran"
+  ],
+  "primary_partner": "bill-coughran",
+  "milestones": {
+    "founded_year": 2019,
+    "partnered_year": 2019,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Jonathan Bachrach",
+      "role": null
+    },
+    {
+      "name": "Duncan Haldane",
+      "role": null
+    },
+    {
+      "name": "Patrick Li",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/jitx/"
+  }
+}

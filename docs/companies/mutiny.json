@@ -1,0 +1,42 @@
+{
+  "id": "sequoia:mutiny",
+  "sequoia_id": "476",
+  "name": "Mutiny",
+  "slug": "mutiny",
+  "description": "Mutiny is a no-code AI platform helping marketers convert their top-of-funnel demand into revenue without engineers. It gives marketers what they need to drive revenue and prove it, from data and analytics to AI-powered recommendations.",
+  "website": "https://www.mutinyhq.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/mutinycorp",
+    "linkedin": "https://www.linkedin.com/company/mutinyhq"
+  },
+  "categories": [
+    "gtm"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2021,
+  "partners": [
+    "bogomil-balkansky"
+  ],
+  "primary_partner": "bogomil-balkansky",
+  "milestones": {
+    "founded_year": 2018,
+    "partnered_year": 2021,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Nikhil Mathew",
+      "role": null
+    },
+    {
+      "name": "Jaleh Rezaei",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/mutiny/"
+  }
+}

@@ -10,6 +10,31 @@
       "id": "sequoia:cellworks",
       "name": "Cellworks",
       "slug": "cellworks"
+    },
+    {
+      "id": "sequoia:qualtrics",
+      "name": "Qualtrics",
+      "slug": "qualtrics"
+    },
+    {
+      "id": "sequoia:instagram",
+      "name": "Instagram",
+      "slug": "instagram"
+    },
+    {
+      "id": "sequoia:clari",
+      "name": "Clari",
+      "slug": "clari"
+    },
+    {
+      "id": "sequoia:zipline",
+      "name": "Zipline",
+      "slug": "zipline"
+    },
+    {
+      "id": "sequoia:okta",
+      "name": "Okta",
+      "slug": "okta"
     }
   ]
 }

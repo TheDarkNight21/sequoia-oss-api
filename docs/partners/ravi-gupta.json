@@ -16,6 +16,46 @@
       "id": "sequoia:faire-wholesale",
       "name": "Faire",
       "slug": "faire-wholesale"
+    },
+    {
+      "id": "sequoia:amplitude",
+      "name": "Amplitude",
+      "slug": "amplitude"
+    },
+    {
+      "id": "sequoia:meter",
+      "name": "Meter",
+      "slug": "meter"
+    },
+    {
+      "id": "sequoia:noom",
+      "name": "Noom",
+      "slug": "noom"
+    },
+    {
+      "id": "sequoia:open",
+      "name": "Open",
+      "slug": "open"
+    },
+    {
+      "id": "sequoia:front",
+      "name": "Front",
+      "slug": "front"
+    },
+    {
+      "id": "sequoia:sierra",
+      "name": "Sierra",
+      "slug": "sierra"
+    },
+    {
+      "id": "sequoia:ramp",
+      "name": "Ramp",
+      "slug": "ramp"
+    },
+    {
+      "id": "sequoia:instacart",
+      "name": "Instacart",
+      "slug": "instacart"
     }
   ]
 }

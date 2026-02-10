@@ -1,0 +1,44 @@
+{
+  "id": "sequoia:robinhood",
+  "sequoia_id": "568",
+  "name": "Robinhood",
+  "slug": "robinhood",
+  "description": "Robinhood is democratizing finance for all by allowing anyone to invest in stocks, ETFs, options and cryptocurrencies commission-free.",
+  "website": "https://robinhood.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/RobinhoodApp",
+    "linkedin": "https://www.linkedin.com/company/robinhood/",
+    "instagram": "https://www.instagram.com/robinhoodapp/"
+  },
+  "categories": [
+    "crypto",
+    "fintech"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 2018,
+  "partners": [
+    "andrew-reed"
+  ],
+  "primary_partner": "andrew-reed",
+  "milestones": {
+    "founded_year": 2013,
+    "partnered_year": 2018,
+    "ipo_year": 2021,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Baiju Bhatt",
+      "role": null
+    },
+    {
+      "name": "Vlad Tenev",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/robinhood/"
+  }
+}

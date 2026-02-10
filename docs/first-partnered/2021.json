@@ -15,6 +15,216 @@
       "id": "sequoia:infracost",
       "name": "Infracost",
       "slug": "infracost"
+    },
+    {
+      "id": "sequoia:bolt",
+      "name": "Bolt",
+      "slug": "bolt"
+    },
+    {
+      "id": "sequoia:prelude",
+      "name": "Prelude",
+      "slug": "prelude"
+    },
+    {
+      "id": "sequoia:parallel",
+      "name": "Parallel",
+      "slug": "parallel"
+    },
+    {
+      "id": "sequoia:protege",
+      "name": "Protégé",
+      "slug": "protege"
+    },
+    {
+      "id": "sequoia:gather",
+      "name": "Gather",
+      "slug": "gather"
+    },
+    {
+      "id": "sequoia:ftx",
+      "name": "FTX",
+      "slug": "ftx"
+    },
+    {
+      "id": "sequoia:fintual",
+      "name": "Fintual",
+      "slug": "fintual"
+    },
+    {
+      "id": "sequoia:statsig",
+      "name": "Statsig",
+      "slug": "statsig"
+    },
+    {
+      "id": "sequoia:rippling",
+      "name": "Rippling",
+      "slug": "rippling"
+    },
+    {
+      "id": "sequoia:iron-fish",
+      "name": "Iron Fish",
+      "slug": "iron-fish"
+    },
+    {
+      "id": "sequoia:magic-eden",
+      "name": "Magic Eden",
+      "slug": "magic-eden"
+    },
+    {
+      "id": "sequoia:mutiny",
+      "name": "Mutiny",
+      "slug": "mutiny"
+    },
+    {
+      "id": "sequoia:xentral",
+      "name": "xentral",
+      "slug": "xentral"
+    },
+    {
+      "id": "sequoia:medallion",
+      "name": "Medallion",
+      "slug": "medallion"
+    },
+    {
+      "id": "sequoia:iambic-therapeutics",
+      "name": "Iambic Therapeutics",
+      "slug": "iambic-therapeutics"
+    },
+    {
+      "id": "sequoia:gadget",
+      "name": "Gadget",
+      "slug": "gadget"
+    },
+    {
+      "id": "sequoia:open",
+      "name": "Open",
+      "slug": "open"
+    },
+    {
+      "id": "sequoia:captions",
+      "name": "Captions",
+      "slug": "captions"
+    },
+    {
+      "id": "sequoia:grafana",
+      "name": "Grafana",
+      "slug": "grafana"
+    },
+    {
+      "id": "sequoia:getir",
+      "name": "Getir",
+      "slug": "getir"
+    },
+    {
+      "id": "sequoia:bigeye",
+      "name": "Bigeye",
+      "slug": "bigeye"
+    },
+    {
+      "id": "sequoia:kumo",
+      "name": "Kumo",
+      "slug": "kumo"
+    },
+    {
+      "id": "sequoia:veed",
+      "name": "VEED",
+      "slug": "veed"
+    },
+    {
+      "id": "sequoia:vanta",
+      "name": "Vanta",
+      "slug": "vanta"
+    },
+    {
+      "id": "sequoia:pennylane",
+      "name": "Pennylane",
+      "slug": "pennylane"
+    },
+    {
+      "id": "sequoia:draftea",
+      "name": "Draftea",
+      "slug": "draftea"
+    },
+    {
+      "id": "sequoia:notion",
+      "name": "Notion",
+      "slug": "notion"
+    },
+    {
+      "id": "sequoia:apollo",
+      "name": "Apollo",
+      "slug": "apollo"
+    },
+    {
+      "id": "sequoia:faraway",
+      "name": "Faraway",
+      "slug": "faraway"
+    },
+    {
+      "id": "sequoia:privy",
+      "name": "Privy",
+      "slug": "privy"
+    },
+    {
+      "id": "sequoia:cresta",
+      "name": "Cresta",
+      "slug": "cresta"
+    },
+    {
+      "id": "sequoia:telda",
+      "name": "Telda",
+      "slug": "telda"
+    },
+    {
+      "id": "sequoia:two",
+      "name": "Two",
+      "slug": "two"
+    },
+    {
+      "id": "sequoia:trade-republic",
+      "name": "Trade Republic",
+      "slug": "trade-republic"
+    },
+    {
+      "id": "sequoia:ledgy",
+      "name": "Ledgy",
+      "slug": "ledgy"
+    },
+    {
+      "id": "sequoia:upway",
+      "name": "Upway",
+      "slug": "upway"
+    },
+    {
+      "id": "sequoia:abby-care",
+      "name": "Abby Care",
+      "slug": "abby-care"
+    },
+    {
+      "id": "sequoia:cue-labs",
+      "name": "CUE Labs",
+      "slug": "cue-labs"
+    },
+    {
+      "id": "sequoia:tavus",
+      "name": "Tavus",
+      "slug": "tavus"
+    },
+    {
+      "id": "sequoia:replicate",
+      "name": "Replicate",
+      "slug": "replicate"
+    },
+    {
+      "id": "sequoia:evy",
+      "name": "Evy",
+      "slug": "evy"
+    },
+    {
+      "id": "sequoia:openai",
+      "name": "OpenAI",
+      "slug": "openai"
     }
   ]
 }

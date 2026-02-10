@@ -1,0 +1,49 @@
+{
+  "id": "sequoia:attentive",
+  "sequoia_id": "252",
+  "name": "Attentive",
+  "slug": "attentive",
+  "description": "Attentive is a personalized text messaging platform for innovative brands. Using real-time behavioral data, Attentive automatically sends engaging text messages to each subscriber at every step of their customer journey.",
+  "website": "https://attentivemobile.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/attentivemobile",
+    "linkedin": "https://www.linkedin.com/company/attentivemobile/",
+    "instagram": "https://www.instagram.com/attentivemobile/"
+  },
+  "categories": [
+    "ai",
+    "gtm"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2019,
+  "partners": [
+    "pat-grady",
+    "sonya-huang"
+  ],
+  "primary_partner": "pat-grady",
+  "milestones": {
+    "founded_year": 2016,
+    "partnered_year": 2019,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Amit Jhawar",
+      "role": null
+    },
+    {
+      "name": "Andrew Jones",
+      "role": null
+    },
+    {
+      "name": "Brian Long",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/attentive/"
+  }
+}

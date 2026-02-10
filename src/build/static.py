@@ -65,6 +65,13 @@ def build_all(
             "companies": entries,
         })
 
+    # companies/{subset}.json — stage-based subsets
+    for stage_id in ("ipo", "acquired"):
+        subset = [c for c in companies if c.get("current_stage") == stage_id]
+        if subset:
+            path = os.path.join(output_dir, "companies", f"{stage_id}.json")
+            _write_json(path, subset)
+
     # meta.json
     meta = _build_meta(companies, stages, categories)
     _write_json(os.path.join(output_dir, "meta.json"), meta)

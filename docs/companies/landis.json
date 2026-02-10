@@ -1,0 +1,44 @@
+{
+  "id": "sequoia:landis",
+  "sequoia_id": "433",
+  "name": "Landis",
+  "slug": "landis",
+  "description": "Landis help renters become homeowners. Its algorithms can tell anyone what they need to buy a home. It helps clients find their dream home, rent it and purchase it when they’re ready to take on a mortgage.",
+  "website": "https://www.landis.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/LandisTeam",
+    "linkedin": "https://www.linkedin.com/company/landishq",
+    "instagram": "https://www.instagram.com/landisteam/"
+  },
+  "categories": [
+    "consumer",
+    "fintech"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2020,
+  "partners": [
+    "roelof-botha"
+  ],
+  "primary_partner": "roelof-botha",
+  "milestones": {
+    "founded_year": 2018,
+    "partnered_year": 2020,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Cyril Berdugo",
+      "role": null
+    },
+    {
+      "name": "Tom Petit",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/landis/"
+  }
+}

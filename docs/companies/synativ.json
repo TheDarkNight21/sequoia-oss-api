@@ -1,0 +1,40 @@
+{
+  "id": "sequoia:synativ",
+  "sequoia_id": "9887",
+  "name": "Synativ",
+  "slug": "synativ",
+  "description": "Synativ develops geospatial AI agents that help companies speed up data formatting and transformations. Its platform allows individuals to create AI-powered data pipelines to get analysis-ready-data in minutes instead of weeks, performing operations that would typically require highly skilled data engineering teams.",
+  "website": "https://www.synativ.com/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/synativ"
+  },
+  "categories": [
+    "ai",
+    "data-analytics"
+  ],
+  "current_stage": "pre-seed-seed",
+  "first_partnered_year": 2022,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 2021,
+    "partnered_year": 2022,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Tom Bruls",
+      "role": null
+    },
+    {
+      "name": "Andrew Kanapatski",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/synativ/"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:glossier",
+  "sequoia_id": "383",
+  "name": "Glossier",
+  "slug": "glossier",
+  "description": "Glossier is an online direct-to-consumer beauty brand. With products inspired by the people who use them and a mission to amplify their voices through beauty, Glossier celebrates individuality and personal choice.",
+  "website": "https://www.glossier.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/glossier",
+    "linkedin": "https://www.linkedin.com/company/glossier/",
+    "instagram": "https://www.instagram.com/glossier/"
+  },
+  "categories": [
+    "consumer"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2019,
+  "partners": [
+    "sonya-huang"
+  ],
+  "primary_partner": "sonya-huang",
+  "milestones": {
+    "founded_year": 2014,
+    "partnered_year": 2019,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Kyle Leahy",
+      "role": null
+    },
+    {
+      "name": "Emily Weiss",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/glossier/"
+  }
+}

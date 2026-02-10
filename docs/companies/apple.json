@@ -1,0 +1,40 @@
+{
+  "id": "sequoia:apple",
+  "sequoia_id": "242",
+  "name": "Apple",
+  "slug": "apple",
+  "description": "Apple revolutionized personal technology with the Macintosh in 1984. It has repeatedly transformed the way humans interact with computers with the iPhone, iPod, MacBook, iMac and other products. Today it is the largest publicly traded company and one of the world’s most recognizable brands. Its forays into the worlds of cloud storage, wearables, music streaming and electric vehicles have proven the company continues to innovate.",
+  "website": "https://www.apple.com",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/162479"
+  },
+  "categories": [
+    "consumer",
+    "hardware"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 1978,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 1976,
+    "partnered_year": 1978,
+    "ipo_year": 1980,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Steve Jobs",
+      "role": null
+    },
+    {
+      "name": "Steve Wozniak",
+      "role": null
+    }
+  ],
+  "why_partnered": "Forty years ago, the concept of a “personal computer” didn’t exist. We backed Steve on the idea of Apple producing a consumer-centric product at an affordable price. Since then, Apple’s products have brought computing into the home, and out into the world, contributing to the disruption of nearly every industry.",
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/apple/"
+  }
+}

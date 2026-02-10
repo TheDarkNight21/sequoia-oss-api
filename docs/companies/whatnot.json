@@ -1,0 +1,44 @@
+{
+  "id": "sequoia:whatnot",
+  "sequoia_id": "20850",
+  "name": "Whatnot",
+  "slug": "whatnot",
+  "description": "Whatnot is the largest live shopping platform in North America, the U.K. and Europe. It brings people together through live, interactive shows where anyone can buy, sell, and connect over the things they love. From fashion and luxury to collectibles and cards, Whatnot helps sellers build thriving businesses and buyers engage deeply with passionate communities.",
+  "website": "https://whatnot.com/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/whatnot-inc/",
+    "instagram": "https://www.instagram.com/whatnot/?hl=en",
+    "youtube": "https://www.youtube.com/@whatnotapp"
+  },
+  "categories": [
+    "consumer"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2025,
+  "partners": [
+    "alfred-lin",
+    "isaiah-boone"
+  ],
+  "primary_partner": "alfred-lin",
+  "milestones": {
+    "founded_year": 2019,
+    "partnered_year": 2025,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Logan Head",
+      "role": null
+    },
+    {
+      "name": "Grant LaFontaine",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/whatnot/"
+  }
+}

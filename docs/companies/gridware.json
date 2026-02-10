@@ -1,0 +1,47 @@
+{
+  "id": "sequoia:gridware",
+  "sequoia_id": "17662",
+  "name": "Gridware",
+  "slug": "gridware",
+  "description": "Gridware provides wireless realtime instrumentation for utilities managing the power grid. Its system allows utilities to detect faults, expedite outage repairs and manage the long-term health of their assets.",
+  "website": "https://www.gridware.io/",
+  "socials": {
+    "twitter": "https://twitter.com/GridwareInc",
+    "linkedin": "https://www.linkedin.com/company/gridwareinc"
+  },
+  "categories": [
+    "climate"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2024,
+  "partners": [
+    "bryan-schreier",
+    "charlie-curnin"
+  ],
+  "primary_partner": "bryan-schreier",
+  "milestones": {
+    "founded_year": 2020,
+    "partnered_year": 2024,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Timothy Barat",
+      "role": null
+    },
+    {
+      "name": "A Bin Omar",
+      "role": null
+    },
+    {
+      "name": "Hall Chen",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/gridware/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "sequoia:moovit",
+  "sequoia_id": "10959",
+  "name": "Moovit",
+  "slug": "moovit",
+  "description": "Moovit is a Mobility as a Service (MaaS) solutions provider and creator of the popular urban mobility app. In 2020, Moovit was acquired by Intel to join forces with Mobileye and accelerate the adoption of autonomous transportation. Moovit’s urban mobility app has guided more than 1.5 billion users in more than 3,500 across 112 countries in getting around town, using any mode of transport. For governments, cities, and transit agencies, Moovit offers AI-powered MaaS solutions covering planning, operations, and optimization with proven value in reducing congestion, growing ridership, and increasing efficiency.",
+  "website": "https://www.moovit.com",
+  "socials": {
+    "facebook": "https://www.facebook.com/moovit",
+    "twitter": "https://twitter.com/moovit",
+    "linkedin": "https://www.linkedin.com/company/moovit",
+    "instagram": "https://www.instagram.com/moovit/",
+    "youtube": "https://www.youtube.com/user/TranzMateYTChannel?app=desktop"
+  },
+  "categories": [
+    "consumer"
+  ],
+  "current_stage": "acquired",
+  "first_partnered_year": 2013,
+  "partners": [
+    "alfred-lin"
+  ],
+  "primary_partner": "alfred-lin",
+  "milestones": {
+    "founded_year": 2012,
+    "partnered_year": 2013,
+    "ipo_year": null,
+    "acquired_year": 2020
+  },
+  "team": [
+    {
+      "name": "Roy Bick",
+      "role": null
+    },
+    {
+      "name": "Nir Erez",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/moovit/"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "sequoia:squint",
+  "sequoia_id": "13192",
+  "name": "Squint",
+  "slug": "squint",
+  "description": "Squint is a platform that connects the digital and physical worlds using cameras, sensors, and user data to present contextual information at the right time and place. With Squint, users can interact with the world around them through powerful and contextually-aware AR experiences.",
+  "website": "https://www.squint.ai/",
+  "socials": {
+    "twitter": "https://twitter.com/SquintAI",
+    "linkedin": "https://www.linkedin.com/company/squintai",
+    "youtube": "https://www.youtube.com/channel/UC065Fjre1zgTwcThmcUkBUA"
+  },
+  "categories": [
+    "ai",
+    "operations"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2023,
+  "partners": [
+    "jess-lee"
+  ],
+  "primary_partner": "jess-lee",
+  "milestones": {
+    "founded_year": 2021,
+    "partnered_year": 2023,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Devin Bhushan",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/squint/"
+  }
+}

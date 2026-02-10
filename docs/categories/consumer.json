@@ -66,6 +66,371 @@
       "id": "sequoia:yahoo",
       "name": "Yahoo",
       "slug": "yahoo"
+    },
+    {
+      "id": "sequoia:bolt",
+      "name": "Bolt",
+      "slug": "bolt"
+    },
+    {
+      "id": "sequoia:whatsapp",
+      "name": "WhatsApp",
+      "slug": "whatsapp"
+    },
+    {
+      "id": "sequoia:instagram",
+      "name": "Instagram",
+      "slug": "instagram"
+    },
+    {
+      "id": "sequoia:apple",
+      "name": "Apple",
+      "slug": "apple"
+    },
+    {
+      "id": "sequoia:zappos",
+      "name": "Zappos",
+      "slug": "zappos"
+    },
+    {
+      "id": "sequoia:glossier",
+      "name": "Glossier",
+      "slug": "glossier"
+    },
+    {
+      "id": "sequoia:atari",
+      "name": "Atari",
+      "slug": "atari"
+    },
+    {
+      "id": "sequoia:protege",
+      "name": "Protégé",
+      "slug": "protege"
+    },
+    {
+      "id": "sequoia:landis",
+      "name": "Landis",
+      "slug": "landis"
+    },
+    {
+      "id": "sequoia:electronic-arts",
+      "name": "Electronic Arts",
+      "slug": "electronic-arts"
+    },
+    {
+      "id": "sequoia:fintual",
+      "name": "Fintual",
+      "slug": "fintual"
+    },
+    {
+      "id": "sequoia:rec-room",
+      "name": "Rec Room",
+      "slug": "rec-room"
+    },
+    {
+      "id": "sequoia:picsart",
+      "name": "PicsArt",
+      "slug": "picsart"
+    },
+    {
+      "id": "sequoia:noom",
+      "name": "Noom",
+      "slug": "noom"
+    },
+    {
+      "id": "sequoia:x",
+      "name": "X",
+      "slug": "x"
+    },
+    {
+      "id": "sequoia:studeo",
+      "name": "Studeo",
+      "slug": "studeo"
+    },
+    {
+      "id": "sequoia:zum",
+      "name": "Zum",
+      "slug": "zum"
+    },
+    {
+      "id": "sequoia:commons",
+      "name": "Commons",
+      "slug": "commons"
+    },
+    {
+      "id": "sequoia:safara",
+      "name": "Safara",
+      "slug": "safara"
+    },
+    {
+      "id": "sequoia:eventbrite",
+      "name": "Eventbrite",
+      "slug": "eventbrite"
+    },
+    {
+      "id": "sequoia:sunrun",
+      "name": "Sunrun",
+      "slug": "sunrun"
+    },
+    {
+      "id": "sequoia:meeno",
+      "name": "Meeno",
+      "slug": "meeno"
+    },
+    {
+      "id": "sequoia:iris-labs",
+      "name": "Iris Labs",
+      "slug": "iris-labs"
+    },
+    {
+      "id": "sequoia:hallway",
+      "name": "Hallway",
+      "slug": "hallway"
+    },
+    {
+      "id": "sequoia:pocket-gems",
+      "name": "Pocket Gems",
+      "slug": "pocket-gems"
+    },
+    {
+      "id": "sequoia:citizen",
+      "name": "Citizen",
+      "slug": "citizen"
+    },
+    {
+      "id": "sequoia:100-thieves",
+      "name": "100 Thieves",
+      "slug": "100-thieves"
+    },
+    {
+      "id": "sequoia:the-melt",
+      "name": "The Melt",
+      "slug": "the-melt"
+    },
+    {
+      "id": "sequoia:lugg",
+      "name": "Lugg",
+      "slug": "lugg"
+    },
+    {
+      "id": "sequoia:piazza",
+      "name": "Piazza",
+      "slug": "piazza"
+    },
+    {
+      "id": "sequoia:moovit",
+      "name": "Moovit",
+      "slug": "moovit"
+    },
+    {
+      "id": "sequoia:captions",
+      "name": "Captions",
+      "slug": "captions"
+    },
+    {
+      "id": "sequoia:tanda",
+      "name": "Tanda",
+      "slug": "tanda"
+    },
+    {
+      "id": "sequoia:cafepress",
+      "name": "CafePress",
+      "slug": "cafepress"
+    },
+    {
+      "id": "sequoia:getir",
+      "name": "Getir",
+      "slug": "getir"
+    },
+    {
+      "id": "sequoia:catch",
+      "name": "Catch",
+      "slug": "catch"
+    },
+    {
+      "id": "sequoia:roon",
+      "name": "Roon",
+      "slug": "roon"
+    },
+    {
+      "id": "sequoia:sunday",
+      "name": "Sunday",
+      "slug": "sunday"
+    },
+    {
+      "id": "sequoia:nubank",
+      "name": "Nubank",
+      "slug": "nubank"
+    },
+    {
+      "id": "sequoia:dropbox",
+      "name": "Dropbox",
+      "slug": "dropbox"
+    },
+    {
+      "id": "sequoia:youtube",
+      "name": "YouTube",
+      "slug": "youtube"
+    },
+    {
+      "id": "sequoia:doordash",
+      "name": "DoorDash",
+      "slug": "doordash"
+    },
+    {
+      "id": "sequoia:reddit",
+      "name": "reddit",
+      "slug": "reddit"
+    },
+    {
+      "id": "sequoia:block",
+      "name": "Block",
+      "slug": "block"
+    },
+    {
+      "id": "sequoia:airbnb",
+      "name": "Airbnb",
+      "slug": "airbnb"
+    },
+    {
+      "id": "sequoia:paypal",
+      "name": "PayPal",
+      "slug": "paypal"
+    },
+    {
+      "id": "sequoia:decart",
+      "name": "Decart",
+      "slug": "decart"
+    },
+    {
+      "id": "sequoia:veed",
+      "name": "VEED",
+      "slug": "veed"
+    },
+    {
+      "id": "sequoia:draftea",
+      "name": "Draftea",
+      "slug": "draftea"
+    },
+    {
+      "id": "sequoia:claim",
+      "name": "Claim",
+      "slug": "claim"
+    },
+    {
+      "id": "sequoia:uber",
+      "name": "Uber",
+      "slug": "uber"
+    },
+    {
+      "id": "sequoia:humble-bundle",
+      "name": "Humble Bundle",
+      "slug": "humble-bundle"
+    },
+    {
+      "id": "sequoia:futureadvisor",
+      "name": "FutureAdvisor",
+      "slug": "futureadvisor"
+    },
+    {
+      "id": "sequoia:myome",
+      "name": "MyOme",
+      "slug": "myome"
+    },
+    {
+      "id": "sequoia:faraway",
+      "name": "Faraway",
+      "slug": "faraway"
+    },
+    {
+      "id": "sequoia:inside",
+      "name": "Inside",
+      "slug": "inside"
+    },
+    {
+      "id": "sequoia:despegar",
+      "name": "Despegar",
+      "slug": "despegar"
+    },
+    {
+      "id": "sequoia:strava",
+      "name": "Strava",
+      "slug": "strava"
+    },
+    {
+      "id": "sequoia:gigi",
+      "name": "Gigi",
+      "slug": "gigi"
+    },
+    {
+      "id": "sequoia:telda",
+      "name": "Telda",
+      "slug": "telda"
+    },
+    {
+      "id": "sequoia:elevate",
+      "name": "Elevate",
+      "slug": "elevate"
+    },
+    {
+      "id": "sequoia:kalshi",
+      "name": "Kalshi",
+      "slug": "kalshi"
+    },
+    {
+      "id": "sequoia:google",
+      "name": "Google",
+      "slug": "google"
+    },
+    {
+      "id": "sequoia:tilt",
+      "name": "Tilt",
+      "slug": "tilt"
+    },
+    {
+      "id": "sequoia:trade-republic",
+      "name": "Trade Republic",
+      "slug": "trade-republic"
+    },
+    {
+      "id": "sequoia:upway",
+      "name": "Upway",
+      "slug": "upway"
+    },
+    {
+      "id": "sequoia:delphi",
+      "name": "Delphi",
+      "slug": "delphi"
+    },
+    {
+      "id": "sequoia:abby-care",
+      "name": "Abby Care",
+      "slug": "abby-care"
+    },
+    {
+      "id": "sequoia:instacart",
+      "name": "Instacart",
+      "slug": "instacart"
+    },
+    {
+      "id": "sequoia:whatnot",
+      "name": "Whatnot",
+      "slug": "whatnot"
+    },
+    {
+      "id": "sequoia:mos",
+      "name": "Mos",
+      "slug": "mos"
+    },
+    {
+      "id": "sequoia:ethos-technologies",
+      "name": "Ethos",
+      "slug": "ethos-technologies"
+    },
+    {
+      "id": "sequoia:waymo",
+      "name": "Waymo",
+      "slug": "waymo"
     }
   ]
 }

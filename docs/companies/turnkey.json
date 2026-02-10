@@ -1,0 +1,46 @@
+{
+  "id": "sequoia:turnkey",
+  "sequoia_id": "10355",
+  "name": "Turnkey",
+  "slug": "turnkey",
+  "description": "Turnkey allows developers to generate and manage private keys across blockchains. With a simple API, builders can spin-up thousands of wallets, sign millions of transactions, and set permissions to ensure only allowed transactions are signed. Turnkey was built on a minimal, immutable, and deterministic operating system, designed for environments requiring paranoia and accountability putting builders in control of their keys while providing institutional-grade security.",
+  "website": "https://www.turnkey.io/",
+  "socials": {
+    "twitter": "https://twitter.com/turnkeyhq",
+    "linkedin": "https://www.linkedin.com/company/turnkeyhq/"
+  },
+  "categories": [
+    "crypto"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2022,
+  "partners": [
+    "alfred-lin"
+  ],
+  "primary_partner": "alfred-lin",
+  "milestones": {
+    "founded_year": 2022,
+    "partnered_year": 2022,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Bryce Ferguson",
+      "role": null
+    },
+    {
+      "name": "Jack Kearney",
+      "role": null
+    },
+    {
+      "name": "Sam McIngvale",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/turnkey/"
+  }
+}

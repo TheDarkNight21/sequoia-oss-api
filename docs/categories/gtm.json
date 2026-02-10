@@ -21,6 +21,136 @@
       "id": "sequoia:medallia",
       "name": "Medallia",
       "slug": "medallia"
+    },
+    {
+      "id": "sequoia:qualtrics",
+      "name": "Qualtrics",
+      "slug": "qualtrics"
+    },
+    {
+      "id": "sequoia:revmap",
+      "name": "RevMap",
+      "slug": "revmap"
+    },
+    {
+      "id": "sequoia:telescope",
+      "name": "Telescope",
+      "slug": "telescope"
+    },
+    {
+      "id": "sequoia:drift",
+      "name": "Drift",
+      "slug": "drift"
+    },
+    {
+      "id": "sequoia:linkexchange",
+      "name": "LinkExchange",
+      "slug": "linkexchange"
+    },
+    {
+      "id": "sequoia:clari",
+      "name": "Clari",
+      "slug": "clari"
+    },
+    {
+      "id": "sequoia:twain",
+      "name": "Twain",
+      "slug": "twain"
+    },
+    {
+      "id": "sequoia:attentive",
+      "name": "Attentive",
+      "slug": "attentive"
+    },
+    {
+      "id": "sequoia:census",
+      "name": "Census",
+      "slug": "census"
+    },
+    {
+      "id": "sequoia:mutiny",
+      "name": "Mutiny",
+      "slug": "mutiny"
+    },
+    {
+      "id": "sequoia:quilt",
+      "name": "Quilt",
+      "slug": "quilt"
+    },
+    {
+      "id": "sequoia:odoo",
+      "name": "Odoo",
+      "slug": "odoo"
+    },
+    {
+      "id": "sequoia:rox",
+      "name": "Rox",
+      "slug": "rox"
+    },
+    {
+      "id": "sequoia:hubspot",
+      "name": "HubSpot",
+      "slug": "hubspot"
+    },
+    {
+      "id": "sequoia:clay",
+      "name": "Clay",
+      "slug": "clay"
+    },
+    {
+      "id": "sequoia:apollo",
+      "name": "Apollo",
+      "slug": "apollo"
+    },
+    {
+      "id": "sequoia:247",
+      "name": "[24]7.ai",
+      "slug": "247"
+    },
+    {
+      "id": "sequoia:cresta",
+      "name": "Cresta",
+      "slug": "cresta"
+    },
+    {
+      "id": "sequoia:sierra",
+      "name": "Sierra",
+      "slug": "sierra"
+    },
+    {
+      "id": "sequoia:day-ai",
+      "name": "Day.ai",
+      "slug": "day-ai"
+    },
+    {
+      "id": "sequoia:paid",
+      "name": "Paid",
+      "slug": "paid"
+    },
+    {
+      "id": "sequoia:gong",
+      "name": "Gong",
+      "slug": "gong"
+    },
+    {
+      "id": "sequoia:listen-labs",
+      "name": "Listen Labs",
+      "slug": "listen-labs"
+    },
+    {
+      "id": "sequoia:tavus",
+      "name": "Tavus",
+      "slug": "tavus"
+    },
+    {
+      "id": "sequoia:rift",
+      "name": "Rift",
+      "slug": "rift"
+    },
+    {
+      "id": "sequoia:agency",
+      "name": "Agency",
+      "slug": "agency"
     }
   ]
 }

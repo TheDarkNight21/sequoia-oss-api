@@ -1,0 +1,37 @@
+{
+  "id": "sequoia:mach",
+  "sequoia_id": null,
+  "name": "Mach Industries",
+  "slug": "mach",
+  "description": "Mach Industries is building a defense company for the post-unmanned world. With its ecosystem of war-changing products and a survivable supply chain to produce them, Mach aims to become a core supplier for national defense.",
+  "website": "https://www.machindustries.com/",
+  "socials": {},
+  "categories": [
+    "defense",
+    "hardware"
+  ],
+  "current_stage": null,
+  "first_partnered_year": 2023,
+  "partners": [
+    "shaun-maguire",
+    "stephanie-zhan"
+  ],
+  "primary_partner": "shaun-maguire",
+  "milestones": {
+    "founded_year": 2022,
+    "partnered_year": 2023,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Ethan Thornton",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/mach/"
+  }
+}

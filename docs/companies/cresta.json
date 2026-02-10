@@ -1,0 +1,52 @@
+{
+  "id": "sequoia:cresta",
+  "sequoia_id": "308",
+  "name": "Cresta",
+  "slug": "cresta",
+  "description": "Cresta helps businesses save money, increase revenue and build customer loyalty with the only unified platform for human and AI agents built for enterprise scale.",
+  "website": "https://www.cresta.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/cresta",
+    "linkedin": "https://www.linkedin.com/company/cresta-inc/"
+  },
+  "categories": [
+    "ai",
+    "gtm"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2021,
+  "partners": [
+    "doug-leone",
+    "josephine-chen"
+  ],
+  "primary_partner": "doug-leone",
+  "milestones": {
+    "founded_year": 2020,
+    "partnered_year": 2021,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Ping Wu",
+      "role": null
+    },
+    {
+      "name": "Zayd Enam",
+      "role": null
+    },
+    {
+      "name": "Tim Shi",
+      "role": null
+    },
+    {
+      "name": "Sebastian Thrun",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/cresta/"
+  }
+}

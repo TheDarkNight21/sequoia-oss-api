@@ -1,0 +1,48 @@
+{
+  "id": "sequoia:amplitude",
+  "sequoia_id": "236",
+  "name": "Amplitude",
+  "slug": "amplitude",
+  "description": "Amplitude helps companies optimize the business value of digital product innovation. Its Behavioral Graph is the largest database of customer behavior and the industry’s first Digital Optimization System.",
+  "website": "https://amplitude.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/Amplitude_HQ",
+    "linkedin": "https://www.linkedin.com/company/amplitude-analytics"
+  },
+  "categories": [
+    "data-analytics"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 2018,
+  "partners": [
+    "pat-grady",
+    "sonya-huang",
+    "ravi-gupta"
+  ],
+  "primary_partner": "pat-grady",
+  "milestones": {
+    "founded_year": 2012,
+    "partnered_year": 2018,
+    "ipo_year": 2021,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Curtis Liu",
+      "role": null
+    },
+    {
+      "name": "Spenser Skates",
+      "role": null
+    },
+    {
+      "name": "Jeffrey Wang",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/amplitude/"
+  }
+}

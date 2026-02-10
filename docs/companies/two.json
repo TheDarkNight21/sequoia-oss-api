@@ -1,0 +1,54 @@
+{
+  "id": "sequoia:two",
+  "sequoia_id": "7359",
+  "name": "Two",
+  "slug": "two",
+  "description": "Two is a pure-B2B online payment method. It was founded to make bcommerce purchases as frictionless for business buyers as ecommerce is for retail.",
+  "website": "https://www.two.inc",
+  "socials": {
+    "instagram": "https://www.instagram.com/two.inc/",
+    "linkedin": "https://www.linkedin.com/company/two-finance/"
+  },
+  "categories": [
+    "fintech"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2021,
+  "partners": [
+    "george-robson"
+  ],
+  "primary_partner": "george-robson",
+  "milestones": {
+    "founded_year": 2021,
+    "partnered_year": 2021,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Ed Brandler",
+      "role": null
+    },
+    {
+      "name": "Joachim Kruger",
+      "role": null
+    },
+    {
+      "name": "Andreas Mjelde",
+      "role": null
+    },
+    {
+      "name": "Stavros Tamvakakis",
+      "role": null
+    },
+    {
+      "name": "Kiran Thomas",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/two/"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "sequoia:pace",
+  "sequoia_id": "21444",
+  "name": "Pace",
+  "slug": "pace",
+  "description": "Pace is where hundreds of small groups find human connection on the internet every week. Their mission is to unlock emotional connection together. They bring people together to work on their mental and emotional health, wherever they are.",
+  "website": "https://pace.group/",
+  "socials": {
+    "twitter": "https://twitter.com/pacetogether",
+    "linkedin": "https://www.linkedin.com/company/pacetogether/"
+  },
+  "categories": [
+    "healthcare"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2020,
+  "partners": [
+    "jess-lee"
+  ],
+  "primary_partner": "jess-lee",
+  "milestones": {
+    "founded_year": 2020,
+    "partnered_year": 2020,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Jack Chou",
+      "role": null
+    },
+    {
+      "name": "Cat Lee",
+      "role": null
+    },
+    {
+      "name": "Alex Shye",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/pace/"
+  }
+}

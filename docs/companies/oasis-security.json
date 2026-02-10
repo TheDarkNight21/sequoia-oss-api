@@ -1,0 +1,44 @@
+{
+  "id": "sequoia:oasis-security",
+  "sequoia_id": "16628",
+  "name": "Oasis Security",
+  "slug": "oasis-security",
+  "description": "Oasis Security is the first enterprise platform for non-human identity management. The shift to hybrid multi-cloud, microservices, agile development and AI-driven business process automation has completely changed the identity fabric of enterprise environments. Oasis empowers security, engineering and developer teams to take control of the non-human identity lifecycle without risking system resilience and adding operational complexity.",
+  "website": "https://www.oasis.security/",
+  "socials": {
+    "twitter": "https://twitter.com/oasissec",
+    "linkedin": "https://www.linkedin.com/company/non-human-identity-management-oasis/",
+    "youtube": "https://www.youtube.com/channel/UC3z72sOYtSDz_Rf_QgVJpQA"
+  },
+  "categories": [
+    "security"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2023,
+  "partners": [
+    "bogomil-balkansky",
+    "doug-leone"
+  ],
+  "primary_partner": "bogomil-balkansky",
+  "milestones": {
+    "founded_year": 2022,
+    "partnered_year": 2023,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Danny Brickman",
+      "role": null
+    },
+    {
+      "name": "Amit Zimerman",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/oasis-security/"
+  }
+}

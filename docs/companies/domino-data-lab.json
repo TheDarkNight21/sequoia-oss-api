@@ -1,0 +1,47 @@
+{
+  "id": "sequoia:domino-data-lab",
+  "sequoia_id": "323",
+  "name": "Domino Data Lab",
+  "slug": "domino-data-lab",
+  "description": "Domino Data Lab’s platforms help data scientists build and deploy AI applications. Its tool not only trains models, but monitors performance once they’ve gone live.",
+  "website": "https://www.dominodatalab.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/DominoDataLab",
+    "linkedin": "https://www.linkedin.com/company/domino-data-lab"
+  },
+  "categories": [
+    "ai",
+    "data-analytics"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2016,
+  "partners": [
+    "bryan-schreier"
+  ],
+  "primary_partner": "bryan-schreier",
+  "milestones": {
+    "founded_year": 2016,
+    "partnered_year": 2016,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Nick Elprin",
+      "role": null
+    },
+    {
+      "name": "Matthew Granade",
+      "role": null
+    },
+    {
+      "name": "Chris Yang",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/domino-data-lab/"
+  }
+}

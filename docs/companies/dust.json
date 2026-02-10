@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:dust",
+  "sequoia_id": "13575",
+  "name": "Dust",
+  "slug": "dust",
+  "description": "Dust is an AI operating system for smart teams. It reshapes information management in the workplace by combining multiple large language models to process information, making it readily available when needed and in the format that makes sense. Dust can augment humans, enhance productivity, foster diversity and facilitate a more dynamic, personalized work experience.",
+  "website": "https://dust.tt/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/dust-tt/"
+  },
+  "categories": [
+    "ai",
+    "productivity"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2023,
+  "partners": [
+    "konstantine-buhler",
+    "julien-bek"
+  ],
+  "primary_partner": "konstantine-buhler",
+  "milestones": {
+    "founded_year": 2023,
+    "partnered_year": 2023,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Gabriel Hubert",
+      "role": null
+    },
+    {
+      "name": "Stanislas Polu",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/dust/"
+  }
+}

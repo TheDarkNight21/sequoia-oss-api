@@ -1,0 +1,47 @@
+{
+  "id": "sequoia:inferact",
+  "sequoia_id": "21286",
+  "name": "Inferact",
+  "slug": "inferact",
+  "description": "Inferact was founded by the creators and core maintainers of vLLM, the de facto standard open-source inference engine. The company builds inference systems at the intersection of model innovation and hardware diversity—supporting 200+ model architectures across major accelerator platforms with day-zero compatibility. Inferact is committed to advancing open-source infrastructure that makes AI inference fast, efficient and accessible.",
+  "website": "https://inferact.ai",
+  "socials": {},
+  "categories": [
+    "ai"
+  ],
+  "current_stage": "pre-seed-seed",
+  "first_partnered_year": 2025,
+  "partners": [
+    "lauren-reeder"
+  ],
+  "primary_partner": "lauren-reeder",
+  "milestones": {
+    "founded_year": 2025,
+    "partnered_year": 2025,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Woosuk Kwon",
+      "role": null
+    },
+    {
+      "name": "Simon Mo",
+      "role": null
+    },
+    {
+      "name": "Roger Wang",
+      "role": null
+    },
+    {
+      "name": "Kaichao You",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/inferact/"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "sequoia:twain",
+  "sequoia_id": "9820",
+  "name": "Twain",
+  "slug": "twain",
+  "description": "Twain is an AI that increases the conversion rate of your outreach messages. Within seconds you will write a great opener, detect filler words, and learn how to craft call-to-actions that get answers.",
+  "website": "https://www.twain.ai/",
+  "socials": {
+    "twitter": "https://twitter.com/Twain_ai",
+    "linkedin": "https://www.linkedin.com/company/usetwain/"
+  },
+  "categories": [
+    "ai",
+    "gtm"
+  ],
+  "current_stage": "pre-seed-seed",
+  "first_partnered_year": 2022,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 2021,
+    "partnered_year": 2022,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Mohamed Chahin",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/twain/"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:delphi",
+  "sequoia_id": "18618",
+  "name": "Delphi",
+  "slug": "delphi",
+  "description": "Delphi lets experts scale their time and knowledge through interactive digital minds. Its AI-powered avatars mirror users’ speaking and thinking patterns from their existing content, enabling anyone to provide valuable advice globally through voice, text and video.",
+  "website": "https://www.delphi.ai",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/delphi-ai/",
+    "youtube": "https://www.youtube.com/@withdelphi"
+  },
+  "categories": [
+    "ai",
+    "consumer"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2025,
+  "partners": [
+    "jess-lee"
+  ],
+  "primary_partner": "jess-lee",
+  "milestones": {
+    "founded_year": 2022,
+    "partnered_year": 2025,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Dara Ladjevardian",
+      "role": null
+    },
+    {
+      "name": "Sam Spelsberg",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/delphi/"
+  }
+}

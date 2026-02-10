@@ -1,0 +1,38 @@
+{
+  "id": "sequoia:fastapi-labs",
+  "sequoia_id": "16420",
+  "name": "FastAPI Labs",
+  "slug": "fastapi-labs",
+  "description": "FastAPI Labs helps developers build apps and APIs with open source and cloud-based tools.",
+  "website": "https://fastapilabs.com/",
+  "socials": {
+    "linkedin": "https://linkedin.com/company/fastapilabs/"
+  },
+  "categories": [
+    "developer-tools"
+  ],
+  "current_stage": "pre-seed-seed",
+  "first_partnered_year": 2024,
+  "partners": [
+    "bogomil-balkansky",
+    "lauren-reeder"
+  ],
+  "primary_partner": "bogomil-balkansky",
+  "milestones": {
+    "founded_year": 2024,
+    "partnered_year": 2024,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Sebastián Ramírez",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/fastapi-labs/"
+  }
+}

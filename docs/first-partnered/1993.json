@@ -1,0 +1,15 @@
+{
+  "year": 1993,
+  "companies": [
+    {
+      "id": "sequoia:flextronics",
+      "name": "Flextronics",
+      "slug": "flextronics"
+    },
+    {
+      "id": "sequoia:nvidia",
+      "name": "NVIDIA",
+      "slug": "nvidia"
+    }
+  ]
+}

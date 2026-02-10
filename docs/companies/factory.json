@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:factory",
+  "sequoia_id": "14275",
+  "name": "Factory",
+  "slug": "factory",
+  "description": "Factory is bringing autonomy to software engineering. Factory’s Droids robustly, reliably, and autonomously solve engineering tasks, like code review, documentation, testing, debugging, coding, and project management.",
+  "website": "https://factory.ai",
+  "socials": {
+    "twitter": "https://twitter.com/factoryAI",
+    "linkedin": "https://www.linkedin.com/company/factory-hq/"
+  },
+  "categories": [
+    "ai",
+    "developer-tools"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2023,
+  "partners": [
+    "shaun-maguire"
+  ],
+  "primary_partner": "shaun-maguire",
+  "milestones": {
+    "founded_year": 2023,
+    "partnered_year": 2023,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Matan Grinberg",
+      "role": null
+    },
+    {
+      "name": "Eno Reyes",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/factory/"
+  }
+}

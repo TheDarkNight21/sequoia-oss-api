@@ -16,6 +16,101 @@
       "id": "sequoia:filecoin",
       "name": "Filecoin",
       "slug": "filecoin"
+    },
+    {
+      "id": "sequoia:layerzero",
+      "name": "LayerZero",
+      "slug": "layerzero"
+    },
+    {
+      "id": "sequoia:handshake-coins",
+      "name": "Handshake",
+      "slug": "handshake-coins"
+    },
+    {
+      "id": "sequoia:parallel",
+      "name": "Parallel",
+      "slug": "parallel"
+    },
+    {
+      "id": "sequoia:caldera",
+      "name": "Caldera",
+      "slug": "caldera"
+    },
+    {
+      "id": "sequoia:ftx",
+      "name": "FTX",
+      "slug": "ftx"
+    },
+    {
+      "id": "sequoia:iron-fish",
+      "name": "Iron Fish",
+      "slug": "iron-fish"
+    },
+    {
+      "id": "sequoia:magic-eden",
+      "name": "Magic Eden",
+      "slug": "magic-eden"
+    },
+    {
+      "id": "sequoia:blockaid",
+      "name": "Blockaid",
+      "slug": "blockaid"
+    },
+    {
+      "id": "sequoia:breeze",
+      "name": "Breeze.cash",
+      "slug": "breeze"
+    },
+    {
+      "id": "sequoia:nxyz",
+      "name": "nxyz",
+      "slug": "nxyz"
+    },
+    {
+      "id": "sequoia:phantom",
+      "name": "Phantom",
+      "slug": "phantom"
+    },
+    {
+      "id": "sequoia:edx-markets",
+      "name": "EDX Markets",
+      "slug": "edx-markets"
+    },
+    {
+      "id": "sequoia:robinhood",
+      "name": "Robinhood",
+      "slug": "robinhood"
+    },
+    {
+      "id": "sequoia:faraway",
+      "name": "Faraway",
+      "slug": "faraway"
+    },
+    {
+      "id": "sequoia:espresso-systems",
+      "name": "Espresso Systems",
+      "slug": "espresso-systems"
+    },
+    {
+      "id": "sequoia:bridge",
+      "name": "Bridge",
+      "slug": "bridge"
+    },
+    {
+      "id": "sequoia:privy",
+      "name": "Privy",
+      "slug": "privy"
+    },
+    {
+      "id": "sequoia:turnkey",
+      "name": "Turnkey",
+      "slug": "turnkey"
+    },
+    {
+      "id": "sequoia:fin",
+      "name": "Fin",
+      "slug": "fin"
     }
   ]
 }

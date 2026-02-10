@@ -1,0 +1,45 @@
+{
+  "id": "sequoia:elevenlabs",
+  "sequoia_id": "16384",
+  "name": "ElevenLabs",
+  "slug": "elevenlabs",
+  "description": "ElevenLabs is a Voice AI research and deployment company making content universally accessible in any language and voice. They use natural speech synthesis to enable users to create and design AI voices across a vast swathe of languages, accents, emotions, and delivery styles. The company’s in-house research drives the development of its technology, which includes tools for audiobook publishing, voiceovers, AI dubbing, and applications in entertainment, education, accessibility, and personal use.",
+  "website": "https://elevenlabs.io/",
+  "socials": {
+    "twitter": "https://twitter.com/elevenlabsio?lang=en",
+    "linkedin": "https://www.linkedin.com/company/elevenlabsio/",
+    "instagram": "https://www.instagram.com/elevenlabsio/?hl=en",
+    "youtube": "https://www.youtube.com/channel/UC-ew9TfeD887qUSiWWAAj1w"
+  },
+  "categories": [
+    "ai"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2023,
+  "partners": [
+    "andrew-reed",
+    "james-flynn"
+  ],
+  "primary_partner": "andrew-reed",
+  "milestones": {
+    "founded_year": 2022,
+    "partnered_year": 2023,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Piotr Dąbkowski",
+      "role": null
+    },
+    {
+      "name": "Mati Staniszewski",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/elevenlabs/"
+  }
+}

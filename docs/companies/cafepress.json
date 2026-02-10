@@ -1,0 +1,28 @@
+{
+  "id": "sequoia:cafepress",
+  "sequoia_id": "18468",
+  "name": "CafePress",
+  "slug": "cafepress",
+  "description": "CafePress works with designers to bring the world millions of designs on hundreds of different products.",
+  "website": "https://www.cafepress.com/",
+  "socials": {},
+  "categories": [
+    "consumer"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 2005,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 1999,
+    "partnered_year": 2005,
+    "ipo_year": 2012,
+    "acquired_year": null
+  },
+  "team": [],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/cafepress/"
+  }
+}

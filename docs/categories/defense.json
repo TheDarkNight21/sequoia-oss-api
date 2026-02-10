@@ -1,0 +1,26 @@
+{
+  "id": "defense",
+  "label": "Defense",
+  "companies": [
+    {
+      "id": "sequoia:mach",
+      "name": "Mach Industries",
+      "slug": "mach"
+    },
+    {
+      "id": "sequoia:kela",
+      "name": "Kela",
+      "slug": "kela"
+    },
+    {
+      "id": "sequoia:nominal",
+      "name": "Nominal",
+      "slug": "nominal"
+    },
+    {
+      "id": "sequoia:neros",
+      "name": "Neros",
+      "slug": "neros"
+    }
+  ]
+}

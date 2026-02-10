@@ -1,0 +1,41 @@
+{
+  "id": "sequoia:breeze",
+  "sequoia_id": null,
+  "name": "Breeze.cash",
+  "slug": "breeze",
+  "description": "Breeze.cash unlocks new revenue for businesses by helping them accept and manage crypto payments. With best-in-class compliance, accounting, analytics, and insights, Breeze brings the best of web2 into the world of web3.",
+  "website": "https://breeze.cash/",
+  "socials": {
+    "twitter": "https://twitter.com/breezedotcash",
+    "linkedin": "https://www.linkedin.com/company/breeze-cash/about/"
+  },
+  "categories": [
+    "crypto",
+    "fintech"
+  ],
+  "current_stage": null,
+  "first_partnered_year": 2022,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 2022,
+    "partnered_year": 2022,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Peng Du",
+      "role": null
+    },
+    {
+      "name": "Millie Yang",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/breeze/"
+  }
+}

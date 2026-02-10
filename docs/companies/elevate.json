@@ -1,0 +1,37 @@
+{
+  "id": "sequoia:elevate",
+  "sequoia_id": "339",
+  "name": "Elevate",
+  "slug": "elevate",
+  "description": "Elevate is a new type of cognitive-training tool designed to build communication and analytical skills. Users receive a personalized gamified program that evolves with their performance, encouraging them to keep learning.",
+  "website": "https://elevateapp.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/ElevateLabs"
+  },
+  "categories": [
+    "consumer"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2014,
+  "partners": [
+    "bryan-schreier"
+  ],
+  "primary_partner": "bryan-schreier",
+  "milestones": {
+    "founded_year": 2011,
+    "partnered_year": 2014,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Jesse Pickard",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/elevate/"
+  }
+}

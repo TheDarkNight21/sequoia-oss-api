@@ -16,6 +16,191 @@
       "id": "sequoia:fireblocks",
       "name": "Fireblocks",
       "slug": "fireblocks"
+    },
+    {
+      "id": "sequoia:papaya",
+      "name": "Papaya",
+      "slug": "papaya"
+    },
+    {
+      "id": "sequoia:parallel",
+      "name": "Parallel",
+      "slug": "parallel"
+    },
+    {
+      "id": "sequoia:landis",
+      "name": "Landis",
+      "slug": "landis"
+    },
+    {
+      "id": "sequoia:found",
+      "name": "Found",
+      "slug": "found"
+    },
+    {
+      "id": "sequoia:citadel-securities",
+      "name": "Citadel Securities",
+      "slug": "citadel-securities"
+    },
+    {
+      "id": "sequoia:fintual",
+      "name": "Fintual",
+      "slug": "fintual"
+    },
+    {
+      "id": "sequoia:vise",
+      "name": "Vise",
+      "slug": "vise"
+    },
+    {
+      "id": "sequoia:snapdocs",
+      "name": "Snapdocs",
+      "slug": "snapdocs"
+    },
+    {
+      "id": "sequoia:stripe",
+      "name": "Stripe",
+      "slug": "stripe"
+    },
+    {
+      "id": "sequoia:breeze",
+      "name": "Breeze.cash",
+      "slug": "breeze"
+    },
+    {
+      "id": "sequoia:tanda",
+      "name": "Tanda",
+      "slug": "tanda"
+    },
+    {
+      "id": "sequoia:otto-finance",
+      "name": "Otto Finance",
+      "slug": "otto-finance"
+    },
+    {
+      "id": "sequoia:catch",
+      "name": "Catch",
+      "slug": "catch"
+    },
+    {
+      "id": "sequoia:nsave",
+      "name": "nsave",
+      "slug": "nsave"
+    },
+    {
+      "id": "sequoia:nubank",
+      "name": "Nubank",
+      "slug": "nubank"
+    },
+    {
+      "id": "sequoia:robinhood",
+      "name": "Robinhood",
+      "slug": "robinhood"
+    },
+    {
+      "id": "sequoia:block",
+      "name": "Block",
+      "slug": "block"
+    },
+    {
+      "id": "sequoia:paypal",
+      "name": "PayPal",
+      "slug": "paypal"
+    },
+    {
+      "id": "sequoia:titus",
+      "name": "Titus",
+      "slug": "titus"
+    },
+    {
+      "id": "sequoia:futureadvisor",
+      "name": "FutureAdvisor",
+      "slug": "futureadvisor"
+    },
+    {
+      "id": "sequoia:mercury",
+      "name": "Mercury",
+      "slug": "mercury"
+    },
+    {
+      "id": "sequoia:nuvo",
+      "name": "Nuvo",
+      "slug": "nuvo"
+    },
+    {
+      "id": "sequoia:210664",
+      "name": "Aspora",
+      "slug": "210664"
+    },
+    {
+      "id": "sequoia:telda",
+      "name": "Telda",
+      "slug": "telda"
+    },
+    {
+      "id": "sequoia:two",
+      "name": "Two",
+      "slug": "two"
+    },
+    {
+      "id": "sequoia:kalshi",
+      "name": "Kalshi",
+      "slug": "kalshi"
+    },
+    {
+      "id": "sequoia:klarna",
+      "name": "Klarna",
+      "slug": "klarna"
+    },
+    {
+      "id": "sequoia:ramp",
+      "name": "Ramp",
+      "slug": "ramp"
+    },
+    {
+      "id": "sequoia:tilt",
+      "name": "Tilt",
+      "slug": "tilt"
+    },
+    {
+      "id": "sequoia:trade-republic",
+      "name": "Trade Republic",
+      "slug": "trade-republic"
+    },
+    {
+      "id": "sequoia:ledgy",
+      "name": "Ledgy",
+      "slug": "ledgy"
+    },
+    {
+      "id": "sequoia:fin",
+      "name": "Fin",
+      "slug": "fin"
+    },
+    {
+      "id": "sequoia:tola",
+      "name": "Tola",
+      "slug": "tola"
+    },
+    {
+      "id": "sequoia:mos",
+      "name": "Mos",
+      "slug": "mos"
+    },
+    {
+      "id": "sequoia:nevis",
+      "name": "Nevis",
+      "slug": "nevis"
+    },
+    {
+      "id": "sequoia:anrok",
+      "name": "Anrok",
+      "slug": "anrok"
+    },
+    {
+      "id": "sequoia:ethos-technologies",
+      "name": "Ethos",
+      "slug": "ethos-technologies"
     }
   ]
 }

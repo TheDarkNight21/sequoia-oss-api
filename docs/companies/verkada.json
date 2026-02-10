@@ -1,0 +1,50 @@
+{
+  "id": "sequoia:verkada",
+  "sequoia_id": "663",
+  "name": "Verkada",
+  "slug": "verkada",
+  "description": "Verkada is reinventing video security for the enterprise with a hybrid cloud security solution that makes it simple to manage devices at scale. Verkada’s solution offers the sharpness, modernity and user-friendliness of a consumer product.",
+  "website": "https://www.verkada.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/VerkadaHQ",
+    "linkedin": "https://www.linkedin.com/company/verkada/"
+  },
+  "categories": [
+    "security"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2019,
+  "partners": [
+    "konstantine-buhler"
+  ],
+  "primary_partner": "konstantine-buhler",
+  "milestones": {
+    "founded_year": 2016,
+    "partnered_year": 2019,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Benjamin Bercovitz",
+      "role": null
+    },
+    {
+      "name": "Filip Kaliszan",
+      "role": null
+    },
+    {
+      "name": "James Ren",
+      "role": null
+    },
+    {
+      "name": "Hans Robertson",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/verkada/"
+  }
+}

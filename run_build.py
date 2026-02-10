@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import argparse
 import logging
+import sys
 
 from src.crawl.fetcher import ContentCache, fetch_pages, make_client
 from src.crawl.sitemap import fetch_company_slugs
@@ -12,6 +13,7 @@ from src.parse.company import parse_company
 from src.parse.directory import fetch_directory_data, merge_directory_data
 from src.build.static import build_all
 from src.validate.completeness import report_completeness
+from src.validate.schema import validate_companies
 
 logging.basicConfig(
     level=logging.INFO,
@@ -90,10 +92,16 @@ def main() -> None:
     if directory_data:
         companies = merge_directory_data(companies, directory_data)
 
-    # 6. Report extraction completeness
+    # 6. Validate against schema
+    errors = validate_companies(companies)
+    if errors:
+        logger.error("Schema validation failed — aborting build")
+        sys.exit(1)
+
+    # 7. Report extraction completeness
     report_completeness(companies)
 
-    # 7. Build static JSON
+    # 8. Build static JSON
     logger.info("Building static JSON output to %s/", args.output)
     build_all(companies, args.output)
 

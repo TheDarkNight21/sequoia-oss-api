@@ -1,0 +1,48 @@
+{
+  "id": "sequoia:enter",
+  "sequoia_id": "18406",
+  "name": "Enter",
+  "slug": "enter",
+  "description": "Enter helps large companies use AI to boost efficiency of legal teams with exhaustive document analysis that leads to winning more cases.",
+  "website": "https://getenter.ai",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/getenter/",
+    "youtube": "https://www.youtube.com/@getenter"
+  },
+  "categories": [
+    "ai",
+    "legal"
+  ],
+  "current_stage": "pre-seed-seed",
+  "first_partnered_year": 2024,
+  "partners": [
+    "konstantine-buhler",
+    "lauren-reeder"
+  ],
+  "primary_partner": "konstantine-buhler",
+  "milestones": {
+    "founded_year": 2023,
+    "partnered_year": 2024,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Mateus Costa-Ribeiro",
+      "role": null
+    },
+    {
+      "name": "Michael Mac-Vicar",
+      "role": null
+    },
+    {
+      "name": "Henrique Vaz",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/enter/"
+  }
+}

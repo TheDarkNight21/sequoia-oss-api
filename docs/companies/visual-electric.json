@@ -1,0 +1,44 @@
+{
+  "id": "sequoia:visual-electric",
+  "sequoia_id": "13195",
+  "name": "Visual Electric",
+  "slug": "visual-electric",
+  "description": "Visual Electric is the first image generator designed for creatives—a canvas that facilitates the flow of ideas, so you can truly spread out and see where the tool takes you. It’s designed to help give form to the vision in your mind’s eye… or lead you to something even better.",
+  "website": "https://visualelectric.com/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/visualelectric"
+  },
+  "categories": [
+    "ai",
+    "productivity"
+  ],
+  "current_stage": "pre-seed-seed",
+  "first_partnered_year": 2023,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 2022,
+    "partnered_year": 2023,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Colin Dunn",
+      "role": null
+    },
+    {
+      "name": "Adam Menges",
+      "role": null
+    },
+    {
+      "name": "Zach Stiggelbout",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/visual-electric/"
+  }
+}

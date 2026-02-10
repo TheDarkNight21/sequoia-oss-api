@@ -1,0 +1,46 @@
+{
+  "id": "sequoia:clari",
+  "sequoia_id": "296",
+  "name": "Clari",
+  "slug": "clari",
+  "description": "Clari’s revenue operations platform uses AI to automatically harvest data from multiple enterprise systems across the entire revenue process, with the goal of creating transparency. Their end-to-end sales analytics and forecasting systems connect teams and make revenue more predictable.",
+  "website": "https://clari.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/clarihq",
+    "linkedin": "https://www.linkedin.com/company/2706103"
+  },
+  "categories": [
+    "gtm"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2012,
+  "partners": [
+    "jim-goetz"
+  ],
+  "primary_partner": "jim-goetz",
+  "milestones": {
+    "founded_year": 2012,
+    "partnered_year": 2012,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Andy Byrne",
+      "role": null
+    },
+    {
+      "name": "Kurt Leafstrand",
+      "role": null
+    },
+    {
+      "name": "Venkat Rangan",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/clari/"
+  }
+}

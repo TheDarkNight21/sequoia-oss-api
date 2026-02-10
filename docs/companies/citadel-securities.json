@@ -1,0 +1,45 @@
+{
+  "id": "sequoia:citadel-securities",
+  "sequoia_id": "7659",
+  "name": "Citadel Securities",
+  "slug": "citadel-securities",
+  "description": "Citadel Securities is a leading global market maker that provides both institutional and retail investors with the liquidity they need to execute transactions across a broad array of equity and fixed income products. The firm has been at the forefront of the modernization of markets and market structures, which has delivered enormous benefits to investors globally. The talent of its extraordinary market making team, combined with its powerful risk management techniques, advanced predictive analytics and superior software engineering have transformed the client experience in the many markets it serves.",
+  "website": "https://www.citadelsecurities.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/citsecurities",
+    "linkedin": "https://www.linkedin.com/company/citadel-securities/",
+    "instagram": "https://www.instagram.com/citadelsecurities",
+    "youtube": "https://www.youtube.com/channel/UCiHxT7z8QgMzQ1wja3dyUng/playlists?reload=9&app=desktop"
+  },
+  "categories": [
+    "fintech"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2022,
+  "partners": [
+    "alfred-lin",
+    "konstantine-buhler"
+  ],
+  "primary_partner": "alfred-lin",
+  "milestones": {
+    "founded_year": 2002,
+    "partnered_year": 2022,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Ken Griffin",
+      "role": null
+    },
+    {
+      "name": "Peng Zhao",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/citadel-securities/"
+  }
+}

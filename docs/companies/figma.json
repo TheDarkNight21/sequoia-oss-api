@@ -1,0 +1,38 @@
+{
+  "id": "sequoia:figma",
+  "sequoia_id": "357",
+  "name": "Figma",
+  "slug": "figma",
+  "description": "Figma is the first web-based collaborative design tool. Multiple people can jump in a file at the same time, so they can design, prototype, copy code and gather feedback in one place. Figma has simplified the design process for teams of designers, developers, product managers, marketers and others at thousands of companies including Uber, Square, Twitter and GitHub.",
+  "website": "https://www.figma.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/figmadesign",
+    "linkedin": "https://www.linkedin.com/company/figma/"
+  },
+  "categories": [
+    "productivity"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 2019,
+  "partners": [
+    "andrew-reed"
+  ],
+  "primary_partner": "andrew-reed",
+  "milestones": {
+    "founded_year": 2012,
+    "partnered_year": 2019,
+    "ipo_year": 2025,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Dylan Field",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/figma/"
+  }
+}

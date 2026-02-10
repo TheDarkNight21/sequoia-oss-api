@@ -1,0 +1,51 @@
+{
+  "id": "sequoia:iambic-therapeutics",
+  "sequoia_id": "345",
+  "name": "Iambic Therapeutics",
+  "slug": "iambic-therapeutics",
+  "description": "Iambic Therapeutics tackles challenging design problems in drug discovery with its physics-based AI platform. Its automated data pipelines help refine target profiles for drug candidates and enable high-throughput chemistry and biology to rapidly generate small-molecule therapeutics.",
+  "website": "https://www.iambic.ai/",
+  "socials": {
+    "twitter": "https://twitter.com/iambic_ai",
+    "linkedin": "https://www.linkedin.com/company/iambic-ai/"
+  },
+  "categories": [
+    "ai",
+    "healthcare"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2021,
+  "partners": [
+    "bill-coughran"
+  ],
+  "primary_partner": "bill-coughran",
+  "milestones": {
+    "founded_year": 2019,
+    "partnered_year": 2021,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Tim Cernak",
+      "role": null
+    },
+    {
+      "name": "Fred Manby",
+      "role": null
+    },
+    {
+      "name": "Thomas Miller",
+      "role": null
+    },
+    {
+      "name": "Sarah Trice",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/iambic-therapeutics/"
+  }
+}

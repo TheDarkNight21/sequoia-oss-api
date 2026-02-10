@@ -1,0 +1,51 @@
+{
+  "id": "legal",
+  "label": "Legal",
+  "companies": [
+    {
+      "id": "sequoia:fides",
+      "name": "Fides",
+      "slug": "fides"
+    },
+    {
+      "id": "sequoia:middesk",
+      "name": "Middesk",
+      "slug": "middesk"
+    },
+    {
+      "id": "sequoia:vanta",
+      "name": "Vanta",
+      "slug": "vanta"
+    },
+    {
+      "id": "sequoia:enter",
+      "name": "Enter",
+      "slug": "enter"
+    },
+    {
+      "id": "sequoia:finch",
+      "name": "Finch",
+      "slug": "finch"
+    },
+    {
+      "id": "sequoia:ironclad",
+      "name": "Ironclad",
+      "slug": "ironclad"
+    },
+    {
+      "id": "sequoia:harvey",
+      "name": "Harvey",
+      "slug": "harvey"
+    },
+    {
+      "id": "sequoia:crosby",
+      "name": "Crosby",
+      "slug": "crosby"
+    },
+    {
+      "id": "sequoia:sandstone",
+      "name": "Sandstone",
+      "slug": "sandstone"
+    }
+  ]
+}

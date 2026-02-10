@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:zappos",
+  "sequoia_id": "693",
+  "name": "Zappos",
+  "slug": "zappos",
+  "description": "Zappos is an online shoe, handbag, clothing and accessory retailer driven by exceptional customer service. The company carries thousands of footwear products and was the pioneer of free return shipping. Zappos is now part of Amazon.",
+  "website": "https://www.zappos.com/about.zhtml",
+  "socials": {
+    "twitter": "https://www.twitter.com/zappos",
+    "linkedin": "https://www.linkedin.com/company/zappos.com"
+  },
+  "categories": [
+    "consumer"
+  ],
+  "current_stage": "acquired",
+  "first_partnered_year": 2004,
+  "partners": [
+    "michael-moritz",
+    "alfred-lin"
+  ],
+  "primary_partner": "michael-moritz",
+  "milestones": {
+    "founded_year": 1999,
+    "partnered_year": 2004,
+    "ipo_year": null,
+    "acquired_year": 2009
+  },
+  "team": [
+    {
+      "name": "Tony Hsieh",
+      "role": null
+    },
+    {
+      "name": "Nick Swinmurn",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/zappos/"
+  }
+}

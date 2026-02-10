@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:sierra",
+  "sequoia_id": "16816",
+  "name": "Sierra",
+  "slug": "sierra",
+  "description": "Sierra is a conversational AI platform for businesses. It helps companies elevate customer experience through AI agents that they can personalize to act as extensions of their brand.",
+  "website": "https://sierra.ai/",
+  "socials": {
+    "twitter": "https://twitter.com/sierraplatform",
+    "linkedin": "https://www.linkedin.com/company/sierra"
+  },
+  "categories": [
+    "ai",
+    "gtm"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2023,
+  "partners": [
+    "ravi-gupta"
+  ],
+  "primary_partner": "ravi-gupta",
+  "milestones": {
+    "founded_year": 2023,
+    "partnered_year": 2023,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Clay Bavor",
+      "role": null
+    },
+    {
+      "name": "Bret Taylor",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/sierra/"
+  }
+}

@@ -15,6 +15,31 @@
       "id": "sequoia:guardant-health",
       "name": "Guardant Health",
       "slug": "guardant-health"
+    },
+    {
+      "id": "sequoia:cohesity",
+      "name": "Cohesity",
+      "slug": "cohesity"
+    },
+    {
+      "id": "sequoia:carbon",
+      "name": "Carbon",
+      "slug": "carbon"
+    },
+    {
+      "id": "sequoia:moovit",
+      "name": "Moovit",
+      "slug": "moovit"
+    },
+    {
+      "id": "sequoia:nubank",
+      "name": "Nubank",
+      "slug": "nubank"
+    },
+    {
+      "id": "sequoia:instacart",
+      "name": "Instacart",
+      "slug": "instacart"
     }
   ]
 }

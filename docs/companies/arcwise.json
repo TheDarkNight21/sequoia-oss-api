@@ -1,0 +1,36 @@
+{
+  "id": "sequoia:arcwise",
+  "sequoia_id": "11178",
+  "name": "Arcwise",
+  "slug": "arcwise",
+  "description": "Arcwise is a platform for analytical but non-technical business users to build, publish, and maintain data and ML applications, all from their spreadsheet. They’re building a collaborative workspace to bridge the gap between business operators and technical data experts — ”arcing” the divide between notebooks and spreadsheets. Arcwise is the missing tool that would have saved years of person-hours at Flexport, where business-critical data applications repeatedly took months to move from spreadsheets to Python.",
+  "website": "https://arcwise.app",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/arcwisedata/"
+  },
+  "categories": [
+    "ai",
+    "data-analytics"
+  ],
+  "current_stage": "pre-seed-seed",
+  "first_partnered_year": 2022,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 2022,
+    "partnered_year": 2022,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Rahul Bali",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/arcwise/"
+  }
+}

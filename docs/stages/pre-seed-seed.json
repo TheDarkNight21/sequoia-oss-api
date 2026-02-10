@@ -1,0 +1,246 @@
+{
+  "id": "pre-seed-seed",
+  "label": "Pre Seed Seed",
+  "companies": [
+    {
+      "id": "sequoia:fides",
+      "name": "Fides",
+      "slug": "fides"
+    },
+    {
+      "id": "sequoia:revmap",
+      "name": "RevMap",
+      "slug": "revmap"
+    },
+    {
+      "id": "sequoia:telescope",
+      "name": "Telescope",
+      "slug": "telescope"
+    },
+    {
+      "id": "sequoia:protege",
+      "name": "Protégé",
+      "slug": "protege"
+    },
+    {
+      "id": "sequoia:caldera",
+      "name": "Caldera",
+      "slug": "caldera"
+    },
+    {
+      "id": "sequoia:twain",
+      "name": "Twain",
+      "slug": "twain"
+    },
+    {
+      "id": "sequoia:arcwise",
+      "name": "Arcwise",
+      "slug": "arcwise"
+    },
+    {
+      "id": "sequoia:flagship",
+      "name": "Flagship",
+      "slug": "flagship"
+    },
+    {
+      "id": "sequoia:surein",
+      "name": "SureIn",
+      "slug": "surein"
+    },
+    {
+      "id": "sequoia:studeo",
+      "name": "Studeo",
+      "slug": "studeo"
+    },
+    {
+      "id": "sequoia:safara",
+      "name": "Safara",
+      "slug": "safara"
+    },
+    {
+      "id": "sequoia:chkk",
+      "name": "Chkk",
+      "slug": "chkk"
+    },
+    {
+      "id": "sequoia:gladia",
+      "name": "Gladia",
+      "slug": "gladia"
+    },
+    {
+      "id": "sequoia:meeno",
+      "name": "Meeno",
+      "slug": "meeno"
+    },
+    {
+      "id": "sequoia:guided-energy",
+      "name": "Guided Energy",
+      "slug": "guided-energy"
+    },
+    {
+      "id": "sequoia:visual-electric",
+      "name": "Visual Electric",
+      "slug": "visual-electric"
+    },
+    {
+      "id": "sequoia:hallway",
+      "name": "Hallway",
+      "slug": "hallway"
+    },
+    {
+      "id": "sequoia:gadget",
+      "name": "Gadget",
+      "slug": "gadget"
+    },
+    {
+      "id": "sequoia:quilt",
+      "name": "Quilt",
+      "slug": "quilt"
+    },
+    {
+      "id": "sequoia:elyn",
+      "name": "Elyn",
+      "slug": "elyn"
+    },
+    {
+      "id": "sequoia:lugg",
+      "name": "Lugg",
+      "slug": "lugg"
+    },
+    {
+      "id": "sequoia:apex",
+      "name": "Apex",
+      "slug": "apex"
+    },
+    {
+      "id": "sequoia:physical-intelligence",
+      "name": "Physical Intelligence",
+      "slug": "physical-intelligence"
+    },
+    {
+      "id": "sequoia:tanda",
+      "name": "Tanda",
+      "slug": "tanda"
+    },
+    {
+      "id": "sequoia:otto-finance",
+      "name": "Otto Finance",
+      "slug": "otto-finance"
+    },
+    {
+      "id": "sequoia:cove",
+      "name": "Cove",
+      "slug": "cove"
+    },
+    {
+      "id": "sequoia:curie",
+      "name": "Curie",
+      "slug": "curie"
+    },
+    {
+      "id": "sequoia:edx-markets",
+      "name": "EDX Markets",
+      "slug": "edx-markets"
+    },
+    {
+      "id": "sequoia:decart",
+      "name": "Decart",
+      "slug": "decart"
+    },
+    {
+      "id": "sequoia:lemni",
+      "name": "Lemni",
+      "slug": "lemni"
+    },
+    {
+      "id": "sequoia:enter",
+      "name": "Enter",
+      "slug": "enter"
+    },
+    {
+      "id": "sequoia:supernova",
+      "name": "Supernova",
+      "slug": "supernova"
+    },
+    {
+      "id": "sequoia:synativ",
+      "name": "Synativ",
+      "slug": "synativ"
+    },
+    {
+      "id": "sequoia:finch",
+      "name": "Finch",
+      "slug": "finch"
+    },
+    {
+      "id": "sequoia:popsink",
+      "name": "Popsink",
+      "slug": "popsink"
+    },
+    {
+      "id": "sequoia:fastapi-labs",
+      "name": "FastAPI Labs",
+      "slug": "fastapi-labs"
+    },
+    {
+      "id": "sequoia:skyramp",
+      "name": "Skyramp",
+      "slug": "skyramp"
+    },
+    {
+      "id": "sequoia:magentic",
+      "name": "Magentic",
+      "slug": "magentic"
+    },
+    {
+      "id": "sequoia:gigi",
+      "name": "Gigi",
+      "slug": "gigi"
+    },
+    {
+      "id": "sequoia:paid",
+      "name": "Paid",
+      "slug": "paid"
+    },
+    {
+      "id": "sequoia:cue-labs",
+      "name": "CUE Labs",
+      "slug": "cue-labs"
+    },
+    {
+      "id": "sequoia:neros",
+      "name": "Neros",
+      "slug": "neros"
+    },
+    {
+      "id": "sequoia:rift",
+      "name": "Rift",
+      "slug": "rift"
+    },
+    {
+      "id": "sequoia:fin",
+      "name": "Fin",
+      "slug": "fin"
+    },
+    {
+      "id": "sequoia:sandstone",
+      "name": "Sandstone",
+      "slug": "sandstone"
+    },
+    {
+      "id": "sequoia:inferact",
+      "name": "Inferact",
+      "slug": "inferact"
+    },
+    {
+      "id": "sequoia:blockit-ai",
+      "name": "Blockit AI",
+      "slug": "blockit-ai"
+    },
+    {
+      "id": "sequoia:mindy",
+      "name": "Mindy",
+      "slug": "mindy"
+    }
+  ]
+}

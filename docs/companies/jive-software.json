@@ -1,0 +1,51 @@
+{
+  "id": "sequoia:jive-software",
+  "sequoia_id": "17494",
+  "name": "Jive Software",
+  "slug": "jive-software",
+  "description": "Jive pioneered Social Business Software combining the power of social networking, collaboration and community.",
+  "website": "https://www.jivesoftware.com/",
+  "socials": {
+    "twitter": "https://twitter.com/jivesoftware",
+    "linkedin": "https://www.linkedin.com/company/jive-software"
+  },
+  "categories": [
+    "productivity"
+  ],
+  "current_stage": "acquired",
+  "first_partnered_year": 2007,
+  "partners": [
+    "jim-goetz",
+    "pat-grady"
+  ],
+  "primary_partner": "jim-goetz",
+  "milestones": {
+    "founded_year": 2001,
+    "partnered_year": 2007,
+    "ipo_year": 2011,
+    "acquired_year": 2017
+  },
+  "team": [
+    {
+      "name": "Dave Hersh",
+      "role": null
+    },
+    {
+      "name": "Tony Zingale",
+      "role": null
+    },
+    {
+      "name": "Bill Lynch",
+      "role": null
+    },
+    {
+      "name": "Matt Tucker",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/jive-software/"
+  }
+}

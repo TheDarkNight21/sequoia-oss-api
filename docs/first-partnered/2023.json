@@ -1,0 +1,165 @@
+{
+  "year": 2023,
+  "companies": [
+    {
+      "id": "sequoia:oasis-security",
+      "name": "Oasis Security",
+      "slug": "oasis-security"
+    },
+    {
+      "id": "sequoia:meeno",
+      "name": "Meeno",
+      "slug": "meeno"
+    },
+    {
+      "id": "sequoia:guided-energy",
+      "name": "Guided Energy",
+      "slug": "guided-energy"
+    },
+    {
+      "id": "sequoia:visual-electric",
+      "name": "Visual Electric",
+      "slug": "visual-electric"
+    },
+    {
+      "id": "sequoia:quilt",
+      "name": "Quilt",
+      "slug": "quilt"
+    },
+    {
+      "id": "sequoia:elyn",
+      "name": "Elyn",
+      "slug": "elyn"
+    },
+    {
+      "id": "sequoia:collaborative-robotics",
+      "name": "Cobot",
+      "slug": "collaborative-robotics"
+    },
+    {
+      "id": "sequoia:apex",
+      "name": "Apex",
+      "slug": "apex"
+    },
+    {
+      "id": "sequoia:factory",
+      "name": "Factory",
+      "slug": "factory"
+    },
+    {
+      "id": "sequoia:tanda",
+      "name": "Tanda",
+      "slug": "tanda"
+    },
+    {
+      "id": "sequoia:zafran",
+      "name": "Zafran",
+      "slug": "zafran"
+    },
+    {
+      "id": "sequoia:skild-ai",
+      "name": "Skild AI",
+      "slug": "skild-ai"
+    },
+    {
+      "id": "sequoia:cove",
+      "name": "Cove",
+      "slug": "cove"
+    },
+    {
+      "id": "sequoia:claim",
+      "name": "Claim",
+      "slug": "claim"
+    },
+    {
+      "id": "sequoia:pydantic",
+      "name": "Pydantic",
+      "slug": "pydantic"
+    },
+    {
+      "id": "sequoia:mach",
+      "name": "Mach Industries",
+      "slug": "mach"
+    },
+    {
+      "id": "sequoia:bunkerhill-health",
+      "name": "Bunkerhill Health",
+      "slug": "bunkerhill-health"
+    },
+    {
+      "id": "sequoia:hex",
+      "name": "Hex",
+      "slug": "hex"
+    },
+    {
+      "id": "sequoia:bridge",
+      "name": "Bridge",
+      "slug": "bridge"
+    },
+    {
+      "id": "sequoia:gigi",
+      "name": "Gigi",
+      "slug": "gigi"
+    },
+    {
+      "id": "sequoia:anterior",
+      "name": "Anterior",
+      "slug": "anterior"
+    },
+    {
+      "id": "sequoia:squint",
+      "name": "Squint",
+      "slug": "squint"
+    },
+    {
+      "id": "sequoia:elevenlabs",
+      "name": "ElevenLabs",
+      "slug": "elevenlabs"
+    },
+    {
+      "id": "sequoia:sierra",
+      "name": "Sierra",
+      "slug": "sierra"
+    },
+    {
+      "id": "sequoia:ramp",
+      "name": "Ramp",
+      "slug": "ramp"
+    },
+    {
+      "id": "sequoia:harvey",
+      "name": "Harvey",
+      "slug": "harvey"
+    },
+    {
+      "id": "sequoia:day-ai",
+      "name": "Day.ai",
+      "slug": "day-ai"
+    },
+    {
+      "id": "sequoia:listen-labs",
+      "name": "Listen Labs",
+      "slug": "listen-labs"
+    },
+    {
+      "id": "sequoia:neros",
+      "name": "Neros",
+      "slug": "neros"
+    },
+    {
+      "id": "sequoia:dust",
+      "name": "Dust",
+      "slug": "dust"
+    },
+    {
+      "id": "sequoia:tacto",
+      "name": "Tacto",
+      "slug": "tacto"
+    },
+    {
+      "id": "sequoia:mindy",
+      "name": "Mindy",
+      "slug": "mindy"
+    }
+  ]
+}

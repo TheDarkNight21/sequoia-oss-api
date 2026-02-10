@@ -21,6 +21,156 @@
       "id": "sequoia:guardant-health",
       "name": "Guardant Health",
       "slug": "guardant-health"
+    },
+    {
+      "id": "sequoia:pendulum-therapeutics",
+      "name": "Pendulum",
+      "slug": "pendulum-therapeutics"
+    },
+    {
+      "id": "sequoia:maven-clinic",
+      "name": "Maven",
+      "slug": "maven-clinic"
+    },
+    {
+      "id": "sequoia:clipboard-health",
+      "name": "Clipboard Health",
+      "slug": "clipboard-health"
+    },
+    {
+      "id": "sequoia:nimble-rx",
+      "name": "Nimble Rx",
+      "slug": "nimble-rx"
+    },
+    {
+      "id": "sequoia:biomodal",
+      "name": "biomodal",
+      "slug": "biomodal"
+    },
+    {
+      "id": "sequoia:pace",
+      "name": "Pace",
+      "slug": "pace"
+    },
+    {
+      "id": "sequoia:noom",
+      "name": "Noom",
+      "slug": "noom"
+    },
+    {
+      "id": "sequoia:medallion",
+      "name": "Medallion",
+      "slug": "medallion"
+    },
+    {
+      "id": "sequoia:iambic-therapeutics",
+      "name": "Iambic Therapeutics",
+      "slug": "iambic-therapeutics"
+    },
+    {
+      "id": "sequoia:zipline",
+      "name": "Zipline",
+      "slug": "zipline"
+    },
+    {
+      "id": "sequoia:commure",
+      "name": "Commure",
+      "slug": "commure"
+    },
+    {
+      "id": "sequoia:summer-health",
+      "name": "Summer Health",
+      "slug": "summer-health"
+    },
+    {
+      "id": "sequoia:pharming-group",
+      "name": "Pharming Group",
+      "slug": "pharming-group"
+    },
+    {
+      "id": "sequoia:omnicell",
+      "name": "Omnicell",
+      "slug": "omnicell"
+    },
+    {
+      "id": "sequoia:quince-therapeutics",
+      "name": "Quince Therapeutics",
+      "slug": "quince-therapeutics"
+    },
+    {
+      "id": "sequoia:health-catalyst",
+      "name": "Health Catalyst",
+      "slug": "health-catalyst"
+    },
+    {
+      "id": "sequoia:roon",
+      "name": "Roon",
+      "slug": "roon"
+    },
+    {
+      "id": "sequoia:xaira",
+      "name": "Xaira",
+      "slug": "xaira"
+    },
+    {
+      "id": "sequoia:curie",
+      "name": "Curie",
+      "slug": "curie"
+    },
+    {
+      "id": "sequoia:natera",
+      "name": "Natera",
+      "slug": "natera"
+    },
+    {
+      "id": "sequoia:freed",
+      "name": "Freed",
+      "slug": "freed"
+    },
+    {
+      "id": "sequoia:myome",
+      "name": "MyOme",
+      "slug": "myome"
+    },
+    {
+      "id": "sequoia:bunkerhill-health",
+      "name": "Bunkerhill Health",
+      "slug": "bunkerhill-health"
+    },
+    {
+      "id": "sequoia:neuralink",
+      "name": "Neuralink",
+      "slug": "neuralink"
+    },
+    {
+      "id": "sequoia:formation-bio",
+      "name": "Formation Bio",
+      "slug": "formation-bio"
+    },
+    {
+      "id": "sequoia:anterior",
+      "name": "Anterior",
+      "slug": "anterior"
+    },
+    {
+      "id": "sequoia:avelios",
+      "name": "Avelios",
+      "slug": "avelios"
+    },
+    {
+      "id": "sequoia:abby-care",
+      "name": "Abby Care",
+      "slug": "abby-care"
+    },
+    {
+      "id": "sequoia:grow-therapy",
+      "name": "Grow Therapy",
+      "slug": "grow-therapy"
+    },
+    {
+      "id": "sequoia:garner-health",
+      "name": "Garner Health",
+      "slug": "garner-health"
     }
   ]
 }

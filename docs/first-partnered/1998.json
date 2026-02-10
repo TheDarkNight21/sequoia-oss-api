@@ -1,0 +1,10 @@
+{
+  "year": 1998,
+  "companies": [
+    {
+      "id": "sequoia:pixelworks",
+      "name": "Pixelworks",
+      "slug": "pixelworks"
+    }
+  ]
+}

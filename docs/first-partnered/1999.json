@@ -1,0 +1,20 @@
+{
+  "year": 1999,
+  "companies": [
+    {
+      "id": "sequoia:paypal",
+      "name": "PayPal",
+      "slug": "paypal"
+    },
+    {
+      "id": "sequoia:mellanox",
+      "name": "Mellanox",
+      "slug": "mellanox"
+    },
+    {
+      "id": "sequoia:google",
+      "name": "Google",
+      "slug": "google"
+    }
+  ]
+}

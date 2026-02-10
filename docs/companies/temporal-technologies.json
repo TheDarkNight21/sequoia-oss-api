@@ -1,0 +1,42 @@
+{
+  "id": "sequoia:temporal-technologies",
+  "sequoia_id": "632",
+  "name": "Temporal Technologies",
+  "slug": "temporal-technologies",
+  "description": "Temporal enables any software application to handle failures gracefully and in a user-friendly way. At its core, it is an open-source microservice orchestration platform for writing durable workflows as code. It makes it easier to develop reliable software for the cloud by offering an entirely new way to build scalable and reliable applications.",
+  "website": "https://temporal.io/",
+  "socials": {
+    "twitter": "https://www.twitter.com/temporaltech",
+    "linkedin": "https://www.linkedin.com/company/temporal-technologies/"
+  },
+  "categories": [
+    "hardware"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2019,
+  "partners": [
+    "bogomil-balkansky"
+  ],
+  "primary_partner": "bogomil-balkansky",
+  "milestones": {
+    "founded_year": 2019,
+    "partnered_year": 2019,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Samar Abbas",
+      "role": null
+    },
+    {
+      "name": "Maxim Fateev",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/temporal-technologies/"
+  }
+}

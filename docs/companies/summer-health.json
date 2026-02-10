@@ -1,0 +1,41 @@
+{
+  "id": "sequoia:summer-health",
+  "sequoia_id": "10345",
+  "name": "Summer Health",
+  "slug": "summer-health",
+  "description": "Now you have a doctor in your contacts. With a simple text message, get answers from expert, board-certified pediatricians in 15 minutes. Any time, day or night. Your doctor will provide personalized answers for questions ranging from your child’s health & development to postpartum care.",
+  "website": "https://www.summerhealth.com/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/joinsummerhealth"
+  },
+  "categories": [
+    "healthcare"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2022,
+  "partners": [
+    "alfred-lin"
+  ],
+  "primary_partner": "alfred-lin",
+  "milestones": {
+    "founded_year": 2021,
+    "partnered_year": 2022,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Ellen DaSilva",
+      "role": null
+    },
+    {
+      "name": "Matthew Woo",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/summer-health/"
+  }
+}

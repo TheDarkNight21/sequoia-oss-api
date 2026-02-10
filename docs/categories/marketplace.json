@@ -16,6 +16,71 @@
       "id": "sequoia:faire-wholesale",
       "name": "Faire",
       "slug": "faire-wholesale"
+    },
+    {
+      "id": "sequoia:linkexchange",
+      "name": "LinkExchange",
+      "slug": "linkexchange"
+    },
+    {
+      "id": "sequoia:flagship",
+      "name": "Flagship",
+      "slug": "flagship"
+    },
+    {
+      "id": "sequoia:eventbrite",
+      "name": "Eventbrite",
+      "slug": "eventbrite"
+    },
+    {
+      "id": "sequoia:elyn",
+      "name": "Elyn",
+      "slug": "elyn"
+    },
+    {
+      "id": "sequoia:getir",
+      "name": "Getir",
+      "slug": "getir"
+    },
+    {
+      "id": "sequoia:edx-markets",
+      "name": "EDX Markets",
+      "slug": "edx-markets"
+    },
+    {
+      "id": "sequoia:doordash",
+      "name": "DoorDash",
+      "slug": "doordash"
+    },
+    {
+      "id": "sequoia:airbnb",
+      "name": "Airbnb",
+      "slug": "airbnb"
+    },
+    {
+      "id": "sequoia:uber",
+      "name": "Uber",
+      "slug": "uber"
+    },
+    {
+      "id": "sequoia:humble-bundle",
+      "name": "Humble Bundle",
+      "slug": "humble-bundle"
+    },
+    {
+      "id": "sequoia:zefir",
+      "name": "Zefir",
+      "slug": "zefir"
+    },
+    {
+      "id": "sequoia:knowde",
+      "name": "Knowde",
+      "slug": "knowde"
+    },
+    {
+      "id": "sequoia:evy",
+      "name": "Evy",
+      "slug": "evy"
     }
   ]
 }

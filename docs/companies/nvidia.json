@@ -1,0 +1,45 @@
+{
+  "id": "sequoia:nvidia",
+  "sequoia_id": "502",
+  "name": "NVIDIA",
+  "slug": "nvidia",
+  "description": "NVIDIA pioneered the art and science of visual computing. Its invention of the GPU transformed the PC from a tool for productivity into one for creativity and discovery. Enhanced visual graphics benefit everyone, from gamers and scientists to consumers and enterprise customers. NVIDIA is changing the way people work and play with modern technology.",
+  "website": "https://www.nvidia.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/nvidia",
+    "linkedin": "https://www.linkedin.com/company/nvidia"
+  },
+  "categories": [
+    "ai",
+    "hardware"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 1993,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 1993,
+    "partnered_year": 1993,
+    "ipo_year": 1999,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Jensen Huang",
+      "role": null
+    },
+    {
+      "name": "Chris Malachowsky",
+      "role": null
+    },
+    {
+      "name": "Curtis Priem",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/nvidia/"
+  }
+}

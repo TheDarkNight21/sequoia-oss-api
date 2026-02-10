@@ -21,6 +21,56 @@
       "id": "sequoia:yahoo",
       "name": "Yahoo",
       "slug": "yahoo"
+    },
+    {
+      "id": "sequoia:zappos",
+      "name": "Zappos",
+      "slug": "zappos"
+    },
+    {
+      "id": "sequoia:linkexchange",
+      "name": "LinkExchange",
+      "slug": "linkexchange"
+    },
+    {
+      "id": "sequoia:stripe",
+      "name": "Stripe",
+      "slug": "stripe"
+    },
+    {
+      "id": "sequoia:watershed",
+      "name": "Watershed",
+      "slug": "watershed"
+    },
+    {
+      "id": "sequoia:getir",
+      "name": "Getir",
+      "slug": "getir"
+    },
+    {
+      "id": "sequoia:paypal",
+      "name": "PayPal",
+      "slug": "paypal"
+    },
+    {
+      "id": "sequoia:wirescreen",
+      "name": "WireScreen",
+      "slug": "wirescreen"
+    },
+    {
+      "id": "sequoia:247",
+      "name": "[24]7.ai",
+      "slug": "247"
+    },
+    {
+      "id": "sequoia:google",
+      "name": "Google",
+      "slug": "google"
+    },
+    {
+      "id": "sequoia:instacart",
+      "name": "Instacart",
+      "slug": "instacart"
     }
   ]
 }

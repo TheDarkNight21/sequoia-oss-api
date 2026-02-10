@@ -35,6 +35,136 @@
       "id": "sequoia:evervault",
       "name": "Evervault",
       "slug": "evervault"
+    },
+    {
+      "id": "sequoia:glossier",
+      "name": "Glossier",
+      "slug": "glossier"
+    },
+    {
+      "id": "sequoia:jitx",
+      "name": "JITX",
+      "slug": "jitx"
+    },
+    {
+      "id": "sequoia:middesk",
+      "name": "Middesk",
+      "slug": "middesk"
+    },
+    {
+      "id": "sequoia:temporal-technologies",
+      "name": "Temporal Technologies",
+      "slug": "temporal-technologies"
+    },
+    {
+      "id": "sequoia:dashlane",
+      "name": "Dashlane",
+      "slug": "dashlane"
+    },
+    {
+      "id": "sequoia:verkada",
+      "name": "Verkada",
+      "slug": "verkada"
+    },
+    {
+      "id": "sequoia:vise",
+      "name": "Vise",
+      "slug": "vise"
+    },
+    {
+      "id": "sequoia:attentive",
+      "name": "Attentive",
+      "slug": "attentive"
+    },
+    {
+      "id": "sequoia:linear",
+      "name": "Linear",
+      "slug": "linear"
+    },
+    {
+      "id": "sequoia:noom",
+      "name": "Noom",
+      "slug": "noom"
+    },
+    {
+      "id": "sequoia:loom",
+      "name": "Loom",
+      "slug": "loom"
+    },
+    {
+      "id": "sequoia:aurora",
+      "name": "Aurora",
+      "slug": "aurora"
+    },
+    {
+      "id": "sequoia:commons",
+      "name": "Commons",
+      "slug": "commons"
+    },
+    {
+      "id": "sequoia:iris-labs",
+      "name": "Iris Labs",
+      "slug": "iris-labs"
+    },
+    {
+      "id": "sequoia:strongdm",
+      "name": "strongDM",
+      "slug": "strongdm"
+    },
+    {
+      "id": "sequoia:neeva",
+      "name": "Neeva",
+      "slug": "neeva"
+    },
+    {
+      "id": "sequoia:brewbird",
+      "name": "Brewbird",
+      "slug": "brewbird"
+    },
+    {
+      "id": "sequoia:retool",
+      "name": "Retool",
+      "slug": "retool"
+    },
+    {
+      "id": "sequoia:robust-intelligence",
+      "name": "Robust Intelligence",
+      "slug": "robust-intelligence"
+    },
+    {
+      "id": "sequoia:amp-robotics",
+      "name": "AMP Robotics",
+      "slug": "amp-robotics"
+    },
+    {
+      "id": "sequoia:titus",
+      "name": "Titus",
+      "slug": "titus"
+    },
+    {
+      "id": "sequoia:clay",
+      "name": "Clay",
+      "slug": "clay"
+    },
+    {
+      "id": "sequoia:myome",
+      "name": "MyOme",
+      "slug": "myome"
+    },
+    {
+      "id": "sequoia:gong",
+      "name": "Gong",
+      "slug": "gong"
+    },
+    {
+      "id": "sequoia:garner-health",
+      "name": "Garner Health",
+      "slug": "garner-health"
+    },
+    {
+      "id": "sequoia:figma",
+      "name": "Figma",
+      "slug": "figma"
     }
   ]
 }

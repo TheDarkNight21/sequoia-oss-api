@@ -1,0 +1,47 @@
+{
+  "id": "sequoia:aurora",
+  "sequoia_id": "254",
+  "name": "Aurora",
+  "slug": "aurora",
+  "description": "Aurora delivers the benefits of self-driving technology safely and efficiently. Aurora is solving today’s most complex AI, automation and engineering challenges to catalyze the self-driving revolution.",
+  "website": "https://aurora.tech/",
+  "socials": {
+    "twitter": "https://www.twitter.com/aurora_inno",
+    "linkedin": "https://www.linkedin.com/company/aurora-inc./"
+  },
+  "categories": [
+    "ai",
+    "hardware"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 2019,
+  "partners": [
+    "carl-eschenbach"
+  ],
+  "primary_partner": "carl-eschenbach",
+  "milestones": {
+    "founded_year": 2016,
+    "partnered_year": 2019,
+    "ipo_year": 2021,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Sterling Anderson",
+      "role": null
+    },
+    {
+      "name": "Drew Bagnell",
+      "role": null
+    },
+    {
+      "name": "Chris Urmson",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/aurora/"
+  }
+}

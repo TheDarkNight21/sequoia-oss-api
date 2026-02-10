@@ -36,6 +36,151 @@
       "id": "sequoia:faire-wholesale",
       "name": "Faire",
       "slug": "faire-wholesale"
+    },
+    {
+      "id": "sequoia:zappos",
+      "name": "Zappos",
+      "slug": "zappos"
+    },
+    {
+      "id": "sequoia:found",
+      "name": "Found",
+      "slug": "found"
+    },
+    {
+      "id": "sequoia:citadel-securities",
+      "name": "Citadel Securities",
+      "slug": "citadel-securities"
+    },
+    {
+      "id": "sequoia:zipline",
+      "name": "Zipline",
+      "slug": "zipline"
+    },
+    {
+      "id": "sequoia:collaborative-robotics",
+      "name": "Cobot",
+      "slug": "collaborative-robotics"
+    },
+    {
+      "id": "sequoia:commure",
+      "name": "Commure",
+      "slug": "commure"
+    },
+    {
+      "id": "sequoia:summer-health",
+      "name": "Summer Health",
+      "slug": "summer-health"
+    },
+    {
+      "id": "sequoia:physical-intelligence",
+      "name": "Physical Intelligence",
+      "slug": "physical-intelligence"
+    },
+    {
+      "id": "sequoia:moovit",
+      "name": "Moovit",
+      "slug": "moovit"
+    },
+    {
+      "id": "sequoia:catch",
+      "name": "Catch",
+      "slug": "catch"
+    },
+    {
+      "id": "sequoia:doordash",
+      "name": "DoorDash",
+      "slug": "doordash"
+    },
+    {
+      "id": "sequoia:reddit",
+      "name": "reddit",
+      "slug": "reddit"
+    },
+    {
+      "id": "sequoia:airbnb",
+      "name": "Airbnb",
+      "slug": "airbnb"
+    },
+    {
+      "id": "sequoia:uber",
+      "name": "Uber",
+      "slug": "uber"
+    },
+    {
+      "id": "sequoia:humble-bundle",
+      "name": "Humble Bundle",
+      "slug": "humble-bundle"
+    },
+    {
+      "id": "sequoia:futureadvisor",
+      "name": "FutureAdvisor",
+      "slug": "futureadvisor"
+    },
+    {
+      "id": "sequoia:clay",
+      "name": "Clay",
+      "slug": "clay"
+    },
+    {
+      "id": "sequoia:bunkerhill-health",
+      "name": "Bunkerhill Health",
+      "slug": "bunkerhill-health"
+    },
+    {
+      "id": "sequoia:finch",
+      "name": "Finch",
+      "slug": "finch"
+    },
+    {
+      "id": "sequoia:formation-bio",
+      "name": "Formation Bio",
+      "slug": "formation-bio"
+    },
+    {
+      "id": "sequoia:turnkey",
+      "name": "Turnkey",
+      "slug": "turnkey"
+    },
+    {
+      "id": "sequoia:kalshi",
+      "name": "Kalshi",
+      "slug": "kalshi"
+    },
+    {
+      "id": "sequoia:nominal",
+      "name": "Nominal",
+      "slug": "nominal"
+    },
+    {
+      "id": "sequoia:fireworks-ai",
+      "name": "Fireworks AI",
+      "slug": "fireworks-ai"
+    },
+    {
+      "id": "sequoia:abby-care",
+      "name": "Abby Care",
+      "slug": "abby-care"
+    },
+    {
+      "id": "sequoia:crosby",
+      "name": "Crosby",
+      "slug": "crosby"
+    },
+    {
+      "id": "sequoia:instacart",
+      "name": "Instacart",
+      "slug": "instacart"
+    },
+    {
+      "id": "sequoia:whatnot",
+      "name": "Whatnot",
+      "slug": "whatnot"
+    },
+    {
+      "id": "sequoia:openai",
+      "name": "OpenAI",
+      "slug": "openai"
     }
   ]
 }

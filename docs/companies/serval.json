@@ -1,0 +1,42 @@
+{
+  "id": "sequoia:serval",
+  "sequoia_id": "21205",
+  "name": "Serval",
+  "slug": "serval",
+  "description": "Serval deploys AI agents for IT. Companies such as Perplexity, Mercor, Vercel, Verkada and Clay use Serval to automate help desk tickets, just-in-time access requests, onboarding and  offboarding flows, and more. With Serval, IT teams turn natural language prompts into complex automations in seconds, automating more than 50% of tickets on day one.",
+  "website": "https://www.serval.com/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/getserval/",
+    "youtube": "https://www.youtube.com/@servalvideo"
+  },
+  "categories": [
+    "ai"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2025,
+  "partners": [
+    "anas-biad"
+  ],
+  "primary_partner": "anas-biad",
+  "milestones": {
+    "founded_year": 2024,
+    "partnered_year": 2025,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Alex McLeod",
+      "role": null
+    },
+    {
+      "name": "Jake Stauch",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/serval/"
+  }
+}

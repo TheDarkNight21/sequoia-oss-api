@@ -1,0 +1,47 @@
+{
+  "id": "sequoia:pilot",
+  "sequoia_id": "539",
+  "name": "Pilot",
+  "slug": "pilot",
+  "description": "Pilot is the largest provider of bookkeeping, tax preparation and CFO services for startups and small businesses. It combines intelligent software with world-class accountants to deliver quality books at an affordable price. Pilot automates the mundane work that’s not worth users’ valuable time.",
+  "website": "https://pilot.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/PilotHQ",
+    "linkedin": "https://www.linkedin.com/company/pilothq/",
+    "instagram": "https://www.instagram.com/pilothq/"
+  },
+  "categories": [
+    "operations"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2020,
+  "partners": [
+    "pat-grady"
+  ],
+  "primary_partner": "pat-grady",
+  "milestones": {
+    "founded_year": 2017,
+    "partnered_year": 2020,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Jeff Arnold",
+      "role": null
+    },
+    {
+      "name": "Waseem Daher",
+      "role": null
+    },
+    {
+      "name": "Jessica McKellar",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/pilot/"
+  }
+}

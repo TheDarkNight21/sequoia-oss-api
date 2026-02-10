@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:quilt",
+  "sequoia_id": "16962",
+  "name": "Quilt",
+  "slug": "quilt",
+  "description": "Quilt’s AI Assistants solve some of the most important “jobs-to-be-done” for solutions organizations so solutions teams can spend more time with and be more effective partners to customers.",
+  "website": "https://quilt.app/",
+  "socials": {
+    "twitter": "https://twitter.com/quilt_app",
+    "linkedin": "https://www.linkedin.com/company/quiltapp/"
+  },
+  "categories": [
+    "ai",
+    "gtm"
+  ],
+  "current_stage": "pre-seed-seed",
+  "first_partnered_year": 2023,
+  "partners": [
+    "konstantine-buhler"
+  ],
+  "primary_partner": "konstantine-buhler",
+  "milestones": {
+    "founded_year": 2023,
+    "partnered_year": 2023,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Daniel Chen",
+      "role": null
+    },
+    {
+      "name": "Michael Graczyk",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/quilt/"
+  }
+}

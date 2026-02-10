@@ -1,0 +1,44 @@
+{
+  "id": "sequoia:hex",
+  "sequoia_id": "13014",
+  "name": "Hex",
+  "slug": "hex",
+  "description": "Hex is an all in one collaborative, AI-powered workspace for data science and analytics. Its notebook interface allows data teams to go from quick queries to deep-dive analyses to interactive data apps.",
+  "website": "https://hex.tech/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/hex-technologies/"
+  },
+  "categories": [
+    "ai",
+    "data-analytics"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2023,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 2019,
+    "partnered_year": 2023,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Caitlin Colgrove",
+      "role": null
+    },
+    {
+      "name": "Barry McCardel",
+      "role": null
+    },
+    {
+      "name": "Glen Takahashi",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/hex/"
+  }
+}

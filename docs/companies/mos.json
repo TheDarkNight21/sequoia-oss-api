@@ -1,0 +1,41 @@
+{
+  "id": "sequoia:mos",
+  "sequoia_id": "474",
+  "name": "Mos",
+  "slug": "mos",
+  "description": "Mos is an app that gives college students access to the largest pool of financial aid and scholarships in America.",
+  "website": "https://www.mos.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/mosdotcom",
+    "linkedin": "https://www.linkedin.com/company/mosdotcom/",
+    "instagram": "https://www.instagram.com/mosdotcom/"
+  },
+  "categories": [
+    "consumer",
+    "fintech"
+  ],
+  "current_stage": "acquired",
+  "first_partnered_year": 2020,
+  "partners": [
+    "jess-lee",
+    "george-robson"
+  ],
+  "primary_partner": "jess-lee",
+  "milestones": {
+    "founded_year": 2017,
+    "partnered_year": 2020,
+    "ipo_year": null,
+    "acquired_year": 2025
+  },
+  "team": [
+    {
+      "name": "Amira Yahyaoui",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/mos/"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "sequoia:openai",
+  "sequoia_id": "10340",
+  "name": "OpenAI",
+  "slug": "openai",
+  "description": "OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity.  It is dedicated to putting safety and human needs ahead of profit, and believes artificial intelligence has the potential to help people solve immense global challenges.",
+  "website": "https://openai.com/",
+  "socials": {
+    "twitter": "https://twitter.com/OpenAI",
+    "linkedin": "https://www.linkedin.com/company/openai"
+  },
+  "categories": [
+    "ai"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2021,
+  "partners": [
+    "pat-grady",
+    "alfred-lin",
+    "james-flynn"
+  ],
+  "primary_partner": "pat-grady",
+  "milestones": {
+    "founded_year": 2015,
+    "partnered_year": 2021,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Sam Altman",
+      "role": null
+    },
+    {
+      "name": "Greg Brockman",
+      "role": null
+    },
+    {
+      "name": "Ilya Sutskever",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/openai/"
+  }
+}

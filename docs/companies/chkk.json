@@ -1,0 +1,47 @@
+{
+  "id": "sequoia:chkk",
+  "sequoia_id": "10966",
+  "name": "Chkk",
+  "slug": "chkk",
+  "description": "Chkk is a Kubernetes Availability Platform that identifies and prioritizes availability risks before they cause incidents, tracks artifacts and assets across the fleet, and creates pre-verified upgrade plans to remediate risks and speed up upgrades. Platform teams use Chkk to execute safe upgrades, remediate availability risks, monitor unsupported versions, and get visibility into what artifacts are running where. With Chkk, teams learn from others, don’t repeat mistakes, save time and effort, and get more done with fewer resources.",
+  "website": "https://www.chkk.io/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/chkk-io/",
+    "youtube": "https://www.youtube.com/@chkk-io"
+  },
+  "categories": [
+    "infrastructure"
+  ],
+  "current_stage": "pre-seed-seed",
+  "first_partnered_year": 2022,
+  "partners": [
+    "bogomil-balkansky",
+    "bill-coughran"
+  ],
+  "primary_partner": "bogomil-balkansky",
+  "milestones": {
+    "founded_year": 2022,
+    "partnered_year": 2022,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Fawad Khaliq",
+      "role": null
+    },
+    {
+      "name": "Ali Khayam",
+      "role": null
+    },
+    {
+      "name": "Awais Nemat",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/chkk/"
+  }
+}

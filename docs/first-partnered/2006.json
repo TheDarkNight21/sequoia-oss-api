@@ -10,6 +10,21 @@
       "id": "sequoia:ringcentral",
       "name": "RingCentral",
       "slug": "ringcentral"
+    },
+    {
+      "id": "sequoia:meraki",
+      "name": "Meraki",
+      "slug": "meraki"
+    },
+    {
+      "id": "sequoia:quantenna",
+      "name": "Quantenna",
+      "slug": "quantenna"
+    },
+    {
+      "id": "sequoia:alpha-omega-semiconductor",
+      "name": "Alpha &amp; Omega Semiconductor",
+      "slug": "alpha-omega-semiconductor"
     }
   ]
 }

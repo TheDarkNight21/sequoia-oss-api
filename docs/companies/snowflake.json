@@ -1,0 +1,57 @@
+{
+  "id": "sequoia:snowflake",
+  "sequoia_id": "600",
+  "name": "Snowflake",
+  "slug": "snowflake",
+  "description": "Snowflake powers the data cloud. It is a solution for all things data: warehousing, lakes, engineering, science, application development and sharing. It allows organizations to unite their siloed data, easily discover and securely share governed data, and execute diverse analytic workloads.",
+  "website": "https://www.snowflake.net/",
+  "socials": {
+    "twitter": "https://www.twitter.com/SnowflakeDB",
+    "linkedin": "https://www.linkedin.com/company/3653845/",
+    "instagram": "https://www.instagram.com/_snowflake_inc/"
+  },
+  "categories": [
+    "ai",
+    "data-analytics"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 2018,
+  "partners": [
+    "pat-grady",
+    "carl-eschenbach"
+  ],
+  "primary_partner": "pat-grady",
+  "milestones": {
+    "founded_year": 2012,
+    "partnered_year": 2018,
+    "ipo_year": 2020,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Frank Slootman",
+      "role": null
+    },
+    {
+      "name": "Sridhar Ramaswamy",
+      "role": null
+    },
+    {
+      "name": "Thierry Cruanes",
+      "role": null
+    },
+    {
+      "name": "Benoit Dageville",
+      "role": null
+    },
+    {
+      "name": "Marcin Zukowski",
+      "role": null
+    }
+  ],
+  "why_partnered": "Snowflake was creating the data warehouse of the future: one built for the cloud and optimized for cloud workloads. The company’s vision, paired with the technical excellence of the team and user-centric design made it clear that they were going to become a category-defining business with the power to endure.",
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/snowflake/"
+  }
+}

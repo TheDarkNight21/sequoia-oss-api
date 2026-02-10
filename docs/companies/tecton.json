@@ -1,0 +1,48 @@
+{
+  "id": "sequoia:tecton",
+  "sequoia_id": "628",
+  "name": "Tecton",
+  "slug": "tecton",
+  "description": "Tecton’s enterprise-ready feature store makes world-class machine learning accessible to every company. Its store helps ML teams serve great features quickly, reliably and at scale.",
+  "website": "https://tecton.ai/",
+  "socials": {
+    "twitter": "https://www.twitter.com/TectonAI",
+    "linkedin": "https://www.linkedin.com/company/tectonai/"
+  },
+  "categories": [
+    "ai",
+    "data-analytics"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2018,
+  "partners": [
+    "sonya-huang",
+    "bill-coughran"
+  ],
+  "primary_partner": "sonya-huang",
+  "milestones": {
+    "founded_year": 2018,
+    "partnered_year": 2018,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Michael Del Balso",
+      "role": null
+    },
+    {
+      "name": "Jeremy Hermann",
+      "role": null
+    },
+    {
+      "name": "Kevin Stumpf",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/tecton/"
+  }
+}

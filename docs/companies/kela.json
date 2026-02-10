@@ -1,0 +1,52 @@
+{
+  "id": "sequoia:kela",
+  "sequoia_id": "17735",
+  "name": "Kela",
+  "slug": "kela",
+  "description": "Kela is a secure, open platform enabling rapid and seamless integration of commercial and military systems in service of Western defense. Designed and battle-tested by Israeli innovators, Kela ensures the West meets today’s frontline challenges and evolves with tomorrow’s innovations.",
+  "website": "https://kelasys.com/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/kela-technologies/"
+  },
+  "categories": [
+    "ai",
+    "defense"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2024,
+  "partners": [
+    "david-cahn",
+    "dean-meyer",
+    "shaun-maguire"
+  ],
+  "primary_partner": "david-cahn",
+  "milestones": {
+    "founded_year": 2024,
+    "partnered_year": 2024,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Omer Bar-Ilan",
+      "role": null
+    },
+    {
+      "name": "Alon Dror",
+      "role": null
+    },
+    {
+      "name": "Jason Manne",
+      "role": null
+    },
+    {
+      "name": "Hamutal Meridor",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/kela/"
+  }
+}

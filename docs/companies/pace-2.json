@@ -1,0 +1,38 @@
+{
+  "id": "sequoia:pace-2",
+  "sequoia_id": null,
+  "name": "Pace",
+  "slug": "pace-2",
+  "description": "Pace is the AI operations partner for the world’s leading insurers. They combine AI agents with deep industry expertise to automate mission critical back-office operations.",
+  "website": "https://withpace.com",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/pace-com/"
+  },
+  "categories": [
+    "ai"
+  ],
+  "current_stage": null,
+  "first_partnered_year": 2024,
+  "partners": [
+    "bryan-schreier",
+    "lauren-reeder"
+  ],
+  "primary_partner": "bryan-schreier",
+  "milestones": {
+    "founded_year": 2024,
+    "partnered_year": 2024,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Jamie Cuffe",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/pace-2/"
+  }
+}

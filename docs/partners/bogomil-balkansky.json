@@ -6,6 +6,91 @@
       "id": "sequoia:infracost",
       "name": "Infracost",
       "slug": "infracost"
+    },
+    {
+      "id": "sequoia:cyera",
+      "name": "Cyera",
+      "slug": "cyera"
+    },
+    {
+      "id": "sequoia:temporal-technologies",
+      "name": "Temporal Technologies",
+      "slug": "temporal-technologies"
+    },
+    {
+      "id": "sequoia:mutiny",
+      "name": "Mutiny",
+      "slug": "mutiny"
+    },
+    {
+      "id": "sequoia:chkk",
+      "name": "Chkk",
+      "slug": "chkk"
+    },
+    {
+      "id": "sequoia:oasis-security",
+      "name": "Oasis Security",
+      "slug": "oasis-security"
+    },
+    {
+      "id": "sequoia:apex",
+      "name": "Apex",
+      "slug": "apex"
+    },
+    {
+      "id": "sequoia:zafran",
+      "name": "Zafran",
+      "slug": "zafran"
+    },
+    {
+      "id": "sequoia:cortex",
+      "name": "Cortex",
+      "slug": "cortex"
+    },
+    {
+      "id": "sequoia:bigeye",
+      "name": "Bigeye",
+      "slug": "bigeye"
+    },
+    {
+      "id": "sequoia:pydantic",
+      "name": "Pydantic",
+      "slug": "pydantic"
+    },
+    {
+      "id": "sequoia:wiz",
+      "name": "Wiz",
+      "slug": "wiz"
+    },
+    {
+      "id": "sequoia:salt-security",
+      "name": "Salt Security",
+      "slug": "salt-security"
+    },
+    {
+      "id": "sequoia:deno",
+      "name": "Deno",
+      "slug": "deno"
+    },
+    {
+      "id": "sequoia:fastapi-labs",
+      "name": "FastAPI Labs",
+      "slug": "fastapi-labs"
+    },
+    {
+      "id": "sequoia:traversal",
+      "name": "Traversal",
+      "slug": "traversal"
+    },
+    {
+      "id": "sequoia:chainguard",
+      "name": "Chainguard",
+      "slug": "chainguard"
+    },
+    {
+      "id": "sequoia:sandstone",
+      "name": "Sandstone",
+      "slug": "sandstone"
     }
   ]
 }

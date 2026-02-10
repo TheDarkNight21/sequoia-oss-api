@@ -1,0 +1,42 @@
+{
+  "id": "sequoia:withcoverage",
+  "sequoia_id": "21296",
+  "name": "WithCoverage",
+  "slug": "withcoverage",
+  "description": "WithCoverage replaces traditional insurance brokers with a new category of risk management. The company combines elite risk advisors with proprietary technology to give businesses full visibility into policies, exposures, compliance and claims. Its AI agents automate workflows, improve decision making, and deliver a materially higher standard of service and cost savings.",
+  "website": "http://withcoverage.com",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/withcoverage/"
+  },
+  "categories": [
+    "ai"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2025,
+  "partners": [
+    "roelof-botha",
+    "george-robson"
+  ],
+  "primary_partner": "roelof-botha",
+  "milestones": {
+    "founded_year": 2023,
+    "partnered_year": 2025,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Max Brenner",
+      "role": null
+    },
+    {
+      "name": "JD Ross",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/withcoverage/"
+  }
+}

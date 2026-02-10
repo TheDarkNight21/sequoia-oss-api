@@ -5,6 +5,26 @@
       "id": "sequoia:opendns",
       "name": "OpenDNS",
       "slug": "opendns"
+    },
+    {
+      "id": "sequoia:eventbrite",
+      "name": "Eventbrite",
+      "slug": "eventbrite"
+    },
+    {
+      "id": "sequoia:servicenow",
+      "name": "ServiceNow",
+      "slug": "servicenow"
+    },
+    {
+      "id": "sequoia:airbnb",
+      "name": "Airbnb",
+      "slug": "airbnb"
+    },
+    {
+      "id": "sequoia:unity-technologies",
+      "name": "Unity",
+      "slug": "unity-technologies"
     }
   ]
 }

@@ -1,0 +1,42 @@
+{
+  "id": "sequoia:tilt",
+  "sequoia_id": "17167",
+  "name": "Tilt",
+  "slug": "tilt",
+  "description": "Tilt helps consumers access cash and credit by looking at real-time income and spending, not just credit scores, to see their potential.",
+  "website": "https://www.tilt.com",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/tilthq",
+    "instagram": "https://www.instagram.com/tilt_hq",
+    "youtube": "https://www.youtube.com/@tilt_hq"
+  },
+  "categories": [
+    "consumer",
+    "fintech"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2020,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 2016,
+    "partnered_year": 2020,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Justin Ammerlaan",
+      "role": null
+    },
+    {
+      "name": "Warren Hogarth",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/tilt/"
+  }
+}

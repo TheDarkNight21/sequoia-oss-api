@@ -1,0 +1,41 @@
+{
+  "id": "sequoia:sunday",
+  "sequoia_id": "624",
+  "name": "Sunday",
+  "slug": "sunday",
+  "description": "Sunday is a subscription service that provides nutrient and soil health plans for gardens and lawns. It uses climate, soil and satellite data to deliver gardening and lawn maintenance-related products and services.",
+  "website": "https://www.getsunday.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/sundaygrow",
+    "linkedin": "https://www.linkedin.com/company/getsunday/",
+    "instagram": "https://www.instagram.com/get_sunday/"
+  },
+  "categories": [
+    "consumer"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2020,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 2018,
+    "partnered_year": 2020,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Coulter Lewis",
+      "role": null
+    },
+    {
+      "name": "Trent Lewis",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/sunday/"
+  }
+}

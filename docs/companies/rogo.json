@@ -1,0 +1,45 @@
+{
+  "id": "sequoia:rogo",
+  "sequoia_id": "21541",
+  "name": "Rogo",
+  "slug": "rogo",
+  "description": "Rogo is the generative AI platform for finance. With a suite of agents purpose-built for Wall Street, it’s trained to understand how bankers and investors actually work: from sourcing, diligence and modeling, to turning analysis into deliverables. Rogo is used by many of the world’s leading financial institutions and has been backed by Sequoia since 2025.",
+  "website": "https://rogo.ai",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/rogoai/"
+  },
+  "categories": [
+    "ai"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2025,
+  "partners": [
+    "brian-halligan"
+  ],
+  "primary_partner": "brian-halligan",
+  "milestones": {
+    "founded_year": 2021,
+    "partnered_year": 2025,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Tumas Rackaitis",
+      "role": null
+    },
+    {
+      "name": "Gabriel Stengel",
+      "role": null
+    },
+    {
+      "name": "John Willett",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/rogo/"
+  }
+}

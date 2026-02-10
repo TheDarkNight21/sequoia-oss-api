@@ -11,6 +11,116 @@
       "id": "sequoia:dbt-labs",
       "name": "dbt Labs",
       "slug": "dbt-labs"
+    },
+    {
+      "id": "sequoia:amplitude",
+      "name": "Amplitude",
+      "slug": "amplitude"
+    },
+    {
+      "id": "sequoia:armis-security",
+      "name": "Armis",
+      "slug": "armis-security"
+    },
+    {
+      "id": "sequoia:pendulum-therapeutics",
+      "name": "Pendulum",
+      "slug": "pendulum-therapeutics"
+    },
+    {
+      "id": "sequoia:glossier",
+      "name": "Glossier",
+      "slug": "glossier"
+    },
+    {
+      "id": "sequoia:cribl",
+      "name": "Cribl",
+      "slug": "cribl"
+    },
+    {
+      "id": "sequoia:dashlane",
+      "name": "Dashlane",
+      "slug": "dashlane"
+    },
+    {
+      "id": "sequoia:fintual",
+      "name": "Fintual",
+      "slug": "fintual"
+    },
+    {
+      "id": "sequoia:tecton",
+      "name": "Tecton",
+      "slug": "tecton"
+    },
+    {
+      "id": "sequoia:attentive",
+      "name": "Attentive",
+      "slug": "attentive"
+    },
+    {
+      "id": "sequoia:keen-technologies",
+      "name": "Keen Technologies",
+      "slug": "keen-technologies"
+    },
+    {
+      "id": "sequoia:census",
+      "name": "Census",
+      "slug": "census"
+    },
+    {
+      "id": "sequoia:nubank",
+      "name": "Nubank",
+      "slug": "nubank"
+    },
+    {
+      "id": "sequoia:glean",
+      "name": "Glean",
+      "slug": "glean"
+    },
+    {
+      "id": "sequoia:mercury",
+      "name": "Mercury",
+      "slug": "mercury"
+    },
+    {
+      "id": "sequoia:apollo",
+      "name": "Apollo",
+      "slug": "apollo"
+    },
+    {
+      "id": "sequoia:zed",
+      "name": "Zed",
+      "slug": "zed"
+    },
+    {
+      "id": "sequoia:langchain",
+      "name": "LangChain",
+      "slug": "langchain"
+    },
+    {
+      "id": "sequoia:fireworks-ai",
+      "name": "Fireworks AI",
+      "slug": "fireworks-ai"
+    },
+    {
+      "id": "sequoia:magic",
+      "name": "Magic",
+      "slug": "magic"
+    },
+    {
+      "id": "sequoia:gong",
+      "name": "Gong",
+      "slug": "gong"
+    },
+    {
+      "id": "sequoia:hugging-face",
+      "name": "Hugging Face",
+      "slug": "hugging-face"
+    },
+    {
+      "id": "sequoia:fal",
+      "name": "fal",
+      "slug": "fal"
     }
   ]
 }

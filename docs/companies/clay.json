@@ -1,0 +1,49 @@
+{
+  "id": "sequoia:clay",
+  "sequoia_id": "10323",
+  "name": "Clay",
+  "slug": "clay",
+  "description": "Clay makes creative tools that help businesses grow by improving their customer research to scale personalized outreach. Its AI agent helps RevOps and growth teams implement any outreach idea.",
+  "website": "https://www.clay.com/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/clay-hq",
+    "youtube": "https://www.youtube.com/channel/UCHLTdPgm0KivyFFvKEWEQmQ"
+  },
+  "categories": [
+    "ai",
+    "gtm"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2019,
+  "partners": [
+    "alfred-lin",
+    "david-cahn",
+    "james-flynn"
+  ],
+  "primary_partner": "alfred-lin",
+  "milestones": {
+    "founded_year": 2017,
+    "partnered_year": 2019,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Kareem Amin",
+      "role": null
+    },
+    {
+      "name": "Varun Anand",
+      "role": null
+    },
+    {
+      "name": "Nicolae Rusan",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/clay/"
+  }
+}

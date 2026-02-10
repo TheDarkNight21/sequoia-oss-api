@@ -1,0 +1,42 @@
+{
+  "id": "sequoia:edx-markets",
+  "sequoia_id": "13055",
+  "name": "EDX Markets",
+  "slug": "edx-markets",
+  "description": "EDX Markets is a new digital asset exchange designed to meet the needs of both crypto-native firms and the world’s largest financial institutions. EDX will enable safer, faster and more efficient trading of digital assets, leveraging best practices from traditional financial markets on a purpose-built crypto platform.",
+  "website": "https://edxmarkets.com/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/edx-markets"
+  },
+  "categories": [
+    "crypto",
+    "marketplace"
+  ],
+  "current_stage": "pre-seed-seed",
+  "first_partnered_year": 2022,
+  "partners": [
+    "konstantine-buhler"
+  ],
+  "primary_partner": "konstantine-buhler",
+  "milestones": {
+    "founded_year": 2022,
+    "partnered_year": 2022,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Tony Acuña-Rohter",
+      "role": null
+    },
+    {
+      "name": "Jamil Nazarali",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/edx-markets/"
+  }
+}

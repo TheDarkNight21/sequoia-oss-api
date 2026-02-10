@@ -1,0 +1,53 @@
+{
+  "id": "sequoia:chainguard",
+  "sequoia_id": "10770",
+  "name": "Chainguard",
+  "slug": "chainguard",
+  "description": "Chainguard is the safe source for open source. The company’s mission is to make the software supply chain secure by default. Chainguard develops enterprise solutions to mitigate attacks along every stage of the software development cycle without sacrificing developer productivity.",
+  "website": "https://chainguard.dev/",
+  "socials": {
+    "twitter": "https://twitter.com/chainguard_dev",
+    "linkedin": "https://www.linkedin.com/company/76213412/",
+    "youtube": "https://www.youtube.com/channel/UCJYCfj6ZMdyeinWMm_yxwaA"
+  },
+  "categories": [
+    "developer-tools",
+    "security"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2022,
+  "partners": [
+    "bogomil-balkansky",
+    "andrew-reed"
+  ],
+  "primary_partner": "bogomil-balkansky",
+  "milestones": {
+    "founded_year": 2021,
+    "partnered_year": 2022,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Ville Aikas",
+      "role": null
+    },
+    {
+      "name": "Kim Lewandowski",
+      "role": null
+    },
+    {
+      "name": "Dan Lorenc",
+      "role": null
+    },
+    {
+      "name": "Matt Moore",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/chainguard/"
+  }
+}

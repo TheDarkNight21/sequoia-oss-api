@@ -1,0 +1,47 @@
+{
+  "id": "sequoia:sunflower-labs",
+  "sequoia_id": "19977",
+  "name": "Sunflower Labs",
+  "slug": "sunflower-labs",
+  "description": "Sunflower Labs developed the world’s first fully autonomous, AI-powered drone security system. Its Beehive platform—combining a self-charging drone, smart base station and cloud intelligence—delivers scalable, real-time protection for commercial, industrial and residential properties. Sunflower is deployed globally with partners including Alarm.com, Alert360, Securion, 10 Federal Companies, Swiss Federal Railways and many more.",
+  "website": "https://sunflower-labs.com/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/sunflower-labs/",
+    "youtube": "https://www.youtube.com/@sunflower-labs"
+  },
+  "categories": [
+    "ai",
+    "hardware"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2025,
+  "partners": [
+    "roelof-botha"
+  ],
+  "primary_partner": "roelof-botha",
+  "milestones": {
+    "founded_year": 2016,
+    "partnered_year": 2025,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Nick de Palézieux",
+      "role": null
+    },
+    {
+      "name": "Chris Eheim",
+      "role": null
+    },
+    {
+      "name": "Alex Pachikov",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/sunflower-labs/"
+  }
+}

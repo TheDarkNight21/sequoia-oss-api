@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:anterior",
+  "sequoia_id": "15266",
+  "name": "Anterior",
+  "slug": "anterior",
+  "description": "Anterior is alleviating the $950B administrative burden in the U.S. healthcare industry by supercharging health plans with AI co:pilots for complex and manual workflows.",
+  "website": "https://www.anterior.com/",
+  "socials": {
+    "twitter": "https://twitter.com/CoHelmAI",
+    "linkedin": "https://www.linkedin.com/company/96348269"
+  },
+  "categories": [
+    "ai",
+    "healthcare"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2023,
+  "partners": [
+    "george-robson"
+  ],
+  "primary_partner": "george-robson",
+  "milestones": {
+    "founded_year": 2022,
+    "partnered_year": 2023,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Zahid Mahmood",
+      "role": null
+    },
+    {
+      "name": "Abdel Mahmoud",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/anterior/"
+  }
+}

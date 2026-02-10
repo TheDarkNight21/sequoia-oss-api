@@ -1,0 +1,47 @@
+{
+  "id": "sequoia:xentral",
+  "sequoia_id": "684",
+  "name": "xentral",
+  "slug": "xentral",
+  "description": "xentral is a lean ERP cloud software that bundles all your business processes in one place, from e-commerce, warehouse and production to fulfillment and accounting. With more than 1,000 functions and interfaces, xentral allows every business to digitize and automate individual processes step-by-step.",
+  "website": "https://xentral.com/en/",
+  "socials": {
+    "twitter": "https://www.twitter.com/xentral",
+    "linkedin": "https://www.linkedin.com/company/xentralsoftware/"
+  },
+  "categories": [
+    "operations"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2021,
+  "partners": [
+    "luciana-lixandru",
+    "george-robson"
+  ],
+  "primary_partner": "luciana-lixandru",
+  "milestones": {
+    "founded_year": 2008,
+    "partnered_year": 2021,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Domenico Cipolla",
+      "role": null
+    },
+    {
+      "name": "Benedikt Sauter",
+      "role": null
+    },
+    {
+      "name": "Claudia Sauter",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/xentral/"
+  }
+}

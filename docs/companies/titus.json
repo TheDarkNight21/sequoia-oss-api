@@ -1,0 +1,45 @@
+{
+  "id": "sequoia:titus",
+  "sequoia_id": "222",
+  "name": "Titus",
+  "slug": "titus",
+  "description": "Titus (fka Aalto) created the Closing Line of Credit to enable seller’s to access their home’s equity to prepare their home for the market.",
+  "website": "https://www.gotitus.com/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/gotitus/"
+  },
+  "categories": [
+    "fintech"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2019,
+  "partners": [
+    "bryan-schreier"
+  ],
+  "primary_partner": "bryan-schreier",
+  "milestones": {
+    "founded_year": 2018,
+    "partnered_year": 2019,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Evan Hobbs",
+      "role": null
+    },
+    {
+      "name": "Craig Moxley",
+      "role": null
+    },
+    {
+      "name": "Nicholas Narodny",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/titus/"
+  }
+}

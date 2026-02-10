@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:protege",
+  "sequoia_id": "8747",
+  "name": "Protégé",
+  "slug": "protege",
+  "description": "On Protégé you can be heard and get discovered. Every industry has gatekeepers that hold the keys to the best opportunities. We believe that every person deserves a shot at proving themselves. For the first time, you can send a 60 second video to the best experts in the world and get a guaranteed video response and a shot at a life-changing opportunity.",
+  "website": "https://www.protege.com",
+  "socials": {
+    "twitter": "https://twitter.com/protege",
+    "linkedin": "https://www.linkedin.com/company/join-protege/",
+    "instagram": "https://www.instagram.com/joinprotege/"
+  },
+  "categories": [
+    "consumer"
+  ],
+  "current_stage": "pre-seed-seed",
+  "first_partnered_year": 2021,
+  "partners": [
+    "jess-lee"
+  ],
+  "primary_partner": "jess-lee",
+  "milestones": {
+    "founded_year": 2021,
+    "partnered_year": 2021,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Mike Cruz",
+      "role": null
+    },
+    {
+      "name": "Jackson Jhin",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/protege/"
+  }
+}

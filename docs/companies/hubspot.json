@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:hubspot",
+  "sequoia_id": "407",
+  "name": "HubSpot",
+  "slug": "hubspot",
+  "description": "HubSpot does away with the needle-in-the-haystack approach to targeting consumers, allowing companies to manage marketing tools with one system. HubSpot offers training, analytics and advice to help companies master social media, use search engines and manage content aimed at the next generation of customers.",
+  "website": "https://www.hubspot.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/HubSpot",
+    "linkedin": "https://www.linkedin.com/company/hubspot"
+  },
+  "categories": [
+    "gtm"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 2011,
+  "partners": [
+    "pat-grady",
+    "jim-goetz"
+  ],
+  "primary_partner": "pat-grady",
+  "milestones": {
+    "founded_year": 2006,
+    "partnered_year": 2011,
+    "ipo_year": 2014,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Brian Halligan",
+      "role": null
+    },
+    {
+      "name": "Dharmesh Shah",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/hubspot/"
+  }
+}

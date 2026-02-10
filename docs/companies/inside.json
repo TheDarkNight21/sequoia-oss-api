@@ -1,0 +1,38 @@
+{
+  "id": "sequoia:inside",
+  "sequoia_id": "17171",
+  "name": "Inside",
+  "slug": "inside",
+  "description": "Inside.com provides curated email newsletters on industry topics and events for business communities.",
+  "website": "https://inside.com/",
+  "socials": {
+    "twitter": "https://twitter.com/inside",
+    "linkedin": "https://linkedin.com/company/inside-com/",
+    "instagram": "https://www.instagram.com/inside.hq/",
+    "youtube": "https://www.youtube.com/c/InsideHQ"
+  },
+  "categories": [
+    "consumer"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2007,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 2006,
+    "partnered_year": 2007,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Jason Calacanis",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/inside/"
+  }
+}

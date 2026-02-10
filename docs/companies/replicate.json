@@ -1,0 +1,41 @@
+{
+  "id": "sequoia:replicate",
+  "sequoia_id": "10342",
+  "name": "Replicate",
+  "slug": "replicate",
+  "description": "Replicate makes machine learning as easy to use as any other type of software. It has a library of hundreds of open-source models that you can run with a few lines of code. And if you’re building your own machine learning models, Replicate makes it easy to deploy them at scale.",
+  "website": "https://replicate.com/",
+  "socials": {
+    "twitter": "https://twitter.com/replicatehq",
+    "linkedin": "https://www.linkedin.com/company/replicate/"
+  },
+  "categories": [
+    "ai",
+    "developer-tools"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2021,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 2019,
+    "partnered_year": 2021,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Ben Firshman",
+      "role": null
+    },
+    {
+      "name": "Andreas Jansson",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/replicate/"
+  }
+}

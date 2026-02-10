@@ -1,0 +1,48 @@
+{
+  "id": "sequoia:dashlane",
+  "sequoia_id": "312",
+  "name": "Dashlane",
+  "slug": "dashlane",
+  "description": "Dashlane secures users’ digital identity across a wide range of platforms and devices. The Dashlane app automatically fills and stores passwords, personal data and payment details, and includes a suite of tools to help consumers protect their identity online.",
+  "website": "https://www.dashlane.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/dashlane",
+    "linkedin": "https://www.linkedin.com/company/dashlane/",
+    "instagram": "https://www.instagram.com/dashlane/?hl=en"
+  },
+  "categories": [
+    "security"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2019,
+  "partners": [
+    "jim-goetz",
+    "sonya-huang"
+  ],
+  "primary_partner": "jim-goetz",
+  "milestones": {
+    "founded_year": 2009,
+    "partnered_year": 2019,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "John Bennett",
+      "role": null
+    },
+    {
+      "name": "Jean Guillou",
+      "role": null
+    },
+    {
+      "name": "Guillaume Maron",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/dashlane/"
+  }
+}

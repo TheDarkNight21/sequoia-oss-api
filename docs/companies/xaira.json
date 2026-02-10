@@ -1,0 +1,34 @@
+{
+  "id": "sequoia:xaira",
+  "sequoia_id": "17463",
+  "name": "Xaira",
+  "slug": "xaira",
+  "description": "Xaira is reinventing drug R&D using artificial intelligence to rapidly prototype and test antibody and small molecule treatments for diseases with well-understood biological validation.",
+  "website": "https://xaira.com/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/xaira-therapeutics/"
+  },
+  "categories": [
+    "ai",
+    "healthcare"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2024,
+  "partners": [
+    "roelof-botha",
+    "konstantine-buhler"
+  ],
+  "primary_partner": "roelof-botha",
+  "milestones": {
+    "founded_year": 2024,
+    "partnered_year": 2024,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/xaira/"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "sequoia:rox",
+  "sequoia_id": "16922",
+  "name": "Rox",
+  "slug": "rox",
+  "description": "Rox helps businesses secure and grow revenue. The best enterprise teams get better with Rox agent swarms aggregating and analyzing data, and delivering actionable next steps for each account.",
+  "website": "https://www.rox.com/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/rox-data-corp/",
+    "youtube": "https://www.youtube.com/@Rox-agent-swarm/videos"
+  },
+  "categories": [
+    "ai",
+    "gtm"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2024,
+  "partners": [
+    "konstantine-buhler",
+    "josephine-chen"
+  ],
+  "primary_partner": "konstantine-buhler",
+  "milestones": {
+    "founded_year": 2024,
+    "partnered_year": 2024,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Ishan Mukherjee",
+      "role": null
+    },
+    {
+      "name": "Avanika Narayan",
+      "role": null
+    },
+    {
+      "name": "Diogo Ribeiro",
+      "role": null
+    },
+    {
+      "name": "Shriram Sridharan",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/rox/"
+  }
+}

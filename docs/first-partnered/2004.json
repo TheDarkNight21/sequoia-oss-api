@@ -5,6 +5,11 @@
       "id": "sequoia:fireeye",
       "name": "FireEye",
       "slug": "fireeye"
+    },
+    {
+      "id": "sequoia:zappos",
+      "name": "Zappos",
+      "slug": "zappos"
     }
   ]
 }

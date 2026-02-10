@@ -1,0 +1,28 @@
+{
+  "id": "sequoia:microchip-technology",
+  "sequoia_id": "18464",
+  "name": "Microchip Technology",
+  "slug": "microchip-technology",
+  "description": "Microchip Technology is a leading provider of smart, connected and secure embedded control and processing solutions.",
+  "website": "https://www.microchip.com/",
+  "socials": {},
+  "categories": [
+    "hardware"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 1989,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 1987,
+    "partnered_year": 1989,
+    "ipo_year": 1993,
+    "acquired_year": null
+  },
+  "team": [],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/microchip-technology/"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "year": 1980,
+  "companies": [
+    {
+      "id": "sequoia:western-digital",
+      "name": "Western Digital",
+      "slug": "western-digital"
+    }
+  ]
+}

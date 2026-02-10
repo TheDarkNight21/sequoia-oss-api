@@ -1,0 +1,44 @@
+{
+  "id": "sequoia:safe-superintelligence",
+  "sequoia_id": "18407",
+  "name": "Safe Superintelligence",
+  "slug": "safe-superintelligence",
+  "description": "The world’s first straight-shot SSI lab, with one goal and one product: a safe superintelligence.",
+  "website": "https://ssi.inc/",
+  "socials": {},
+  "categories": [
+    "ai"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2024,
+  "partners": [
+    "shaun-maguire",
+    "andrew-reed"
+  ],
+  "primary_partner": "shaun-maguire",
+  "milestones": {
+    "founded_year": 2024,
+    "partnered_year": 2024,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Daniel Gross",
+      "role": null
+    },
+    {
+      "name": "Daniel Levy",
+      "role": null
+    },
+    {
+      "name": "Ilya Sutskever",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/safe-superintelligence/"
+  }
+}

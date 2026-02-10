@@ -1,0 +1,45 @@
+{
+  "id": "sequoia:fides",
+  "sequoia_id": "9797",
+  "name": "Fides",
+  "slug": "fides",
+  "description": "Fides is the first ever Management Governance Platform (MGP) enabling companies to globally monitor, execute and automate their corporate governance duties. On one hand, Fides acts as the single-source-of-truth for all things entity and makes it easy to find key info per entity in a structured, actionable and visualised way. On top, Fides streamlines the execution of workflows for governance-related decisions, particularly through meetings, resolutions and approvals among the c-level suite. Fides customers benefit from reducing director’s liabilities, lower spend on legal resources, accelerated deal-readiness in DD and M&A processes as well as preventing governance scandals.",
+  "website": "https://www.fides.technology",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/fidestechnologygmbh/",
+    "instagram": "https://www.instagram.com/fides.technology"
+  },
+  "categories": [
+    "legal",
+    "operations"
+  ],
+  "current_stage": "pre-seed-seed",
+  "first_partnered_year": 2022,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 2021,
+    "partnered_year": 2022,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Vincent Bobinski",
+      "role": null
+    },
+    {
+      "name": "Lisa Gradow",
+      "role": null
+    },
+    {
+      "name": "Philippa Peters",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/fides/"
+  }
+}

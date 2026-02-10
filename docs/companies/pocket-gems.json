@@ -1,0 +1,39 @@
+{
+  "id": "sequoia:pocket-gems",
+  "sequoia_id": "17174",
+  "name": "Pocket Gems",
+  "slug": "pocket-gems",
+  "description": "Pocket Gems makes graphically rich mobile games and fun new genres of mobile entertainment.",
+  "website": "https://www.pocketgems.com/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/pocket-gems"
+  },
+  "categories": [
+    "consumer"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2010,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 2009,
+    "partnered_year": 2010,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Harlan Crystal",
+      "role": null
+    },
+    {
+      "name": "Daniel Terry",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/pocket-gems/"
+  }
+}

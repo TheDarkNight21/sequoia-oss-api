@@ -1,0 +1,45 @@
+{
+  "id": "sequoia:blues",
+  "sequoia_id": "270",
+  "name": "Blues",
+  "slug": "blues",
+  "description": "Blues helps physical product makers transform their offerings into data-driven intelligent services. Blues solves the biggest challenges associated with IoT connectivity, making it easy to securely cloud-connect any physical product.",
+  "website": "https://blues.io",
+  "socials": {
+    "twitter": "https://twitter.com/buildwithblues",
+    "linkedin": "https://in.linkedin.com/company/blues-wireless",
+    "instagram": "https://www.instagram.com/buildwithblues",
+    "youtube": "https://www.youtube.com/@BuildWithBlues"
+  },
+  "categories": [
+    "hardware",
+    "infrastructure"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2020,
+  "partners": [
+    "roelof-botha"
+  ],
+  "primary_partner": "roelof-botha",
+  "milestones": {
+    "founded_year": 2019,
+    "partnered_year": 2020,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Ian Small",
+      "role": null
+    },
+    {
+      "name": "Ray Ozzie",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/blues/"
+  }
+}

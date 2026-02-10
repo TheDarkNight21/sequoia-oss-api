@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:zefir",
+  "sequoia_id": "8086",
+  "name": "Zefir",
+  "slug": "zefir",
+  "description": "Zefir stands against the prevalent ‘every man for himself’ mentality in real estate. They have created the first collective sales platform that not only accelerates the connection between sellers and buyers but also fosters cooperation among all real estate agents. By dividing roles among various agents, ensuring fair compensation, evaluating performance, and centralizing a network of buyers and properties, they are setting a new standard for efficiency and transparency in the industry.",
+  "website": "https://www.zefir.fr",
+  "socials": {
+    "facebook": "https://www.facebook.com/zefir.fr",
+    "instagram": "https://www.instagram.com/zefir.fr/",
+    "youtube": "https://www.youtube.com/channel/UCq5sYxF5sapQ_kllCqqh0CQ"
+  },
+  "categories": [
+    "marketplace"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2022,
+  "partners": [
+    "george-robson"
+  ],
+  "primary_partner": "george-robson",
+  "milestones": {
+    "founded_year": 2020,
+    "partnered_year": 2022,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Remy Fabre",
+      "role": null
+    },
+    {
+      "name": "Louis Lambert",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/zefir/"
+  }
+}

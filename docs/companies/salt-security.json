@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:salt-security",
+  "sequoia_id": "578",
+  "name": "Salt Security",
+  "slug": "salt-security",
+  "description": "Salt Security protects the APIs that form the core of every modern application. Its patented API Protection Platform is the only API security solution that combines the power of cloud-scale big data and time-tested ML/AI to detect and prevent API attacks. By correlating activities across millions of APIs and users over time, Salt delivers deep context with real-time analysis and continuous insights for API discovery, attack prevention, and shift-left practices. Deployed in minutes and seamlessly integrated within existing systems, the Salt Security platform gives customers immediate value and protection, so they can innovate with confidence and accelerate their digital transformation initiatives.",
+  "website": "https://salt.security/",
+  "socials": {
+    "twitter": "https://www.twitter.com/SaltSecurity",
+    "linkedin": "https://www.linkedin.com/company/saltsecurity/"
+  },
+  "categories": [
+    "security"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2020,
+  "partners": [
+    "carl-eschenbach",
+    "bogomil-balkansky"
+  ],
+  "primary_partner": "carl-eschenbach",
+  "milestones": {
+    "founded_year": 2016,
+    "partnered_year": 2020,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Roey Eliyahu",
+      "role": null
+    },
+    {
+      "name": "Michael Nicosia",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/salt-security/"
+  }
+}

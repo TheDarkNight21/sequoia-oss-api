@@ -71,6 +71,266 @@
       "id": "sequoia:medallia",
       "name": "Medallia",
       "slug": "medallia"
+    },
+    {
+      "id": "sequoia:nimble-storage",
+      "name": "Nimble Storage",
+      "slug": "nimble-storage"
+    },
+    {
+      "id": "sequoia:amplitude",
+      "name": "Amplitude",
+      "slug": "amplitude"
+    },
+    {
+      "id": "sequoia:confluent",
+      "name": "Confluent",
+      "slug": "confluent"
+    },
+    {
+      "id": "sequoia:qualtrics",
+      "name": "Qualtrics",
+      "slug": "qualtrics"
+    },
+    {
+      "id": "sequoia:apple",
+      "name": "Apple",
+      "slug": "apple"
+    },
+    {
+      "id": "sequoia:zoom",
+      "name": "Zoom",
+      "slug": "zoom"
+    },
+    {
+      "id": "sequoia:atari",
+      "name": "Atari",
+      "slug": "atari"
+    },
+    {
+      "id": "sequoia:electronic-arts",
+      "name": "Electronic Arts",
+      "slug": "electronic-arts"
+    },
+    {
+      "id": "sequoia:aurora",
+      "name": "Aurora",
+      "slug": "aurora"
+    },
+    {
+      "id": "sequoia:eventbrite",
+      "name": "Eventbrite",
+      "slug": "eventbrite"
+    },
+    {
+      "id": "sequoia:sunrun",
+      "name": "Sunrun",
+      "slug": "sunrun"
+    },
+    {
+      "id": "sequoia:okta",
+      "name": "Okta",
+      "slug": "okta"
+    },
+    {
+      "id": "sequoia:cisco",
+      "name": "Cisco",
+      "slug": "cisco"
+    },
+    {
+      "id": "sequoia:pharming-group",
+      "name": "Pharming Group",
+      "slug": "pharming-group"
+    },
+    {
+      "id": "sequoia:microchip-technology",
+      "name": "Microchip Technology",
+      "slug": "microchip-technology"
+    },
+    {
+      "id": "sequoia:flextronics",
+      "name": "Flextronics",
+      "slug": "flextronics"
+    },
+    {
+      "id": "sequoia:cafepress",
+      "name": "CafePress",
+      "slug": "cafepress"
+    },
+    {
+      "id": "sequoia:lsi-logic",
+      "name": "LSI Logic",
+      "slug": "lsi-logic"
+    },
+    {
+      "id": "sequoia:omnicell",
+      "name": "Omnicell",
+      "slug": "omnicell"
+    },
+    {
+      "id": "sequoia:quince-therapeutics",
+      "name": "Quince Therapeutics",
+      "slug": "quince-therapeutics"
+    },
+    {
+      "id": "sequoia:health-catalyst",
+      "name": "Health Catalyst",
+      "slug": "health-catalyst"
+    },
+    {
+      "id": "sequoia:cadence-design-systems",
+      "name": "Cadence Design Systems",
+      "slug": "cadence-design-systems"
+    },
+    {
+      "id": "sequoia:rackspace",
+      "name": "Rackspace",
+      "slug": "rackspace"
+    },
+    {
+      "id": "sequoia:nubank",
+      "name": "Nubank",
+      "slug": "nubank"
+    },
+    {
+      "id": "sequoia:dropbox",
+      "name": "Dropbox",
+      "slug": "dropbox"
+    },
+    {
+      "id": "sequoia:robinhood",
+      "name": "Robinhood",
+      "slug": "robinhood"
+    },
+    {
+      "id": "sequoia:natera",
+      "name": "Natera",
+      "slug": "natera"
+    },
+    {
+      "id": "sequoia:doordash",
+      "name": "DoorDash",
+      "slug": "doordash"
+    },
+    {
+      "id": "sequoia:uipath",
+      "name": "UiPath",
+      "slug": "uipath"
+    },
+    {
+      "id": "sequoia:reddit",
+      "name": "reddit",
+      "slug": "reddit"
+    },
+    {
+      "id": "sequoia:servicenow",
+      "name": "ServiceNow",
+      "slug": "servicenow"
+    },
+    {
+      "id": "sequoia:hubspot",
+      "name": "HubSpot",
+      "slug": "hubspot"
+    },
+    {
+      "id": "sequoia:block",
+      "name": "Block",
+      "slug": "block"
+    },
+    {
+      "id": "sequoia:airbnb",
+      "name": "Airbnb",
+      "slug": "airbnb"
+    },
+    {
+      "id": "sequoia:paypal",
+      "name": "PayPal",
+      "slug": "paypal"
+    },
+    {
+      "id": "sequoia:uber",
+      "name": "Uber",
+      "slug": "uber"
+    },
+    {
+      "id": "sequoia:despegar",
+      "name": "Despegar",
+      "slug": "despegar"
+    },
+    {
+      "id": "sequoia:pixelworks",
+      "name": "Pixelworks",
+      "slug": "pixelworks"
+    },
+    {
+      "id": "sequoia:quicklogic",
+      "name": "QuickLogic",
+      "slug": "quicklogic"
+    },
+    {
+      "id": "sequoia:ruckus-networks",
+      "name": "Ruckus Networks",
+      "slug": "ruckus-networks"
+    },
+    {
+      "id": "sequoia:western-digital",
+      "name": "Western Digital",
+      "slug": "western-digital"
+    },
+    {
+      "id": "sequoia:alpha-omega-semiconductor",
+      "name": "Alpha &amp; Omega Semiconductor",
+      "slug": "alpha-omega-semiconductor"
+    },
+    {
+      "id": "sequoia:klarna",
+      "name": "Klarna",
+      "slug": "klarna"
+    },
+    {
+      "id": "sequoia:snowflake",
+      "name": "Snowflake",
+      "slug": "snowflake"
+    },
+    {
+      "id": "sequoia:google",
+      "name": "Google",
+      "slug": "google"
+    },
+    {
+      "id": "sequoia:palo-alto-networks",
+      "name": "Palo Alto Networks",
+      "slug": "palo-alto-networks"
+    },
+    {
+      "id": "sequoia:nvidia",
+      "name": "NVIDIA",
+      "slug": "nvidia"
+    },
+    {
+      "id": "sequoia:instacart",
+      "name": "Instacart",
+      "slug": "instacart"
+    },
+    {
+      "id": "sequoia:mongodb",
+      "name": "MongoDB",
+      "slug": "mongodb"
+    },
+    {
+      "id": "sequoia:unity-technologies",
+      "name": "Unity",
+      "slug": "unity-technologies"
+    },
+    {
+      "id": "sequoia:figma",
+      "name": "Figma",
+      "slug": "figma"
+    },
+    {
+      "id": "sequoia:ethos-technologies",
+      "name": "Ethos",
+      "slug": "ethos-technologies"
     }
   ]
 }

@@ -1,0 +1,48 @@
+{
+  "id": "sequoia:pendulum-therapeutics",
+  "sequoia_id": null,
+  "name": "Pendulum",
+  "slug": "pendulum-therapeutics",
+  "description": "Pendulum develops novel interventions that target the human microbiome to improve the lives of patients suffering from a variety of diseases. Its targeted formulations, made with natural bacterial strains, help rebalance the microbiome, which restores people’s health.",
+  "website": "https://pendulum.co/",
+  "socials": {
+    "twitter": "https://www.twitter.com/Pendulum_Co",
+    "linkedin": "https://www.linkedin.com/company/pendulumco/?viewAsMember=true"
+  },
+  "categories": [
+    "healthcare"
+  ],
+  "current_stage": null,
+  "first_partnered_year": 2017,
+  "partners": [
+    "jess-lee",
+    "roelof-botha",
+    "sonya-huang"
+  ],
+  "primary_partner": "jess-lee",
+  "milestones": {
+    "founded_year": 2012,
+    "partnered_year": 2017,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "James Bullard",
+      "role": null
+    },
+    {
+      "name": "Colleen Cutcliffe",
+      "role": null
+    },
+    {
+      "name": "John Eid",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/pendulum-therapeutics/"
+  }
+}

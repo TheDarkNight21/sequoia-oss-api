@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:247",
+  "sequoia_id": null,
+  "name": "[24]7.ai",
+  "slug": "247",
+  "description": "[24]7.aiuses AI technology to help businesses attract and retain customers with a personalized, predictive and effortless experience.[24]7.aigives companies the ability to know and act on consumer intent in milliseconds.",
+  "website": "https://www.247.ai/",
+  "socials": {
+    "twitter": "https://www.twitter.com/24_7_inc",
+    "linkedin": "https://www.linkedin.com/company/24-7-inc"
+  },
+  "categories": [
+    "gtm",
+    "operations"
+  ],
+  "current_stage": null,
+  "first_partnered_year": 2003,
+  "partners": [
+    "michael-moritz"
+  ],
+  "primary_partner": "michael-moritz",
+  "milestones": {
+    "founded_year": 2000,
+    "partnered_year": 2003,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "PV Kannan",
+      "role": null
+    },
+    {
+      "name": "Shanmugam \"Nags\" Nagarajan",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/247/"
+  }
+}

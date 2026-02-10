@@ -1,0 +1,46 @@
+{
+  "id": "sequoia:zum",
+  "sequoia_id": "699",
+  "name": "Zum",
+  "slug": "zum",
+  "description": "Zūm is revolutionizing student transportation, enabling students to get to and from school safely, reliably and sustainably. Its technology platform provide real-time transparency to parents, schools and drivers, as well as route optimizations that save districts money and students time. Zūm is building the nation’s largest mass transit system, deploying EV fleets to reduce emissions, provide cleaner air for our children and deliver energy back to the grid.",
+  "website": "https://ridezum.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/ridezum?lang=en",
+    "linkedin": "https://www.linkedin.com/company/6646427/"
+  },
+  "categories": [
+    "consumer"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2017,
+  "partners": [
+    "bryan-schreier"
+  ],
+  "primary_partner": "bryan-schreier",
+  "milestones": {
+    "founded_year": 2015,
+    "partnered_year": 2017,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Abhishek Garg",
+      "role": null
+    },
+    {
+      "name": "Vivek Garg",
+      "role": null
+    },
+    {
+      "name": "Ritu Narayan",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/zum/"
+  }
+}

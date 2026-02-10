@@ -56,6 +56,121 @@
       "id": "sequoia:fireeye",
       "name": "FireEye",
       "slug": "fireeye"
+    },
+    {
+      "id": "sequoia:armis-security",
+      "name": "Armis",
+      "slug": "armis-security"
+    },
+    {
+      "id": "sequoia:island",
+      "name": "Island",
+      "slug": "island"
+    },
+    {
+      "id": "sequoia:cyera",
+      "name": "Cyera",
+      "slug": "cyera"
+    },
+    {
+      "id": "sequoia:prelude",
+      "name": "Prelude",
+      "slug": "prelude"
+    },
+    {
+      "id": "sequoia:cohesity",
+      "name": "Cohesity",
+      "slug": "cohesity"
+    },
+    {
+      "id": "sequoia:cribl",
+      "name": "Cribl",
+      "slug": "cribl"
+    },
+    {
+      "id": "sequoia:dashlane",
+      "name": "Dashlane",
+      "slug": "dashlane"
+    },
+    {
+      "id": "sequoia:verkada",
+      "name": "Verkada",
+      "slug": "verkada"
+    },
+    {
+      "id": "sequoia:semgrep",
+      "name": "Semgrep",
+      "slug": "semgrep"
+    },
+    {
+      "id": "sequoia:monad",
+      "name": "Monad",
+      "slug": "monad"
+    },
+    {
+      "id": "sequoia:blockaid",
+      "name": "Blockaid",
+      "slug": "blockaid"
+    },
+    {
+      "id": "sequoia:oasis-security",
+      "name": "Oasis Security",
+      "slug": "oasis-security"
+    },
+    {
+      "id": "sequoia:strongdm",
+      "name": "strongDM",
+      "slug": "strongdm"
+    },
+    {
+      "id": "sequoia:okta",
+      "name": "Okta",
+      "slug": "okta"
+    },
+    {
+      "id": "sequoia:apex",
+      "name": "Apex",
+      "slug": "apex"
+    },
+    {
+      "id": "sequoia:zafran",
+      "name": "Zafran",
+      "slug": "zafran"
+    },
+    {
+      "id": "sequoia:xbow",
+      "name": "XBOW",
+      "slug": "xbow"
+    },
+    {
+      "id": "sequoia:wiz",
+      "name": "Wiz",
+      "slug": "wiz"
+    },
+    {
+      "id": "sequoia:salt-security",
+      "name": "Salt Security",
+      "slug": "salt-security"
+    },
+    {
+      "id": "sequoia:privy",
+      "name": "Privy",
+      "slug": "privy"
+    },
+    {
+      "id": "sequoia:irregular",
+      "name": "Irregular",
+      "slug": "irregular"
+    },
+    {
+      "id": "sequoia:palo-alto-networks",
+      "name": "Palo Alto Networks",
+      "slug": "palo-alto-networks"
+    },
+    {
+      "id": "sequoia:chainguard",
+      "name": "Chainguard",
+      "slug": "chainguard"
     }
   ]
 }

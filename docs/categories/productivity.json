@@ -11,6 +11,121 @@
       "id": "sequoia:ringcentral",
       "name": "RingCentral",
       "slug": "ringcentral"
+    },
+    {
+      "id": "sequoia:island",
+      "name": "Island",
+      "slug": "island"
+    },
+    {
+      "id": "sequoia:zoom",
+      "name": "Zoom",
+      "slug": "zoom"
+    },
+    {
+      "id": "sequoia:gather",
+      "name": "Gather",
+      "slug": "gather"
+    },
+    {
+      "id": "sequoia:evernote",
+      "name": "Evernote",
+      "slug": "evernote"
+    },
+    {
+      "id": "sequoia:lilt",
+      "name": "Lilt",
+      "slug": "lilt"
+    },
+    {
+      "id": "sequoia:linear",
+      "name": "Linear",
+      "slug": "linear"
+    },
+    {
+      "id": "sequoia:loom",
+      "name": "Loom",
+      "slug": "loom"
+    },
+    {
+      "id": "sequoia:visual-electric",
+      "name": "Visual Electric",
+      "slug": "visual-electric"
+    },
+    {
+      "id": "sequoia:jive-software",
+      "name": "Jive Software",
+      "slug": "jive-software"
+    },
+    {
+      "id": "sequoia:airtop",
+      "name": "Airtop",
+      "slug": "airtop"
+    },
+    {
+      "id": "sequoia:cove",
+      "name": "Cove",
+      "slug": "cove"
+    },
+    {
+      "id": "sequoia:dropbox",
+      "name": "Dropbox",
+      "slug": "dropbox"
+    },
+    {
+      "id": "sequoia:glean",
+      "name": "Glean",
+      "slug": "glean"
+    },
+    {
+      "id": "sequoia:lemni",
+      "name": "Lemni",
+      "slug": "lemni"
+    },
+    {
+      "id": "sequoia:notion",
+      "name": "Notion",
+      "slug": "notion"
+    },
+    {
+      "id": "sequoia:front",
+      "name": "Front",
+      "slug": "front"
+    },
+    {
+      "id": "sequoia:airtime",
+      "name": "Airtime",
+      "slug": "airtime"
+    },
+    {
+      "id": "sequoia:google",
+      "name": "Google",
+      "slug": "google"
+    },
+    {
+      "id": "sequoia:n8n",
+      "name": "n8n",
+      "slug": "n8n"
+    },
+    {
+      "id": "sequoia:zapier",
+      "name": "Zapier",
+      "slug": "zapier"
+    },
+    {
+      "id": "sequoia:dust",
+      "name": "Dust",
+      "slug": "dust"
+    },
+    {
+      "id": "sequoia:figma",
+      "name": "Figma",
+      "slug": "figma"
+    },
+    {
+      "id": "sequoia:mindy",
+      "name": "Mindy",
+      "slug": "mindy"
     }
   ]
 }

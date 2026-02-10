@@ -1,0 +1,46 @@
+{
+  "id": "sequoia:grafana",
+  "sequoia_id": "389",
+  "name": "Grafana",
+  "slug": "grafana",
+  "description": "Grafana is open-source technology for dashboards and visualization. It provides an open and composable observability platform.",
+  "website": "https://grafana.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/grafana",
+    "linkedin": "https://www.linkedin.com/company/grafana-labs/mycompany/"
+  },
+  "categories": [
+    "data-analytics"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2021,
+  "partners": [
+    "carl-eschenbach"
+  ],
+  "primary_partner": "carl-eschenbach",
+  "milestones": {
+    "founded_year": 2014,
+    "partnered_year": 2021,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Rajiv Dutt",
+      "role": null
+    },
+    {
+      "name": "Torkel Ödegaard",
+      "role": null
+    },
+    {
+      "name": "Anthony Woods",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/grafana/"
+  }
+}

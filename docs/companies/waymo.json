@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:waymo",
+  "sequoia_id": "21539",
+  "name": "Waymo",
+  "slug": "waymo",
+  "description": "Waymo is on a mission to be the world’s most trusted driver. Making it safer, more accessible, and more sustainable to get around — without the need for anyone in the driver’s seat.",
+  "website": "https://waymo.com/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/waymo/"
+  },
+  "categories": [
+    "ai",
+    "consumer"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2026,
+  "partners": [
+    "abhishek-malani",
+    "konstantine-buhler"
+  ],
+  "primary_partner": "abhishek-malani",
+  "milestones": {
+    "founded_year": 2009,
+    "partnered_year": 2026,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Dmitri Dolgov",
+      "role": null
+    },
+    {
+      "name": "Tekedra Mawakana",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/waymo/"
+  }
+}

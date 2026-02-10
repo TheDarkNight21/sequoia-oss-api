@@ -1,0 +1,28 @@
+{
+  "id": "sequoia:pixelworks",
+  "sequoia_id": "18472",
+  "name": "Pixelworks",
+  "slug": "pixelworks",
+  "description": "Pixelworks’ technology and solutions cover end to end, optimized video delivery that is true to its creator’s intent with a highly authentic viewing experience.",
+  "website": "https://www.pixelworks.com/en",
+  "socials": {},
+  "categories": [
+    "hardware"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 1998,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 1997,
+    "partnered_year": 1998,
+    "ipo_year": 2000,
+    "acquired_year": null
+  },
+  "team": [],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/pixelworks/"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "luciana-lixandru",
+  "name": "Luciana Lixandru",
+  "companies": [
+    {
+      "id": "sequoia:xentral",
+      "name": "xentral",
+      "slug": "xentral"
+    },
+    {
+      "id": "sequoia:stripe",
+      "name": "Stripe",
+      "slug": "stripe"
+    },
+    {
+      "id": "sequoia:veed",
+      "name": "VEED",
+      "slug": "veed"
+    },
+    {
+      "id": "sequoia:robco",
+      "name": "Robco",
+      "slug": "robco"
+    },
+    {
+      "id": "sequoia:pennylane",
+      "name": "Pennylane",
+      "slug": "pennylane"
+    },
+    {
+      "id": "sequoia:210664",
+      "name": "Aspora",
+      "slug": "210664"
+    },
+    {
+      "id": "sequoia:ledgy",
+      "name": "Ledgy",
+      "slug": "ledgy"
+    },
+    {
+      "id": "sequoia:upway",
+      "name": "Upway",
+      "slug": "upway"
+    },
+    {
+      "id": "sequoia:tacto",
+      "name": "Tacto",
+      "slug": "tacto"
+    },
+    {
+      "id": "sequoia:nevis",
+      "name": "Nevis",
+      "slug": "nevis"
+    }
+  ]
+}

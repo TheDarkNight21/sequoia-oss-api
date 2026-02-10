@@ -1,0 +1,42 @@
+{
+  "id": "sequoia:profound",
+  "sequoia_id": "20158",
+  "name": "Profound",
+  "slug": "profound",
+  "description": "Profound is an AI visibility and content creation platform that helps brands monitor and optimize how they appear in AI-powered search results. As consumers increasingly turn to AI assistants for product research, Profound gives marketers the tools to control their presence in AI systems. Profound empowers businesses to win in a future where AI agents, not blue links, drive discovery.",
+  "website": "https://www.tryprofound.com/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/tryprofound/"
+  },
+  "categories": [
+    "ai",
+    "operations"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2025,
+  "partners": [
+    "anas-biad"
+  ],
+  "primary_partner": "anas-biad",
+  "milestones": {
+    "founded_year": 2024,
+    "partnered_year": 2025,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Dylan Babbs",
+      "role": null
+    },
+    {
+      "name": "James Cadwallader",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/profound/"
+  }
+}

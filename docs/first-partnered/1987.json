@@ -1,0 +1,10 @@
+{
+  "year": 1987,
+  "companies": [
+    {
+      "id": "sequoia:cisco",
+      "name": "Cisco",
+      "slug": "cisco"
+    }
+  ]
+}

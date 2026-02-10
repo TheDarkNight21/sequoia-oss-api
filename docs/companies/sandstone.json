@@ -1,0 +1,45 @@
+{
+  "id": "sequoia:sandstone",
+  "sequoia_id": "21303",
+  "name": "Sandstone",
+  "slug": "sandstone",
+  "description": "Sandstone enables modern in-house teams to move at the speed of AI, deliver better outcomes and create measurable business value. It unifies legal data, drives end-to-end workflows and organizes business context within the tools you already use. Sandstone is the home for AI-native legal departments.",
+  "website": "https://sandstone.ai/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/sandstone-ai/"
+  },
+  "categories": [
+    "legal"
+  ],
+  "current_stage": "pre-seed-seed",
+  "first_partnered_year": 2025,
+  "partners": [
+    "bogomil-balkansky"
+  ],
+  "primary_partner": "bogomil-balkansky",
+  "milestones": {
+    "founded_year": 2025,
+    "partnered_year": 2025,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Nick Fleisher",
+      "role": null
+    },
+    {
+      "name": "Liam Germain",
+      "role": null
+    },
+    {
+      "name": "Jarryd Strydom",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/sandstone/"
+  }
+}

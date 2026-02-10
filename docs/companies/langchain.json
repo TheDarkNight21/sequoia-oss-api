@@ -1,0 +1,44 @@
+{
+  "id": "sequoia:langchain",
+  "sequoia_id": "16778",
+  "name": "LangChain",
+  "slug": "langchain",
+  "description": "LangChain is an LLM programming framework for AI applications. Its open-source toolkit allows the growing community of developers to build sophisticated, data-aware applications on top of LLMs.",
+  "website": "https://www.langchain.com/",
+  "socials": {
+    "twitter": "https://twitter.com/LangChainAI",
+    "linkedin": "https://www.linkedin.com/company/langchain/",
+    "youtube": "https://www.youtube.com/@LangChain"
+  },
+  "categories": [
+    "ai",
+    "developer-tools"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2024,
+  "partners": [
+    "sonya-huang"
+  ],
+  "primary_partner": "sonya-huang",
+  "milestones": {
+    "founded_year": 2022,
+    "partnered_year": 2024,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Harrison Chase",
+      "role": null
+    },
+    {
+      "name": "Ankush Gola",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/langchain/"
+  }
+}

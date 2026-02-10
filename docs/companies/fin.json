@@ -1,0 +1,40 @@
+{
+  "id": "sequoia:fin",
+  "sequoia_id": "13008",
+  "name": "Fin",
+  "slug": "fin",
+  "description": "Fin is a next-generation payments platform built for high-value, global, and instant transactions. Powered by stablecoins, Fin enables users and businesses to move millions of dollars instantly—whether to other Fin users, directly into bank accounts, or across crypto rails. By combining the speed of crypto with the reliability of traditional finance, Fin reimagines how money moves worldwide. If banks and payment products could be rebuilt from the ground up today, they would look like Fin.",
+  "website": "https://www.fin.tech/",
+  "socials": {},
+  "categories": [
+    "crypto",
+    "fintech"
+  ],
+  "current_stage": "pre-seed-seed",
+  "first_partnered_year": 2022,
+  "partners": [
+    "shaun-maguire"
+  ],
+  "primary_partner": "shaun-maguire",
+  "milestones": {
+    "founded_year": 2022,
+    "partnered_year": 2022,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Aashiq Dheeraj",
+      "role": null
+    },
+    {
+      "name": "Ian Krotinsky",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/fin/"
+  }
+}

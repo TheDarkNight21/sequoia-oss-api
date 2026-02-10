@@ -1,0 +1,36 @@
+{
+  "id": "sequoia:garner-health",
+  "sequoia_id": "10333",
+  "name": "Garner Health",
+  "slug": "garner-health",
+  "description": "Garner Health helps employers enrich employee benefits and reduce costs without changing plans or networks. Its proprietary claims database identifies the doctors with the most accurate diagnoses and the best patient outcomes and makes it easy to find convenient, in-network providers.",
+  "website": "https://www.getgarner.com/",
+  "socials": {
+    "twitter": "https://twitter.com/getgarner",
+    "linkedin": "https://www.linkedin.com/company/getgarner/"
+  },
+  "categories": [
+    "healthcare"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2019,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 2019,
+    "partnered_year": 2019,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Nick Reber",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/garner-health/"
+  }
+}

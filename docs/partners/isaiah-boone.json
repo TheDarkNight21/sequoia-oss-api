@@ -6,6 +6,41 @@
       "id": "sequoia:faire-wholesale",
       "name": "Faire",
       "slug": "faire-wholesale"
+    },
+    {
+      "id": "sequoia:meter",
+      "name": "Meter",
+      "slug": "meter"
+    },
+    {
+      "id": "sequoia:rippling",
+      "name": "Rippling",
+      "slug": "rippling"
+    },
+    {
+      "id": "sequoia:open",
+      "name": "Open",
+      "slug": "open"
+    },
+    {
+      "id": "sequoia:odoo",
+      "name": "Odoo",
+      "slug": "odoo"
+    },
+    {
+      "id": "sequoia:doordash",
+      "name": "DoorDash",
+      "slug": "doordash"
+    },
+    {
+      "id": "sequoia:mercury",
+      "name": "Mercury",
+      "slug": "mercury"
+    },
+    {
+      "id": "sequoia:whatnot",
+      "name": "Whatnot",
+      "slug": "whatnot"
     }
   ]
 }

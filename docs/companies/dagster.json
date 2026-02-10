@@ -1,0 +1,40 @@
+{
+  "id": "sequoia:dagster",
+  "sequoia_id": "4547",
+  "name": "Dagster",
+  "slug": "dagster",
+  "description": "Dagster is a data orchestration platform for the development, production and observation of data assets.",
+  "website": "https://dagster.io/",
+  "socials": {
+    "twitter": "https://twitter.com/dagster",
+    "linkedin": "https://www.linkedin.com/company/dagsterlabs/"
+  },
+  "categories": [
+    "data-analytics"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2018,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 2018,
+    "partnered_year": 2018,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Pete Hunt",
+      "role": null
+    },
+    {
+      "name": "Nick Schrock",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/dagster/"
+  }
+}

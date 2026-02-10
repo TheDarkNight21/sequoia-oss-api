@@ -1,0 +1,44 @@
+{
+  "id": "sequoia:harvey",
+  "sequoia_id": "13904",
+  "name": "Harvey",
+  "slug": "harvey",
+  "description": "Harvey is a generative AI company backed by Sequoia and OpenAI. They partner with elite law firms and professional service providers to augment their expertise with cutting edge AI to tackle the world’s most complex business challenges.",
+  "website": "https://www.harvey.ai/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/harvey-ai/"
+  },
+  "categories": [
+    "ai",
+    "legal"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2023,
+  "partners": [
+    "pat-grady",
+    "charlie-curnin",
+    "anas-biad"
+  ],
+  "primary_partner": "pat-grady",
+  "milestones": {
+    "founded_year": 2022,
+    "partnered_year": 2023,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Gabe Pereyra",
+      "role": null
+    },
+    {
+      "name": "Winston Weinberg",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/harvey/"
+  }
+}

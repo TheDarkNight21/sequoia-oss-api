@@ -1,0 +1,42 @@
+{
+  "id": "sequoia:bridge",
+  "sequoia_id": "18039",
+  "name": "Bridge",
+  "slug": "bridge",
+  "description": "Bridge, now a part of Stripe, is building critical infrastructure to support stablecoin payments enabling companies to move money at internet speed.",
+  "website": "https://www.bridge.xyz/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/bridge-apis/"
+  },
+  "categories": [
+    "crypto"
+  ],
+  "current_stage": "acquired",
+  "first_partnered_year": 2023,
+  "partners": [
+    "shaun-maguire",
+    "josephine-chen"
+  ],
+  "primary_partner": "shaun-maguire",
+  "milestones": {
+    "founded_year": 2022,
+    "partnered_year": 2023,
+    "ipo_year": null,
+    "acquired_year": 2024
+  },
+  "team": [
+    {
+      "name": "Zach Abrams",
+      "role": null
+    },
+    {
+      "name": "Sean Yu",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/bridge/"
+  }
+}

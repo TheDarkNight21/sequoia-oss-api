@@ -1,0 +1,46 @@
+{
+  "id": "sequoia:nevis",
+  "sequoia_id": "21272",
+  "name": "Nevis",
+  "slug": "nevis",
+  "description": "Nevis is an AI platform built for wealth management that automates the core operational work of advisory firms. It removes manual processes across meetings, tasks, account opening and day-to-day operations, allowing advisors to spend more time with clients and less time on administration. By acting as a system that not only supports work but completes it, Nevis is reshaping how wealth management firms scale, grow and deliver personalized advice.",
+  "website": "https://www.neviswealth.com/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/neviswealth/"
+  },
+  "categories": [
+    "fintech"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2024,
+  "partners": [
+    "luciana-lixandru",
+    "george-robson"
+  ],
+  "primary_partner": "luciana-lixandru",
+  "milestones": {
+    "founded_year": 2024,
+    "partnered_year": 2024,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Philipp Burda",
+      "role": null
+    },
+    {
+      "name": "Ivan Chalov",
+      "role": null
+    },
+    {
+      "name": "Mark Swan",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/nevis/"
+  }
+}

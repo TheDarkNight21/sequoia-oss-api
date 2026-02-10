@@ -1,0 +1,48 @@
+{
+  "id": "sequoia:cribl",
+  "sequoia_id": "310",
+  "name": "Cribl",
+  "slug": "cribl",
+  "description": "Founded by three ex-Splunkers on a mission to get the most out of machine data, Cribl helps customers easily sift through data to find the nuggets they need. Its innovative and customizable controls route security and machine data where it has the most value—and with a singular focus on assuring customers have complete control to shape their data. As data needs evolve, LogStream evolves too, helping to get the right data, to the right destinations, in the right formats, at the right time.",
+  "website": "https://cribl.io/",
+  "socials": {
+    "twitter": "https://www.twitter.com/cribl_io",
+    "linkedin": "https://www.linkedin.com/company/cribl/"
+  },
+  "categories": [
+    "data-analytics",
+    "security"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2020,
+  "partners": [
+    "pat-grady",
+    "sonya-huang"
+  ],
+  "primary_partner": "pat-grady",
+  "milestones": {
+    "founded_year": 2017,
+    "partnered_year": 2020,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Dritan Bitincka",
+      "role": null
+    },
+    {
+      "name": "Ledion Bitincka",
+      "role": null
+    },
+    {
+      "name": "Clint Sharp",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/cribl/"
+  }
+}

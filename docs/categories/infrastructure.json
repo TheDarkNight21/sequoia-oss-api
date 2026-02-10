@@ -41,6 +41,76 @@
       "id": "sequoia:versa-networks",
       "name": "Versa Networks",
       "slug": "versa-networks"
+    },
+    {
+      "id": "sequoia:nimble-storage",
+      "name": "Nimble Storage",
+      "slug": "nimble-storage"
+    },
+    {
+      "id": "sequoia:meter",
+      "name": "Meter",
+      "slug": "meter"
+    },
+    {
+      "id": "sequoia:caldera",
+      "name": "Caldera",
+      "slug": "caldera"
+    },
+    {
+      "id": "sequoia:chkk",
+      "name": "Chkk",
+      "slug": "chkk"
+    },
+    {
+      "id": "sequoia:meraki",
+      "name": "Meraki",
+      "slug": "meraki"
+    },
+    {
+      "id": "sequoia:jasper",
+      "name": "Jasper",
+      "slug": "jasper"
+    },
+    {
+      "id": "sequoia:cisco",
+      "name": "Cisco",
+      "slug": "cisco"
+    },
+    {
+      "id": "sequoia:eon",
+      "name": "Eon",
+      "slug": "eon"
+    },
+    {
+      "id": "sequoia:rackspace",
+      "name": "Rackspace",
+      "slug": "rackspace"
+    },
+    {
+      "id": "sequoia:ruckus-networks",
+      "name": "Ruckus Networks",
+      "slug": "ruckus-networks"
+    },
+    {
+      "id": "sequoia:mellanox",
+      "name": "Mellanox",
+      "slug": "mellanox"
+    },
+    {
+      "id": "sequoia:blues",
+      "name": "Blues",
+      "slug": "blues"
+    },
+    {
+      "id": "sequoia:fireworks-ai",
+      "name": "Fireworks AI",
+      "slug": "fireworks-ai"
+    },
+    {
+      "id": "sequoia:mithril",
+      "name": "Mithril",
+      "slug": "mithril"
     }
   ]
 }

@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:block",
+  "sequoia_id": "606",
+  "name": "Block",
+  "slug": "block",
+  "description": "Block is Square, Cash App, Spiral, TIDAL, TBD, and other foundational teams. It is one company built from many blocks, all united by the same purpose of economic empowerment.",
+  "website": "https://block.xyz/",
+  "socials": {
+    "twitter": "https://www.twitter.com/Square",
+    "linkedin": "https://www.linkedin.com/company/square--"
+  },
+  "categories": [
+    "consumer",
+    "fintech"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 2011,
+  "partners": [
+    "roelof-botha"
+  ],
+  "primary_partner": "roelof-botha",
+  "milestones": {
+    "founded_year": 2009,
+    "partnered_year": 2011,
+    "ipo_year": 2015,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Jack Dorsey",
+      "role": null
+    },
+    {
+      "name": "Jim McKelvey",
+      "role": null
+    }
+  ],
+  "why_partnered": "Bootstrapped by Jack, Square (now Block) had a vision to allow anyone with an iPhone to become a merchant. Part hardware, part app, the mobile payments product was originally called Squirrel because of its resemblance to an acorn. A demo in which we saw Square in action (and in which we were charged $3.00) gave us a glimpse into the platform’s transformative power.",
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/block/"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "sequoia:mithril",
+  "sequoia_id": "13007",
+  "name": "Mithril",
+  "slug": "mithril",
+  "description": "Mithril is orchestrating the world’s compute capacity, making it universally accessible for AI workloads. Its GPU cloud services deliver performance, reliability and flexibility for managing training runs, serving applications or accelerating research.",
+  "website": "https://mithril.ai/",
+  "socials": {
+    "twitter": "https://twitter.com/mlfoundry",
+    "linkedin": "https://www.linkedin.com/company/mlfoundry/"
+  },
+  "categories": [
+    "ai",
+    "infrastructure"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2022,
+  "partners": [
+    "shaun-maguire"
+  ],
+  "primary_partner": "shaun-maguire",
+  "milestones": {
+    "founded_year": 2022,
+    "partnered_year": 2022,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Jared Quincy Davis",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/mithril/"
+  }
+}

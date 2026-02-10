@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:lemni",
+  "sequoia_id": "17492",
+  "name": "Lemni",
+  "slug": "lemni",
+  "description": "Lemni is a plug-and-play environment for custom AI agents that deliver personal customer interactions at scale. Its no-code interface enables teams to set up and deploy agents in minutes. Lemni provides the tools, guardrails and business intelligence they need to deliver exceptional customer experiences.",
+  "website": "https://www.lemni.com/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/lemni",
+    "youtube": "https://www.youtube.com/channel/UC6Xuj2CuIWOTSsLxq_6AS0g"
+  },
+  "categories": [
+    "ai",
+    "productivity"
+  ],
+  "current_stage": "pre-seed-seed",
+  "first_partnered_year": 2024,
+  "partners": [
+    "julien-bek"
+  ],
+  "primary_partner": "julien-bek",
+  "milestones": {
+    "founded_year": 2024,
+    "partnered_year": 2024,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Alex Buis",
+      "role": null
+    },
+    {
+      "name": "Krijn Rijshouwer",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/lemni/"
+  }
+}

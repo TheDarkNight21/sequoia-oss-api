@@ -1,0 +1,39 @@
+{
+  "id": "sequoia:iris-labs",
+  "sequoia_id": "490",
+  "name": "Iris Labs",
+  "slug": "iris-labs",
+  "description": "Iris Labs is a trusted online community for beauty enthusiasts. The Iris app helps users share experiences, discover new trends and get personalized product recommendations.",
+  "website": "https://www.getiris.app/",
+  "socials": {
+    "twitter": "https://twitter.com/the_iris_app",
+    "linkedin": "https://www.linkedin.com/company/irislabsinc/about/",
+    "instagram": "https://www.instagram.com/the.iris.app/"
+  },
+  "categories": [
+    "consumer"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2019,
+  "partners": [
+    "jess-lee"
+  ],
+  "primary_partner": "jess-lee",
+  "milestones": {
+    "founded_year": 2019,
+    "partnered_year": 2019,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Jenny Qian",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/iris-labs/"
+  }
+}

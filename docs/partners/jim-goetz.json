@@ -21,6 +21,91 @@
       "id": "sequoia:barracuda-networks",
       "name": "Barracuda",
       "slug": "barracuda-networks"
+    },
+    {
+      "id": "sequoia:nimble-storage",
+      "name": "Nimble Storage",
+      "slug": "nimble-storage"
+    },
+    {
+      "id": "sequoia:whatsapp",
+      "name": "WhatsApp",
+      "slug": "whatsapp"
+    },
+    {
+      "id": "sequoia:carbon",
+      "name": "Carbon",
+      "slug": "carbon"
+    },
+    {
+      "id": "sequoia:clari",
+      "name": "Clari",
+      "slug": "clari"
+    },
+    {
+      "id": "sequoia:dashlane",
+      "name": "Dashlane",
+      "slug": "dashlane"
+    },
+    {
+      "id": "sequoia:semgrep",
+      "name": "Semgrep",
+      "slug": "semgrep"
+    },
+    {
+      "id": "sequoia:okta",
+      "name": "Okta",
+      "slug": "okta"
+    },
+    {
+      "id": "sequoia:meraki",
+      "name": "Meraki",
+      "slug": "meraki"
+    },
+    {
+      "id": "sequoia:neeva",
+      "name": "Neeva",
+      "slug": "neeva"
+    },
+    {
+      "id": "sequoia:jasper",
+      "name": "Jasper",
+      "slug": "jasper"
+    },
+    {
+      "id": "sequoia:jive-software",
+      "name": "Jive Software",
+      "slug": "jive-software"
+    },
+    {
+      "id": "sequoia:observable",
+      "name": "Observable",
+      "slug": "observable"
+    },
+    {
+      "id": "sequoia:hubspot",
+      "name": "HubSpot",
+      "slug": "hubspot"
+    },
+    {
+      "id": "sequoia:github",
+      "name": "GitHub",
+      "slug": "github"
+    },
+    {
+      "id": "sequoia:quantenna",
+      "name": "Quantenna",
+      "slug": "quantenna"
+    },
+    {
+      "id": "sequoia:ruckus-networks",
+      "name": "Ruckus Networks",
+      "slug": "ruckus-networks"
+    },
+    {
+      "id": "sequoia:palo-alto-networks",
+      "name": "Palo Alto Networks",
+      "slug": "palo-alto-networks"
     }
   ]
 }

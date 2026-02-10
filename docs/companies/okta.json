@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:okta",
+  "sequoia_id": "508",
+  "name": "Okta",
+  "slug": "okta",
+  "description": "Okta is the foundation for secure connections between people and technology. Harnessing the power of the cloud, it allows people to access applications on any device, at any time, while enforcing security protections. Okta integrates directly with an organization’s existing directories and identity systems.",
+  "website": "https://www.okta.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/okta",
+    "linkedin": "https://www.linkedin.com/company/okta-inc-"
+  },
+  "categories": [
+    "security"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 2012,
+  "partners": [
+    "pat-grady",
+    "jim-goetz"
+  ],
+  "primary_partner": "pat-grady",
+  "milestones": {
+    "founded_year": 2009,
+    "partnered_year": 2012,
+    "ipo_year": 2017,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Freddy Kerrest",
+      "role": null
+    },
+    {
+      "name": "Todd McKinnon",
+      "role": null
+    }
+  ],
+  "why_partnered": "Todd and Frederic were early evangelists of user-centric technology. With Okta, they built an easy-to-use identity solution for the enterprise. We were struck with their technical depth and their customer obsession. That combined with an inevitable market shift to cloud-centric identity and mobile adoption, gave us conviction that Okta would become the market leader in identity and access management.",
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/okta/"
+  }
+}

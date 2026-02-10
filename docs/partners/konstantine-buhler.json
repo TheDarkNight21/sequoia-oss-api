@@ -6,6 +6,71 @@
       "id": "sequoia:captivateiq",
       "name": "CaptivateIQ",
       "slug": "captivateiq"
+    },
+    {
+      "id": "sequoia:citadel-securities",
+      "name": "Citadel Securities",
+      "slug": "citadel-securities"
+    },
+    {
+      "id": "sequoia:verkada",
+      "name": "Verkada",
+      "slug": "verkada"
+    },
+    {
+      "id": "sequoia:quilt",
+      "name": "Quilt",
+      "slug": "quilt"
+    },
+    {
+      "id": "sequoia:xaira",
+      "name": "Xaira",
+      "slug": "xaira"
+    },
+    {
+      "id": "sequoia:rox",
+      "name": "Rox",
+      "slug": "rox"
+    },
+    {
+      "id": "sequoia:edx-markets",
+      "name": "EDX Markets",
+      "slug": "edx-markets"
+    },
+    {
+      "id": "sequoia:kumo",
+      "name": "Kumo",
+      "slug": "kumo"
+    },
+    {
+      "id": "sequoia:xbow",
+      "name": "XBOW",
+      "slug": "xbow"
+    },
+    {
+      "id": "sequoia:draftea",
+      "name": "Draftea",
+      "slug": "draftea"
+    },
+    {
+      "id": "sequoia:enter",
+      "name": "Enter",
+      "slug": "enter"
+    },
+    {
+      "id": "sequoia:dust",
+      "name": "Dust",
+      "slug": "dust"
+    },
+    {
+      "id": "sequoia:ethos-technologies",
+      "name": "Ethos",
+      "slug": "ethos-technologies"
+    },
+    {
+      "id": "sequoia:waymo",
+      "name": "Waymo",
+      "slug": "waymo"
     }
   ]
 }

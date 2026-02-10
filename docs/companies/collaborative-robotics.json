@@ -1,0 +1,39 @@
+{
+  "id": "sequoia:collaborative-robotics",
+  "sequoia_id": null,
+  "name": "Cobot",
+  "slug": "collaborative-robotics",
+  "description": "Cobot is redefining the future of human-robot interaction by building practical cobots that have human-like capabilities.",
+  "website": "https://www.co.bot/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/co-bot/",
+    "instagram": "https://www.instagram.com/collaborativerobotics/"
+  },
+  "categories": [
+    "ai",
+    "hardware"
+  ],
+  "current_stage": null,
+  "first_partnered_year": 2023,
+  "partners": [
+    "alfred-lin"
+  ],
+  "primary_partner": "alfred-lin",
+  "milestones": {
+    "founded_year": 2022,
+    "partnered_year": 2023,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Brad Porter",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/collaborative-robotics/"
+  }
+}

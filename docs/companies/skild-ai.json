@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:skild-ai",
+  "sequoia_id": "14924",
+  "name": "Skild AI",
+  "slug": "skild-ai",
+  "description": "Skild AI is building a scalable AI foundation model for robotics to unlock intelligence in the embodied, physical world. This general-purpose model will enable the use of low-cost robots across a broad range of industries and applications.",
+  "website": "https://www.skild.ai/",
+  "socials": {
+    "twitter": "https://twitter.com/SkildAI",
+    "linkedin": "https://www.linkedin.com/company/skild-ai/",
+    "youtube": "https://www.youtube.com/@SkildAI"
+  },
+  "categories": [
+    "ai"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2023,
+  "partners": [
+    "stephanie-zhan"
+  ],
+  "primary_partner": "stephanie-zhan",
+  "milestones": {
+    "founded_year": 2023,
+    "partnered_year": 2023,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Abhinav Gupta",
+      "role": null
+    },
+    {
+      "name": "Deepak Pathak",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/skild-ai/"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "sequoia:rackspace",
+  "sequoia_id": "18478",
+  "name": "Rackspace",
+  "slug": "rackspace",
+  "description": "Rackspace offers hybrid multicloud solutions, including applications, data, security and AI, across every industry.",
+  "website": "https://www.rackspace.com/",
+  "socials": {},
+  "categories": [
+    "infrastructure"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 2000,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 1998,
+    "partnered_year": 2000,
+    "ipo_year": 2008,
+    "acquired_year": null
+  },
+  "team": [],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/rackspace/"
+  }
+}

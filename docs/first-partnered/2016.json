@@ -10,6 +10,36 @@
       "id": "sequoia:rappi",
       "name": "Rappi",
       "slug": "rappi"
+    },
+    {
+      "id": "sequoia:zoom",
+      "name": "Zoom",
+      "slug": "zoom"
+    },
+    {
+      "id": "sequoia:rec-room",
+      "name": "Rec Room",
+      "slug": "rec-room"
+    },
+    {
+      "id": "sequoia:biomodal",
+      "name": "biomodal",
+      "slug": "biomodal"
+    },
+    {
+      "id": "sequoia:commure",
+      "name": "Commure",
+      "slug": "commure"
+    },
+    {
+      "id": "sequoia:observable",
+      "name": "Observable",
+      "slug": "observable"
+    },
+    {
+      "id": "sequoia:domino-data-lab",
+      "name": "Domino Data Lab",
+      "slug": "domino-data-lab"
     }
   ]
 }

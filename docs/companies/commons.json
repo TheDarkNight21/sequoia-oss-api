@@ -1,0 +1,41 @@
+{
+  "id": "sequoia:commons",
+  "sequoia_id": "421",
+  "name": "Commons",
+  "slug": "commons",
+  "description": "Commons is an app and community that offers practical guidance for sustainable living. With the app, anyone can track, reduce, and offset the emissions of everything they buy. Join a community of people shifting systems through our collective spending and choices.",
+  "website": "https://www.thecommons.earth/",
+  "socials": {
+    "facebook": "https://www.facebook.com/commonsearth",
+    "twitter": "https://twitter.com/thecommonsearth",
+    "linkedin": "https://www.linkedin.com/company/commonsearth/",
+    "instagram": "https://www.instagram.com/the.commons.earth/"
+  },
+  "categories": [
+    "climate",
+    "consumer"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2019,
+  "partners": [
+    "bryan-schreier"
+  ],
+  "primary_partner": "bryan-schreier",
+  "milestones": {
+    "founded_year": 2018,
+    "partnered_year": 2019,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Sanchali Pal",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/commons/"
+  }
+}

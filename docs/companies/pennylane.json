@@ -1,0 +1,65 @@
+{
+  "id": "sequoia:pennylane",
+  "sequoia_id": "531",
+  "name": "Pennylane",
+  "slug": "pennylane",
+  "description": "Pennylane is a full-stack financial management platform connecting all financial data for business owners and their CPAs. It offers a full and detailed overview that helps business owners make smarter decisions and manage their finances.",
+  "website": "https://www.pennylane.tech/",
+  "socials": {
+    "twitter": "https://www.twitter.com/Pennylane_tech",
+    "linkedin": "https://www.linkedin.com/company/pennylaneaccounting/",
+    "instagram": "https://www.instagram.com/pennylane_accounting/"
+  },
+  "categories": [
+    "operations"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2021,
+  "partners": [
+    "luciana-lixandru",
+    "george-robson",
+    "anas-biad"
+  ],
+  "primary_partner": "luciana-lixandru",
+  "milestones": {
+    "founded_year": 2020,
+    "partnered_year": 2021,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Tancrede Besnard",
+      "role": null
+    },
+    {
+      "name": "Felix Blossier",
+      "role": null
+    },
+    {
+      "name": "Thierry Deo",
+      "role": null
+    },
+    {
+      "name": "Édouard Mascré",
+      "role": null
+    },
+    {
+      "name": "Quentin de Metz",
+      "role": null
+    },
+    {
+      "name": "Alexandre Roquoplo",
+      "role": null
+    },
+    {
+      "name": "Arthur Waller",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/pennylane/"
+  }
+}

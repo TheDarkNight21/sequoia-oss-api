@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:crosby",
+  "sequoia_id": "18515",
+  "name": "Crosby",
+  "slug": "crosby",
+  "description": "Crosby is the hybrid AI law company that helps rapidly growing businesses execute faster. Crosby combines the speed and intelligence of AI with the safety of lawyers-in-the-loop to review contracts in minutes. Crosby negotiates MSAs, DPAs and NDAs for fast-growing businesses, using speed and intelligence to reach agreement faster, and unblock sales teams.",
+  "website": "https://crosby.ai/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/crosbylegal/"
+  },
+  "categories": [
+    "ai",
+    "legal"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2024,
+  "partners": [
+    "josephine-chen",
+    "alfred-lin"
+  ],
+  "primary_partner": "josephine-chen",
+  "milestones": {
+    "founded_year": 2024,
+    "partnered_year": 2024,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Ryan Daniels",
+      "role": null
+    },
+    {
+      "name": "John Sarihan",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/crosby/"
+  }
+}

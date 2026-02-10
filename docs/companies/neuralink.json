@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:neuralink",
+  "sequoia_id": "19728",
+  "name": "Neuralink",
+  "slug": "neuralink",
+  "description": "Neuralink is building a brain-computer interface to restore autonomy to those with unmet medical needs today and unlock human potential tomorrow.",
+  "website": "https://neuralink.com/",
+  "socials": {
+    "facebook": "https://www.facebook.com/NeuralinkCorp/",
+    "linkedin": "https://www.linkedin.com/company/neuralink/",
+    "instagram": "https://www.instagram.com/neuralink/",
+    "youtube": "https://www.youtube.com/@neuralink"
+  },
+  "categories": [
+    "ai",
+    "healthcare"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2025,
+  "partners": [
+    "shaun-maguire",
+    "andrew-reed",
+    "james-flynn"
+  ],
+  "primary_partner": "shaun-maguire",
+  "milestones": {
+    "founded_year": 2016,
+    "partnered_year": 2025,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Elon Musk",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/neuralink/"
+  }
+}

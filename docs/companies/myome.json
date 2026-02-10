@@ -1,0 +1,42 @@
+{
+  "id": "sequoia:myome",
+  "sequoia_id": "10337",
+  "name": "MyOme",
+  "slug": "myome",
+  "description": "MyOme is a clinical whole genome analysis platform company helping families understand their risk for inherited diseases.",
+  "website": "https://myome.com/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/myome/"
+  },
+  "categories": [
+    "consumer",
+    "healthcare"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2019,
+  "partners": [
+    "roelof-botha"
+  ],
+  "primary_partner": "roelof-botha",
+  "milestones": {
+    "founded_year": 2017,
+    "partnered_year": 2019,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Premal Shah",
+      "role": null
+    },
+    {
+      "name": "Matthew Rabinowitz",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/myome/"
+  }
+}

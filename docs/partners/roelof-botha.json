@@ -31,6 +31,126 @@
       "id": "sequoia:xoom",
       "name": "Xoom",
       "slug": "xoom"
+    },
+    {
+      "id": "sequoia:pendulum-therapeutics",
+      "name": "Pendulum",
+      "slug": "pendulum-therapeutics"
+    },
+    {
+      "id": "sequoia:instagram",
+      "name": "Instagram",
+      "slug": "instagram"
+    },
+    {
+      "id": "sequoia:landis",
+      "name": "Landis",
+      "slug": "landis"
+    },
+    {
+      "id": "sequoia:evernote",
+      "name": "Evernote",
+      "slug": "evernote"
+    },
+    {
+      "id": "sequoia:biomodal",
+      "name": "biomodal",
+      "slug": "biomodal"
+    },
+    {
+      "id": "sequoia:x",
+      "name": "X",
+      "slug": "x"
+    },
+    {
+      "id": "sequoia:eventbrite",
+      "name": "Eventbrite",
+      "slug": "eventbrite"
+    },
+    {
+      "id": "sequoia:meeno",
+      "name": "Meeno",
+      "slug": "meeno"
+    },
+    {
+      "id": "sequoia:xaira",
+      "name": "Xaira",
+      "slug": "xaira"
+    },
+    {
+      "id": "sequoia:youtube",
+      "name": "YouTube",
+      "slug": "youtube"
+    },
+    {
+      "id": "sequoia:natera",
+      "name": "Natera",
+      "slug": "natera"
+    },
+    {
+      "id": "sequoia:block",
+      "name": "Block",
+      "slug": "block"
+    },
+    {
+      "id": "sequoia:myome",
+      "name": "MyOme",
+      "slug": "myome"
+    },
+    {
+      "id": "sequoia:airtime",
+      "name": "Airtime",
+      "slug": "airtime"
+    },
+    {
+      "id": "sequoia:blues",
+      "name": "Blues",
+      "slug": "blues"
+    },
+    {
+      "id": "sequoia:rillet",
+      "name": "Rillet",
+      "slug": "rillet"
+    },
+    {
+      "id": "sequoia:flow-engineering",
+      "name": "Flow Engineering",
+      "slug": "flow-engineering"
+    },
+    {
+      "id": "sequoia:sunflower-labs",
+      "name": "Sunflower Labs",
+      "slug": "sunflower-labs"
+    },
+    {
+      "id": "sequoia:mongodb",
+      "name": "MongoDB",
+      "slug": "mongodb"
+    },
+    {
+      "id": "sequoia:unity-technologies",
+      "name": "Unity",
+      "slug": "unity-technologies"
+    },
+    {
+      "id": "sequoia:withcoverage",
+      "name": "WithCoverage",
+      "slug": "withcoverage"
+    },
+    {
+      "id": "sequoia:ethos-technologies",
+      "name": "Ethos",
+      "slug": "ethos-technologies"
+    },
+    {
+      "id": "sequoia:mindy",
+      "name": "Mindy",
+      "slug": "mindy"
+    },
+    {
+      "id": "sequoia:sesame-ai",
+      "name": "Sesame AI",
+      "slug": "sesame-ai"
     }
   ]
 }

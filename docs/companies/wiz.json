@@ -1,0 +1,52 @@
+{
+  "id": "sequoia:wiz",
+  "sequoia_id": "680",
+  "name": "Wiz",
+  "slug": "wiz",
+  "description": "Wiz is a cloud infrastructure security platform that lets organizations quickly identify and remove the most pressing risks in AWS, Azure, GCP and Kubernetes. It uses one API connector per cloud and the Kubernetes environment to scan every cloud resource. Wiz also identifies combinations that make clouds susceptible to a breach.",
+  "website": "https://wiz.io/",
+  "socials": {
+    "twitter": "https://www.twitter.com/wiz_io",
+    "linkedin": "https://www.linkedin.com/company/wizsecurity/",
+    "instagram": "https://www.instagram.com/wiz.security/"
+  },
+  "categories": [
+    "security"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2020,
+  "partners": [
+    "doug-leone",
+    "bogomil-balkansky"
+  ],
+  "primary_partner": "doug-leone",
+  "milestones": {
+    "founded_year": 2020,
+    "partnered_year": 2020,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Yinon Costica",
+      "role": null
+    },
+    {
+      "name": "Ami Luttwak",
+      "role": null
+    },
+    {
+      "name": "Assaf Rappaport",
+      "role": null
+    },
+    {
+      "name": "Roy Reznik",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/wiz/"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "sequoia:fintual",
+  "sequoia_id": "359",
+  "name": "Fintual",
+  "slug": "fintual",
+  "description": "Fintual provides easy access to a balanced investment portfolio through its easy-to-use app. Launched in Chile in 2018, and Mexico in 2021, Fintual has a regulatory license that allows it to offer mostly global ETFs.",
+  "website": "https://fintual.cl/",
+  "socials": {
+    "facebook": "https://www.facebook.com/fintual/",
+    "twitter": "https://www.twitter.com/fintual/",
+    "instagram": "https://www.instagram.com/fintual/",
+    "youtube": "https://www.youtube.com/fintual"
+  },
+  "categories": [
+    "consumer",
+    "fintech"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2021,
+  "partners": [
+    "sonya-huang"
+  ],
+  "primary_partner": "sonya-huang",
+  "milestones": {
+    "founded_year": 2018,
+    "partnered_year": 2021,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Agustin Feuerhake Larrain",
+      "role": null
+    },
+    {
+      "name": "Omar Larré",
+      "role": null
+    },
+    {
+      "name": "Andrés Marinkovic",
+      "role": null
+    },
+    {
+      "name": "Pedro Pineda",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/fintual/"
+  }
+}

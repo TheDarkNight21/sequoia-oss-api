@@ -1,0 +1,46 @@
+{
+  "id": "sequoia:klarna",
+  "sequoia_id": "429",
+  "name": "Klarna",
+  "slug": "klarna",
+  "description": "Klarna eases the pain of the checkout process by separating purchase from payment. With Klarna, users proceed to checkout while Klarna foots the bill and invoices later.",
+  "website": "https://www.klarna.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/Klarna",
+    "linkedin": "https://www.linkedin.com/company/klarna-ab"
+  },
+  "categories": [
+    "fintech"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 2010,
+  "partners": [
+    "andrew-reed"
+  ],
+  "primary_partner": "andrew-reed",
+  "milestones": {
+    "founded_year": 2005,
+    "partnered_year": 2010,
+    "ipo_year": 2025,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Victor Jacobsson",
+      "role": null
+    },
+    {
+      "name": "Niklas Adalberth",
+      "role": null
+    },
+    {
+      "name": "Sebastian Siemiatkowski",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/klarna/"
+  }
+}

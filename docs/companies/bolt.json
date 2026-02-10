@@ -1,0 +1,48 @@
+{
+  "id": "sequoia:bolt",
+  "sequoia_id": "272",
+  "name": "Bolt",
+  "slug": "bolt",
+  "description": "Bolt is a European mobility platform that makes urban travel more affordable and sustainable. Services include ridesharing, scooter rentals and food delivery.",
+  "website": "https://bolt.eu/",
+  "socials": {
+    "twitter": "https://www.twitter.com/boltapp",
+    "linkedin": "https://www.linkedin.com/company/bolt-eu/",
+    "instagram": "https://www.instagram.com/bolt"
+  },
+  "categories": [
+    "consumer"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2021,
+  "partners": [
+    "andrew-reed",
+    "anas-biad"
+  ],
+  "primary_partner": "andrew-reed",
+  "milestones": {
+    "founded_year": 2013,
+    "partnered_year": 2021,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Oliver Leisalu",
+      "role": null
+    },
+    {
+      "name": "Markus Villig",
+      "role": null
+    },
+    {
+      "name": "Martin Villig",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/bolt/"
+  }
+}

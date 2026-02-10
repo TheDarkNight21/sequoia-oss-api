@@ -41,6 +41,131 @@
       "id": "sequoia:clever",
       "name": "Clever",
       "slug": "clever"
+    },
+    {
+      "id": "sequoia:armis-security",
+      "name": "Armis",
+      "slug": "armis-security"
+    },
+    {
+      "id": "sequoia:whatsapp",
+      "name": "WhatsApp",
+      "slug": "whatsapp"
+    },
+    {
+      "id": "sequoia:instagram",
+      "name": "Instagram",
+      "slug": "instagram"
+    },
+    {
+      "id": "sequoia:zappos",
+      "name": "Zappos",
+      "slug": "zappos"
+    },
+    {
+      "id": "sequoia:drift",
+      "name": "Drift",
+      "slug": "drift"
+    },
+    {
+      "id": "sequoia:linkexchange",
+      "name": "LinkExchange",
+      "slug": "linkexchange"
+    },
+    {
+      "id": "sequoia:evernote",
+      "name": "Evernote",
+      "slug": "evernote"
+    },
+    {
+      "id": "sequoia:loom",
+      "name": "Loom",
+      "slug": "loom"
+    },
+    {
+      "id": "sequoia:meraki",
+      "name": "Meraki",
+      "slug": "meraki"
+    },
+    {
+      "id": "sequoia:neeva",
+      "name": "Neeva",
+      "slug": "neeva"
+    },
+    {
+      "id": "sequoia:nxyz",
+      "name": "nxyz",
+      "slug": "nxyz"
+    },
+    {
+      "id": "sequoia:jasper",
+      "name": "Jasper",
+      "slug": "jasper"
+    },
+    {
+      "id": "sequoia:jive-software",
+      "name": "Jive Software",
+      "slug": "jive-software"
+    },
+    {
+      "id": "sequoia:moovit",
+      "name": "Moovit",
+      "slug": "moovit"
+    },
+    {
+      "id": "sequoia:robust-intelligence",
+      "name": "Robust Intelligence",
+      "slug": "robust-intelligence"
+    },
+    {
+      "id": "sequoia:youtube",
+      "name": "YouTube",
+      "slug": "youtube"
+    },
+    {
+      "id": "sequoia:github",
+      "name": "GitHub",
+      "slug": "github"
+    },
+    {
+      "id": "sequoia:humble-bundle",
+      "name": "Humble Bundle",
+      "slug": "humble-bundle"
+    },
+    {
+      "id": "sequoia:futureadvisor",
+      "name": "FutureAdvisor",
+      "slug": "futureadvisor"
+    },
+    {
+      "id": "sequoia:quantenna",
+      "name": "Quantenna",
+      "slug": "quantenna"
+    },
+    {
+      "id": "sequoia:mellanox",
+      "name": "Mellanox",
+      "slug": "mellanox"
+    },
+    {
+      "id": "sequoia:bridge",
+      "name": "Bridge",
+      "slug": "bridge"
+    },
+    {
+      "id": "sequoia:privy",
+      "name": "Privy",
+      "slug": "privy"
+    },
+    {
+      "id": "sequoia:tola",
+      "name": "Tola",
+      "slug": "tola"
+    },
+    {
+      "id": "sequoia:mos",
+      "name": "Mos",
+      "slug": "mos"
     }
   ]
 }

@@ -1,0 +1,46 @@
+{
+  "id": "sequoia:cove",
+  "sequoia_id": "16391",
+  "name": "Cove",
+  "slug": "cove",
+  "description": "Cove is an AI-assisted workspace that helps you get more done.",
+  "website": "https://cove.ai/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/coveai/"
+  },
+  "categories": [
+    "ai",
+    "productivity"
+  ],
+  "current_stage": "pre-seed-seed",
+  "first_partnered_year": 2023,
+  "partners": [
+    "jess-lee"
+  ],
+  "primary_partner": "jess-lee",
+  "milestones": {
+    "founded_year": 2023,
+    "partnered_year": 2023,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Stephen Chau",
+      "role": null
+    },
+    {
+      "name": "Mike Chu",
+      "role": null
+    },
+    {
+      "name": "Andy Szybalski",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/cove/"
+  }
+}

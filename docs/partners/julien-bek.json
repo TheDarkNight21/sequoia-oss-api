@@ -1,0 +1,36 @@
+{
+  "id": "julien-bek",
+  "name": "Julien Bek",
+  "companies": [
+    {
+      "id": "sequoia:lemni",
+      "name": "Lemni",
+      "slug": "lemni"
+    },
+    {
+      "id": "sequoia:magentic",
+      "name": "Magentic",
+      "slug": "magentic"
+    },
+    {
+      "id": "sequoia:rillet",
+      "name": "Rillet",
+      "slug": "rillet"
+    },
+    {
+      "id": "sequoia:dust",
+      "name": "Dust",
+      "slug": "dust"
+    },
+    {
+      "id": "sequoia:agency",
+      "name": "Agency",
+      "slug": "agency"
+    },
+    {
+      "id": "sequoia:tacto",
+      "name": "Tacto",
+      "slug": "tacto"
+    }
+  ]
+}

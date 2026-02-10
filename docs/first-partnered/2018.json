@@ -30,6 +30,71 @@
       "id": "sequoia:truework",
       "name": "Truework",
       "slug": "truework"
+    },
+    {
+      "id": "sequoia:amplitude",
+      "name": "Amplitude",
+      "slug": "amplitude"
+    },
+    {
+      "id": "sequoia:maven-clinic",
+      "name": "Maven",
+      "slug": "maven-clinic"
+    },
+    {
+      "id": "sequoia:papaya",
+      "name": "Papaya",
+      "slug": "papaya"
+    },
+    {
+      "id": "sequoia:handshake-coins",
+      "name": "Handshake",
+      "slug": "handshake-coins"
+    },
+    {
+      "id": "sequoia:lilt",
+      "name": "Lilt",
+      "slug": "lilt"
+    },
+    {
+      "id": "sequoia:tecton",
+      "name": "Tecton",
+      "slug": "tecton"
+    },
+    {
+      "id": "sequoia:100-thieves",
+      "name": "100 Thieves",
+      "slug": "100-thieves"
+    },
+    {
+      "id": "sequoia:quince-therapeutics",
+      "name": "Quince Therapeutics",
+      "slug": "quince-therapeutics"
+    },
+    {
+      "id": "sequoia:robinhood",
+      "name": "Robinhood",
+      "slug": "robinhood"
+    },
+    {
+      "id": "sequoia:uipath",
+      "name": "UiPath",
+      "slug": "uipath"
+    },
+    {
+      "id": "sequoia:dagster",
+      "name": "Dagster",
+      "slug": "dagster"
+    },
+    {
+      "id": "sequoia:ironclad",
+      "name": "Ironclad",
+      "slug": "ironclad"
+    },
+    {
+      "id": "sequoia:snowflake",
+      "name": "Snowflake",
+      "slug": "snowflake"
     }
   ]
 }

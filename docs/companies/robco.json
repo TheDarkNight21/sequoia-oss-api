@@ -1,0 +1,49 @@
+{
+  "id": "sequoia:robco",
+  "sequoia_id": "12286",
+  "name": "Robco",
+  "slug": "robco",
+  "description": "Robco radically rethinks how products are made, using modular robot systems. From the phones in our pockets, to the rockets launching us to space, physical products are mainly made in a manual, strenuous, repetitive way — at industrial SMBs. Improving the industrial SMB status quo is arguably one of the most impactful global opportunities to ensure sustainability and long-term economic success. Robco does so with its innovative modular robotics platform for industrial use cases.",
+  "website": "https://www.robco.de/",
+  "socials": {
+    "twitter": "https://twitter.com/Robco_Robotics",
+    "linkedin": "https://www.linkedin.com/company/robco-therobotcompany/",
+    "instagram": "https://www.instagram.com/robco_therobotcompany/"
+  },
+  "categories": [
+    "ai",
+    "hardware"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2022,
+  "partners": [
+    "luciana-lixandru",
+    "shaun-maguire"
+  ],
+  "primary_partner": "luciana-lixandru",
+  "milestones": {
+    "founded_year": 2020,
+    "partnered_year": 2022,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Constantin Dresel",
+      "role": null
+    },
+    {
+      "name": "Roman Hölzl",
+      "role": null
+    },
+    {
+      "name": "Paul Maroldt",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/robco/"
+  }
+}

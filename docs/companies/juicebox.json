@@ -1,0 +1,45 @@
+{
+  "id": "sequoia:juicebox",
+  "sequoia_id": "20411",
+  "name": "Juicebox",
+  "slug": "juicebox",
+  "description": "Juicebox is the AI recruiting platform that analyzes millions of profiles using natural language. It ranks candidates against pre-set criteria, recommends the best matches and handles outreach and coordination. With Juicebox, teams win better candidates, faster.",
+  "website": "https://juicebox.ai/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/juicebox-work/"
+  },
+  "categories": [
+    "ai",
+    "operations"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2025,
+  "partners": [
+    "david-cahn",
+    "lauren-reeder",
+    "abhishek-malani",
+    "brian-halligan"
+  ],
+  "primary_partner": "david-cahn",
+  "milestones": {
+    "founded_year": 2022,
+    "partnered_year": 2025,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Ishan Gupta",
+      "role": null
+    },
+    {
+      "name": "David Paffenholz",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/juicebox/"
+  }
+}

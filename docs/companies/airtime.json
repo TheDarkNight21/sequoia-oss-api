@@ -1,0 +1,40 @@
+{
+  "id": "sequoia:airtime",
+  "sequoia_id": "469",
+  "name": "Airtime",
+  "slug": "airtime",
+  "description": "Airtime (FKA mmhmm) is a new and better way to create clear, compelling video communications. With Airtime, companies and individuals can define their style and coordinate how they show up on camera so that everyone can work better together.",
+  "website": "https://www.airtimetools.com/",
+  "socials": {
+    "facebook": "https://facebook.com/airtimetools",
+    "linkedin": "https://linkedin.com/company/airtimetools",
+    "instagram": "https://instagram.com/airtimetools",
+    "youtube": "https://youtube.com/@airtimetools"
+  },
+  "categories": [
+    "productivity"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2020,
+  "partners": [
+    "roelof-botha"
+  ],
+  "primary_partner": "roelof-botha",
+  "milestones": {
+    "founded_year": 2020,
+    "partnered_year": 2020,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Phil Libin",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/airtime/"
+  }
+}

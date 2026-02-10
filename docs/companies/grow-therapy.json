@@ -1,0 +1,48 @@
+{
+  "id": "sequoia:grow-therapy",
+  "sequoia_id": "16895",
+  "name": "Grow Therapy",
+  "slug": "grow-therapy",
+  "description": "Grow Therapy is an online therapy platform making insurance-covered therapy easier to deliver and easier to find—enabling 1M+ clients through partnerships with 100+ insurance plans.",
+  "website": "https://growtherapy.com/",
+  "socials": {
+    "facebook": "https://www.facebook.com/joingrowtherapy/",
+    "twitter": "https://www.twitter.com/GrowTherapy_/",
+    "linkedin": "https://www.linkedin.com/company/grow-therapy/",
+    "instagram": "https://www.instagram.com/growtherapy__/"
+  },
+  "categories": [
+    "healthcare"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2024,
+  "partners": [
+    "pat-grady"
+  ],
+  "primary_partner": "pat-grady",
+  "milestones": {
+    "founded_year": 2020,
+    "partnered_year": 2024,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Jake Cooper",
+      "role": null
+    },
+    {
+      "name": "Manoj Kanagaraj",
+      "role": null
+    },
+    {
+      "name": "Alan Ni",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/grow-therapy/"
+  }
+}

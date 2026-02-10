@@ -1,0 +1,32 @@
+{
+  "id": "sequoia:the-melt",
+  "sequoia_id": "17260",
+  "name": "The Melt",
+  "slug": "the-melt",
+  "description": "The Melt is a California-based fast-casual restaurant chain.",
+  "website": "https://www.themelt.com/",
+  "socials": {
+    "facebook": "https://www.facebook.com/TheMelt/",
+    "twitter": "https://twitter.com/the_melt?lang=en",
+    "instagram": "https://www.instagram.com/themelt/"
+  },
+  "categories": [
+    "consumer"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2010,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 2009,
+    "partnered_year": 2010,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/the-melt/"
+  }
+}

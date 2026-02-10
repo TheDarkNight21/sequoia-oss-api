@@ -1,0 +1,48 @@
+{
+  "id": "sequoia:zapier",
+  "sequoia_id": "691",
+  "name": "Zapier",
+  "slug": "zapier",
+  "description": "Zapier is an online automation tool that connects apps and services. It makes it easy to move and synch data between apps without relying on developers to code the integration.",
+  "website": "https://zapier.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/zapier",
+    "linkedin": "https://www.linkedin.com/company/zapier/",
+    "instagram": "https://www.instagram.com/zapier/"
+  },
+  "categories": [
+    "ai",
+    "productivity"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2020,
+  "partners": [
+    "andrew-reed"
+  ],
+  "primary_partner": "andrew-reed",
+  "milestones": {
+    "founded_year": 2011,
+    "partnered_year": 2020,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Wade Foster",
+      "role": null
+    },
+    {
+      "name": "Bryan Helmig",
+      "role": null
+    },
+    {
+      "name": "Mike Knoop",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/zapier/"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "sequoia:iron-fish",
+  "sequoia_id": "4549",
+  "name": "Iron Fish",
+  "slug": "iron-fish",
+  "description": "Iron Fish is a Layer 1 blockchain that provides the strongest privacy guarantees on every single transaction. Leveraging zero-knowledge proofs (zk-SNARKs) and the highest industry standards for encryption, Iron Fish delivers complete control over who sees transaction details via account view keys or transaction decryption keys.",
+  "website": "https://ironfish.network/",
+  "socials": {
+    "twitter": "https://www.twitter.com/ironfishcrypto"
+  },
+  "categories": [
+    "crypto"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2021,
+  "partners": [
+    "shaun-maguire"
+  ],
+  "primary_partner": "shaun-maguire",
+  "milestones": {
+    "founded_year": 2020,
+    "partnered_year": 2021,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Elena Nadolinski",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/iron-fish/"
+  }
+}

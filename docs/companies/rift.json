@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:rift",
+  "sequoia_id": "14274",
+  "name": "Rift",
+  "slug": "rift",
+  "description": "Rift is a focused platform for sales teams that consolidates outbound sales tooling and data in one place. It automates operational work so reps can focus on selling.",
+  "website": "https://www.rift.com/",
+  "socials": {
+    "twitter": "https://twitter.com/getrift_com",
+    "linkedin": "https://www.linkedin.com/company/rifthq/"
+  },
+  "categories": [
+    "ai",
+    "gtm"
+  ],
+  "current_stage": "pre-seed-seed",
+  "first_partnered_year": 2022,
+  "partners": [
+    "charlie-curnin"
+  ],
+  "primary_partner": "charlie-curnin",
+  "milestones": {
+    "founded_year": 2022,
+    "partnered_year": 2022,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Eddie Eriksson",
+      "role": null
+    },
+    {
+      "name": "Fil Twarowski",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/rift/"
+  }
+}

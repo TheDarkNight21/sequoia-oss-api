@@ -1,0 +1,40 @@
+{
+  "id": "sequoia:safara",
+  "sequoia_id": "11167",
+  "name": "Safara",
+  "slug": "safara",
+  "description": "Safara is a hotel booking app that provides you with trusted recommendations, saves you money, and reduces your climate footprint. The platform connects travelers with a highly-vetted list of curated hotels while also offering the flexibility to book and get 10% back at any of 500k+ properties worldwide.",
+  "website": "https://www.safara.com/",
+  "socials": {
+    "instagram": "https://www.instagram.com/safaratravels",
+    "linkedin": "https://www.linkedin.com/company/safaratravel"
+  },
+  "categories": [
+    "consumer"
+  ],
+  "current_stage": "pre-seed-seed",
+  "first_partnered_year": 2022,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 2021,
+    "partnered_year": 2022,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Cody Rose",
+      "role": null
+    },
+    {
+      "name": "Doug Schuessler",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/safara/"
+  }
+}

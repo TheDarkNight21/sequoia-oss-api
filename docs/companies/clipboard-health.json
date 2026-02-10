@@ -1,0 +1,41 @@
+{
+  "id": "sequoia:clipboard-health",
+  "sequoia_id": "9333",
+  "name": "Clipboard Health",
+  "slug": "clipboard-health",
+  "description": "Clipboard Health is an app-based talent marketplace that matches healthcare professionals with open shifts at healthcare facilities near them. Its mission is to lift as many people up the socioeconomic ladder as possible. Short-staffed healthcare facilities represent a long-term problem that became more acute with COVID-19, leading to increased burnout among nurses, less care and access to healthcare for patients, and skyrocketing costs for healthcare facilities.",
+  "website": "https://clipboardhealth.com",
+  "socials": {
+    "facebook": "https://www.facebook.com/ClipboardHealth",
+    "twitter": "https://twitter.com/ClipboardHealth",
+    "linkedin": "https://www.linkedin.com/company/clipboard-health/",
+    "instagram": "https://www.instagram.com/clipboardhealth/?hl=en",
+    "youtube": "https://www.youtube.com/channel/UCm2AbFANEIWCyakf6dPBvbQ"
+  },
+  "categories": [
+    "healthcare"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2022,
+  "partners": [
+    "bryan-schreier"
+  ],
+  "primary_partner": "bryan-schreier",
+  "milestones": {
+    "founded_year": 2016,
+    "partnered_year": 2022,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Wei Deng",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/clipboard-health/"
+  }
+}

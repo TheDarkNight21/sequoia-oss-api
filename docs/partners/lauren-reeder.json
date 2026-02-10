@@ -1,0 +1,56 @@
+{
+  "id": "lauren-reeder",
+  "name": "Lauren Reeder",
+  "companies": [
+    {
+      "id": "sequoia:statsig",
+      "name": "Statsig",
+      "slug": "statsig"
+    },
+    {
+      "id": "sequoia:stainless",
+      "name": "Stainless",
+      "slug": "stainless"
+    },
+    {
+      "id": "sequoia:xbow",
+      "name": "XBOW",
+      "slug": "xbow"
+    },
+    {
+      "id": "sequoia:enter",
+      "name": "Enter",
+      "slug": "enter"
+    },
+    {
+      "id": "sequoia:deno",
+      "name": "Deno",
+      "slug": "deno"
+    },
+    {
+      "id": "sequoia:fastapi-labs",
+      "name": "FastAPI Labs",
+      "slug": "fastapi-labs"
+    },
+    {
+      "id": "sequoia:skyramp",
+      "name": "Skyramp",
+      "slug": "skyramp"
+    },
+    {
+      "id": "sequoia:juicebox",
+      "name": "Juicebox",
+      "slug": "juicebox"
+    },
+    {
+      "id": "sequoia:inferact",
+      "name": "Inferact",
+      "slug": "inferact"
+    },
+    {
+      "id": "sequoia:pace-2",
+      "name": "Pace",
+      "slug": "pace-2"
+    }
+  ]
+}

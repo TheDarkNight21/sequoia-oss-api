@@ -16,6 +16,66 @@
       "id": "sequoia:medallia",
       "name": "Medallia",
       "slug": "medallia"
+    },
+    {
+      "id": "sequoia:armis-security",
+      "name": "Armis",
+      "slug": "armis-security"
+    },
+    {
+      "id": "sequoia:zoom",
+      "name": "Zoom",
+      "slug": "zoom"
+    },
+    {
+      "id": "sequoia:cohesity",
+      "name": "Cohesity",
+      "slug": "cohesity"
+    },
+    {
+      "id": "sequoia:aurora",
+      "name": "Aurora",
+      "slug": "aurora"
+    },
+    {
+      "id": "sequoia:retool",
+      "name": "Retool",
+      "slug": "retool"
+    },
+    {
+      "id": "sequoia:grafana",
+      "name": "Grafana",
+      "slug": "grafana"
+    },
+    {
+      "id": "sequoia:uipath",
+      "name": "UiPath",
+      "slug": "uipath"
+    },
+    {
+      "id": "sequoia:kumo",
+      "name": "Kumo",
+      "slug": "kumo"
+    },
+    {
+      "id": "sequoia:salt-security",
+      "name": "Salt Security",
+      "slug": "salt-security"
+    },
+    {
+      "id": "sequoia:snowflake",
+      "name": "Snowflake",
+      "slug": "snowflake"
+    },
+    {
+      "id": "sequoia:palo-alto-networks",
+      "name": "Palo Alto Networks",
+      "slug": "palo-alto-networks"
+    },
+    {
+      "id": "sequoia:gong",
+      "name": "Gong",
+      "slug": "gong"
     }
   ]
 }

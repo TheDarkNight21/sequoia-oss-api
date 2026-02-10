@@ -1,0 +1,44 @@
+{
+  "id": "sequoia:cohesity",
+  "sequoia_id": "302",
+  "name": "Cohesity",
+  "slug": "cohesity",
+  "description": "Cohesity’s cloud-based platform makes it easy to back up, manage and extract value from enterprise data.",
+  "website": "https://www.cohesity.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/cohesity",
+    "linkedin": "https://www.linkedin.com/company/cohesity"
+  },
+  "categories": [
+    "data-analytics",
+    "security"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2013,
+  "partners": [
+    "bill-coughran",
+    "carl-eschenbach"
+  ],
+  "primary_partner": "bill-coughran",
+  "milestones": {
+    "founded_year": 2013,
+    "partnered_year": 2013,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Sanjay Poonen",
+      "role": null
+    },
+    {
+      "name": "Mohit Aron",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/cohesity/"
+  }
+}

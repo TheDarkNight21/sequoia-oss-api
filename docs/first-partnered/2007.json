@@ -5,6 +5,26 @@
       "id": "sequoia:trulia",
       "name": "Trulia",
       "slug": "trulia"
+    },
+    {
+      "id": "sequoia:jive-software",
+      "name": "Jive Software",
+      "slug": "jive-software"
+    },
+    {
+      "id": "sequoia:dropbox",
+      "name": "Dropbox",
+      "slug": "dropbox"
+    },
+    {
+      "id": "sequoia:natera",
+      "name": "Natera",
+      "slug": "natera"
+    },
+    {
+      "id": "sequoia:inside",
+      "name": "Inside",
+      "slug": "inside"
     }
   ]
 }

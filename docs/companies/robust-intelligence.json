@@ -1,0 +1,42 @@
+{
+  "id": "sequoia:robust-intelligence",
+  "sequoia_id": "570",
+  "name": "Robust Intelligence",
+  "slug": "robust-intelligence",
+  "description": "Robust Intelligence, now a part of Cisco, builds products that integrate seamlessly into the AI-development life cycle to ensure robustness and reliability. Founded by academics at Harvard in 2019, Robust Intelligence’s platform eliminates the risks inherent in AI systems.",
+  "website": "https://robustintelligence.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/robusthq",
+    "linkedin": "https://www.linkedin.com/company/robust-intelligence/"
+  },
+  "categories": [
+    "ai"
+  ],
+  "current_stage": "acquired",
+  "first_partnered_year": 2019,
+  "partners": [
+    "bill-coughran"
+  ],
+  "primary_partner": "bill-coughran",
+  "milestones": {
+    "founded_year": 2019,
+    "partnered_year": 2019,
+    "ipo_year": null,
+    "acquired_year": 2024
+  },
+  "team": [
+    {
+      "name": "Kojin Oshiba",
+      "role": null
+    },
+    {
+      "name": "Yaron Singer",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/robust-intelligence/"
+  }
+}

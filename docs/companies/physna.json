@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:physna",
+  "sequoia_id": "535",
+  "name": "Physna",
+  "slug": "physna",
+  "description": "Physna codifies 3D models into detailed data for software applications. It was founded on the principle that computers should be taught to think in 3D and analyze geometric objects like written code.",
+  "website": "https://physna.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/Physna3D",
+    "linkedin": "https://www.linkedin.com/company/physna"
+  },
+  "categories": [
+    "data-analytics"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2020,
+  "partners": [
+    "shaun-maguire",
+    "doug-leone"
+  ],
+  "primary_partner": "shaun-maguire",
+  "milestones": {
+    "founded_year": 2015,
+    "partnered_year": 2020,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Dennis DeMeyere",
+      "role": null
+    },
+    {
+      "name": "Paul Powers",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/physna/"
+  }
+}

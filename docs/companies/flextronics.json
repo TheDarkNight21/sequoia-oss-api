@@ -1,0 +1,29 @@
+{
+  "id": "sequoia:flextronics",
+  "sequoia_id": "18466",
+  "name": "Flextronics",
+  "slug": "flextronics",
+  "description": "Flextronics is the manufacturing partner of choice that helps a diverse customer base design and build products that improve the world.",
+  "website": "https://flex.com/",
+  "socials": {},
+  "categories": [
+    "ai",
+    "hardware"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 1993,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 1969,
+    "partnered_year": 1993,
+    "ipo_year": 1994,
+    "acquired_year": null
+  },
+  "team": [],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/flextronics/"
+  }
+}

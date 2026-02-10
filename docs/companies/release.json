@@ -1,0 +1,44 @@
+{
+  "id": "sequoia:release",
+  "sequoia_id": "558",
+  "name": "Release",
+  "slug": "release",
+  "description": "Release provides ephemeral environments as a service. Its platform enables the creation of a precise replica of the production environment that can be used for verifying new features, quality assurance, load testing and staging.",
+  "website": "https://releasehub.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/release_hub",
+    "linkedin": "https://www.linkedin.com/company/releasehub/"
+  },
+  "categories": [
+    "developer-tools"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2020,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 2019,
+    "partnered_year": 2020,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "David Giffin",
+      "role": null
+    },
+    {
+      "name": "Erik Landerholm",
+      "role": null
+    },
+    {
+      "name": "Tommy McClung",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/release/"
+  }
+}

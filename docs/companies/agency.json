@@ -1,0 +1,39 @@
+{
+  "id": "sequoia:agency",
+  "sequoia_id": "18422",
+  "name": "Agency",
+  "slug": "agency",
+  "description": "Agency is an AI agent for customer success teams.",
+  "website": "https://agency.inc/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/agency-inc/"
+  },
+  "categories": [
+    "ai",
+    "gtm"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2024,
+  "partners": [
+    "pat-grady",
+    "julien-bek"
+  ],
+  "primary_partner": "pat-grady",
+  "milestones": {
+    "founded_year": 2024,
+    "partnered_year": 2024,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Elias Torres",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/agency/"
+  }
+}

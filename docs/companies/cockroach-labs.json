@@ -1,0 +1,30 @@
+{
+  "id": "sequoia:cockroach-labs",
+  "sequoia_id": "17258",
+  "name": "Cockroach Labs",
+  "slug": "cockroach-labs",
+  "description": "Cockroach Labs provides a cloud-native, distributed SQL database for critical enterprise applications.",
+  "website": "https://www.cockroachlabs.com/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/cockroach-labs/"
+  },
+  "categories": [
+    "data-analytics"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2015,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 2015,
+    "partnered_year": 2015,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/cockroach-labs/"
+  }
+}

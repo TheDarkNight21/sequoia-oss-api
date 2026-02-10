@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:irregular",
+  "sequoia_id": "19732",
+  "name": "Irregular",
+  "slug": "irregular",
+  "description": "Irregular is a frontier security lab protecting increasingly capable and sophisticated AI systems. It builds next-generation defenses through high-fidelity research platforms that simulate and monitor real-world AI security scenarios.",
+  "website": "https://www.irregular.com/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/irregular-com/"
+  },
+  "categories": [
+    "ai",
+    "security"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2025,
+  "partners": [
+    "shaun-maguire",
+    "dean-meyer"
+  ],
+  "primary_partner": "shaun-maguire",
+  "milestones": {
+    "founded_year": 2023,
+    "partnered_year": 2025,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Dan Lahav",
+      "role": null
+    },
+    {
+      "name": "Omer Nevo",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/irregular/"
+  }
+}

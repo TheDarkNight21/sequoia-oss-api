@@ -1,0 +1,44 @@
+{
+  "id": "sequoia:day-ai",
+  "sequoia_id": null,
+  "name": "Day.ai",
+  "slug": "day-ai",
+  "description": "Day.ai is an AI-native CRM that brings the voice of the customer into every decision. Its product combines a meeting assistant, CRM and knowledge base into a single unified solution.",
+  "website": "https://day.ai/",
+  "socials": {
+    "twitter": "https://twitter.com/Day_ai_app",
+    "linkedin": "https://www.linkedin.com/company/day-ai",
+    "youtube": "https://www.youtube.com/@Day_ai_app"
+  },
+  "categories": [
+    "ai",
+    "gtm"
+  ],
+  "current_stage": null,
+  "first_partnered_year": 2023,
+  "partners": [
+    "pat-grady"
+  ],
+  "primary_partner": "pat-grady",
+  "milestones": {
+    "founded_year": 2023,
+    "partnered_year": 2023,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Christopher O'Donnell",
+      "role": null
+    },
+    {
+      "name": "Michael Pici",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/day-ai/"
+  }
+}

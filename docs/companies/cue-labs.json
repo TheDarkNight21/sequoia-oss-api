@@ -1,0 +1,42 @@
+{
+  "id": "sequoia:cue-labs",
+  "sequoia_id": "10326",
+  "name": "CUE Labs",
+  "slug": "cue-labs",
+  "description": "CUE Labs, the company behind the CUE open-source project, builds a Configuration Control Plane that turns configuration from a source of risk into a source of reliability. It enables teams and organizations to understand, audit and validate all data, from build-time configurations to runtime payloads, to prevent outages and ensure compliance.",
+  "website": "https://cue.dev/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/cue-dev",
+    "youtube": "https://www.youtube.com/@cuelang"
+  },
+  "categories": [
+    "developer-tools"
+  ],
+  "current_stage": "pre-seed-seed",
+  "first_partnered_year": 2021,
+  "partners": [
+    "bill-coughran"
+  ],
+  "primary_partner": "bill-coughran",
+  "milestones": {
+    "founded_year": 2021,
+    "partnered_year": 2021,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Paul Jolly",
+      "role": null
+    },
+    {
+      "name": "Marcel van Lohuizen",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/cue-labs/"
+  }
+}

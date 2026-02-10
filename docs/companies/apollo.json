@@ -1,0 +1,45 @@
+{
+  "id": "sequoia:apollo",
+  "sequoia_id": "8425",
+  "name": "Apollo",
+  "slug": "apollo",
+  "description": "Apollo is an end-to-end AI sales platform to help companies grow their business. Its integrated GTM suite builds pipeline, enriches data and assists with sales calls.",
+  "website": "https://www.apollo.io",
+  "socials": {
+    "facebook": "https://www.facebook.com/MeetApollo/",
+    "twitter": "https://twitter.com/meetapollo",
+    "linkedin": "https://www.linkedin.com/company/apolloio/",
+    "instagram": "https://www.instagram.com/meetapollo.io/",
+    "youtube": "https://www.youtube.com/c/Apolloio"
+  },
+  "categories": [
+    "gtm"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2021,
+  "partners": [
+    "sonya-huang"
+  ],
+  "primary_partner": "sonya-huang",
+  "milestones": {
+    "founded_year": 2015,
+    "partnered_year": 2021,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Ray Li",
+      "role": null
+    },
+    {
+      "name": "Tim Zheng",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/apollo/"
+  }
+}

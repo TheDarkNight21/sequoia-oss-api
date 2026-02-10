@@ -1,0 +1,16 @@
+{
+  "id": "brian-halligan",
+  "name": "Brian Halligan",
+  "companies": [
+    {
+      "id": "sequoia:juicebox",
+      "name": "Juicebox",
+      "slug": "juicebox"
+    },
+    {
+      "id": "sequoia:rogo",
+      "name": "Rogo",
+      "slug": "rogo"
+    }
+  ]
+}

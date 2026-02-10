@@ -1,0 +1,39 @@
+{
+  "id": "sequoia:pydantic",
+  "sequoia_id": "15140",
+  "name": "Pydantic",
+  "slug": "pydantic",
+  "description": "Pydantic is an AI agent framework and LLM observability solution.",
+  "website": "https://pydantic.dev/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/pydantic/"
+  },
+  "categories": [
+    "ai",
+    "developer-tools"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2023,
+  "partners": [
+    "charlie-curnin",
+    "bogomil-balkansky"
+  ],
+  "primary_partner": "charlie-curnin",
+  "milestones": {
+    "founded_year": 2017,
+    "partnered_year": 2023,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Samuel Colvin",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/pydantic/"
+  }
+}

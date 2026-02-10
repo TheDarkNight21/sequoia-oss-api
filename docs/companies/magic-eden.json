@@ -1,0 +1,47 @@
+{
+  "id": "sequoia:magic-eden",
+  "sequoia_id": "10550",
+  "name": "Magic Eden",
+  "slug": "magic-eden",
+  "description": "Magic Eden is the leading destination for NFT discovery, expression, and ownership across digital cultures. Led by former crypto, tech, and hospitality leaders, Magic Eden is driving the next billion users to Web3 by providing a user-friendly platform equipped with powerful minting and trading solutions. Magic Eden brings dynamic cultural moments onto the blockchain, empowering users across thousands of communities to create and collect unique NFTs.",
+  "website": "https://magiceden.io/",
+  "socials": {},
+  "categories": [
+    "crypto"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2021,
+  "partners": [
+    "josephine-chen"
+  ],
+  "primary_partner": "josephine-chen",
+  "milestones": {
+    "founded_year": 2021,
+    "partnered_year": 2021,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Jack Lu",
+      "role": null
+    },
+    {
+      "name": "Zhuoxin (Zedd) Yin",
+      "role": null
+    },
+    {
+      "name": "Sidney Zhang",
+      "role": null
+    },
+    {
+      "name": "Zhuojie Zhou",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/magic-eden/"
+  }
+}

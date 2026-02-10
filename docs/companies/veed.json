@@ -1,0 +1,46 @@
+{
+  "id": "sequoia:veed",
+  "sequoia_id": "8451",
+  "name": "VEED",
+  "slug": "veed",
+  "description": "VEED is a browser-based, collaborative and easy-to-use video creation and editing tool. The product has millions of monthly active users all over the world and with different video editing skills, ranging from prosumers to SMEs and users in the enterprise. Use cases are broad from social media videos, to marketing, sales, HR, training videos, internal communication, etc.",
+  "website": "https://veed.io/",
+  "socials": {
+    "twitter": "https://twitter.com/veedstudio",
+    "linkedin": "https://www.linkedin.com/company/veedhq/",
+    "instagram": "https://www.instagram.com/veedstudio/",
+    "youtube": "https://www.youtube.com/c/VEEDSTUDIO/"
+  },
+  "categories": [
+    "ai",
+    "consumer"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2021,
+  "partners": [
+    "luciana-lixandru",
+    "anas-biad"
+  ],
+  "primary_partner": "luciana-lixandru",
+  "milestones": {
+    "founded_year": 2018,
+    "partnered_year": 2021,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Sabba Keynejad",
+      "role": null
+    },
+    {
+      "name": "Timur Mamedov",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/veed/"
+  }
+}

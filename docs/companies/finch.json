@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:finch",
+  "sequoia_id": "17884",
+  "name": "Finch",
+  "slug": "finch",
+  "description": "Finch is a modern pre-litigation platform built for personal injury law firms, combining elite paralegals and advanced AI agents to handle administrative work. By solving for intake, case management, and demand drafting, Finch enables plaintiff firms to serve more clients while providing a high quality client experience and reducing the access to justice gap in the U.S.",
+  "website": "https://www.finchlegal.com/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/finchlegal/",
+    "instagram": "https://www.instagram.com/finch.legal/"
+  },
+  "categories": [
+    "ai",
+    "legal"
+  ],
+  "current_stage": "pre-seed-seed",
+  "first_partnered_year": 2024,
+  "partners": [
+    "alfred-lin"
+  ],
+  "primary_partner": "alfred-lin",
+  "milestones": {
+    "founded_year": 2024,
+    "partnered_year": 2024,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Viraj Bindra",
+      "role": null
+    },
+    {
+      "name": "Ben Weems",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/finch/"
+  }
+}

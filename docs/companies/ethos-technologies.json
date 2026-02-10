@@ -1,0 +1,44 @@
+{
+  "id": "sequoia:ethos-technologies",
+  "sequoia_id": null,
+  "name": "Ethos",
+  "slug": "ethos-technologies",
+  "description": "Ethos makes it easier, faster and better for everyone to get life insurance. Ethos leverages deep technology and data science to make the process more convenient. It has issued billions in coverage each month while eliminating traditional barriers.",
+  "website": "https://www.ethoslife.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/getethoslife/",
+    "linkedin": "https://www.linkedin.com/company/ethos-life/"
+  },
+  "categories": [
+    "consumer",
+    "fintech"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 2017,
+  "partners": [
+    "roelof-botha",
+    "konstantine-buhler"
+  ],
+  "primary_partner": "roelof-botha",
+  "milestones": {
+    "founded_year": 2016,
+    "partnered_year": 2017,
+    "ipo_year": 2026,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Peter Colis",
+      "role": null
+    },
+    {
+      "name": "Lingke Wang",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/ethos-technologies/"
+  }
+}

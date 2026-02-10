@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:wirescreen",
+  "sequoia_id": "10350",
+  "name": "WireScreen",
+  "slug": "wirescreen",
+  "description": "WireScreen provides open-source intelligence on corporate ownership, supply chains, investment and business relationships in China. Its platform and api support customers in national security, law enforcement and trade compliance.",
+  "website": "https://www.wirescreen.ai",
+  "socials": {
+    "twitter": "https://twitter.com/WirescreenAI",
+    "linkedin": "https://www.linkedin.com/company/wirescreen-ai/"
+  },
+  "categories": [
+    "data-analytics"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2020,
+  "partners": [
+    "michael-moritz",
+    "shaun-maguire"
+  ],
+  "primary_partner": "michael-moritz",
+  "milestones": {
+    "founded_year": 2019,
+    "partnered_year": 2020,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "David Barboza",
+      "role": null
+    },
+    {
+      "name": "Lynn Zhang",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/wirescreen/"
+  }
+}

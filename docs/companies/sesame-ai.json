@@ -1,0 +1,46 @@
+{
+  "id": "sequoia:sesame-ai",
+  "sequoia_id": "19697",
+  "name": "Sesame AI",
+  "slug": "sesame-ai",
+  "description": "Sesame is an interdisciplinary product and research team focused on creating lifelike voice agents that bring computers to life through natural human speech and interaction. The company develops systems designed to understand context, nuance and intent, enabling machines to see, hear and collaborate conversationally with people while advancing voice technology to cross the uncanny valley and make dialogue feel genuinely human-like. Their work spans intelligent voice agents that stay informed, provide conversational support and help users stay organized, alongside lightweight everyday wearable hardware that delivers seamless, high-quality access to voice agents in daily life.",
+  "website": "https://www.sesame.com/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/sesameai/"
+  },
+  "categories": [
+    "ai"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2025,
+  "partners": [
+    "david-cahn",
+    "roelof-botha"
+  ],
+  "primary_partner": "david-cahn",
+  "milestones": {
+    "founded_year": 2022,
+    "partnered_year": 2025,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Ryan Brown",
+      "role": null
+    },
+    {
+      "name": "Brendan Iribe",
+      "role": null
+    },
+    {
+      "name": "Ankit Kumar",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/sesame-ai/"
+  }
+}

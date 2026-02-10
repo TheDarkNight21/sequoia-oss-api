@@ -1,0 +1,44 @@
+{
+  "id": "sequoia:nsave",
+  "sequoia_id": "11394",
+  "name": "nsave",
+  "slug": "nsave",
+  "description": "nsave offers trusted offshore USD, EUR and GBP accounts for people from countries with unstable economies and high inflation. Its user-friendly app democratizes financial services and empowers the financially underserved to protect and grow their wealth.",
+  "website": "https://www.nsave.com",
+  "socials": {
+    "facebook": "https://www.facebook.com/nsavecom",
+    "twitter": "https://twitter.com/withnsave",
+    "linkedin": "https://www.linkedin.com/company/nsavecom/",
+    "instagram": "https://www.instagram.com/nsavecom/"
+  },
+  "categories": [
+    "fintech"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2022,
+  "partners": [
+    "george-robson"
+  ],
+  "primary_partner": "george-robson",
+  "milestones": {
+    "founded_year": 2021,
+    "partnered_year": 2022,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Abdallah AbuHashem",
+      "role": null
+    },
+    {
+      "name": "Amer Baroudi",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/nsave/"
+  }
+}

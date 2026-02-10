@@ -1,0 +1,48 @@
+{
+  "id": "sequoia:phantom",
+  "sequoia_id": "18619",
+  "name": "Phantom",
+  "slug": "phantom",
+  "description": "Phantom is the leading non-custodial crypto wallet, designed for mass adoption.",
+  "website": "https://phantom.com/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/phantomwallet",
+    "instagram": "https://www.instagram.com/phantom/",
+    "youtube": "https://www.youtube.com/@phantom-wallet"
+  },
+  "categories": [
+    "crypto"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2024,
+  "partners": [
+    "andrew-reed",
+    "james-flynn"
+  ],
+  "primary_partner": "andrew-reed",
+  "milestones": {
+    "founded_year": 2021,
+    "partnered_year": 2024,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Francesco Agosti",
+      "role": null
+    },
+    {
+      "name": "Chris Kalani",
+      "role": null
+    },
+    {
+      "name": "Brandon Millman",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/phantom/"
+  }
+}

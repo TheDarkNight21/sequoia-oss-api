@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:qualtrics",
+  "sequoia_id": "547",
+  "name": "Qualtrics",
+  "slug": "qualtrics",
+  "description": "Qualtrics is a single system of record for all experience data. Initially created to run surveys in the cloud, today Qualtrics allows organizations to manage the four core experiences of business—customer, product, employee and brand experiences—on one platform.",
+  "website": "https://www.qualtrics.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/Qualtrics",
+    "linkedin": "https://www.linkedin.com/company/qualtrics"
+  },
+  "categories": [
+    "gtm"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 2012,
+  "partners": [
+    "bryan-schreier",
+    "pat-grady"
+  ],
+  "primary_partner": "bryan-schreier",
+  "milestones": {
+    "founded_year": 2002,
+    "partnered_year": 2012,
+    "ipo_year": 2021,
+    "acquired_year": 2018
+  },
+  "team": [
+    {
+      "name": "Jared Smith",
+      "role": null
+    },
+    {
+      "name": "Ryan Smith",
+      "role": null
+    }
+  ],
+  "why_partnered": "When we first came across Qualtrics, it could be described in one line as “SurveyMonkey on steroids.” Scott Smith, his two sons and a college roommate had built a user-friendly, flexible and robust survey engine with incredible retention rates. But it was their vision and ambition to create a new category for business, Experience Management (XM), that resonated even more. We were in.",
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/qualtrics/"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "josephine-chen",
+  "name": "Josephine Chen",
+  "companies": [
+    {
+      "id": "sequoia:found",
+      "name": "Found",
+      "slug": "found"
+    },
+    {
+      "id": "sequoia:magic-eden",
+      "name": "Magic Eden",
+      "slug": "magic-eden"
+    },
+    {
+      "id": "sequoia:amp-robotics",
+      "name": "AMP Robotics",
+      "slug": "amp-robotics"
+    },
+    {
+      "id": "sequoia:rox",
+      "name": "Rox",
+      "slug": "rox"
+    },
+    {
+      "id": "sequoia:freed",
+      "name": "Freed",
+      "slug": "freed"
+    },
+    {
+      "id": "sequoia:nuvo",
+      "name": "Nuvo",
+      "slug": "nuvo"
+    },
+    {
+      "id": "sequoia:bridge",
+      "name": "Bridge",
+      "slug": "bridge"
+    },
+    {
+      "id": "sequoia:privy",
+      "name": "Privy",
+      "slug": "privy"
+    },
+    {
+      "id": "sequoia:cresta",
+      "name": "Cresta",
+      "slug": "cresta"
+    },
+    {
+      "id": "sequoia:abby-care",
+      "name": "Abby Care",
+      "slug": "abby-care"
+    },
+    {
+      "id": "sequoia:crosby",
+      "name": "Crosby",
+      "slug": "crosby"
+    },
+    {
+      "id": "sequoia:anrok",
+      "name": "Anrok",
+      "slug": "anrok"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "sequoia:roon",
+  "sequoia_id": "11162",
+  "name": "Roon",
+  "slug": "roon",
+  "description": "Roon was founded by an interdisciplinary team of scientists, doctors, patients, caregivers, designers, engineers, product managers and content producers. We aspire to be the place where all people experiencing challenging health conditions go to find information, community and support. We build products that re-imagine medical content and health communities today.",
+  "website": "https://roon.care",
+  "socials": {
+    "twitter": "https://twitter.com/rooncare",
+    "linkedin": "https://www.linkedin.com/company/roon-care"
+  },
+  "categories": [
+    "consumer",
+    "healthcare"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2022,
+  "partners": [
+    "jess-lee"
+  ],
+  "primary_partner": "jess-lee",
+  "milestones": {
+    "founded_year": 2021,
+    "partnered_year": 2022,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Vikram Bhaskaran",
+      "role": null
+    },
+    {
+      "name": "Rohan Ramakrishna",
+      "role": null
+    },
+    {
+      "name": "Arun Ranganathan",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/roon/"
+  }
+}

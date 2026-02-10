@@ -1,0 +1,50 @@
+{
+  "id": "sequoia:hugging-face",
+  "sequoia_id": "9612",
+  "name": "Hugging Face",
+  "slug": "hugging-face",
+  "description": "Hugging Face is a community-based repository for open-source ML technology. It is a platform that stores, serves, and manages the latest and greatest in open-source ML models, including enabling customers to fine-tune these models and deploy them at scale. Hugging Face’s secret sauce is its community: it has become a go-to destination for companies and researchers in the world of ML to collaborate. In this respect, it can be loosely analogized to GitHub, but for ML rather than traditional software engineering.",
+  "website": "https://huggingface.co/",
+  "socials": {
+    "twitter": "https://twitter.com/huggingface?s=20&t=08t-jQMb-GpZFRIuqH5LaQ",
+    "linkedin": "https://www.linkedin.com/company/huggingface",
+    "youtube": "https://www.youtube.com/c/HuggingFace"
+  },
+  "categories": [
+    "ai",
+    "developer-tools"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2022,
+  "partners": [
+    "pat-grady",
+    "sonya-huang",
+    "david-cahn"
+  ],
+  "primary_partner": "pat-grady",
+  "milestones": {
+    "founded_year": 2016,
+    "partnered_year": 2022,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Julien Chaumond",
+      "role": null
+    },
+    {
+      "name": "Clément Delangue",
+      "role": null
+    },
+    {
+      "name": "Thomas Wolf",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/hugging-face/"
+  }
+}

@@ -16,6 +16,141 @@
       "id": "sequoia:medallia",
       "name": "Medallia",
       "slug": "medallia"
+    },
+    {
+      "id": "sequoia:amplitude",
+      "name": "Amplitude",
+      "slug": "amplitude"
+    },
+    {
+      "id": "sequoia:qualtrics",
+      "name": "Qualtrics",
+      "slug": "qualtrics"
+    },
+    {
+      "id": "sequoia:zoom",
+      "name": "Zoom",
+      "slug": "zoom"
+    },
+    {
+      "id": "sequoia:pilot",
+      "name": "Pilot",
+      "slug": "pilot"
+    },
+    {
+      "id": "sequoia:drift",
+      "name": "Drift",
+      "slug": "drift"
+    },
+    {
+      "id": "sequoia:gather",
+      "name": "Gather",
+      "slug": "gather"
+    },
+    {
+      "id": "sequoia:cribl",
+      "name": "Cribl",
+      "slug": "cribl"
+    },
+    {
+      "id": "sequoia:attentive",
+      "name": "Attentive",
+      "slug": "attentive"
+    },
+    {
+      "id": "sequoia:sunrun",
+      "name": "Sunrun",
+      "slug": "sunrun"
+    },
+    {
+      "id": "sequoia:okta",
+      "name": "Okta",
+      "slug": "okta"
+    },
+    {
+      "id": "sequoia:watershed",
+      "name": "Watershed",
+      "slug": "watershed"
+    },
+    {
+      "id": "sequoia:neeva",
+      "name": "Neeva",
+      "slug": "neeva"
+    },
+    {
+      "id": "sequoia:jive-software",
+      "name": "Jive Software",
+      "slug": "jive-software"
+    },
+    {
+      "id": "sequoia:odoo",
+      "name": "Odoo",
+      "slug": "odoo"
+    },
+    {
+      "id": "sequoia:servicenow",
+      "name": "ServiceNow",
+      "slug": "servicenow"
+    },
+    {
+      "id": "sequoia:hubspot",
+      "name": "HubSpot",
+      "slug": "hubspot"
+    },
+    {
+      "id": "sequoia:notion",
+      "name": "Notion",
+      "slug": "notion"
+    },
+    {
+      "id": "sequoia:snowflake",
+      "name": "Snowflake",
+      "slug": "snowflake"
+    },
+    {
+      "id": "sequoia:openevidence",
+      "name": "OpenEvidence",
+      "slug": "openevidence"
+    },
+    {
+      "id": "sequoia:harvey",
+      "name": "Harvey",
+      "slug": "harvey"
+    },
+    {
+      "id": "sequoia:day-ai",
+      "name": "Day.ai",
+      "slug": "day-ai"
+    },
+    {
+      "id": "sequoia:paid",
+      "name": "Paid",
+      "slug": "paid"
+    },
+    {
+      "id": "sequoia:hugging-face",
+      "name": "Hugging Face",
+      "slug": "hugging-face"
+    },
+    {
+      "id": "sequoia:grow-therapy",
+      "name": "Grow Therapy",
+      "slug": "grow-therapy"
+    },
+    {
+      "id": "sequoia:agency",
+      "name": "Agency",
+      "slug": "agency"
+    },
+    {
+      "id": "sequoia:blockit-ai",
+      "name": "Blockit AI",
+      "slug": "blockit-ai"
+    },
+    {
+      "id": "sequoia:openai",
+      "name": "OpenAI",
+      "slug": "openai"
     }
   ]
 }

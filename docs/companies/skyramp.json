@@ -1,0 +1,39 @@
+{
+  "id": "sequoia:skyramp",
+  "sequoia_id": "10834",
+  "name": "Skyramp",
+  "slug": "skyramp",
+  "description": "Skyramp is an AI-driven testing platform that acts like a personal QA engineer for your dev team. It automatically generates functional and performance tests in seconds, covering everything from API endpoints to full user flows, allowing teams to ship with confidence on every release.",
+  "website": "https://www.skyramp.dev/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/skyramp-dev/"
+  },
+  "categories": [
+    "ai",
+    "developer-tools"
+  ],
+  "current_stage": "pre-seed-seed",
+  "first_partnered_year": 2022,
+  "partners": [
+    "shaun-maguire",
+    "lauren-reeder"
+  ],
+  "primary_partner": "shaun-maguire",
+  "milestones": {
+    "founded_year": 2022,
+    "partnered_year": 2022,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Nithin Michael",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/skyramp/"
+  }
+}

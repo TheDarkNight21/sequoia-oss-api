@@ -1,0 +1,42 @@
+{
+  "id": "sequoia:formation-bio",
+  "sequoia_id": "650",
+  "name": "Formation Bio",
+  "slug": "formation-bio",
+  "description": "Formation Bio is a tech and AI-native pharma company differentiated by radically more efficient drug development.",
+  "website": "https://www.formation.bio/",
+  "socials": {
+    "twitter": "https://twitter.com/formationbio",
+    "linkedin": "https://www.linkedin.com/company/formationbio/"
+  },
+  "categories": [
+    "healthcare"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2017,
+  "partners": [
+    "alfred-lin"
+  ],
+  "primary_partner": "alfred-lin",
+  "milestones": {
+    "founded_year": 2016,
+    "partnered_year": 2017,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Benjamine Liu",
+      "role": null
+    },
+    {
+      "name": "Linhao Zhang",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/formation-bio/"
+  }
+}

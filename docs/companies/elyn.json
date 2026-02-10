@@ -1,0 +1,40 @@
+{
+  "id": "sequoia:elyn",
+  "sequoia_id": "17163",
+  "name": "Elyn",
+  "slug": "elyn",
+  "description": "Elyn provides a return management and exchange portal that helps brands optimize their online profitability.",
+  "website": "https://www.elyn.io/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/elyn/"
+  },
+  "categories": [
+    "marketplace",
+    "operations"
+  ],
+  "current_stage": "pre-seed-seed",
+  "first_partnered_year": 2023,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 2021,
+    "partnered_year": 2023,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "El Mehdi Hachad",
+      "role": null
+    },
+    {
+      "name": "Hamza Sentissi",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/elyn/"
+  }
+}

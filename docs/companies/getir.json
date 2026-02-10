@@ -1,0 +1,48 @@
+{
+  "id": "sequoia:getir",
+  "sequoia_id": "379",
+  "name": "Getir",
+  "slug": "getir",
+  "description": "Getir revolutionizes last-mile delivery with its grocery delivery proposition. Getir delivers a selection of 1,500 everyday items wherever its customers wish within minutes, seven days a week, day and night. Getir, which launched in London in January 2021, also owns sub-brands GetirFood, GetirMore and GetirWater.",
+  "website": "https://getir.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/getir",
+    "linkedin": "https://www.tr.linkedin.com/company/getir",
+    "instagram": "https://www.instagram.com/getir"
+  },
+  "categories": [
+    "consumer",
+    "marketplace"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2021,
+  "partners": [
+    "michael-moritz"
+  ],
+  "primary_partner": "michael-moritz",
+  "milestones": {
+    "founded_year": 2015,
+    "partnered_year": 2021,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Serkan Borancılı",
+      "role": null
+    },
+    {
+      "name": "Mehmed Nazim Salur",
+      "role": null
+    },
+    {
+      "name": "Tuncay Tütek",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/getir/"
+  }
+}

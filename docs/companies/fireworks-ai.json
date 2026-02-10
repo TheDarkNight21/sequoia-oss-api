@@ -1,0 +1,52 @@
+{
+  "id": "sequoia:fireworks-ai",
+  "sequoia_id": "17466",
+  "name": "Fireworks AI",
+  "slug": "fireworks-ai",
+  "description": "Fireworks AI is a high-performance inference platform for developers and enterprises to run open-source LLMs and image models or to fine-tune and deploy their own.",
+  "website": "https://fireworks.ai/",
+  "socials": {
+    "twitter": "https://twitter.com/FireworksAI_HQ",
+    "linkedin": "https://www.linkedin.com/company/fireworks-ai/"
+  },
+  "categories": [
+    "ai",
+    "infrastructure"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2022,
+  "partners": [
+    "sonya-huang",
+    "alfred-lin"
+  ],
+  "primary_partner": "sonya-huang",
+  "milestones": {
+    "founded_year": 2022,
+    "partnered_year": 2022,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Dmytro Dzhulgakov",
+      "role": null
+    },
+    {
+      "name": "Dmytro Ivchenko",
+      "role": null
+    },
+    {
+      "name": "Lin Qiao",
+      "role": null
+    },
+    {
+      "name": "Chenyu Zhao",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/fireworks-ai/"
+  }
+}

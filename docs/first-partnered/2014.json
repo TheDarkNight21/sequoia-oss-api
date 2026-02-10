@@ -10,6 +10,36 @@
       "id": "sequoia:plangrid",
       "name": "PlanGrid",
       "slug": "plangrid"
+    },
+    {
+      "id": "sequoia:orbital-insight",
+      "name": "Orbital Insight",
+      "slug": "orbital-insight"
+    },
+    {
+      "id": "sequoia:picsart",
+      "name": "PicsArt",
+      "slug": "picsart"
+    },
+    {
+      "id": "sequoia:doordash",
+      "name": "DoorDash",
+      "slug": "doordash"
+    },
+    {
+      "id": "sequoia:reddit",
+      "name": "reddit",
+      "slug": "reddit"
+    },
+    {
+      "id": "sequoia:strava",
+      "name": "Strava",
+      "slug": "strava"
+    },
+    {
+      "id": "sequoia:elevate",
+      "name": "Elevate",
+      "slug": "elevate"
     }
   ]
 }

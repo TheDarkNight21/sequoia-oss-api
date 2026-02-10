@@ -1,0 +1,47 @@
+{
+  "id": "sequoia:youtube",
+  "sequoia_id": "689",
+  "name": "YouTube",
+  "slug": "youtube",
+  "description": "YouTube is the world’s leading video-sharing service. It makes uploading and sharing videos with family, friends and the entire world effortless. It was acquired by Google and is the web’s second most visited website.",
+  "website": null,
+  "socials": {
+    "youtube": "https://www.youtube.com",
+    "twitter": "https://www.twitter.com/YouTube",
+    "linkedin": "https://www.linkedin.com/company/youtube"
+  },
+  "categories": [
+    "consumer"
+  ],
+  "current_stage": "acquired",
+  "first_partnered_year": 2005,
+  "partners": [
+    "roelof-botha"
+  ],
+  "primary_partner": "roelof-botha",
+  "milestones": {
+    "founded_year": 2005,
+    "partnered_year": 2005,
+    "ipo_year": null,
+    "acquired_year": 2006
+  },
+  "team": [
+    {
+      "name": "Steve Chen",
+      "role": null
+    },
+    {
+      "name": "Chad Hurley",
+      "role": null
+    },
+    {
+      "name": "Jawed Karim",
+      "role": null
+    }
+  ],
+  "why_partnered": "It was 2005. User-generated content and online advertising were taking off. Video was the natural next space in this content evolution. Chad, Steve and Jawed were scrappy, smart and had built an easy-to-use product we believed in. YouTube’s goal was clear from the outset—become the primary destination for user-generated video content on the web.",
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/youtube/"
+  }
+}

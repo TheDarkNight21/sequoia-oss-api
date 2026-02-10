@@ -1,0 +1,42 @@
+{
+  "id": "sequoia:apex",
+  "sequoia_id": "14511",
+  "name": "Apex",
+  "slug": "apex",
+  "description": "Apex is a Security Platform for generative AI and LLMs that helps companies remediate AI risks from any source. Apex provides a robust foundation for companies to safely boost their business with AI.",
+  "website": "https://www.apexhq.ai/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/apexhq-ai/"
+  },
+  "categories": [
+    "ai",
+    "security"
+  ],
+  "current_stage": "pre-seed-seed",
+  "first_partnered_year": 2023,
+  "partners": [
+    "bogomil-balkansky"
+  ],
+  "primary_partner": "bogomil-balkansky",
+  "milestones": {
+    "founded_year": 2023,
+    "partnered_year": 2023,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Tomer Avni",
+      "role": null
+    },
+    {
+      "name": "Matan Derman",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/apex/"
+  }
+}

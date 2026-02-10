@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:sunrun",
+  "sequoia_id": "626",
+  "name": "Sunrun",
+  "slug": "sunrun",
+  "description": "Sunrun’s revolutionary solar power model allows people to use solar power without purchasing and maintaining panels. Sunrun provides planet-changing home solar in a simple, inexpensive and low-risk way.",
+  "website": "https://www.sunrun.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/Sunrun",
+    "linkedin": "https://www.linkedin.com/company/sunrun"
+  },
+  "categories": [
+    "climate",
+    "consumer"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 2010,
+  "partners": [
+    "pat-grady"
+  ],
+  "primary_partner": "pat-grady",
+  "milestones": {
+    "founded_year": 2007,
+    "partnered_year": 2010,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Edward Fenster",
+      "role": null
+    },
+    {
+      "name": "Lynn Jurich",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/sunrun/"
+  }
+}

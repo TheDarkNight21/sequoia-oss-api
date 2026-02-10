@@ -1,0 +1,41 @@
+{
+  "id": "sequoia:freed",
+  "sequoia_id": "17493",
+  "name": "Freed",
+  "slug": "freed",
+  "description": "Freed is an AI clinician assistant that automates visit preparation, documentation, EHR interactions and other burdensome clinical tasks. Freed is tackling the crisis of clinician burnout by giving clinicians valuable time back in their day.",
+  "website": "https://www.getfreed.ai/",
+  "socials": {
+    "facebook": "https://www.facebook.com/FreedAIScribe",
+    "linkedin": "https://www.linkedin.com/company/freed-ai/",
+    "instagram": "https://www.instagram.com/getfreed.ai/"
+  },
+  "categories": [
+    "ai",
+    "healthcare"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2024,
+  "partners": [
+    "josephine-chen",
+    "jess-lee"
+  ],
+  "primary_partner": "josephine-chen",
+  "milestones": {
+    "founded_year": 2023,
+    "partnered_year": 2024,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Erez Druk",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/freed/"
+  }
+}

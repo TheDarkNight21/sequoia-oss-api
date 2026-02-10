@@ -1,0 +1,175 @@
+{
+  "year": 2024,
+  "companies": [
+    {
+      "id": "sequoia:physical-intelligence",
+      "name": "Physical Intelligence",
+      "slug": "physical-intelligence"
+    },
+    {
+      "id": "sequoia:eon",
+      "name": "Eon",
+      "slug": "eon"
+    },
+    {
+      "id": "sequoia:safe-superintelligence",
+      "name": "Safe Superintelligence",
+      "slug": "safe-superintelligence"
+    },
+    {
+      "id": "sequoia:odoo",
+      "name": "Odoo",
+      "slug": "odoo"
+    },
+    {
+      "id": "sequoia:xaira",
+      "name": "Xaira",
+      "slug": "xaira"
+    },
+    {
+      "id": "sequoia:rox",
+      "name": "Rox",
+      "slug": "rox"
+    },
+    {
+      "id": "sequoia:gridware",
+      "name": "Gridware",
+      "slug": "gridware"
+    },
+    {
+      "id": "sequoia:phantom",
+      "name": "Phantom",
+      "slug": "phantom"
+    },
+    {
+      "id": "sequoia:xbow",
+      "name": "XBOW",
+      "slug": "xbow"
+    },
+    {
+      "id": "sequoia:decart",
+      "name": "Decart",
+      "slug": "decart"
+    },
+    {
+      "id": "sequoia:harmonic",
+      "name": "Harmonic",
+      "slug": "harmonic"
+    },
+    {
+      "id": "sequoia:lemni",
+      "name": "Lemni",
+      "slug": "lemni"
+    },
+    {
+      "id": "sequoia:freed",
+      "name": "Freed",
+      "slug": "freed"
+    },
+    {
+      "id": "sequoia:enter",
+      "name": "Enter",
+      "slug": "enter"
+    },
+    {
+      "id": "sequoia:kela",
+      "name": "Kela",
+      "slug": "kela"
+    },
+    {
+      "id": "sequoia:xai",
+      "name": "xAI",
+      "slug": "xai"
+    },
+    {
+      "id": "sequoia:finch",
+      "name": "Finch",
+      "slug": "finch"
+    },
+    {
+      "id": "sequoia:nuvo",
+      "name": "Nuvo",
+      "slug": "nuvo"
+    },
+    {
+      "id": "sequoia:fastapi-labs",
+      "name": "FastAPI Labs",
+      "slug": "fastapi-labs"
+    },
+    {
+      "id": "sequoia:reflect-orbital",
+      "name": "Reflect Orbital",
+      "slug": "reflect-orbital"
+    },
+    {
+      "id": "sequoia:210664",
+      "name": "Aspora",
+      "slug": "210664"
+    },
+    {
+      "id": "sequoia:reflection-ai",
+      "name": "Reflection AI",
+      "slug": "reflection-ai"
+    },
+    {
+      "id": "sequoia:magentic",
+      "name": "Magentic",
+      "slug": "magentic"
+    },
+    {
+      "id": "sequoia:zed",
+      "name": "Zed",
+      "slug": "zed"
+    },
+    {
+      "id": "sequoia:langchain",
+      "name": "LangChain",
+      "slug": "langchain"
+    },
+    {
+      "id": "sequoia:magic",
+      "name": "Magic",
+      "slug": "magic"
+    },
+    {
+      "id": "sequoia:openevidence",
+      "name": "OpenEvidence",
+      "slug": "openevidence"
+    },
+    {
+      "id": "sequoia:traversal",
+      "name": "Traversal",
+      "slug": "traversal"
+    },
+    {
+      "id": "sequoia:crosby",
+      "name": "Crosby",
+      "slug": "crosby"
+    },
+    {
+      "id": "sequoia:grow-therapy",
+      "name": "Grow Therapy",
+      "slug": "grow-therapy"
+    },
+    {
+      "id": "sequoia:agency",
+      "name": "Agency",
+      "slug": "agency"
+    },
+    {
+      "id": "sequoia:nevis",
+      "name": "Nevis",
+      "slug": "nevis"
+    },
+    {
+      "id": "sequoia:pace-2",
+      "name": "Pace",
+      "slug": "pace-2"
+    },
+    {
+      "id": "sequoia:blockit-ai",
+      "name": "Blockit AI",
+      "slug": "blockit-ai"
+    }
+  ]
+}

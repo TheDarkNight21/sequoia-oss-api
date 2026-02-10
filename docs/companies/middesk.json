@@ -1,0 +1,42 @@
+{
+  "id": "sequoia:middesk",
+  "sequoia_id": "465",
+  "name": "Middesk",
+  "slug": "middesk",
+  "description": "Middesk delivers business verifications, legal and regulatory checks, and industry classification products to businesses that work with businesses. With its modern compliance and risk tools, Middesk offers end-to-end solutions so companies can screen and monitor customers.",
+  "website": "https://www.middesk.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/MiddeskHQ",
+    "linkedin": "https://www.linkedin.com/company/middesk/"
+  },
+  "categories": [
+    "legal"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2019,
+  "partners": [
+    "stephanie-zhan"
+  ],
+  "primary_partner": "stephanie-zhan",
+  "milestones": {
+    "founded_year": 2018,
+    "partnered_year": 2019,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Kyle Mack",
+      "role": null
+    },
+    {
+      "name": "Kurt Ruppel",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/middesk/"
+  }
+}

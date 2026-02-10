@@ -1,0 +1,47 @@
+{
+  "id": "sequoia:meraki",
+  "sequoia_id": "459",
+  "name": "Meraki",
+  "slug": "meraki",
+  "description": "Meraki offered a complete system of networking products, doing away with market fragmentation so companies could leverage quality network connections. Now part of Cisco, Meraki still provides routing and security solutions for home and enterprise networks through its hardware and cloud-based solutions.",
+  "website": "https://www.meraki.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/meraki",
+    "linkedin": "https://www.linkedin.com/company/meraki-inc"
+  },
+  "categories": [
+    "infrastructure"
+  ],
+  "current_stage": "acquired",
+  "first_partnered_year": 2006,
+  "partners": [
+    "doug-leone",
+    "jim-goetz"
+  ],
+  "primary_partner": "doug-leone",
+  "milestones": {
+    "founded_year": 2006,
+    "partnered_year": 2006,
+    "ipo_year": null,
+    "acquired_year": 2012
+  },
+  "team": [
+    {
+      "name": "John Bicket",
+      "role": null
+    },
+    {
+      "name": "Sanjit Biswas",
+      "role": null
+    },
+    {
+      "name": "Hans Robertson",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/meraki/"
+  }
+}

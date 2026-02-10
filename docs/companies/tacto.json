@@ -1,0 +1,46 @@
+{
+  "id": "sequoia:tacto",
+  "sequoia_id": "16263",
+  "name": "Tacto",
+  "slug": "tacto",
+  "description": "Tacto is the AI-based operating system for future-proof supply chains in mid-sized industrials. As the central hub connecting these organizations with their supplier base, Tacto streamlines all procurement workflows, effortlessly ensures compliant and sustainable supply chains, and enables efficient material sourcing. With its solution, Tacto empowers mid-cap industrial organizations to future-proof their supply chains by intelligently procuring materials under optimal conditions with minimal effort.",
+  "website": "https://www.tacto.ai",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/tactotechnology/"
+  },
+  "categories": [
+    "operations"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2023,
+  "partners": [
+    "luciana-lixandru",
+    "julien-bek"
+  ],
+  "primary_partner": "luciana-lixandru",
+  "milestones": {
+    "founded_year": 2020,
+    "partnered_year": 2023,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Nico Bentenrieder",
+      "role": null
+    },
+    {
+      "name": "Johannes Groll",
+      "role": null
+    },
+    {
+      "name": "André Petry",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/tacto/"
+  }
+}

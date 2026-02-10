@@ -1,0 +1,36 @@
+{
+  "id": "climate",
+  "label": "Climate",
+  "companies": [
+    {
+      "id": "sequoia:commons",
+      "name": "Commons",
+      "slug": "commons"
+    },
+    {
+      "id": "sequoia:sunrun",
+      "name": "Sunrun",
+      "slug": "sunrun"
+    },
+    {
+      "id": "sequoia:guided-energy",
+      "name": "Guided Energy",
+      "slug": "guided-energy"
+    },
+    {
+      "id": "sequoia:watershed",
+      "name": "Watershed",
+      "slug": "watershed"
+    },
+    {
+      "id": "sequoia:amp-robotics",
+      "name": "AMP Robotics",
+      "slug": "amp-robotics"
+    },
+    {
+      "id": "sequoia:gridware",
+      "name": "Gridware",
+      "slug": "gridware"
+    }
+  ]
+}

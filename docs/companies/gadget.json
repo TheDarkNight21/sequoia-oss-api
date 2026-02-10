@@ -1,0 +1,40 @@
+{
+  "id": "sequoia:gadget",
+  "sequoia_id": "7336",
+  "name": "Gadget",
+  "slug": "gadget",
+  "description": "Gadget is a serverless stack for ecommerce app developers. It connects to any ecommerce platform instantly, and enables developers to build apps in a fraction of the time by skipping the busywork.",
+  "website": "https://gadget.dev/",
+  "socials": {
+    "twitter": "https://twitter.com/gadget_dev",
+    "linkedin": "https://www.linkedin.com/company/gadget-dev/"
+  },
+  "categories": [
+    "developer-tools"
+  ],
+  "current_stage": "pre-seed-seed",
+  "first_partnered_year": 2021,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 2020,
+    "partnered_year": 2021,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Harry Brundage",
+      "role": null
+    },
+    {
+      "name": "Mo Hashemi",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/gadget/"
+  }
+}

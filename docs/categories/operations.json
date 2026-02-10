@@ -26,6 +26,141 @@
       "id": "sequoia:ringcentral",
       "name": "RingCentral",
       "slug": "ringcentral"
+    },
+    {
+      "id": "sequoia:wonolo",
+      "name": "Wonolo",
+      "slug": "wonolo"
+    },
+    {
+      "id": "sequoia:fides",
+      "name": "Fides",
+      "slug": "fides"
+    },
+    {
+      "id": "sequoia:pilot",
+      "name": "Pilot",
+      "slug": "pilot"
+    },
+    {
+      "id": "sequoia:papaya",
+      "name": "Papaya",
+      "slug": "papaya"
+    },
+    {
+      "id": "sequoia:found",
+      "name": "Found",
+      "slug": "found"
+    },
+    {
+      "id": "sequoia:rippling",
+      "name": "Rippling",
+      "slug": "rippling"
+    },
+    {
+      "id": "sequoia:xentral",
+      "name": "xentral",
+      "slug": "xentral"
+    },
+    {
+      "id": "sequoia:surein",
+      "name": "SureIn",
+      "slug": "surein"
+    },
+    {
+      "id": "sequoia:open",
+      "name": "Open",
+      "slug": "open"
+    },
+    {
+      "id": "sequoia:elyn",
+      "name": "Elyn",
+      "slug": "elyn"
+    },
+    {
+      "id": "sequoia:brewbird",
+      "name": "Brewbird",
+      "slug": "brewbird"
+    },
+    {
+      "id": "sequoia:querypal",
+      "name": "QueryPal",
+      "slug": "querypal"
+    },
+    {
+      "id": "sequoia:odoo",
+      "name": "Odoo",
+      "slug": "odoo"
+    },
+    {
+      "id": "sequoia:uipath",
+      "name": "UiPath",
+      "slug": "uipath"
+    },
+    {
+      "id": "sequoia:servicenow",
+      "name": "ServiceNow",
+      "slug": "servicenow"
+    },
+    {
+      "id": "sequoia:vanta",
+      "name": "Vanta",
+      "slug": "vanta"
+    },
+    {
+      "id": "sequoia:pennylane",
+      "name": "Pennylane",
+      "slug": "pennylane"
+    },
+    {
+      "id": "sequoia:nuvo",
+      "name": "Nuvo",
+      "slug": "nuvo"
+    },
+    {
+      "id": "sequoia:247",
+      "name": "[24]7.ai",
+      "slug": "247"
+    },
+    {
+      "id": "sequoia:magentic",
+      "name": "Magentic",
+      "slug": "magentic"
+    },
+    {
+      "id": "sequoia:squint",
+      "name": "Squint",
+      "slug": "squint"
+    },
+    {
+      "id": "sequoia:rillet",
+      "name": "Rillet",
+      "slug": "rillet"
+    },
+    {
+      "id": "sequoia:ramp",
+      "name": "Ramp",
+      "slug": "ramp"
+    },
+    {
+      "id": "sequoia:juicebox",
+      "name": "Juicebox",
+      "slug": "juicebox"
+    },
+    {
+      "id": "sequoia:profound",
+      "name": "Profound",
+      "slug": "profound"
+    },
+    {
+      "id": "sequoia:tacto",
+      "name": "Tacto",
+      "slug": "tacto"
+    },
+    {
+      "id": "sequoia:anrok",
+      "name": "Anrok",
+      "slug": "anrok"
     }
   ]
 }

@@ -1,0 +1,36 @@
+{
+  "id": "sequoia:telescope",
+  "sequoia_id": "9860",
+  "name": "Telescope",
+  "slug": "telescope",
+  "description": "Telescope is an AI sales assistant that performs prospecting on auto-pilot. Telescope offers a revolutionary SaaS platform that performs B2B cold outreach on auto-pilot. By analysing billions of data points, it finds the right prospect for the right product at the right time and reaches out automatically with a personalised message. Using machine learning techniques, it quickly learns the user’s ideal client profile and becomes more intelligent over time. Telescope enables salespeople to spend less time prospecting for new clients, so they can instead focus on closing deals.",
+  "website": "https://www.gotelescope.ai",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/telescope-analytics"
+  },
+  "categories": [
+    "ai",
+    "gtm"
+  ],
+  "current_stage": "pre-seed-seed",
+  "first_partnered_year": 2022,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 2021,
+    "partnered_year": 2022,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Reza Javan",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/telescope/"
+  }
+}

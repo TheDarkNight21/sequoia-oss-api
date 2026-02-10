@@ -1,0 +1,46 @@
+{
+  "id": "sequoia:mongodb",
+  "sequoia_id": "472",
+  "name": "MongoDB",
+  "slug": "mongodb",
+  "description": "MongoDB is the leading general-purpose database platform designed to unleash the power of software and data for developers and their applications.",
+  "website": "https://www.mongodb.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/MongoDB",
+    "linkedin": "https://www.linkedin.com/company/mongodbinc"
+  },
+  "categories": [
+    "developer-tools"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 2010,
+  "partners": [
+    "roelof-botha"
+  ],
+  "primary_partner": "roelof-botha",
+  "milestones": {
+    "founded_year": 2007,
+    "partnered_year": 2010,
+    "ipo_year": 2017,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "CJ Desai",
+      "role": null
+    },
+    {
+      "name": "Eliot Horowitz",
+      "role": null
+    },
+    {
+      "name": "Dwight Merriman",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/mongodb/"
+  }
+}

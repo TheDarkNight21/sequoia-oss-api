@@ -1,0 +1,46 @@
+{
+  "id": "sequoia:cortex",
+  "sequoia_id": "306",
+  "name": "Cortex",
+  "slug": "cortex",
+  "description": "Cortex helps engineering teams improve their service-oriented architecture. It catalogs their services and reveals their performance in terms of quality initiatives, security audits and other tasks.",
+  "website": "https://www.cortex.io/",
+  "socials": {
+    "twitter": "https://www.twitter.com/GetCortexApp",
+    "linkedin": "https://www.linkedin.com/company/cortexapp"
+  },
+  "categories": [
+    "developer-tools"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2020,
+  "partners": [
+    "bogomil-balkansky"
+  ],
+  "primary_partner": "bogomil-balkansky",
+  "milestones": {
+    "founded_year": 2019,
+    "partnered_year": 2020,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Ganesh Datta",
+      "role": null
+    },
+    {
+      "name": "Anish Dhar",
+      "role": null
+    },
+    {
+      "name": "Nikhil Unni",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/cortex/"
+  }
+}

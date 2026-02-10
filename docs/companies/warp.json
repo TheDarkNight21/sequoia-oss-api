@@ -1,0 +1,40 @@
+{
+  "id": "sequoia:warp",
+  "sequoia_id": "10358",
+  "name": "Warp",
+  "slug": "warp",
+  "description": "Warp is the first Agentic Development Environment, built for coding with multiple agents.",
+  "website": "https://warp.dev",
+  "socials": {
+    "twitter": "https://twitter.com/warpdotdev",
+    "linkedin": "https://www.linkedin.com/company/warpdotdev/",
+    "youtube": "https://youtube.com/@warpdotdev"
+  },
+  "categories": [
+    "ai",
+    "developer-tools"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2022,
+  "partners": [
+    "andrew-reed"
+  ],
+  "primary_partner": "andrew-reed",
+  "milestones": {
+    "founded_year": 2020,
+    "partnered_year": 2022,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Zach Lloyd",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/warp/"
+  }
+}

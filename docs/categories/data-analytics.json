@@ -16,6 +16,141 @@
       "id": "sequoia:dbt-labs",
       "name": "dbt Labs",
       "slug": "dbt-labs"
+    },
+    {
+      "id": "sequoia:amplitude",
+      "name": "Amplitude",
+      "slug": "amplitude"
+    },
+    {
+      "id": "sequoia:confluent",
+      "name": "Confluent",
+      "slug": "confluent"
+    },
+    {
+      "id": "sequoia:cohesity",
+      "name": "Cohesity",
+      "slug": "cohesity"
+    },
+    {
+      "id": "sequoia:cribl",
+      "name": "Cribl",
+      "slug": "cribl"
+    },
+    {
+      "id": "sequoia:orbital-insight",
+      "name": "Orbital Insight",
+      "slug": "orbital-insight"
+    },
+    {
+      "id": "sequoia:statsig",
+      "name": "Statsig",
+      "slug": "statsig"
+    },
+    {
+      "id": "sequoia:arcwise",
+      "name": "Arcwise",
+      "slug": "arcwise"
+    },
+    {
+      "id": "sequoia:tecton",
+      "name": "Tecton",
+      "slug": "tecton"
+    },
+    {
+      "id": "sequoia:census",
+      "name": "Census",
+      "slug": "census"
+    },
+    {
+      "id": "sequoia:cockroach-labs",
+      "name": "Cockroach Labs",
+      "slug": "cockroach-labs"
+    },
+    {
+      "id": "sequoia:observable",
+      "name": "Observable",
+      "slug": "observable"
+    },
+    {
+      "id": "sequoia:grafana",
+      "name": "Grafana",
+      "slug": "grafana"
+    },
+    {
+      "id": "sequoia:bigeye",
+      "name": "Bigeye",
+      "slug": "bigeye"
+    },
+    {
+      "id": "sequoia:domino-data-lab",
+      "name": "Domino Data Lab",
+      "slug": "domino-data-lab"
+    },
+    {
+      "id": "sequoia:kumo",
+      "name": "Kumo",
+      "slug": "kumo"
+    },
+    {
+      "id": "sequoia:peregrine",
+      "name": "Peregrine",
+      "slug": "peregrine"
+    },
+    {
+      "id": "sequoia:supernova",
+      "name": "Supernova",
+      "slug": "supernova"
+    },
+    {
+      "id": "sequoia:hex",
+      "name": "Hex",
+      "slug": "hex"
+    },
+    {
+      "id": "sequoia:wirescreen",
+      "name": "WireScreen",
+      "slug": "wirescreen"
+    },
+    {
+      "id": "sequoia:physna",
+      "name": "Physna",
+      "slug": "physna"
+    },
+    {
+      "id": "sequoia:synativ",
+      "name": "Synativ",
+      "slug": "synativ"
+    },
+    {
+      "id": "sequoia:dagster",
+      "name": "Dagster",
+      "slug": "dagster"
+    },
+    {
+      "id": "sequoia:popsink",
+      "name": "Popsink",
+      "slug": "popsink"
+    },
+    {
+      "id": "sequoia:nominal",
+      "name": "Nominal",
+      "slug": "nominal"
+    },
+    {
+      "id": "sequoia:snowflake",
+      "name": "Snowflake",
+      "slug": "snowflake"
+    },
+    {
+      "id": "sequoia:openevidence",
+      "name": "OpenEvidence",
+      "slug": "openevidence"
+    },
+    {
+      "id": "sequoia:knowde",
+      "name": "Knowde",
+      "slug": "knowde"
     }
   ]
 }

@@ -1,0 +1,28 @@
+{
+  "id": "sequoia:lsi-logic",
+  "sequoia_id": "18471",
+  "name": "LSI Logic",
+  "slug": "lsi-logic",
+  "description": "LSI Logic Corporation was a pioneer in the ASIC and EDA industries. It evolved over time to design and sell semiconductors and software that accelerated storage and networking in data centers, mobile networks and client computing.",
+  "website": null,
+  "socials": {},
+  "categories": [
+    "hardware"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 1981,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 1980,
+    "partnered_year": 1981,
+    "ipo_year": 1983,
+    "acquired_year": null
+  },
+  "team": [],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/lsi-logic/"
+  }
+}

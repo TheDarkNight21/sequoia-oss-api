@@ -1,0 +1,32 @@
+{
+  "id": "sequoia:100-thieves",
+  "sequoia_id": "17218",
+  "name": "100 Thieves",
+  "slug": "100-thieves",
+  "description": "100 Thieves is a lifestyle brand for gamers. It fields esports teams, hosts live events and produces themed apparel.",
+  "website": "https://100thieves.com/",
+  "socials": {
+    "twitter": "https://twitter.com/100Thieves",
+    "instagram": "https://www.instagram.com/100thieves/",
+    "youtube": "https://www.youtube.com/channel/UCnrX2_FoKieobtw19PiphDw"
+  },
+  "categories": [
+    "consumer"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2018,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 2017,
+    "partnered_year": 2018,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/100-thieves/"
+  }
+}

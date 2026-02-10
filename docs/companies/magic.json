@@ -1,0 +1,42 @@
+{
+  "id": "sequoia:magic",
+  "sequoia_id": "18033",
+  "name": "Magic",
+  "slug": "magic",
+  "description": "Magic is training frontier models to build an AI software engineer that feels like a co-worker. Its goal is to automate AI research and code generation to solve safe AGI.",
+  "website": "https://magic.dev/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/magicailabs/"
+  },
+  "categories": [
+    "ai",
+    "developer-tools"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2024,
+  "partners": [
+    "sonya-huang"
+  ],
+  "primary_partner": "sonya-huang",
+  "milestones": {
+    "founded_year": 2022,
+    "partnered_year": 2024,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Sebastian De Ro",
+      "role": null
+    },
+    {
+      "name": "Eric Steinberger",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/magic/"
+  }
+}

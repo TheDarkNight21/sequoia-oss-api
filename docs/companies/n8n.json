@@ -1,0 +1,39 @@
+{
+  "id": "sequoia:n8n",
+  "sequoia_id": "478",
+  "name": "n8n",
+  "slug": "n8n",
+  "description": "n8n is a free open node-based workflow automation tool. It can be self-hosted, easily extended and used with third-party web applications or custom in-house tools to automate repetitive tasks. With n8n, people can build multistep workflows using third-party APIs and their own internal tools.",
+  "website": "https://n8n.io/",
+  "socials": {
+    "twitter": "https://www.twitter.com/n8n_io",
+    "linkedin": "https://www.linkedin.com/company/n8n/"
+  },
+  "categories": [
+    "developer-tools",
+    "productivity"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2020,
+  "partners": [
+    "george-robson"
+  ],
+  "primary_partner": "george-robson",
+  "milestones": {
+    "founded_year": 2019,
+    "partnered_year": 2020,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Jan Oberhauser",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/n8n/"
+  }
+}

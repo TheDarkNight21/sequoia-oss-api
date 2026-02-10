@@ -11,6 +11,161 @@
       "id": "sequoia:oracle",
       "name": "Oracle",
       "slug": "oracle"
+    },
+    {
+      "id": "sequoia:apple",
+      "name": "Apple",
+      "slug": "apple"
+    },
+    {
+      "id": "sequoia:the-boring-company",
+      "name": "The Boring Company",
+      "slug": "the-boring-company"
+    },
+    {
+      "id": "sequoia:carbon",
+      "name": "Carbon",
+      "slug": "carbon"
+    },
+    {
+      "id": "sequoia:jitx",
+      "name": "JITX",
+      "slug": "jitx"
+    },
+    {
+      "id": "sequoia:temporal-technologies",
+      "name": "Temporal Technologies",
+      "slug": "temporal-technologies"
+    },
+    {
+      "id": "sequoia:aurora",
+      "name": "Aurora",
+      "slug": "aurora"
+    },
+    {
+      "id": "sequoia:zipline",
+      "name": "Zipline",
+      "slug": "zipline"
+    },
+    {
+      "id": "sequoia:collaborative-robotics",
+      "name": "Cobot",
+      "slug": "collaborative-robotics"
+    },
+    {
+      "id": "sequoia:spacex",
+      "name": "SpaceX",
+      "slug": "spacex"
+    },
+    {
+      "id": "sequoia:cisco",
+      "name": "Cisco",
+      "slug": "cisco"
+    },
+    {
+      "id": "sequoia:quantum-circuits",
+      "name": "Quantum Circuits",
+      "slug": "quantum-circuits"
+    },
+    {
+      "id": "sequoia:microchip-technology",
+      "name": "Microchip Technology",
+      "slug": "microchip-technology"
+    },
+    {
+      "id": "sequoia:flextronics",
+      "name": "Flextronics",
+      "slug": "flextronics"
+    },
+    {
+      "id": "sequoia:lsi-logic",
+      "name": "LSI Logic",
+      "slug": "lsi-logic"
+    },
+    {
+      "id": "sequoia:cadence-design-systems",
+      "name": "Cadence Design Systems",
+      "slug": "cadence-design-systems"
+    },
+    {
+      "id": "sequoia:amp-robotics",
+      "name": "AMP Robotics",
+      "slug": "amp-robotics"
+    },
+    {
+      "id": "sequoia:robco",
+      "name": "Robco",
+      "slug": "robco"
+    },
+    {
+      "id": "sequoia:mach",
+      "name": "Mach Industries",
+      "slug": "mach"
+    },
+    {
+      "id": "sequoia:pixelworks",
+      "name": "Pixelworks",
+      "slug": "pixelworks"
+    },
+    {
+      "id": "sequoia:quantenna",
+      "name": "Quantenna",
+      "slug": "quantenna"
+    },
+    {
+      "id": "sequoia:quicklogic",
+      "name": "QuickLogic",
+      "slug": "quicklogic"
+    },
+    {
+      "id": "sequoia:ruckus-networks",
+      "name": "Ruckus Networks",
+      "slug": "ruckus-networks"
+    },
+    {
+      "id": "sequoia:western-digital",
+      "name": "Western Digital",
+      "slug": "western-digital"
+    },
+    {
+      "id": "sequoia:alpha-omega-semiconductor",
+      "name": "Alpha &amp; Omega Semiconductor",
+      "slug": "alpha-omega-semiconductor"
+    },
+    {
+      "id": "sequoia:reflect-orbital",
+      "name": "Reflect Orbital",
+      "slug": "reflect-orbital"
+    },
+    {
+      "id": "sequoia:mellanox",
+      "name": "Mellanox",
+      "slug": "mellanox"
+    },
+    {
+      "id": "sequoia:blues",
+      "name": "Blues",
+      "slug": "blues"
+    },
+    {
+      "id": "sequoia:nvidia",
+      "name": "NVIDIA",
+      "slug": "nvidia"
+    },
+    {
+      "id": "sequoia:flow-engineering",
+      "name": "Flow Engineering",
+      "slug": "flow-engineering"
+    },
+    {
+      "id": "sequoia:sunflower-labs",
+      "name": "Sunflower Labs",
+      "slug": "sunflower-labs"
+    },
+    {
+      "id": "sequoia:neros",
+      "name": "Neros",
+      "slug": "neros"
     }
   ]
 }

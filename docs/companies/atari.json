@@ -1,0 +1,36 @@
+{
+  "id": "sequoia:atari",
+  "sequoia_id": "248",
+  "name": "Atari",
+  "slug": "atari",
+  "description": "Atari is the original video game pioneer. Its portfolio of more than 200 games includes hits like Asteroids, Centipede and Pong. Under its brand and franchises, Atari has expanded into the worlds of mobile gaming, merchandising and publishing.",
+  "website": "https://www.atari.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/atari",
+    "linkedin": "https://www.linkedin.com/company/atari"
+  },
+  "categories": [
+    "consumer"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 1975,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 1972,
+    "partnered_year": 1975,
+    "ipo_year": 2003,
+    "acquired_year": 1976
+  },
+  "team": [
+    {
+      "name": "Nolan Bushnell",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/atari/"
+  }
+}

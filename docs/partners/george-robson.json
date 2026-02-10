@@ -1,0 +1,81 @@
+{
+  "id": "george-robson",
+  "name": "George Robson",
+  "companies": [
+    {
+      "id": "sequoia:xentral",
+      "name": "xentral",
+      "slug": "xentral"
+    },
+    {
+      "id": "sequoia:nsave",
+      "name": "nsave",
+      "slug": "nsave"
+    },
+    {
+      "id": "sequoia:pennylane",
+      "name": "Pennylane",
+      "slug": "pennylane"
+    },
+    {
+      "id": "sequoia:210664",
+      "name": "Aspora",
+      "slug": "210664"
+    },
+    {
+      "id": "sequoia:anterior",
+      "name": "Anterior",
+      "slug": "anterior"
+    },
+    {
+      "id": "sequoia:telda",
+      "name": "Telda",
+      "slug": "telda"
+    },
+    {
+      "id": "sequoia:two",
+      "name": "Two",
+      "slug": "two"
+    },
+    {
+      "id": "sequoia:zefir",
+      "name": "Zefir",
+      "slug": "zefir"
+    },
+    {
+      "id": "sequoia:n8n",
+      "name": "n8n",
+      "slug": "n8n"
+    },
+    {
+      "id": "sequoia:trade-republic",
+      "name": "Trade Republic",
+      "slug": "trade-republic"
+    },
+    {
+      "id": "sequoia:evy",
+      "name": "Evy",
+      "slug": "evy"
+    },
+    {
+      "id": "sequoia:tola",
+      "name": "Tola",
+      "slug": "tola"
+    },
+    {
+      "id": "sequoia:mos",
+      "name": "Mos",
+      "slug": "mos"
+    },
+    {
+      "id": "sequoia:nevis",
+      "name": "Nevis",
+      "slug": "nevis"
+    },
+    {
+      "id": "sequoia:withcoverage",
+      "name": "WithCoverage",
+      "slug": "withcoverage"
+    }
+  ]
+}

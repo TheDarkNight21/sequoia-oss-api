@@ -1,0 +1,28 @@
+{
+  "id": "sequoia:alpha-omega-semiconductor",
+  "sequoia_id": "18467",
+  "name": "Alpha &amp; Omega Semiconductor",
+  "slug": "alpha-omega-semiconductor",
+  "description": "Alpha & Omega Semiconductor is a designer, developer and global supplier of a broad range of power semiconductors.",
+  "website": "https://www.aosmd.com/",
+  "socials": {},
+  "categories": [
+    "hardware"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 2006,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 2000,
+    "partnered_year": 2006,
+    "ipo_year": 2010,
+    "acquired_year": null
+  },
+  "team": [],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/alpha-omega-semiconductor/"
+  }
+}

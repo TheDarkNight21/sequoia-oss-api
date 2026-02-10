@@ -1,0 +1,39 @@
+{
+  "id": "sequoia:zoom",
+  "sequoia_id": "697",
+  "name": "Zoom",
+  "slug": "zoom",
+  "description": "Zoom provides cloud video conferencing, online meetings, group messaging and a software-defined conference room on one easy-to-use platform. Its product brings teams together so they can connect to others and build toward a future limited only by their imagination.",
+  "website": "https://zoom.us/",
+  "socials": {
+    "twitter": "https://www.twitter.com/zoom_us?lang=en",
+    "linkedin": "https://www.linkedin.com/company-beta/2532259?pathWildcard=2532259"
+  },
+  "categories": [
+    "productivity"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 2016,
+  "partners": [
+    "carl-eschenbach",
+    "pat-grady"
+  ],
+  "primary_partner": "carl-eschenbach",
+  "milestones": {
+    "founded_year": 2011,
+    "partnered_year": 2016,
+    "ipo_year": 2019,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Eric Yuan",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/zoom/"
+  }
+}

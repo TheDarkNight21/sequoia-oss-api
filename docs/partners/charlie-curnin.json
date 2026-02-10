@@ -1,0 +1,41 @@
+{
+  "id": "charlie-curnin",
+  "name": "Charlie Curnin",
+  "companies": [
+    {
+      "id": "sequoia:gridware",
+      "name": "Gridware",
+      "slug": "gridware"
+    },
+    {
+      "id": "sequoia:pydantic",
+      "name": "Pydantic",
+      "slug": "pydantic"
+    },
+    {
+      "id": "sequoia:reflection-ai",
+      "name": "Reflection AI",
+      "slug": "reflection-ai"
+    },
+    {
+      "id": "sequoia:harvey",
+      "name": "Harvey",
+      "slug": "harvey"
+    },
+    {
+      "id": "sequoia:traversal",
+      "name": "Traversal",
+      "slug": "traversal"
+    },
+    {
+      "id": "sequoia:listen-labs",
+      "name": "Listen Labs",
+      "slug": "listen-labs"
+    },
+    {
+      "id": "sequoia:rift",
+      "name": "Rift",
+      "slug": "rift"
+    }
+  ]
+}

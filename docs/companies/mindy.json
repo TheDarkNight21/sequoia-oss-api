@@ -1,0 +1,47 @@
+{
+  "id": "sequoia:mindy",
+  "sequoia_id": "16744",
+  "name": "Mindy",
+  "slug": "mindy",
+  "description": "Mindy is an AI-powered creator/brand platform built to fix the broken engine of influencer marketing. It gives everyday creators simple tools to make world-class content (and get rewarded) and helps brands scale authentic storytelling fast, turning nano and micro-creators into a high-performance creative workforce that produces thousands of unique, on-brand videos in days, not months.",
+  "website": "https://mindy.com/",
+  "socials": {
+    "twitter": "https://twitter.com/MindyGenAI",
+    "linkedin": "https://www.linkedin.com/company/mindy-ai/"
+  },
+  "categories": [
+    "ai",
+    "productivity"
+  ],
+  "current_stage": "pre-seed-seed",
+  "first_partnered_year": 2023,
+  "partners": [
+    "roelof-botha"
+  ],
+  "primary_partner": "roelof-botha",
+  "milestones": {
+    "founded_year": 2023,
+    "partnered_year": 2023,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Benoit Berthoux",
+      "role": null
+    },
+    {
+      "name": "Cuong Do",
+      "role": null
+    },
+    {
+      "name": "Yu Pan",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/mindy/"
+  }
+}

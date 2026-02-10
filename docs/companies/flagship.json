@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:flagship",
+  "sequoia_id": "11218",
+  "name": "Flagship",
+  "slug": "flagship",
+  "description": "Flagship enables creators to set up their own curated boutiques, without having to deal with inventory, customer service or sales tax. They partner with brands to power a large catalog that creators can curate from for their audience and earn a commission on every sale. When consumers discover and buy products from creator-owned stores, the platform automatically propagates the orders to partner brands and settles the payment between brands and creators. Flagship is setting a standard for a privacy-forward customer acquisition that is centered humans and entrepreneurs.",
+  "website": "https://landing.flagship.shop/",
+  "socials": {},
+  "categories": [
+    "marketplace"
+  ],
+  "current_stage": "pre-seed-seed",
+  "first_partnered_year": 2022,
+  "partners": [
+    "jess-lee"
+  ],
+  "primary_partner": "jess-lee",
+  "milestones": {
+    "founded_year": 2022,
+    "partnered_year": 2022,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Youssef Ahres",
+      "role": null
+    },
+    {
+      "name": "Khalil Hajji",
+      "role": null
+    },
+    {
+      "name": "Juhana Kangaspunta",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/flagship/"
+  }
+}

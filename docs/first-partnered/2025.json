@@ -1,0 +1,115 @@
+{
+  "year": 2025,
+  "companies": [
+    {
+      "id": "sequoia:peregrine",
+      "name": "Peregrine",
+      "slug": "peregrine"
+    },
+    {
+      "id": "sequoia:mercury",
+      "name": "Mercury",
+      "slug": "mercury"
+    },
+    {
+      "id": "sequoia:neuralink",
+      "name": "Neuralink",
+      "slug": "neuralink"
+    },
+    {
+      "id": "sequoia:rillet",
+      "name": "Rillet",
+      "slug": "rillet"
+    },
+    {
+      "id": "sequoia:irregular",
+      "name": "Irregular",
+      "slug": "irregular"
+    },
+    {
+      "id": "sequoia:nominal",
+      "name": "Nominal",
+      "slug": "nominal"
+    },
+    {
+      "id": "sequoia:paid",
+      "name": "Paid",
+      "slug": "paid"
+    },
+    {
+      "id": "sequoia:juicebox",
+      "name": "Juicebox",
+      "slug": "juicebox"
+    },
+    {
+      "id": "sequoia:avelios",
+      "name": "Avelios",
+      "slug": "avelios"
+    },
+    {
+      "id": "sequoia:profound",
+      "name": "Profound",
+      "slug": "profound"
+    },
+    {
+      "id": "sequoia:delphi",
+      "name": "Delphi",
+      "slug": "delphi"
+    },
+    {
+      "id": "sequoia:flow-engineering",
+      "name": "Flow Engineering",
+      "slug": "flow-engineering"
+    },
+    {
+      "id": "sequoia:sunflower-labs",
+      "name": "Sunflower Labs",
+      "slug": "sunflower-labs"
+    },
+    {
+      "id": "sequoia:whatnot",
+      "name": "Whatnot",
+      "slug": "whatnot"
+    },
+    {
+      "id": "sequoia:ricursive-intelligence",
+      "name": "Ricursive Intelligence",
+      "slug": "ricursive-intelligence"
+    },
+    {
+      "id": "sequoia:fal",
+      "name": "fal",
+      "slug": "fal"
+    },
+    {
+      "id": "sequoia:serval",
+      "name": "Serval",
+      "slug": "serval"
+    },
+    {
+      "id": "sequoia:withcoverage",
+      "name": "WithCoverage",
+      "slug": "withcoverage"
+    },
+    {
+      "id": "sequoia:sandstone",
+      "name": "Sandstone",
+      "slug": "sandstone"
+    },
+    {
+      "id": "sequoia:inferact",
+      "name": "Inferact",
+      "slug": "inferact"
+    },
+    {
+      "id": "sequoia:rogo",
+      "name": "Rogo",
+      "slug": "rogo"
+    },
+    {
+      "id": "sequoia:sesame-ai",
+      "name": "Sesame AI",
+      "slug": "sesame-ai"
+    }
+  ]
+}

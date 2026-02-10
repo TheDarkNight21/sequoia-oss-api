@@ -20,6 +20,166 @@
       "id": "sequoia:dbt-labs",
       "name": "dbt Labs",
       "slug": "dbt-labs"
+    },
+    {
+      "id": "sequoia:island",
+      "name": "Island",
+      "slug": "island"
+    },
+    {
+      "id": "sequoia:pilot",
+      "name": "Pilot",
+      "slug": "pilot"
+    },
+    {
+      "id": "sequoia:landis",
+      "name": "Landis",
+      "slug": "landis"
+    },
+    {
+      "id": "sequoia:cribl",
+      "name": "Cribl",
+      "slug": "cribl"
+    },
+    {
+      "id": "sequoia:found",
+      "name": "Found",
+      "slug": "found"
+    },
+    {
+      "id": "sequoia:sourcegraph",
+      "name": "Sourcegraph",
+      "slug": "sourcegraph"
+    },
+    {
+      "id": "sequoia:pace",
+      "name": "Pace",
+      "slug": "pace"
+    },
+    {
+      "id": "sequoia:monad",
+      "name": "Monad",
+      "slug": "monad"
+    },
+    {
+      "id": "sequoia:census",
+      "name": "Census",
+      "slug": "census"
+    },
+    {
+      "id": "sequoia:watershed",
+      "name": "Watershed",
+      "slug": "watershed"
+    },
+    {
+      "id": "sequoia:spacex",
+      "name": "SpaceX",
+      "slug": "spacex"
+    },
+    {
+      "id": "sequoia:airtop",
+      "name": "Airtop",
+      "slug": "airtop"
+    },
+    {
+      "id": "sequoia:cortex",
+      "name": "Cortex",
+      "slug": "cortex"
+    },
+    {
+      "id": "sequoia:querypal",
+      "name": "QueryPal",
+      "slug": "querypal"
+    },
+    {
+      "id": "sequoia:liquidmetal-ai",
+      "name": "LiquidMetal AI",
+      "slug": "liquidmetal-ai"
+    },
+    {
+      "id": "sequoia:catch",
+      "name": "Catch",
+      "slug": "catch"
+    },
+    {
+      "id": "sequoia:release",
+      "name": "Release",
+      "slug": "release"
+    },
+    {
+      "id": "sequoia:sunday",
+      "name": "Sunday",
+      "slug": "sunday"
+    },
+    {
+      "id": "sequoia:wiz",
+      "name": "Wiz",
+      "slug": "wiz"
+    },
+    {
+      "id": "sequoia:supernova",
+      "name": "Supernova",
+      "slug": "supernova"
+    },
+    {
+      "id": "sequoia:wirescreen",
+      "name": "WireScreen",
+      "slug": "wirescreen"
+    },
+    {
+      "id": "sequoia:physna",
+      "name": "Physna",
+      "slug": "physna"
+    },
+    {
+      "id": "sequoia:salt-security",
+      "name": "Salt Security",
+      "slug": "salt-security"
+    },
+    {
+      "id": "sequoia:airtime",
+      "name": "Airtime",
+      "slug": "airtime"
+    },
+    {
+      "id": "sequoia:blues",
+      "name": "Blues",
+      "slug": "blues"
+    },
+    {
+      "id": "sequoia:kalshi",
+      "name": "Kalshi",
+      "slug": "kalshi"
+    },
+    {
+      "id": "sequoia:n8n",
+      "name": "n8n",
+      "slug": "n8n"
+    },
+    {
+      "id": "sequoia:zapier",
+      "name": "Zapier",
+      "slug": "zapier"
+    },
+    {
+      "id": "sequoia:tilt",
+      "name": "Tilt",
+      "slug": "tilt"
+    },
+    {
+      "id": "sequoia:knowde",
+      "name": "Knowde",
+      "slug": "knowde"
+    },
+    {
+      "id": "sequoia:mos",
+      "name": "Mos",
+      "slug": "mos"
+    },
+    {
+      "id": "sequoia:anrok",
+      "name": "Anrok",
+      "slug": "anrok"
     }
   ]
 }

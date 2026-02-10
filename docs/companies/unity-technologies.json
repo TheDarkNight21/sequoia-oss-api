@@ -1,0 +1,48 @@
+{
+  "id": "sequoia:unity-technologies",
+  "sequoia_id": null,
+  "name": "Unity",
+  "slug": "unity-technologies",
+  "description": "Unity is the world’s leading platform for creating and operating interactive, real-time 3D (RT3D) content. Unity’s products equip content creators with the tools to entertain and create innovative RT3D experiences across most industries.",
+  "website": "https://www.unity3d.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/unity3d",
+    "linkedin": "https://www.linkedin.com/company/unity-technologies",
+    "instagram": "https://www.instagram.com/unitytechnologies/"
+  },
+  "categories": [
+    "developer-tools"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 2009,
+  "partners": [
+    "roelof-botha",
+    "anas-biad"
+  ],
+  "primary_partner": "roelof-botha",
+  "milestones": {
+    "founded_year": 2004,
+    "partnered_year": 2009,
+    "ipo_year": 2020,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "John Riccitiello",
+      "role": null
+    },
+    {
+      "name": "Joachim Ante",
+      "role": null
+    },
+    {
+      "name": "David Helgason",
+      "role": null
+    }
+  ],
+  "why_partnered": "In 2009 the demand for interactive technologies was growing exponentially across every category, from gaming and online virtual worlds to social networking platforms. We partnered with David because Unity was pioneering breakthrough products that allowed developers to respond to this new demand. We believed Unity could become the standard for high-quality digital content development.",
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/unity-technologies/"
+  }
+}

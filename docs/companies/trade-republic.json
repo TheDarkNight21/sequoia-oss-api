@@ -1,0 +1,50 @@
+{
+  "id": "sequoia:trade-republic",
+  "sequoia_id": "648",
+  "name": "Trade Republic",
+  "slug": "trade-republic",
+  "description": "Trade Republic is a technology company with a German banking license that makes capital markets accessible and affordable for everyone. The company does this by making investing in stocks, ETFs, derivatives and cryptocurrencies easy, secure and free.",
+  "website": "https://www.traderepublic.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/traderepublicde?lang=en",
+    "linkedin": "https://www.linkedin.com/company/trade-republic/",
+    "instagram": "https://www.instagram.com/traderepublic/"
+  },
+  "categories": [
+    "consumer",
+    "fintech"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2021,
+  "partners": [
+    "doug-leone",
+    "george-robson",
+    "anas-biad"
+  ],
+  "primary_partner": "doug-leone",
+  "milestones": {
+    "founded_year": 2015,
+    "partnered_year": 2021,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Marco Cancellieri",
+      "role": null
+    },
+    {
+      "name": "Christian Hecker",
+      "role": null
+    },
+    {
+      "name": "Thomas Pischke",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/trade-republic/"
+  }
+}

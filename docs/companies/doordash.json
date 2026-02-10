@@ -1,0 +1,49 @@
+{
+  "id": "sequoia:doordash",
+  "sequoia_id": "325",
+  "name": "DoorDash",
+  "slug": "doordash",
+  "description": "DoorDash is a technology and logistics company that started with on-demand door-to-door delivery. It empowers local businesses to connect with people through their platform of diners and dashers.",
+  "website": "https://www.doordash.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/doordash",
+    "linkedin": "https://www.linkedin.com/company/doordash",
+    "instagram": "https://www.instagram.com/doordash/"
+  },
+  "categories": [
+    "consumer",
+    "marketplace"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 2014,
+  "partners": [
+    "alfred-lin",
+    "isaiah-boone"
+  ],
+  "primary_partner": "alfred-lin",
+  "milestones": {
+    "founded_year": 2013,
+    "partnered_year": 2014,
+    "ipo_year": 2020,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Andy Fang",
+      "role": null
+    },
+    {
+      "name": "Stanley Tang",
+      "role": null
+    },
+    {
+      "name": "Tony Xu",
+      "role": null
+    }
+  ],
+  "why_partnered": "We sat next to Tony at a dinner one night and were amazed by how deeply he understood the logistical challenges of restaurant service. His methodical mindset, and grasp of complex, multi-sided marketplaces combined with a missionary zeal to serve local merchants convinced us that DoorDash was going to upend the last-mile logistics industry. Starting with the most complicated local businesses, restaurants in suburban America, highlighted the company’s determination and ability to carve out a marketing wedge in a highly competitive market.",
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/doordash/"
+  }
+}

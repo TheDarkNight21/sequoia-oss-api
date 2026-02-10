@@ -1,0 +1,37 @@
+{
+  "id": "sequoia:handshake-coins",
+  "sequoia_id": null,
+  "name": "Handshake",
+  "slug": "handshake-coins",
+  "description": "Handshake is a decentralized permissionless naming protocol where every peer is in charge of the root DNS zone. It aims to create an alternative to certificate authorities and naming systems.",
+  "website": "https://handshake.org/",
+  "socials": {},
+  "categories": [
+    "crypto"
+  ],
+  "current_stage": null,
+  "first_partnered_year": 2018,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 2018,
+    "partnered_year": 2018,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Joseph Poon",
+      "role": null
+    },
+    {
+      "name": "Andrew Lee",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/handshake-coins/"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:cyera",
+  "sequoia_id": "8739",
+  "name": "Cyera",
+  "slug": "cyera",
+  "description": "Cyera gives organizations instant Data Reality, taking the guesswork out of cloud data security. It enables security teams to have a complete, current, and correct picture of their data reality across all clouds and datastores. Running out-of-band and without agents, Cyera instantly provides companies a strong baseline for all security, risk management, and compliance efforts and ensures the entire organization operates with the same policies and guardrails.",
+  "website": "https://www.cyera.io",
+  "socials": {
+    "twitter": "https://twitter.com/cyera_io",
+    "linkedin": "https://www.linkedin.com/company/cyera/"
+  },
+  "categories": [
+    "security"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2022,
+  "partners": [
+    "doug-leone",
+    "bogomil-balkansky"
+  ],
+  "primary_partner": "doug-leone",
+  "milestones": {
+    "founded_year": 2020,
+    "partnered_year": 2022,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Tamar Bar-Ilan",
+      "role": null
+    },
+    {
+      "name": "Yotam Segev",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/cyera/"
+  }
+}

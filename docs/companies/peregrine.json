@@ -1,0 +1,41 @@
+{
+  "id": "sequoia:peregrine",
+  "sequoia_id": "18920",
+  "name": "Peregrine",
+  "slug": "peregrine",
+  "description": "Peregrine creates software that helps organizations integrate and analyze large and complex data stores to create intelligence and inform enterprise decision making. Their technology is used by government and commercial organizations for crime reduction, disaster management, fraud detection, health service delivery and more.",
+  "website": "https://www.peregrine.io/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/peregrine-technologies/"
+  },
+  "categories": [
+    "data-analytics"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2025,
+  "partners": [
+    "andrew-reed"
+  ],
+  "primary_partner": "andrew-reed",
+  "milestones": {
+    "founded_year": 2017,
+    "partnered_year": 2025,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Nick Noone",
+      "role": null
+    },
+    {
+      "name": "Ben Rudolph",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/peregrine/"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "sequoia:bigeye",
+  "sequoia_id": "262",
+  "name": "Bigeye",
+  "slug": "bigeye",
+  "description": "Bigeye is the leading data quality engineering platform. It combines automatic instrumentation, robust anomaly detection, and extensive customization to give insight on each piece of data.",
+  "website": "https://www.bigeye.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/bigeyedata",
+    "linkedin": "https://www.linkedin.com/company/bigeye-data/"
+  },
+  "categories": [
+    "data-analytics"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2021,
+  "partners": [
+    "bogomil-balkansky"
+  ],
+  "primary_partner": "bogomil-balkansky",
+  "milestones": {
+    "founded_year": 2019,
+    "partnered_year": 2021,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Eleanor Treharne-Jones",
+      "role": null
+    },
+    {
+      "name": "Egor Gryaznov",
+      "role": null
+    },
+    {
+      "name": "Kyle Kirwan",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/bigeye/"
+  }
+}

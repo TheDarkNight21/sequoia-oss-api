@@ -1,0 +1,66 @@
+{
+  "id": "anas-biad",
+  "name": "Anas Biad",
+  "companies": [
+    {
+      "id": "sequoia:bolt",
+      "name": "Bolt",
+      "slug": "bolt"
+    },
+    {
+      "id": "sequoia:veed",
+      "name": "VEED",
+      "slug": "veed"
+    },
+    {
+      "id": "sequoia:pennylane",
+      "name": "Pennylane",
+      "slug": "pennylane"
+    },
+    {
+      "id": "sequoia:nominal",
+      "name": "Nominal",
+      "slug": "nominal"
+    },
+    {
+      "id": "sequoia:harvey",
+      "name": "Harvey",
+      "slug": "harvey"
+    },
+    {
+      "id": "sequoia:trade-republic",
+      "name": "Trade Republic",
+      "slug": "trade-republic"
+    },
+    {
+      "id": "sequoia:avelios",
+      "name": "Avelios",
+      "slug": "avelios"
+    },
+    {
+      "id": "sequoia:ledgy",
+      "name": "Ledgy",
+      "slug": "ledgy"
+    },
+    {
+      "id": "sequoia:profound",
+      "name": "Profound",
+      "slug": "profound"
+    },
+    {
+      "id": "sequoia:upway",
+      "name": "Upway",
+      "slug": "upway"
+    },
+    {
+      "id": "sequoia:unity-technologies",
+      "name": "Unity",
+      "slug": "unity-technologies"
+    },
+    {
+      "id": "sequoia:serval",
+      "name": "Serval",
+      "slug": "serval"
+    }
+  ]
+}

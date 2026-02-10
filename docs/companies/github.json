@@ -1,0 +1,44 @@
+{
+  "id": "sequoia:github",
+  "sequoia_id": "381",
+  "name": "GitHub",
+  "slug": "github",
+  "description": "GitHub is the system of record for code, now part of Microsoft. Through its passionate community developers discover and build millions of projects assisted by AI.",
+  "website": null,
+  "socials": {
+    "github": "https://www.github.com",
+    "twitter": "https://www.twitter.com/github",
+    "linkedin": "https://www.linkedin.com/company/github"
+  },
+  "categories": [
+    "developer-tools"
+  ],
+  "current_stage": "acquired",
+  "first_partnered_year": 2015,
+  "partners": [
+    "jim-goetz",
+    "andrew-reed"
+  ],
+  "primary_partner": "jim-goetz",
+  "milestones": {
+    "founded_year": 2008,
+    "partnered_year": 2015,
+    "ipo_year": null,
+    "acquired_year": 2018
+  },
+  "team": [
+    {
+      "name": "PJ Hyett",
+      "role": null
+    },
+    {
+      "name": "Chris Wanstrath",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/github/"
+  }
+}

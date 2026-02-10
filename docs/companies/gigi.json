@@ -1,0 +1,38 @@
+{
+  "id": "sequoia:gigi",
+  "sequoia_id": "16968",
+  "name": "Gigi",
+  "slug": "gigi",
+  "description": "Gigi is the AI social network redefining how people connect, signal status and unlock opportunity. Gigi makes context king—who you know, who trusts you, what you’ve built and how others perceive you—to reveal your social capital.",
+  "website": "https://heygigi.ai/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/gigi-ai/"
+  },
+  "categories": [
+    "ai",
+    "consumer"
+  ],
+  "current_stage": "pre-seed-seed",
+  "first_partnered_year": 2023,
+  "partners": [
+    "jess-lee"
+  ],
+  "primary_partner": "jess-lee",
+  "milestones": {
+    "founded_year": 2022,
+    "partnered_year": 2023,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Clara Gold",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/gigi/"
+  }
+}

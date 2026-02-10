@@ -1,0 +1,38 @@
+{
+  "id": "sequoia:flow-engineering",
+  "sequoia_id": "20547",
+  "name": "Flow Engineering",
+  "slug": "flow-engineering",
+  "description": "Re-usable rockets, humanoid robotics, self-driving cars: Flow is a collaborative hardware development platform that enables teams to design, build, test and iterate massively complex hardware products at software speeds. Companies like Rivian, Joby, Astrianis and Radiant Nuclear are built on Flow.",
+  "website": "https://flowengineering.com/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/flowengineer/",
+    "youtube": "https://www.youtube.com/@flowengineering"
+  },
+  "categories": [
+    "hardware"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2025,
+  "partners": [
+    "roelof-botha"
+  ],
+  "primary_partner": "roelof-botha",
+  "milestones": {
+    "founded_year": 2023,
+    "partnered_year": 2025,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Pari Singh",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/flow-engineering/"
+  }
+}

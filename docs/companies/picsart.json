@@ -1,0 +1,41 @@
+{
+  "id": "sequoia:picsart",
+  "sequoia_id": "537",
+  "name": "PicsArt",
+  "slug": "picsart",
+  "description": "Picsart is a free-to-use ecosystem of content, tools and inspiration. It has amassed one of the largest open-source content collections in the world, with free-to-edit photos, stickers, backgrounds and templates.",
+  "website": "https://picsart.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/PicsartStudio",
+    "linkedin": "https://www.linkedin.com/company/picsart-photo-studio"
+  },
+  "categories": [
+    "ai",
+    "consumer"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2014,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 2011,
+    "partnered_year": 2014,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Hovhannes Avoyan",
+      "role": null
+    },
+    {
+      "name": "Artavazd Mehrabyan",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/picsart/"
+  }
+}

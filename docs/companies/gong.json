@@ -1,0 +1,44 @@
+{
+  "id": "sequoia:gong",
+  "sequoia_id": "385",
+  "name": "Gong",
+  "slug": "gong",
+  "description": "Gong helps revenue teams realize their full potential by sharing customer insights. Gong’s platform captures customer interactions and delivers insights at scale so revenue teams feel empowered to make decisions with data. With Gong, customers see improved win rates, larger deals and faster employee ramp-up times.",
+  "website": "https://www.gong.io/",
+  "socials": {
+    "twitter": "https://www.twitter.com/Gong_io",
+    "linkedin": "https://www.linkedin.com/company/gong-io/",
+    "instagram": "https://www.instagram.com/gong.io/"
+  },
+  "categories": [
+    "gtm"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2019,
+  "partners": [
+    "carl-eschenbach",
+    "sonya-huang"
+  ],
+  "primary_partner": "carl-eschenbach",
+  "milestones": {
+    "founded_year": 2015,
+    "partnered_year": 2019,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Amit Bendov",
+      "role": null
+    },
+    {
+      "name": "Eilon Reshef",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/gong/"
+  }
+}

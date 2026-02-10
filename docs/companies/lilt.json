@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:lilt",
+  "sequoia_id": "439",
+  "name": "Lilt",
+  "slug": "lilt",
+  "description": "Lilt is the leading AI solution for enterprise translations. Their stack, made up of our Contextual AI Engine, Connector APIs, and Human Adaptive Feedback, enables global organizations to adopt a true AI translation strategy, focusing on business outcomes instead of outputs. With Lilt, innovative, category-defining organizations like Intel, ASICS, WalkMe, and Canva are using AI technology to deliver multilingual, digital customer experiences at scale.",
+  "website": "https://lilt.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/LiltHQ",
+    "linkedin": "https://www.linkedin.com/company/lilthq/"
+  },
+  "categories": [
+    "ai",
+    "productivity"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2018,
+  "partners": [
+    "bill-coughran"
+  ],
+  "primary_partner": "bill-coughran",
+  "milestones": {
+    "founded_year": 2015,
+    "partnered_year": 2018,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "John DeNero",
+      "role": null
+    },
+    {
+      "name": "Spence Green",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/lilt/"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "sequoia:hallway",
+  "sequoia_id": "11163",
+  "name": "Hallway",
+  "slug": "hallway",
+  "description": "Avatars are virtual reflections of our true selves, allowing people to choose how they present themselves to the world. Hallway combines AI and ML with off-the-shelf hardware to empower 3D content and creativity for artists, fans, and creators. They believe this marriage between art and technology will enable an entirely new set of online experiences. They aim to radically democratize access to these tools and enable a customizable digital presence for a new generation of creators.",
+  "website": "https://joinhallway.com",
+  "socials": {
+    "facebook": "https://www.facebook.com/hallwaytile",
+    "twitter": "https://twitter.com/join_hallway",
+    "linkedin": "https://www.linkedin.com/company/joinhallway/",
+    "instagram": "https://www.instagram.com/join_hallway/",
+    "youtube": "https://www.youtube.com/channel/UC-sqnfukDMR2bYlEGz3Nz1A"
+  },
+  "categories": [
+    "ai",
+    "consumer"
+  ],
+  "current_stage": "pre-seed-seed",
+  "first_partnered_year": 2022,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 2021,
+    "partnered_year": 2022,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Brett Koonce",
+      "role": null
+    },
+    {
+      "name": "Bryan Pratte",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/hallway/"
+  }
+}

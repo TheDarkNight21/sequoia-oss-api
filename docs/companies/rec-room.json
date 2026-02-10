@@ -1,0 +1,61 @@
+{
+  "id": "sequoia:rec-room",
+  "sequoia_id": "554",
+  "name": "Rec Room",
+  "slug": "rec-room",
+  "description": "Rec Room is an AR and VR software company that makes it easy to chat, hang out and explore millions of player-created rooms. Think of it as a digital third place for kids at heart.",
+  "website": "https://recroom.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/recroom",
+    "linkedin": "https://www.linkedin.com/company/against-gravity-corp./about/",
+    "instagram": "https://www.instagram.com/recroom/"
+  },
+  "categories": [
+    "ai",
+    "consumer"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2016,
+  "partners": [
+    "stephanie-zhan",
+    "andrew-reed"
+  ],
+  "primary_partner": "stephanie-zhan",
+  "milestones": {
+    "founded_year": 2016,
+    "partnered_year": 2016,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "John Bevis",
+      "role": null
+    },
+    {
+      "name": "Cameron Brown",
+      "role": null
+    },
+    {
+      "name": "Nick Fajt",
+      "role": null
+    },
+    {
+      "name": "Dan Kroymann",
+      "role": null
+    },
+    {
+      "name": "O. Bilal Orhan",
+      "role": null
+    },
+    {
+      "name": "Josh Wehrly",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/rec-room/"
+  }
+}

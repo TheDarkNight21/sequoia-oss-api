@@ -1,0 +1,40 @@
+{
+  "id": "sequoia:futureadvisor",
+  "sequoia_id": "18989",
+  "name": "FutureAdvisor",
+  "slug": "futureadvisor",
+  "description": "FutureAdvisor was a financial services provider for individuals, acquired by BlackRock.",
+  "website": null,
+  "socials": {},
+  "categories": [
+    "consumer",
+    "fintech"
+  ],
+  "current_stage": "acquired",
+  "first_partnered_year": 2010,
+  "partners": [
+    "alfred-lin"
+  ],
+  "primary_partner": "alfred-lin",
+  "milestones": {
+    "founded_year": 2010,
+    "partnered_year": 2010,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Bo Lu",
+      "role": null
+    },
+    {
+      "name": "Jon Xu",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/futureadvisor/"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "sequoia:neeva",
+  "sequoia_id": "484",
+  "name": "Neeva",
+  "slug": "neeva",
+  "description": "Neeva is the world’s first completely ad-free private search engine. It helps users find exactly what matters to them, whether that information is on the web, in their buried emails or an impossible-to-find document. Neeva never shows distracting ads and keeps all searches private.",
+  "website": "https://www.neeva.co",
+  "socials": {
+    "twitter": "https://www.twitter.com/neevaco",
+    "linkedin": "https://www.linkedin.com/company/neevaco/"
+  },
+  "categories": [
+    "ai"
+  ],
+  "current_stage": "acquired",
+  "first_partnered_year": 2019,
+  "partners": [
+    "bill-coughran",
+    "jim-goetz",
+    "pat-grady"
+  ],
+  "primary_partner": "bill-coughran",
+  "milestones": {
+    "founded_year": 2019,
+    "partnered_year": 2019,
+    "ipo_year": null,
+    "acquired_year": 2023
+  },
+  "team": [
+    {
+      "name": "Vivek Raghunathan",
+      "role": null
+    },
+    {
+      "name": "Sridhar Ramaswamy",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/neeva/"
+  }
+}

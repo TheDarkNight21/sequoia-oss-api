@@ -21,6 +21,126 @@
       "id": "sequoia:tourlane",
       "name": "Tourlane",
       "slug": "tourlane"
+    },
+    {
+      "id": "sequoia:bolt",
+      "name": "Bolt",
+      "slug": "bolt"
+    },
+    {
+      "id": "sequoia:papaya",
+      "name": "Papaya",
+      "slug": "papaya"
+    },
+    {
+      "id": "sequoia:rec-room",
+      "name": "Rec Room",
+      "slug": "rec-room"
+    },
+    {
+      "id": "sequoia:sourcegraph",
+      "name": "Sourcegraph",
+      "slug": "sourcegraph"
+    },
+    {
+      "id": "sequoia:snapdocs",
+      "name": "Snapdocs",
+      "slug": "snapdocs"
+    },
+    {
+      "id": "sequoia:loom",
+      "name": "Loom",
+      "slug": "loom"
+    },
+    {
+      "id": "sequoia:medallion",
+      "name": "Medallion",
+      "slug": "medallion"
+    },
+    {
+      "id": "sequoia:safe-superintelligence",
+      "name": "Safe Superintelligence",
+      "slug": "safe-superintelligence"
+    },
+    {
+      "id": "sequoia:odoo",
+      "name": "Odoo",
+      "slug": "odoo"
+    },
+    {
+      "id": "sequoia:phantom",
+      "name": "Phantom",
+      "slug": "phantom"
+    },
+    {
+      "id": "sequoia:robinhood",
+      "name": "Robinhood",
+      "slug": "robinhood"
+    },
+    {
+      "id": "sequoia:harmonic",
+      "name": "Harmonic",
+      "slug": "harmonic"
+    },
+    {
+      "id": "sequoia:github",
+      "name": "GitHub",
+      "slug": "github"
+    },
+    {
+      "id": "sequoia:vanta",
+      "name": "Vanta",
+      "slug": "vanta"
+    },
+    {
+      "id": "sequoia:peregrine",
+      "name": "Peregrine",
+      "slug": "peregrine"
+    },
+    {
+      "id": "sequoia:front",
+      "name": "Front",
+      "slug": "front"
+    },
+    {
+      "id": "sequoia:neuralink",
+      "name": "Neuralink",
+      "slug": "neuralink"
+    },
+    {
+      "id": "sequoia:strava",
+      "name": "Strava",
+      "slug": "strava"
+    },
+    {
+      "id": "sequoia:warp",
+      "name": "Warp",
+      "slug": "warp"
+    },
+    {
+      "id": "sequoia:klarna",
+      "name": "Klarna",
+      "slug": "klarna"
+    },
+    {
+      "id": "sequoia:elevenlabs",
+      "name": "ElevenLabs",
+      "slug": "elevenlabs"
+    },
+    {
+      "id": "sequoia:zapier",
+      "name": "Zapier",
+      "slug": "zapier"
+    },
+    {
+      "id": "sequoia:chainguard",
+      "name": "Chainguard",
+      "slug": "chainguard"
+    },
+    {
+      "id": "sequoia:figma",
+      "name": "Figma",
+      "slug": "figma"
     }
   ]
 }

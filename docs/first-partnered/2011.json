@@ -20,6 +20,41 @@
       "id": "sequoia:medallia",
       "name": "Medallia",
       "slug": "medallia"
+    },
+    {
+      "id": "sequoia:whatsapp",
+      "name": "WhatsApp",
+      "slug": "whatsapp"
+    },
+    {
+      "id": "sequoia:piazza",
+      "name": "Piazza",
+      "slug": "piazza"
+    },
+    {
+      "id": "sequoia:health-catalyst",
+      "name": "Health Catalyst",
+      "slug": "health-catalyst"
+    },
+    {
+      "id": "sequoia:hubspot",
+      "name": "HubSpot",
+      "slug": "hubspot"
+    },
+    {
+      "id": "sequoia:block",
+      "name": "Block",
+      "slug": "block"
+    },
+    {
+      "id": "sequoia:humble-bundle",
+      "name": "Humble Bundle",
+      "slug": "humble-bundle"
+    },
+    {
+      "id": "sequoia:despegar",
+      "name": "Despegar",
+      "slug": "despegar"
     }
   ]
 }

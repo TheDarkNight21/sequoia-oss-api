@@ -1,0 +1,52 @@
+{
+  "id": "sequoia:knowde",
+  "sequoia_id": "431",
+  "name": "Knowde",
+  "slug": "knowde",
+  "description": "Knowde is the marketplace for chemicals, polymers and ingredients. For the first time, users can search, filter, sample and quote from every major producer, all on one site.",
+  "website": "https://www.knowde.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/knowde",
+    "linkedin": "https://www.linkedin.com/company/knowde/",
+    "instagram": "https://www.instagram.com/p/B_nNUkRDc0s/"
+  },
+  "categories": [
+    "data-analytics",
+    "marketplace"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2020,
+  "partners": [
+    "shaun-maguire"
+  ],
+  "primary_partner": "shaun-maguire",
+  "milestones": {
+    "founded_year": 2017,
+    "partnered_year": 2020,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Janakiraman Swamy",
+      "role": null
+    },
+    {
+      "name": "Jeffery Reid",
+      "role": null
+    },
+    {
+      "name": "Ali Amin-Javaheri",
+      "role": null
+    },
+    {
+      "name": "Wojciech Krupa",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/knowde/"
+  }
+}

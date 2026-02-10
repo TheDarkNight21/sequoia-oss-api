@@ -1,0 +1,28 @@
+{
+  "id": "sequoia:health-catalyst",
+  "sequoia_id": "18475",
+  "name": "Health Catalyst",
+  "slug": "health-catalyst",
+  "description": "Health Catalyst is a leading provider of data and analytics technology and services to healthcare organizations, committed to being the catalyst for massive, measurable, data-informed healthcare improvement.",
+  "website": "https://www.healthcatalyst.com/",
+  "socials": {},
+  "categories": [
+    "healthcare"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 2011,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 2008,
+    "partnered_year": 2011,
+    "ipo_year": 2019,
+    "acquired_year": null
+  },
+  "team": [],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/health-catalyst/"
+  }
+}

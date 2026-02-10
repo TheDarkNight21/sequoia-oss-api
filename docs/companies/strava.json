@@ -1,0 +1,49 @@
+{
+  "id": "sequoia:strava",
+  "sequoia_id": "614",
+  "name": "Strava",
+  "slug": "strava",
+  "description": "Strava is the world’s social network for athletes, tracking cycling, running and more for smarter training, constant improvement and endless exploring. With billions of activity uploads worldwide, Strava is building a record of the world’s athletic activities.",
+  "website": "https://www.strava.com",
+  "socials": {
+    "facebook": "https://www.facebook.com/Strava",
+    "twitter": "https://www.twitter.com/Strava",
+    "linkedin": "https://www.linkedin.com/company/strava-inc.",
+    "instagram": "https://www.instagram.com/strava/",
+    "youtube": "https://www.youtube.com/stravainc"
+  },
+  "categories": [
+    "consumer"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2014,
+  "partners": [
+    "andrew-reed"
+  ],
+  "primary_partner": "andrew-reed",
+  "milestones": {
+    "founded_year": 2009,
+    "partnered_year": 2014,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Michael Martin",
+      "role": null
+    },
+    {
+      "name": "Mark Gainey",
+      "role": null
+    },
+    {
+      "name": "Michael Horvath",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/strava/"
+  }
+}

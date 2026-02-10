@@ -1,0 +1,39 @@
+{
+  "id": "sequoia:open",
+  "sequoia_id": "224",
+  "name": "Open",
+  "slug": "open",
+  "description": "Open (formerly Acelerate) is an online sales engine helps restaurants effortlessly increase their sales and profits.",
+  "website": "https://www.getopen.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/acelerate_",
+    "linkedin": "https://www.linkedin.com/company/openforrestaurants/"
+  },
+  "categories": [
+    "operations"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2021,
+  "partners": [
+    "ravi-gupta",
+    "isaiah-boone"
+  ],
+  "primary_partner": "ravi-gupta",
+  "milestones": {
+    "founded_year": 2019,
+    "partnered_year": 2021,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "George Jacobs",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/open/"
+  }
+}

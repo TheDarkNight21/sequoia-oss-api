@@ -1,0 +1,30 @@
+{
+  "id": "sequoia:ftx",
+  "sequoia_id": "371",
+  "name": "FTX",
+  "slug": "ftx",
+  "description": "FTX.COM is a cryptocurrency exchange. It offers derivatives, options and volatility products, tokenized stocks, prediction markets, leveraged tokens and an OTC desk.",
+  "website": "https://ftx.com/",
+  "socials": {
+    "twitter": "https://twitter.com/sequoia/status/1590522718650499073"
+  },
+  "categories": [
+    "crypto"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2021,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 2019,
+    "partnered_year": 2021,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/ftx/"
+  }
+}

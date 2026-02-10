@@ -1,0 +1,44 @@
+{
+  "id": "sequoia:mercury",
+  "sequoia_id": "19124",
+  "name": "Mercury",
+  "slug": "mercury",
+  "description": "Mercury is a financial technology company that connects start ups and SMBs seamlessly to banking services. From setting up the first account, to managing expenses, bill pay, invoicing, accounting and capital, Mercury is reimagining business banking.",
+  "website": "https://mercury.com/",
+  "socials": {},
+  "categories": [
+    "fintech"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2025,
+  "partners": [
+    "sonya-huang",
+    "isaiah-boone"
+  ],
+  "primary_partner": "sonya-huang",
+  "milestones": {
+    "founded_year": 2019,
+    "partnered_year": 2025,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Immad Akhund",
+      "role": null
+    },
+    {
+      "name": "Max Tagher",
+      "role": null
+    },
+    {
+      "name": "Jason Zhang",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/mercury/"
+  }
+}

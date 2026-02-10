@@ -1,0 +1,42 @@
+{
+  "id": "sequoia:bunkerhill-health",
+  "sequoia_id": "13013",
+  "name": "Bunkerhill Health",
+  "slug": "bunkerhill-health",
+  "description": "Bunkerhill Health brings AI algorithms—built by researchers around the world—to widespread adoption in healthcare, helping hospitals find at-risk patients and close critical gaps in care. Its platform scans medical images and EHRs, flags patients for follow-up, and automates care coordination. Bunkerhill improves outcomes, streamlines workflows, and boosts revenue—without adding work for clinicians.",
+  "website": "https://www.bunkerhillhealth.com/",
+  "socials": {
+    "twitter": "https://twitter.com/joinBunkerhill",
+    "linkedin": "https://www.linkedin.com/company/bunkerhill-health/"
+  },
+  "categories": [
+    "healthcare"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2023,
+  "partners": [
+    "alfred-lin"
+  ],
+  "primary_partner": "alfred-lin",
+  "milestones": {
+    "founded_year": 2018,
+    "partnered_year": 2023,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "David Eng",
+      "role": null
+    },
+    {
+      "name": "Nishith Khandwala",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/bunkerhill-health/"
+  }
+}

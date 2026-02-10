@@ -1,0 +1,36 @@
+{
+  "id": "sequoia:nimble-rx",
+  "sequoia_id": "492",
+  "name": "Nimble Rx",
+  "slug": "nimble-rx",
+  "description": "Nimble RX is an online pharmacy that offers fast, easy and secure delivery. Nimble RX’s technology platform is the largest of its kind in the world.",
+  "website": "https://www.nimblerx.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/nimblerx?lang=en",
+    "linkedin": "https://www.linkedin.com/company/6431129/"
+  },
+  "categories": [
+    "healthcare"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2015,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 2014,
+    "partnered_year": 2015,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Talha Sattar",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/nimble-rx/"
+  }
+}
