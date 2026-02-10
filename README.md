@@ -6,7 +6,7 @@ Static JSON API for the Sequoia Capital portfolio directory. Data is sourced by 
 
 Current dataset metadata (from `docs/meta.json`):
 
-- API endpoint: `https://<owner>.github.io/sequoia-oss-api/meta.json`
+- API endpoint: `https://thedarknight21.github.io/sequoia-oss-api/meta.json`
 - Last updated (ISO): `2026-02-10T20:27:09.156958+00:00`
 - Schema version: `1.0.0`
 - Total companies: `393`
@@ -39,7 +39,7 @@ Current dataset metadata (from `docs/meta.json`):
 
 All endpoints serve static JSON files via GitHub Pages.
 
-Base URL: `https://<owner>.github.io/sequoia-oss-api/`
+Base URL: `https://thedarknight21.github.io/sequoia-oss-api/`
 
 - `GET /meta.json`
 - `GET /companies/all.json`
@@ -81,11 +81,60 @@ Company records follow `schema/company.schema.json`.
 | `source_urls.directory` | string (uri) | URL of the company's entry in the directory listing. |
 | `source_urls.profile` | string (uri) | URL of the company's dedicated profile page. |
 
+## Usage
+
+### Via HTTP (no clone needed)
+
+The API is live at `https://thedarknight21.github.io/sequoia-oss-api/`. Fetch any endpoint directly:
+
+```bash
+# Get all companies
+curl https://thedarknight21.github.io/sequoia-oss-api/companies/all.json
+
+# Get a single company
+curl https://thedarknight21.github.io/sequoia-oss-api/companies/airbnb.json
+
+# Get metadata
+curl https://thedarknight21.github.io/sequoia-oss-api/meta.json
+
+# Filter by category, stage, partner, or year
+curl https://thedarknight21.github.io/sequoia-oss-api/categories/ai.json
+curl https://thedarknight21.github.io/sequoia-oss-api/stages/ipo.json
+curl https://thedarknight21.github.io/sequoia-oss-api/partners/alfred-lin.json
+curl https://thedarknight21.github.io/sequoia-oss-api/first-partnered/2020.json
+```
+
+### Local (clone the repo)
+
+```bash
+git clone https://github.com/TheDarkNight21/sequoia-oss-api.git
+cd sequoia-oss-api
+```
+
+All data is in `docs/` — no build step needed:
+
+```bash
+# Read locally with jq
+cat docs/companies/all.json | jq '.[0]'
+cat docs/companies/stripe.json | jq '.name, .website, .categories'
+
+# Use in Python
+python -c "import json; data = json.load(open('docs/companies/all.json')); print(len(data), 'companies')"
+```
+
+To rebuild the dataset from scratch:
+
+```bash
+pip install -r requirements.txt
+python run_build.py --limit 0 --output docs
+```
+
 ## How It Works
 
 - Crawler fetches the Sequoia directory and per-company profile pages.
 - A static build compiles normalized JSON to `docs/`.
 - GitHub Pages serves the `docs/` output as a static API.
+- A daily GitHub Actions workflow refreshes the data automatically.
 
 ## License / Attribution
 
