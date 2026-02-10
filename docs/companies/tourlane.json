@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:tourlane",
+  "sequoia_id": null,
+  "name": "Tourlane",
+  "slug": "tourlane",
+  "description": "Tourlane connects travelers with handpicked travel experts to organize authentic customized experiences, from safaris in Tanzania to diving in the Galápagos Islands.",
+  "website": "https://www.tourlane.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/tourlane?lang=en",
+    "linkedin": "https://www.linkedin.com/company/tourlane/"
+  },
+  "categories": [
+    "consumer"
+  ],
+  "current_stage": null,
+  "first_partnered_year": 2018,
+  "partners": [
+    "andrew-reed",
+    "alfred-lin"
+  ],
+  "primary_partner": "andrew-reed",
+  "milestones": {
+    "founded_year": 2016,
+    "partnered_year": 2018,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Julian Stiefel",
+      "role": null
+    },
+    {
+      "name": "Julian Weselek",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/tourlane/"
+  }
+}

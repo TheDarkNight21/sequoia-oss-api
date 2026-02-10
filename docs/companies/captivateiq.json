@@ -1,0 +1,47 @@
+{
+  "id": "sequoia:captivateiq",
+  "sequoia_id": null,
+  "name": "CaptivateIQ",
+  "slug": "captivateiq",
+  "description": "CaptivateIQ helps enterprise companies make their sales commissions transparent. With CaptivateIQ, businesses can design and measure incentive plans so their teams feel more connected and motivated to work together.",
+  "website": "https://www.captivateiq.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/captivateiq",
+    "linkedin": "https://www.linkedin.com/company/captivateiq/"
+  },
+  "categories": [
+    "gtm"
+  ],
+  "current_stage": null,
+  "first_partnered_year": 2020,
+  "partners": [
+    "konstantine-buhler",
+    "carl-eschenbach"
+  ],
+  "primary_partner": "konstantine-buhler",
+  "milestones": {
+    "founded_year": 2017,
+    "partnered_year": 2020,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Mark Schopmeyer",
+      "role": null
+    },
+    {
+      "name": "Conway Teng",
+      "role": null
+    },
+    {
+      "name": "Hubert Wong",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/captivateiq/"
+  }
+}

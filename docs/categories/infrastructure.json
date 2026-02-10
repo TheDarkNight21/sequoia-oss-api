@@ -1,0 +1,46 @@
+{
+  "id": "infrastructure",
+  "label": "Infrastructure",
+  "companies": [
+    {
+      "id": "sequoia:alkira",
+      "name": "Alkira",
+      "slug": "alkira"
+    },
+    {
+      "id": "sequoia:bigpanda",
+      "name": "BigPanda",
+      "slug": "bigpanda"
+    },
+    {
+      "id": "sequoia:graphiant",
+      "name": "Graphiant",
+      "slug": "graphiant"
+    },
+    {
+      "id": "sequoia:netapp",
+      "name": "NetApp",
+      "slug": "netapp"
+    },
+    {
+      "id": "sequoia:oracle",
+      "name": "Oracle",
+      "slug": "oracle"
+    },
+    {
+      "id": "sequoia:opendns",
+      "name": "OpenDNS",
+      "slug": "opendns"
+    },
+    {
+      "id": "sequoia:starkware",
+      "name": "StarkWare",
+      "slug": "starkware"
+    },
+    {
+      "id": "sequoia:versa-networks",
+      "name": "Versa Networks",
+      "slug": "versa-networks"
+    }
+  ]
+}

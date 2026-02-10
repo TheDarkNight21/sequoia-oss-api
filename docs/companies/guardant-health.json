@@ -1,0 +1,44 @@
+{
+  "id": "sequoia:guardant-health",
+  "sequoia_id": null,
+  "name": "Guardant Health",
+  "slug": "guardant-health",
+  "description": "Guardant Health is a leading oncology company focused on conquering cancer worldwide. Its proprietary blood tests, vast data sets and advanced analytics help drive commercial adoption, improve patient outcomes and lower healthcare costs at every stage of the treatment journey.",
+  "website": "https://www.guardanthealth.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/GuardantHealth",
+    "linkedin": "https://www.linkedin.com/company/guardant-health"
+  },
+  "categories": [
+    "healthcare"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 2013,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 2012,
+    "partnered_year": 2013,
+    "ipo_year": 2018,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Michael Wiley",
+      "role": null
+    },
+    {
+      "name": "Helmy Eltoukhy",
+      "role": null
+    },
+    {
+      "name": "AmirAli Hajhossein Talasaz",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/guardant-health/"
+  }
+}

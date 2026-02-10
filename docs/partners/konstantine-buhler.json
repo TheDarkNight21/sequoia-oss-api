@@ -1,0 +1,11 @@
+{
+  "id": "konstantine-buhler",
+  "name": "Konstantine Buhler",
+  "companies": [
+    {
+      "id": "sequoia:captivateiq",
+      "name": "CaptivateIQ",
+      "slug": "captivateiq"
+    }
+  ]
+}

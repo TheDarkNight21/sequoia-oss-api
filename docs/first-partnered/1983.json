@@ -1,0 +1,10 @@
+{
+  "year": 1983,
+  "companies": [
+    {
+      "id": "sequoia:oracle",
+      "name": "Oracle",
+      "slug": "oracle"
+    }
+  ]
+}

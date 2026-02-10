@@ -1,0 +1,37 @@
+{
+  "id": "sequoia:oracle",
+  "sequoia_id": null,
+  "name": "Oracle",
+  "slug": "oracle",
+  "description": "For decades, Oracle has engineered integrated hardware and software systems for some of the largest companies in the world. Oracle optimizes cloud monitoring and storage, develops databases and enterprises, and provides complementary services for cloud and real-world data centers.",
+  "website": "https://www.oracle.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/Oracle",
+    "linkedin": "https://www.linkedin.com/company/oracle"
+  },
+  "categories": [
+    "hardware",
+    "infrastructure"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 1983,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 1977,
+    "partnered_year": 1983,
+    "ipo_year": 1986,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Larry Ellison",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/oracle/"
+  }
+}

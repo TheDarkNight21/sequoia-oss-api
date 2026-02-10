@@ -1,0 +1,49 @@
+{
+  "id": "sequoia:starkware",
+  "sequoia_id": null,
+  "name": "StarkWare",
+  "slug": "starkware",
+  "description": "StarkWare brings scalability and privacy to blockchains with zero-knowledge STARK proofs. It is a permissionless, decentralized ZK-Rollup operating as an L2 network over Ethereum. And it achieves scale while preserving the security of L1 Ethereum by producing STARK proofs off-chain and verifying those proofs on-chain.",
+  "website": "https://www.starkware.co/",
+  "socials": {
+    "twitter": "https://www.twitter.com/StarkWareLtd",
+    "linkedin": "https://www.linkedin.com/company/starkware"
+  },
+  "categories": [
+    "crypto",
+    "infrastructure"
+  ],
+  "current_stage": null,
+  "first_partnered_year": 2018,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 2018,
+    "partnered_year": 2018,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Eli Ben-Sasson",
+      "role": null
+    },
+    {
+      "name": "Alessandro Chiesa",
+      "role": null
+    },
+    {
+      "name": "Uri Kolodny",
+      "role": null
+    },
+    {
+      "name": "Michael Riabzev",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/starkware/"
+  }
+}

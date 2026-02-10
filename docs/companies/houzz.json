@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:houzz",
+  "sequoia_id": null,
+  "name": "Houzz",
+  "slug": "houzz",
+  "description": "Houzz is a marketplace for homeowners and home professionals. It’s where homeowners get ideas for their projects, buy products from vendors, and find the help they need to bring their vision to life.",
+  "website": "https://www.houzz.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/houzz",
+    "linkedin": "https://www.linkedin.com/company/houzz"
+  },
+  "categories": [
+    "consumer",
+    "marketplace"
+  ],
+  "current_stage": null,
+  "first_partnered_year": 2011,
+  "partners": [
+    "alfred-lin"
+  ],
+  "primary_partner": "alfred-lin",
+  "milestones": {
+    "founded_year": 2009,
+    "partnered_year": 2011,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Alon Cohen",
+      "role": null
+    },
+    {
+      "name": "Adi Tatarko",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/houzz/"
+  }
+}

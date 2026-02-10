@@ -1,0 +1,35 @@
+{
+  "id": "sequoia:filecoin",
+  "sequoia_id": null,
+  "name": "Filecoin",
+  "slug": "filecoin",
+  "description": "Filecoin is a decentralized storage network designed to store humanity’s most important information. The network verifies that data is stored securely through cryptographic proofs.",
+  "website": "https://filecoin.io/",
+  "socials": {},
+  "categories": [
+    "crypto"
+  ],
+  "current_stage": null,
+  "first_partnered_year": 2017,
+  "partners": [
+    "alfred-lin"
+  ],
+  "primary_partner": "alfred-lin",
+  "milestones": {
+    "founded_year": 2014,
+    "partnered_year": 2017,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Juan Benet",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/filecoin/"
+  }
+}

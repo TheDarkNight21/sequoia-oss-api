@@ -1,0 +1,11 @@
+{
+  "id": "isaiah-boone",
+  "name": "Isaiah Boone",
+  "companies": [
+    {
+      "id": "sequoia:faire-wholesale",
+      "name": "Faire",
+      "slug": "faire-wholesale"
+    }
+  ]
+}

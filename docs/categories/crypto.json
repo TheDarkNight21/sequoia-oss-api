@@ -1,0 +1,21 @@
+{
+  "id": "crypto",
+  "label": "Crypto",
+  "companies": [
+    {
+      "id": "sequoia:starkware",
+      "name": "StarkWare",
+      "slug": "starkware"
+    },
+    {
+      "id": "sequoia:fireblocks",
+      "name": "Fireblocks",
+      "slug": "fireblocks"
+    },
+    {
+      "id": "sequoia:filecoin",
+      "name": "Filecoin",
+      "slug": "filecoin"
+    }
+  ]
+}

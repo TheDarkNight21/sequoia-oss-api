@@ -1,0 +1,26 @@
+{
+  "id": "andrew-reed",
+  "name": "Andrew Reed",
+  "companies": [
+    {
+      "id": "sequoia:rappi",
+      "name": "Rappi",
+      "slug": "rappi"
+    },
+    {
+      "id": "sequoia:productboard",
+      "name": "Productboard",
+      "slug": "productboard"
+    },
+    {
+      "id": "sequoia:sumo-logic",
+      "name": "Sumo Logic",
+      "slug": "sumo-logic"
+    },
+    {
+      "id": "sequoia:tourlane",
+      "name": "Tourlane",
+      "slug": "tourlane"
+    }
+  ]
+}

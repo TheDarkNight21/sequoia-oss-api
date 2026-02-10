@@ -1,0 +1,41 @@
+{
+  "id": "sequoia:dolls-kill",
+  "sequoia_id": null,
+  "name": "Dolls Kill",
+  "slug": "dolls-kill",
+  "description": "Dolls Kill is a global fashion brand championing radically unapologetic self-expression. By curating the most unique assortment of brands across a range of looks, Dolls Kill is building a platform to empower the next generation.",
+  "website": "https://www.dollskill.com/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/dolls-kill/"
+  },
+  "categories": [
+    "consumer"
+  ],
+  "current_stage": null,
+  "first_partnered_year": 2019,
+  "partners": [
+    "alfred-lin"
+  ],
+  "primary_partner": "alfred-lin",
+  "milestones": {
+    "founded_year": 2012,
+    "partnered_year": 2019,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Bobby Farahi",
+      "role": null
+    },
+    {
+      "name": "Shoddy Lynn",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/dolls-kill/"
+  }
+}

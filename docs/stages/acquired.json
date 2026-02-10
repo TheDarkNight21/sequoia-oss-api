@@ -1,0 +1,51 @@
+{
+  "id": "acquired",
+  "label": "Acquired",
+  "companies": [
+    {
+      "id": "sequoia:admob",
+      "name": "AdMob",
+      "slug": "admob"
+    },
+    {
+      "id": "sequoia:kayak",
+      "name": "KAYAK",
+      "slug": "kayak"
+    },
+    {
+      "id": "sequoia:opendns",
+      "name": "OpenDNS",
+      "slug": "opendns"
+    },
+    {
+      "id": "sequoia:trulia",
+      "name": "Trulia",
+      "slug": "trulia"
+    },
+    {
+      "id": "sequoia:tumblr",
+      "name": "Tumblr",
+      "slug": "tumblr"
+    },
+    {
+      "id": "sequoia:xoom",
+      "name": "Xoom",
+      "slug": "xoom"
+    },
+    {
+      "id": "sequoia:plangrid",
+      "name": "PlanGrid",
+      "slug": "plangrid"
+    },
+    {
+      "id": "sequoia:thousandeyes",
+      "name": "ThousandEyes",
+      "slug": "thousandeyes"
+    },
+    {
+      "id": "sequoia:clever",
+      "name": "Clever",
+      "slug": "clever"
+    }
+  ]
+}

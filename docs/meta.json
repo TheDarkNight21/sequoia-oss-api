@@ -1,0 +1,26 @@
+{
+  "last_updated_iso": "2026-02-10T20:01:38.376446+00:00",
+  "schema_version": "1.0.0",
+  "total_companies": 50,
+  "counts_by_stage": {
+    "acquired": 9,
+    "ipo": 13
+  },
+  "counts_by_category": {
+    "gtm": 4,
+    "infrastructure": 8,
+    "consumer": 13,
+    "hardware": 2,
+    "healthcare": 4,
+    "fintech": 3,
+    "marketplace": 3,
+    "data-analytics": 3,
+    "developer-tools": 3,
+    "security": 11,
+    "operations": 5,
+    "crypto": 3,
+    "ai": 2,
+    "productivity": 2
+  },
+  "source_entry_url": "https://sequoiacap.com/our-companies/"
+}

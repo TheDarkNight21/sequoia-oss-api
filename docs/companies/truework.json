@@ -1,0 +1,46 @@
+{
+  "id": "sequoia:truework",
+  "sequoia_id": null,
+  "name": "Truework",
+  "slug": "truework",
+  "description": "Truework is building a network for verified identity that puts consumers in control of their sensitive personal information. Truework’s platform digitizes employment verification processes for HR departments, banks and others to make verification faster and more secure.",
+  "website": "https://www.truework.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/TrueworkHQ",
+    "linkedin": "https://www.linkedin.com/company/trueworkhq/"
+  },
+  "categories": [
+    "operations"
+  ],
+  "current_stage": null,
+  "first_partnered_year": 2018,
+  "partners": [
+    "alfred-lin"
+  ],
+  "primary_partner": "alfred-lin",
+  "milestones": {
+    "founded_year": 2017,
+    "partnered_year": 2018,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Victor Kabdebon",
+      "role": null
+    },
+    {
+      "name": "Ryan Sandler",
+      "role": null
+    },
+    {
+      "name": "Ethan Winchell",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/truework/"
+  }
+}

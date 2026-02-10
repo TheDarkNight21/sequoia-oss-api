@@ -1,0 +1,44 @@
+{
+  "id": "sequoia:sumo-logic",
+  "sequoia_id": null,
+  "name": "Sumo Logic",
+  "slug": "sumo-logic",
+  "description": "Sumo Logic brings together data to put the power of machine data and analytics in everyone’s hands. It enables universal access and leverages cloud economics from a single cloud-native continuous intelligence platform.",
+  "website": "https://www.sumologic.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/SumoLogic",
+    "linkedin": "https://www.linkedin.com/company/sumo-logic"
+  },
+  "categories": [
+    "ai",
+    "data-analytics"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 2014,
+  "partners": [
+    "pat-grady",
+    "andrew-reed"
+  ],
+  "primary_partner": "pat-grady",
+  "milestones": {
+    "founded_year": 2010,
+    "partnered_year": 2014,
+    "ipo_year": 2020,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Ramin Sayar",
+      "role": null
+    },
+    {
+      "name": "Christian Beedgen",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/sumo-logic/"
+  }
+}

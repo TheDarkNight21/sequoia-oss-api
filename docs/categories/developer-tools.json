@@ -1,0 +1,21 @@
+{
+  "id": "developer-tools",
+  "label": "Developer Tools",
+  "companies": [
+    {
+      "id": "sequoia:oso",
+      "name": "Oso",
+      "slug": "oso"
+    },
+    {
+      "id": "sequoia:infracost",
+      "name": "Infracost",
+      "slug": "infracost"
+    },
+    {
+      "id": "sequoia:evervault",
+      "name": "Evervault",
+      "slug": "evervault"
+    }
+  ]
+}

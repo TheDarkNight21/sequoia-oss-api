@@ -1,0 +1,35 @@
+{
+  "year": 2018,
+  "companies": [
+    {
+      "id": "sequoia:alkira",
+      "name": "Alkira",
+      "slug": "alkira"
+    },
+    {
+      "id": "sequoia:bird",
+      "name": "Bird",
+      "slug": "bird"
+    },
+    {
+      "id": "sequoia:bridgebio",
+      "name": "BridgeBio",
+      "slug": "bridgebio"
+    },
+    {
+      "id": "sequoia:starkware",
+      "name": "StarkWare",
+      "slug": "starkware"
+    },
+    {
+      "id": "sequoia:tourlane",
+      "name": "Tourlane",
+      "slug": "tourlane"
+    },
+    {
+      "id": "sequoia:truework",
+      "name": "Truework",
+      "slug": "truework"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "marketplace",
+  "label": "Marketplace",
+  "companies": [
+    {
+      "id": "sequoia:houzz",
+      "name": "Houzz",
+      "slug": "houzz"
+    },
+    {
+      "id": "sequoia:trulia",
+      "name": "Trulia",
+      "slug": "trulia"
+    },
+    {
+      "id": "sequoia:faire-wholesale",
+      "name": "Faire",
+      "slug": "faire-wholesale"
+    }
+  ]
+}

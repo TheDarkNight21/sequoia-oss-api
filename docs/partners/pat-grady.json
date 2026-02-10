@@ -1,0 +1,21 @@
+{
+  "id": "pat-grady",
+  "name": "Pat Grady",
+  "companies": [
+    {
+      "id": "sequoia:opendns",
+      "name": "OpenDNS",
+      "slug": "opendns"
+    },
+    {
+      "id": "sequoia:sumo-logic",
+      "name": "Sumo Logic",
+      "slug": "sumo-logic"
+    },
+    {
+      "id": "sequoia:medallia",
+      "name": "Medallia",
+      "slug": "medallia"
+    }
+  ]
+}

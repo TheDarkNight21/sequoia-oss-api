@@ -1,0 +1,21 @@
+{
+  "id": "fintech",
+  "label": "Fintech",
+  "companies": [
+    {
+      "id": "sequoia:green-dot",
+      "name": "Green Dot",
+      "slug": "green-dot"
+    },
+    {
+      "id": "sequoia:xoom",
+      "name": "Xoom",
+      "slug": "xoom"
+    },
+    {
+      "id": "sequoia:fireblocks",
+      "name": "Fireblocks",
+      "slug": "fireblocks"
+    }
+  ]
+}

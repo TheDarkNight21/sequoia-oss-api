@@ -1,0 +1,71 @@
+{
+  "id": "ipo",
+  "label": "Ipo",
+  "companies": [
+    {
+      "id": "sequoia:bird",
+      "name": "Bird",
+      "slug": "bird"
+    },
+    {
+      "id": "sequoia:bridgebio",
+      "name": "BridgeBio",
+      "slug": "bridgebio"
+    },
+    {
+      "id": "sequoia:green-dot",
+      "name": "Green Dot",
+      "slug": "green-dot"
+    },
+    {
+      "id": "sequoia:linkedin",
+      "name": "LinkedIn",
+      "slug": "linkedin"
+    },
+    {
+      "id": "sequoia:netapp",
+      "name": "NetApp",
+      "slug": "netapp"
+    },
+    {
+      "id": "sequoia:oracle",
+      "name": "Oracle",
+      "slug": "oracle"
+    },
+    {
+      "id": "sequoia:sumo-logic",
+      "name": "Sumo Logic",
+      "slug": "sumo-logic"
+    },
+    {
+      "id": "sequoia:yahoo",
+      "name": "Yahoo",
+      "slug": "yahoo"
+    },
+    {
+      "id": "sequoia:ringcentral",
+      "name": "RingCentral",
+      "slug": "ringcentral"
+    },
+    {
+      "id": "sequoia:barracuda-networks",
+      "name": "Barracuda",
+      "slug": "barracuda-networks"
+    },
+    {
+      "id": "sequoia:fireeye",
+      "name": "FireEye",
+      "slug": "fireeye"
+    },
+    {
+      "id": "sequoia:guardant-health",
+      "name": "Guardant Health",
+      "slug": "guardant-health"
+    },
+    {
+      "id": "sequoia:medallia",
+      "name": "Medallia",
+      "slug": "medallia"
+    }
+  ]
+}

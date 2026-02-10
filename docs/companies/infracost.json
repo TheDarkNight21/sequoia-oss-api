@@ -1,0 +1,47 @@
+{
+  "id": "sequoia:infracost",
+  "sequoia_id": null,
+  "name": "Infracost",
+  "slug": "infracost",
+  "description": "Infracost helps engineering teams see how code changes affect their cloud costs. It scans a Terraform code and checks over 3 million prices to create a simple, understandable cost estimate before launch. Users can view helpful comments like: “This change will increase your AWS bill by 25%.”",
+  "website": "https://www.infracost.io/",
+  "socials": {
+    "twitter": "https://www.twitter.com/infracost",
+    "linkedin": "https://www.linkedin.com/company/infracost/"
+  },
+  "categories": [
+    "developer-tools",
+    "operations"
+  ],
+  "current_stage": null,
+  "first_partnered_year": 2021,
+  "partners": [
+    "bogomil-balkansky"
+  ],
+  "primary_partner": "bogomil-balkansky",
+  "milestones": {
+    "founded_year": 2020,
+    "partnered_year": 2021,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Hassan Khajeh-Hosseini",
+      "role": null
+    },
+    {
+      "name": "Ali Khajeh-Hosseini",
+      "role": null
+    },
+    {
+      "name": "Alistair Scott",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/infracost/"
+  }
+}

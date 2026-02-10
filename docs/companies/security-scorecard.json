@@ -1,0 +1,41 @@
+{
+  "id": "sequoia:security-scorecard",
+  "sequoia_id": null,
+  "name": "Security Scorecard",
+  "slug": "security-scorecard",
+  "description": "Security Scorecard is the global leader in cybersecurity rankings. Its patented technology makes organizations more resilient with self-monitoring, third-party risk management, board reporting and cyber insurance underwriting.",
+  "website": "https://www.securityscorecard.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/security_score"
+  },
+  "categories": [
+    "security"
+  ],
+  "current_stage": null,
+  "first_partnered_year": 2015,
+  "partners": [
+    "doug-leone"
+  ],
+  "primary_partner": "doug-leone",
+  "milestones": {
+    "founded_year": 2013,
+    "partnered_year": 2015,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Sam Kassoumeh",
+      "role": null
+    },
+    {
+      "name": "Aleksandr Yampolskiy",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/security-scorecard/"
+  }
+}

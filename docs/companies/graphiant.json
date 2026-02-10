@@ -1,0 +1,42 @@
+{
+  "id": "sequoia:graphiant",
+  "sequoia_id": null,
+  "name": "Graphiant",
+  "slug": "graphiant",
+  "description": "Graphiant is creating a new model for connectivity in a rapidly changing world.",
+  "website": "https://www.graphiant.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/GraphiantHQ",
+    "linkedin": "https://www.linkedin.com/company/graphiant/"
+  },
+  "categories": [
+    "infrastructure"
+  ],
+  "current_stage": null,
+  "first_partnered_year": 2020,
+  "partners": [
+    "bill-coughran"
+  ],
+  "primary_partner": "bill-coughran",
+  "milestones": {
+    "founded_year": 2020,
+    "partnered_year": 2020,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Stefan Olofsson",
+      "role": null
+    },
+    {
+      "name": "Khalid Raza",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/graphiant/"
+  }
+}

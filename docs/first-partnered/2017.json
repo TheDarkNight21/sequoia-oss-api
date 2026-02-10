@@ -1,0 +1,15 @@
+{
+  "year": 2017,
+  "companies": [
+    {
+      "id": "sequoia:filecoin",
+      "name": "Filecoin",
+      "slug": "filecoin"
+    },
+    {
+      "id": "sequoia:faire-wholesale",
+      "name": "Faire",
+      "slug": "faire-wholesale"
+    }
+  ]
+}

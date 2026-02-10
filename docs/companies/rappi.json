@@ -1,0 +1,46 @@
+{
+  "id": "sequoia:rappi",
+  "sequoia_id": null,
+  "name": "Rappi",
+  "slug": "rappi",
+  "description": "Rappi is an on-demand delivery platform for Latin America. It delivers everything from groceries to bandages in minutes.",
+  "website": "https://www.rappi.com/restaurantes",
+  "socials": {
+    "twitter": "https://www.twitter.com/rappicolombia?lang=en",
+    "linkedin": "https://www.linkedin.com/company/rappi/"
+  },
+  "categories": [
+    "consumer"
+  ],
+  "current_stage": null,
+  "first_partnered_year": 2016,
+  "partners": [
+    "andrew-reed"
+  ],
+  "primary_partner": "andrew-reed",
+  "milestones": {
+    "founded_year": 2015,
+    "partnered_year": 2016,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Simon Borrero",
+      "role": null
+    },
+    {
+      "name": "Sebastian Mejia",
+      "role": null
+    },
+    {
+      "name": "Felipe Villamarin",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/rappi/"
+  }
+}

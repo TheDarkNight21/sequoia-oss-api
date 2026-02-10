@@ -1,0 +1,44 @@
+{
+  "id": "sequoia:netapp",
+  "sequoia_id": null,
+  "name": "NetApp",
+  "slug": "netapp",
+  "description": "NetApp is a cloud storage and network data management company. It specializes in storage efficiency and makes information management easier. NetApp connects users’ cloud to on-prem, maximizes security and optimizes application performance.",
+  "website": "https://www.netapp.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/NetApp",
+    "linkedin": "https://www.linkedin.com/company/netapp"
+  },
+  "categories": [
+    "infrastructure"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 1994,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 1992,
+    "partnered_year": 1994,
+    "ipo_year": 1995,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Daniel J. Warmenhoven",
+      "role": null
+    },
+    {
+      "name": "David Hitz",
+      "role": null
+    },
+    {
+      "name": "James Lau",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/netapp/"
+  }
+}

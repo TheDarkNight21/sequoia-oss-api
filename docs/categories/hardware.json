@@ -1,0 +1,16 @@
+{
+  "id": "hardware",
+  "label": "Hardware",
+  "companies": [
+    {
+      "id": "sequoia:bird",
+      "name": "Bird",
+      "slug": "bird"
+    },
+    {
+      "id": "sequoia:oracle",
+      "name": "Oracle",
+      "slug": "oracle"
+    }
+  ]
+}

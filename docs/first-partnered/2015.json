@@ -1,0 +1,10 @@
+{
+  "year": 2015,
+  "companies": [
+    {
+      "id": "sequoia:security-scorecard",
+      "name": "Security Scorecard",
+      "slug": "security-scorecard"
+    }
+  ]
+}

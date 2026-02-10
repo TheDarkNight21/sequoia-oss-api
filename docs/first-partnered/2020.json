@@ -1,0 +1,25 @@
+{
+  "year": 2020,
+  "companies": [
+    {
+      "id": "sequoia:graphiant",
+      "name": "Graphiant",
+      "slug": "graphiant"
+    },
+    {
+      "id": "sequoia:remote",
+      "name": "Remote",
+      "slug": "remote"
+    },
+    {
+      "id": "sequoia:captivateiq",
+      "name": "CaptivateIQ",
+      "slug": "captivateiq"
+    },
+    {
+      "id": "sequoia:dbt-labs",
+      "name": "dbt Labs",
+      "slug": "dbt-labs"
+    }
+  ]
+}

@@ -1,0 +1,2112 @@
+[
+  {
+    "id": "sequoia:admob",
+    "sequoia_id": null,
+    "name": "AdMob",
+    "slug": "admob",
+    "description": "AdMob built a pay-per click marketplace for mobile apps. Now part of Google, AdMob continues to help businesses gain user insights and drive in-app purchases.",
+    "website": "https://www.admob.com",
+    "socials": {
+      "twitter": "https://www.twitter.com/admob",
+      "linkedin": "https://www.linkedin.com/company/admob"
+    },
+    "categories": [
+      "gtm"
+    ],
+    "current_stage": "acquired",
+    "first_partnered_year": 2006,
+    "partners": [
+      "jim-goetz"
+    ],
+    "primary_partner": "jim-goetz",
+    "milestones": {
+      "founded_year": 2006,
+      "partnered_year": 2006,
+      "ipo_year": null,
+      "acquired_year": 2010
+    },
+    "team": [
+      {
+        "name": "Omar Hamoui",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/admob/"
+    }
+  },
+  {
+    "id": "sequoia:alkira",
+    "sequoia_id": null,
+    "name": "Alkira",
+    "slug": "alkira",
+    "description": "Alkira equips its users with the first on-demand, multi-cloud network. Akira’s solution allows customers to build and deploy global secure cloud networks in minutes.",
+    "website": "https://www.alkira.com/",
+    "socials": {
+      "twitter": "https://www.twitter.com/alkiranet",
+      "linkedin": "https://www.linkedin.com/company/alkiranet/"
+    },
+    "categories": [
+      "infrastructure"
+    ],
+    "current_stage": null,
+    "first_partnered_year": 2018,
+    "partners": [
+      "bill-coughran"
+    ],
+    "primary_partner": "bill-coughran",
+    "milestones": {
+      "founded_year": 2018,
+      "partnered_year": 2018,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Atif Khan",
+        "role": null
+      },
+      {
+        "name": "Amir Khan",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/alkira/"
+    }
+  },
+  {
+    "id": "sequoia:bigpanda",
+    "sequoia_id": null,
+    "name": "BigPanda",
+    "slug": "bigpanda",
+    "description": "BigPanda improves how IT teams manage data. It analyzes IT alerts from fragmented clouds, applications and systems, and turns them into actionable insights.",
+    "website": "https://bigpanda.io/",
+    "socials": {
+      "twitter": "https://www.twitter.com/bigpanda",
+      "linkedin": "https://www.linkedin.com/company/2598034"
+    },
+    "categories": [
+      "infrastructure"
+    ],
+    "current_stage": null,
+    "first_partnered_year": 2011,
+    "partners": [],
+    "primary_partner": null,
+    "milestones": {
+      "founded_year": 2011,
+      "partnered_year": 2011,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Elik Eizenberg",
+        "role": null
+      },
+      {
+        "name": "Assaf Resnick",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/bigpanda/"
+    }
+  },
+  {
+    "id": "sequoia:bird",
+    "sequoia_id": null,
+    "name": "Bird",
+    "slug": "bird",
+    "description": "Bird is an electric vehicle maker and bike-sharing network focused on sustainability. Its products make cities more livable by reducing car usage, traffic and carbon emissions.",
+    "website": "https://www.bird.co/",
+    "socials": {
+      "twitter": "https://www.twitter.com/BirdRide",
+      "linkedin": "https://www.linkedin.com/company/birdapp/"
+    },
+    "categories": [
+      "consumer",
+      "hardware"
+    ],
+    "current_stage": "ipo",
+    "first_partnered_year": 2018,
+    "partners": [
+      "roelof-botha"
+    ],
+    "primary_partner": "roelof-botha",
+    "milestones": {
+      "founded_year": 2017,
+      "partnered_year": 2018,
+      "ipo_year": 2021,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Travis VanderZanden",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/bird/"
+    }
+  },
+  {
+    "id": "sequoia:bridgebio",
+    "sequoia_id": null,
+    "name": "BridgeBio",
+    "slug": "bridgebio",
+    "description": "BridgeBio develops breakthrough medicines for genetic diseases. Its portfolio of more than 15 drugs, all in various stages of development, addresses everything from genetic skin, cancer- and heart-related issues to renal disease.",
+    "website": "https://bridgebio.com/",
+    "socials": {
+      "linkedin": "https://www.linkedin.com/company/bridgebio/about/"
+    },
+    "categories": [
+      "healthcare"
+    ],
+    "current_stage": "ipo",
+    "first_partnered_year": 2018,
+    "partners": [
+      "roelof-botha"
+    ],
+    "primary_partner": "roelof-botha",
+    "milestones": {
+      "founded_year": 2014,
+      "partnered_year": 2018,
+      "ipo_year": 2019,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Neil Kumar",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/bridgebio/"
+    }
+  },
+  {
+    "id": "sequoia:dolls-kill",
+    "sequoia_id": null,
+    "name": "Dolls Kill",
+    "slug": "dolls-kill",
+    "description": "Dolls Kill is a global fashion brand championing radically unapologetic self-expression. By curating the most unique assortment of brands across a range of looks, Dolls Kill is building a platform to empower the next generation.",
+    "website": "https://www.dollskill.com/",
+    "socials": {
+      "linkedin": "https://www.linkedin.com/company/dolls-kill/"
+    },
+    "categories": [
+      "consumer"
+    ],
+    "current_stage": null,
+    "first_partnered_year": 2019,
+    "partners": [
+      "alfred-lin"
+    ],
+    "primary_partner": "alfred-lin",
+    "milestones": {
+      "founded_year": 2012,
+      "partnered_year": 2019,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Bobby Farahi",
+        "role": null
+      },
+      {
+        "name": "Shoddy Lynn",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/dolls-kill/"
+    }
+  },
+  {
+    "id": "sequoia:genedit",
+    "sequoia_id": null,
+    "name": "GenEdit",
+    "slug": "genedit",
+    "description": "GenEdit wants to transform the delivery of gene therapies for the next generation of non-viral, gene editing-based therapeutics. GenEdit’s technology platform solves delivery challenges by systematically screening its proprietary nanoparticle library and providing safe, efficient delivery to target tissues. Its proprietary nanoparticles have broad applications, from CRISPR-based therapeutics to gene therapy products.",
+    "website": "https://www.genedit.com/",
+    "socials": {
+      "linkedin": "https://www.linkedin.com/company/genedit/about/"
+    },
+    "categories": [
+      "healthcare"
+    ],
+    "current_stage": null,
+    "first_partnered_year": 2016,
+    "partners": [
+      "roelof-botha"
+    ],
+    "primary_partner": "roelof-botha",
+    "milestones": {
+      "founded_year": 2016,
+      "partnered_year": 2016,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Kunwoo Lee",
+        "role": null
+      },
+      {
+        "name": "Niren Murthy",
+        "role": null
+      },
+      {
+        "name": "Hyo Min Park",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/genedit/"
+    }
+  },
+  {
+    "id": "sequoia:graphiant",
+    "sequoia_id": null,
+    "name": "Graphiant",
+    "slug": "graphiant",
+    "description": "Graphiant is creating a new model for connectivity in a rapidly changing world.",
+    "website": "https://www.graphiant.com/",
+    "socials": {
+      "twitter": "https://www.twitter.com/GraphiantHQ",
+      "linkedin": "https://www.linkedin.com/company/graphiant/"
+    },
+    "categories": [
+      "infrastructure"
+    ],
+    "current_stage": null,
+    "first_partnered_year": 2020,
+    "partners": [
+      "bill-coughran"
+    ],
+    "primary_partner": "bill-coughran",
+    "milestones": {
+      "founded_year": 2020,
+      "partnered_year": 2020,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Stefan Olofsson",
+        "role": null
+      },
+      {
+        "name": "Khalid Raza",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/graphiant/"
+    }
+  },
+  {
+    "id": "sequoia:green-dot",
+    "sequoia_id": null,
+    "name": "Green Dot",
+    "slug": "green-dot",
+    "description": "Green Dot is a financial technology and bank holding company. Through its retail and direct bank, Green Dot offers a suite of financial products for consumers and businesses that includes credit cards, payroll cards and money processing.",
+    "website": "https://www.greendot.com/greendot",
+    "socials": {
+      "twitter": "https://www.twitter.com/greendotcards",
+      "linkedin": "https://www.linkedin.com/company/green-dot-corporation"
+    },
+    "categories": [
+      "fintech"
+    ],
+    "current_stage": "ipo",
+    "first_partnered_year": 2003,
+    "partners": [
+      "michael-moritz"
+    ],
+    "primary_partner": "michael-moritz",
+    "milestones": {
+      "founded_year": 1999,
+      "partnered_year": 2003,
+      "ipo_year": 2010,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Steve Streit",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/green-dot/"
+    }
+  },
+  {
+    "id": "sequoia:houzz",
+    "sequoia_id": null,
+    "name": "Houzz",
+    "slug": "houzz",
+    "description": "Houzz is a marketplace for homeowners and home professionals. It’s where homeowners get ideas for their projects, buy products from vendors, and find the help they need to bring their vision to life.",
+    "website": "https://www.houzz.com",
+    "socials": {
+      "twitter": "https://www.twitter.com/houzz",
+      "linkedin": "https://www.linkedin.com/company/houzz"
+    },
+    "categories": [
+      "consumer",
+      "marketplace"
+    ],
+    "current_stage": null,
+    "first_partnered_year": 2011,
+    "partners": [
+      "alfred-lin"
+    ],
+    "primary_partner": "alfred-lin",
+    "milestones": {
+      "founded_year": 2009,
+      "partnered_year": 2011,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Alon Cohen",
+        "role": null
+      },
+      {
+        "name": "Adi Tatarko",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/houzz/"
+    }
+  },
+  {
+    "id": "sequoia:kayak",
+    "sequoia_id": null,
+    "name": "KAYAK",
+    "slug": "kayak",
+    "description": "By consolidating search functions for hundreds of travel companies, KAYAK became a one-stop shop for plane tickets, hotels, cars and travel packages. Its app solves a number of travel logistic issues on several platforms with the goal of improving travel.",
+    "website": "https://www.kayak.com",
+    "socials": {
+      "twitter": "https://www.twitter.com/KAYAK",
+      "linkedin": "https://www.linkedin.com/company/kayak"
+    },
+    "categories": [
+      "consumer"
+    ],
+    "current_stage": "acquired",
+    "first_partnered_year": 2005,
+    "partners": [
+      "michael-moritz"
+    ],
+    "primary_partner": "michael-moritz",
+    "milestones": {
+      "founded_year": 2004,
+      "partnered_year": 2005,
+      "ipo_year": 2012,
+      "acquired_year": 2013
+    },
+    "team": [
+      {
+        "name": "Paul English",
+        "role": null
+      },
+      {
+        "name": "Steve Hafner",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/kayak/"
+    }
+  },
+  {
+    "id": "sequoia:linkedin",
+    "sequoia_id": null,
+    "name": "LinkedIn",
+    "slug": "linkedin",
+    "description": "In 2003, LinkedIn launched the social network for professionals. Today LinkedIn, which is now part of Microsoft, helps hundreds of millions of users worldwide become more productive and successful.",
+    "website": null,
+    "socials": {
+      "linkedin": "https://www.linkedin.com",
+      "twitter": "https://www.twitter.com/LinkedIn"
+    },
+    "categories": [
+      "consumer",
+      "data-analytics"
+    ],
+    "current_stage": "ipo",
+    "first_partnered_year": 2003,
+    "partners": [
+      "michael-moritz"
+    ],
+    "primary_partner": "michael-moritz",
+    "milestones": {
+      "founded_year": 2002,
+      "partnered_year": 2003,
+      "ipo_year": 2011,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Jeff Weiner",
+        "role": null
+      },
+      {
+        "name": "Reid Hoffman",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/linkedin/"
+    }
+  },
+  {
+    "id": "sequoia:netapp",
+    "sequoia_id": null,
+    "name": "NetApp",
+    "slug": "netapp",
+    "description": "NetApp is a cloud storage and network data management company. It specializes in storage efficiency and makes information management easier. NetApp connects users’ cloud to on-prem, maximizes security and optimizes application performance.",
+    "website": "https://www.netapp.com",
+    "socials": {
+      "twitter": "https://www.twitter.com/NetApp",
+      "linkedin": "https://www.linkedin.com/company/netapp"
+    },
+    "categories": [
+      "infrastructure"
+    ],
+    "current_stage": "ipo",
+    "first_partnered_year": 1994,
+    "partners": [],
+    "primary_partner": null,
+    "milestones": {
+      "founded_year": 1992,
+      "partnered_year": 1994,
+      "ipo_year": 1995,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Daniel J. Warmenhoven",
+        "role": null
+      },
+      {
+        "name": "David Hitz",
+        "role": null
+      },
+      {
+        "name": "James Lau",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/netapp/"
+    }
+  },
+  {
+    "id": "sequoia:otter",
+    "sequoia_id": null,
+    "name": "Otter",
+    "slug": "otter",
+    "description": "Otter connects parents who need childcare with stay-at-home parents who can watch their kids. Its goal is for every child to have access to safe, high-quality childcare and for every stay-at-home parent to be economically empowered in a way that has never been possible.",
+    "website": "https://withotter.com/",
+    "socials": {
+      "twitter": "https://www.twitter.com/WithOtter",
+      "linkedin": "https://www.linkedin.com/company/withotter/"
+    },
+    "categories": [
+      "consumer"
+    ],
+    "current_stage": null,
+    "first_partnered_year": 2021,
+    "partners": [
+      "jess-lee",
+      "alfred-lin"
+    ],
+    "primary_partner": "jess-lee",
+    "milestones": {
+      "founded_year": 2020,
+      "partnered_year": 2021,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Helen Mayer",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/otter/"
+    }
+  },
+  {
+    "id": "sequoia:oracle",
+    "sequoia_id": null,
+    "name": "Oracle",
+    "slug": "oracle",
+    "description": "For decades, Oracle has engineered integrated hardware and software systems for some of the largest companies in the world. Oracle optimizes cloud monitoring and storage, develops databases and enterprises, and provides complementary services for cloud and real-world data centers.",
+    "website": "https://www.oracle.com",
+    "socials": {
+      "twitter": "https://www.twitter.com/Oracle",
+      "linkedin": "https://www.linkedin.com/company/oracle"
+    },
+    "categories": [
+      "hardware",
+      "infrastructure"
+    ],
+    "current_stage": "ipo",
+    "first_partnered_year": 1983,
+    "partners": [],
+    "primary_partner": null,
+    "milestones": {
+      "founded_year": 1977,
+      "partnered_year": 1983,
+      "ipo_year": 1986,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Larry Ellison",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/oracle/"
+    }
+  },
+  {
+    "id": "sequoia:oso",
+    "sequoia_id": null,
+    "name": "Oso",
+    "slug": "oso",
+    "description": "Oso puts security in the hands of the makers by presenting security as code. It gives developers a library for authorization, with the freedom to shape and extend it as their needs evolve. By offloading this mental work, developers all over the world can shift their focus to moving fast.",
+    "website": "https://www.osohq.com/",
+    "socials": {
+      "twitter": "https://www.twitter.com/osoHQ",
+      "linkedin": "https://www.linkedin.com/company/osohq"
+    },
+    "categories": [
+      "developer-tools",
+      "security"
+    ],
+    "current_stage": null,
+    "first_partnered_year": 2019,
+    "partners": [
+      "bill-coughran"
+    ],
+    "primary_partner": "bill-coughran",
+    "milestones": {
+      "founded_year": 2018,
+      "partnered_year": 2019,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Graham Neray",
+        "role": null
+      },
+      {
+        "name": "Sam Scott",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/oso/"
+    }
+  },
+  {
+    "id": "sequoia:opendns",
+    "sequoia_id": null,
+    "name": "OpenDNS",
+    "slug": "opendns",
+    "description": "OpenDNS is a suite of consumer products aimed at making the internet faster, safer and more reliable. Providing a layer of protection on and off a company’s network, it prevents malicious attacks over any port or protocol. OpenDNS easy to deploy without any hardware, software or manual updates. The company is now part of Cisco.",
+    "website": "https://www.opendns.com",
+    "socials": {
+      "twitter": "https://www.twitter.com/opendns",
+      "linkedin": "https://www.linkedin.com/company/opendns"
+    },
+    "categories": [
+      "infrastructure",
+      "security"
+    ],
+    "current_stage": "acquired",
+    "first_partnered_year": 2009,
+    "partners": [
+      "pat-grady"
+    ],
+    "primary_partner": "pat-grady",
+    "milestones": {
+      "founded_year": 2006,
+      "partnered_year": 2009,
+      "ipo_year": null,
+      "acquired_year": 2015
+    },
+    "team": [
+      {
+        "name": "David Ulevitch",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/opendns/"
+    }
+  },
+  {
+    "id": "sequoia:rappi",
+    "sequoia_id": null,
+    "name": "Rappi",
+    "slug": "rappi",
+    "description": "Rappi is an on-demand delivery platform for Latin America. It delivers everything from groceries to bandages in minutes.",
+    "website": "https://www.rappi.com/restaurantes",
+    "socials": {
+      "twitter": "https://www.twitter.com/rappicolombia?lang=en",
+      "linkedin": "https://www.linkedin.com/company/rappi/"
+    },
+    "categories": [
+      "consumer"
+    ],
+    "current_stage": null,
+    "first_partnered_year": 2016,
+    "partners": [
+      "andrew-reed"
+    ],
+    "primary_partner": "andrew-reed",
+    "milestones": {
+      "founded_year": 2015,
+      "partnered_year": 2016,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Simon Borrero",
+        "role": null
+      },
+      {
+        "name": "Sebastian Mejia",
+        "role": null
+      },
+      {
+        "name": "Felipe Villamarin",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/rappi/"
+    }
+  },
+  {
+    "id": "sequoia:productboard",
+    "sequoia_id": null,
+    "name": "Productboard",
+    "slug": "productboard",
+    "description": "Productboard is a product management system helping organizations build the right products. It helps product managers learn what customers need, prioritize what to build next, and rally everyone around the roadmap.",
+    "website": "https://www.productboard.com/",
+    "socials": {
+      "twitter": "https://www.twitter.com/productboard",
+      "linkedin": "https://www.linkedin.com/company/productboard/",
+      "instagram": "https://www.instagram.com/productboard/?hl=en"
+    },
+    "categories": [
+      "operations"
+    ],
+    "current_stage": null,
+    "first_partnered_year": 2019,
+    "partners": [
+      "andrew-reed"
+    ],
+    "primary_partner": "andrew-reed",
+    "milestones": {
+      "founded_year": 2014,
+      "partnered_year": 2019,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Daniel Hejl",
+        "role": null
+      },
+      {
+        "name": "Hubert Palan",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/productboard/"
+    }
+  },
+  {
+    "id": "sequoia:remote",
+    "sequoia_id": null,
+    "name": "Remote",
+    "slug": "remote",
+    "description": "Remote helps companies of all sizes employ top talent around the world with international payroll, benefits, taxes, compliance and more.",
+    "website": "https://remote.com/",
+    "socials": {
+      "twitter": "https://www.twitter.com/remote",
+      "linkedin": "https://www.linkedin.com/company/remote.com/",
+      "instagram": "https://www.instagram.com/remote/"
+    },
+    "categories": [
+      "operations"
+    ],
+    "current_stage": null,
+    "first_partnered_year": 2020,
+    "partners": [
+      "ravi-gupta"
+    ],
+    "primary_partner": "ravi-gupta",
+    "milestones": {
+      "founded_year": 2017,
+      "partnered_year": 2020,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Marcelo Lebre",
+        "role": null
+      },
+      {
+        "name": "Job van der Voort",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/remote/"
+    }
+  },
+  {
+    "id": "sequoia:security-scorecard",
+    "sequoia_id": null,
+    "name": "Security Scorecard",
+    "slug": "security-scorecard",
+    "description": "Security Scorecard is the global leader in cybersecurity rankings. Its patented technology makes organizations more resilient with self-monitoring, third-party risk management, board reporting and cyber insurance underwriting.",
+    "website": "https://www.securityscorecard.com",
+    "socials": {
+      "twitter": "https://www.twitter.com/security_score"
+    },
+    "categories": [
+      "security"
+    ],
+    "current_stage": null,
+    "first_partnered_year": 2015,
+    "partners": [
+      "doug-leone"
+    ],
+    "primary_partner": "doug-leone",
+    "milestones": {
+      "founded_year": 2013,
+      "partnered_year": 2015,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Sam Kassoumeh",
+        "role": null
+      },
+      {
+        "name": "Aleksandr Yampolskiy",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/security-scorecard/"
+    }
+  },
+  {
+    "id": "sequoia:starkware",
+    "sequoia_id": null,
+    "name": "StarkWare",
+    "slug": "starkware",
+    "description": "StarkWare brings scalability and privacy to blockchains with zero-knowledge STARK proofs. It is a permissionless, decentralized ZK-Rollup operating as an L2 network over Ethereum. And it achieves scale while preserving the security of L1 Ethereum by producing STARK proofs off-chain and verifying those proofs on-chain.",
+    "website": "https://www.starkware.co/",
+    "socials": {
+      "twitter": "https://www.twitter.com/StarkWareLtd",
+      "linkedin": "https://www.linkedin.com/company/starkware"
+    },
+    "categories": [
+      "crypto",
+      "infrastructure"
+    ],
+    "current_stage": null,
+    "first_partnered_year": 2018,
+    "partners": [],
+    "primary_partner": null,
+    "milestones": {
+      "founded_year": 2018,
+      "partnered_year": 2018,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Eli Ben-Sasson",
+        "role": null
+      },
+      {
+        "name": "Alessandro Chiesa",
+        "role": null
+      },
+      {
+        "name": "Uri Kolodny",
+        "role": null
+      },
+      {
+        "name": "Michael Riabzev",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/starkware/"
+    }
+  },
+  {
+    "id": "sequoia:sumo-logic",
+    "sequoia_id": null,
+    "name": "Sumo Logic",
+    "slug": "sumo-logic",
+    "description": "Sumo Logic brings together data to put the power of machine data and analytics in everyone’s hands. It enables universal access and leverages cloud economics from a single cloud-native continuous intelligence platform.",
+    "website": "https://www.sumologic.com",
+    "socials": {
+      "twitter": "https://www.twitter.com/SumoLogic",
+      "linkedin": "https://www.linkedin.com/company/sumo-logic"
+    },
+    "categories": [
+      "ai",
+      "data-analytics"
+    ],
+    "current_stage": "ipo",
+    "first_partnered_year": 2014,
+    "partners": [
+      "pat-grady",
+      "andrew-reed"
+    ],
+    "primary_partner": "pat-grady",
+    "milestones": {
+      "founded_year": 2010,
+      "partnered_year": 2014,
+      "ipo_year": 2020,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Ramin Sayar",
+        "role": null
+      },
+      {
+        "name": "Christian Beedgen",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/sumo-logic/"
+    }
+  },
+  {
+    "id": "sequoia:the-org",
+    "sequoia_id": null,
+    "name": "The Org",
+    "slug": "the-org",
+    "description": "The Org is an online professional community platform. It helps organizations get more exposure externally and operate more efficiently internally.",
+    "website": "https://theorg.com/",
+    "socials": {
+      "twitter": "https://www.twitter.com/TheOrgCom",
+      "linkedin": "https://www.linkedin.com/company/theorg/",
+      "instagram": "https://www.instagram.com/theorgcom/"
+    },
+    "categories": [
+      "gtm"
+    ],
+    "current_stage": null,
+    "first_partnered_year": 2019,
+    "partners": [
+      "roelof-botha"
+    ],
+    "primary_partner": "roelof-botha",
+    "milestones": {
+      "founded_year": 2017,
+      "partnered_year": 2019,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Andreas Jarbol",
+        "role": null
+      },
+      {
+        "name": "Christian Wylonis",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/the-org/"
+    }
+  },
+  {
+    "id": "sequoia:tourlane",
+    "sequoia_id": null,
+    "name": "Tourlane",
+    "slug": "tourlane",
+    "description": "Tourlane connects travelers with handpicked travel experts to organize authentic customized experiences, from safaris in Tanzania to diving in the Galápagos Islands.",
+    "website": "https://www.tourlane.com/",
+    "socials": {
+      "twitter": "https://www.twitter.com/tourlane?lang=en",
+      "linkedin": "https://www.linkedin.com/company/tourlane/"
+    },
+    "categories": [
+      "consumer"
+    ],
+    "current_stage": null,
+    "first_partnered_year": 2018,
+    "partners": [
+      "andrew-reed",
+      "alfred-lin"
+    ],
+    "primary_partner": "andrew-reed",
+    "milestones": {
+      "founded_year": 2016,
+      "partnered_year": 2018,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Julian Stiefel",
+        "role": null
+      },
+      {
+        "name": "Julian Weselek",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/tourlane/"
+    }
+  },
+  {
+    "id": "sequoia:thumbtack",
+    "sequoia_id": null,
+    "name": "Thumbtack",
+    "slug": "thumbtack",
+    "description": "Thumbtack helps people care for their homes from top to bottom, whether it’s a minor repair or a major remodel. Its home management platform connects customers to the right professionals for projects, empowering them to fix, maintain and improve their most valuable asset.",
+    "website": "https://www.thumbtack.com",
+    "socials": {
+      "twitter": "https://www.twitter.com/thumbtack",
+      "linkedin": "https://www.linkedin.com/company/thumbtack-inc."
+    },
+    "categories": [
+      "consumer"
+    ],
+    "current_stage": null,
+    "first_partnered_year": 2013,
+    "partners": [
+      "bryan-schreier",
+      "sonya-huang"
+    ],
+    "primary_partner": "bryan-schreier",
+    "milestones": {
+      "founded_year": 2009,
+      "partnered_year": 2013,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Jonathan Swanson",
+        "role": null
+      },
+      {
+        "name": "Marco Zappacosta",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/thumbtack/"
+    }
+  },
+  {
+    "id": "sequoia:truework",
+    "sequoia_id": null,
+    "name": "Truework",
+    "slug": "truework",
+    "description": "Truework is building a network for verified identity that puts consumers in control of their sensitive personal information. Truework’s platform digitizes employment verification processes for HR departments, banks and others to make verification faster and more secure.",
+    "website": "https://www.truework.com/",
+    "socials": {
+      "twitter": "https://www.twitter.com/TrueworkHQ",
+      "linkedin": "https://www.linkedin.com/company/trueworkhq/"
+    },
+    "categories": [
+      "operations"
+    ],
+    "current_stage": null,
+    "first_partnered_year": 2018,
+    "partners": [
+      "alfred-lin"
+    ],
+    "primary_partner": "alfred-lin",
+    "milestones": {
+      "founded_year": 2017,
+      "partnered_year": 2018,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Victor Kabdebon",
+        "role": null
+      },
+      {
+        "name": "Ryan Sandler",
+        "role": null
+      },
+      {
+        "name": "Ethan Winchell",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/truework/"
+    }
+  },
+  {
+    "id": "sequoia:trulia",
+    "sequoia_id": null,
+    "name": "Trulia",
+    "slug": "trulia",
+    "description": "Trulia is an all-in-one real estate site. It gives the local scoop on homes for sale, apartments for rent, neighborhood insights, real estate markets and trends. It also helps visitors decide what, where and when to buy, sell or rent. Trulia was acquired by Zillow in 2014.",
+    "website": "https://www.trulia.com",
+    "socials": {
+      "twitter": "https://www.twitter.com/trulia",
+      "linkedin": "https://www.linkedin.com/company/trulia"
+    },
+    "categories": [
+      "consumer",
+      "marketplace"
+    ],
+    "current_stage": "acquired",
+    "first_partnered_year": 2007,
+    "partners": [
+      "bryan-schreier"
+    ],
+    "primary_partner": "bryan-schreier",
+    "milestones": {
+      "founded_year": 2005,
+      "partnered_year": 2007,
+      "ipo_year": 2012,
+      "acquired_year": 2014
+    },
+    "team": [
+      {
+        "name": "Peter Flint",
+        "role": null
+      },
+      {
+        "name": "Sami Inkinen",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/trulia/"
+    }
+  },
+  {
+    "id": "sequoia:tumblr",
+    "sequoia_id": null,
+    "name": "Tumblr",
+    "slug": "tumblr",
+    "description": "Tumblr is a short-form, mixed-media blogging platform focused on visuals and multimedia. Acquired by Yahoo in 2013, Tumblr attracts hundreds of millions of unique visitors who follow hundreds of millions of blogs. The platform also offers ad purchases and blog themes for companies and users.",
+    "website": "https://www.tumblr.com",
+    "socials": {
+      "twitter": "https://www.twitter.com/tumblr",
+      "linkedin": "https://www.linkedin.com/company/tumblr"
+    },
+    "categories": [
+      "consumer"
+    ],
+    "current_stage": "acquired",
+    "first_partnered_year": 2010,
+    "partners": [
+      "roelof-botha"
+    ],
+    "primary_partner": "roelof-botha",
+    "milestones": {
+      "founded_year": 2007,
+      "partnered_year": 2010,
+      "ipo_year": null,
+      "acquired_year": 2013
+    },
+    "team": [
+      {
+        "name": "David Karp",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/tumblr/"
+    }
+  },
+  {
+    "id": "sequoia:versa-networks",
+    "sequoia_id": null,
+    "name": "Versa Networks",
+    "slug": "versa-networks",
+    "description": "Versa Networks enables service providers and large enterprises to build next-generation WAN and branch networks based on a broad set of virtualized network functions (VNFs). Versa’s VNF-based solutions eliminate costly and proprietary network hardware to increase service agility and significantly reduce total cost of ownership.",
+    "website": "https://www.versa-networks.com",
+    "socials": {
+      "twitter": "https://www.twitter.com/versanetworks",
+      "linkedin": "https://www.linkedin.com/company/versa-networks-inc-"
+    },
+    "categories": [
+      "infrastructure",
+      "security"
+    ],
+    "current_stage": null,
+    "first_partnered_year": 2012,
+    "partners": [
+      "jim-goetz"
+    ],
+    "primary_partner": "jim-goetz",
+    "milestones": {
+      "founded_year": 2012,
+      "partnered_year": 2012,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Apurva Mehta",
+        "role": null
+      },
+      {
+        "name": "Kumar Mehta",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/versa-networks/"
+    }
+  },
+  {
+    "id": "sequoia:xoom",
+    "sequoia_id": null,
+    "name": "Xoom",
+    "slug": "xoom",
+    "description": "Xoom is a global money transfer service that lets people send money quickly and cheaply from any web-enabled device. Recipients don’t need a bank account or internet connection, and senders can fund their transfer with a credit or debit card or bank account. Xoom was acquired by PayPal in 2015.",
+    "website": "https://www.xoom.com",
+    "socials": {
+      "twitter": "https://www.twitter.com/Xoom",
+      "linkedin": "https://www.linkedin.com/company/xoom-corporation"
+    },
+    "categories": [
+      "consumer",
+      "fintech"
+    ],
+    "current_stage": "acquired",
+    "first_partnered_year": 2003,
+    "partners": [
+      "roelof-botha"
+    ],
+    "primary_partner": "roelof-botha",
+    "milestones": {
+      "founded_year": 2001,
+      "partnered_year": 2003,
+      "ipo_year": 2013,
+      "acquired_year": 2015
+    },
+    "team": [
+      {
+        "name": "Alan Braverman",
+        "role": null
+      },
+      {
+        "name": "Kevin Hartz",
+        "role": null
+      },
+      {
+        "name": "John Kunze",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/xoom/"
+    }
+  },
+  {
+    "id": "sequoia:captivateiq",
+    "sequoia_id": null,
+    "name": "CaptivateIQ",
+    "slug": "captivateiq",
+    "description": "CaptivateIQ helps enterprise companies make their sales commissions transparent. With CaptivateIQ, businesses can design and measure incentive plans so their teams feel more connected and motivated to work together.",
+    "website": "https://www.captivateiq.com/",
+    "socials": {
+      "twitter": "https://www.twitter.com/captivateiq",
+      "linkedin": "https://www.linkedin.com/company/captivateiq/"
+    },
+    "categories": [
+      "gtm"
+    ],
+    "current_stage": null,
+    "first_partnered_year": 2020,
+    "partners": [
+      "konstantine-buhler",
+      "carl-eschenbach"
+    ],
+    "primary_partner": "konstantine-buhler",
+    "milestones": {
+      "founded_year": 2017,
+      "partnered_year": 2020,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Mark Schopmeyer",
+        "role": null
+      },
+      {
+        "name": "Conway Teng",
+        "role": null
+      },
+      {
+        "name": "Hubert Wong",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/captivateiq/"
+    }
+  },
+  {
+    "id": "sequoia:plangrid",
+    "sequoia_id": null,
+    "name": "PlanGrid",
+    "slug": "plangrid",
+    "description": "Plangrid’s software brings blueprints and construction plans to the cloud, doing away with physical markups. It gets contractors and architects on the same page for instantaneous collaboration. Plangrid is now part of Autodesk.",
+    "website": "https://www.plangrid.com",
+    "socials": {
+      "twitter": "https://www.twitter.com/PlanGrid",
+      "linkedin": "https://www.linkedin.com/company/plangrid"
+    },
+    "categories": [
+      "productivity"
+    ],
+    "current_stage": "acquired",
+    "first_partnered_year": 2014,
+    "partners": [
+      "doug-leone"
+    ],
+    "primary_partner": "doug-leone",
+    "milestones": {
+      "founded_year": 2011,
+      "partnered_year": 2014,
+      "ipo_year": null,
+      "acquired_year": 2018
+    },
+    "team": [
+      {
+        "name": "Ralph Gootee",
+        "role": null
+      },
+      {
+        "name": "Ryan Sutton-Gee",
+        "role": null
+      },
+      {
+        "name": "Tracy Young",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/plangrid/"
+    }
+  },
+  {
+    "id": "sequoia:dbt-labs",
+    "sequoia_id": null,
+    "name": "dbt Labs",
+    "slug": "dbt-labs",
+    "description": "dbt uses integrated analytics to help data teams work like software engineers to ship data faster. Users can work directly within their data warehouse to quickly produce trusted datasets for reporting, ML modeling and operational workflows.",
+    "website": "https://www.getdbt.com",
+    "socials": {
+      "twitter": "https://www.twitter.com/getdbt",
+      "linkedin": "https://www.linkedin.com/company/dbtlabs/"
+    },
+    "categories": [
+      "data-analytics"
+    ],
+    "current_stage": null,
+    "first_partnered_year": 2020,
+    "partners": [
+      "sonya-huang"
+    ],
+    "primary_partner": "sonya-huang",
+    "milestones": {
+      "founded_year": 2016,
+      "partnered_year": 2020,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Tristan Handy",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/dbt-labs/"
+    }
+  },
+  {
+    "id": "sequoia:yahoo",
+    "sequoia_id": null,
+    "name": "Yahoo",
+    "slug": "yahoo",
+    "description": "Yahoo is a global media and tech company that connects people to their passions, from finance and sports to shopping, gaming and news. The company also provides a full-stack platform for businesses to amplify growth and drive meaningful connections across advertising, search and media.",
+    "website": "https://www.yahoo.com",
+    "socials": {
+      "twitter": "https://www.twitter.com/Yahoo",
+      "linkedin": "https://www.linkedin.com/company/yahoo"
+    },
+    "categories": [
+      "consumer"
+    ],
+    "current_stage": "ipo",
+    "first_partnered_year": 1995,
+    "partners": [
+      "michael-moritz"
+    ],
+    "primary_partner": "michael-moritz",
+    "milestones": {
+      "founded_year": 1994,
+      "partnered_year": 1995,
+      "ipo_year": 1996,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "David Filo",
+        "role": null
+      },
+      {
+        "name": "Jerry Yang",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/yahoo/"
+    }
+  },
+  {
+    "id": "sequoia:fireblocks",
+    "sequoia_id": null,
+    "name": "Fireblocks",
+    "slug": "fireblocks",
+    "description": "Fireblocks is an enterprise-grade platform with a secure infrastructure for moving, storing and issuing digital assets. It lets exchanges, custodians, banks, trading desks and hedge funds securely scale digital asset operations through the Fireblocks Network and MPC-based Wallet Infrastructure. Fireblocks’ insurance policy covers assets in storage and transit.",
+    "website": "https://www.fireblocks.com/",
+    "socials": {
+      "twitter": "https://www.twitter.com/fireblockshq",
+      "linkedin": "https://www.linkedin.com/company/fireblocks/"
+    },
+    "categories": [
+      "crypto",
+      "fintech"
+    ],
+    "current_stage": null,
+    "first_partnered_year": 2021,
+    "partners": [
+      "ravi-gupta"
+    ],
+    "primary_partner": "ravi-gupta",
+    "milestones": {
+      "founded_year": 2018,
+      "partnered_year": 2021,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Pavel Berengoltz",
+        "role": null
+      },
+      {
+        "name": "Idan Ofrat",
+        "role": null
+      },
+      {
+        "name": "Michael Shaulov",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/fireblocks/"
+    }
+  },
+  {
+    "id": "sequoia:stairwell",
+    "sequoia_id": null,
+    "name": "Stairwell",
+    "slug": "stairwell",
+    "description": "Stairwell is turning security inside out by leaving the world of passive alerts behind and looking inward at a company’s data. It provides an intelligent view of a company’s environment and enriches it with emerging threat intelligence to identify artifacts, patterns and relationships that indicate nefarious activity.",
+    "website": "https://stairwell.com/",
+    "socials": {
+      "twitter": "https://www.twitter.com/insidestairwell",
+      "linkedin": "https://www.linkedin.com/company/stairwell-inc/"
+    },
+    "categories": [
+      "security"
+    ],
+    "current_stage": null,
+    "first_partnered_year": 2019,
+    "partners": [
+      "bill-coughran"
+    ],
+    "primary_partner": "bill-coughran",
+    "milestones": {
+      "founded_year": 2019,
+      "partnered_year": 2019,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Mike Wiacek",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/stairwell/"
+    }
+  },
+  {
+    "id": "sequoia:infracost",
+    "sequoia_id": null,
+    "name": "Infracost",
+    "slug": "infracost",
+    "description": "Infracost helps engineering teams see how code changes affect their cloud costs. It scans a Terraform code and checks over 3 million prices to create a simple, understandable cost estimate before launch. Users can view helpful comments like: “This change will increase your AWS bill by 25%.”",
+    "website": "https://www.infracost.io/",
+    "socials": {
+      "twitter": "https://www.twitter.com/infracost",
+      "linkedin": "https://www.linkedin.com/company/infracost/"
+    },
+    "categories": [
+      "developer-tools",
+      "operations"
+    ],
+    "current_stage": null,
+    "first_partnered_year": 2021,
+    "partners": [
+      "bogomil-balkansky"
+    ],
+    "primary_partner": "bogomil-balkansky",
+    "milestones": {
+      "founded_year": 2020,
+      "partnered_year": 2021,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Hassan Khajeh-Hosseini",
+        "role": null
+      },
+      {
+        "name": "Ali Khajeh-Hosseini",
+        "role": null
+      },
+      {
+        "name": "Alistair Scott",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/infracost/"
+    }
+  },
+  {
+    "id": "sequoia:cellworks",
+    "sequoia_id": null,
+    "name": "Cellworks",
+    "slug": "cellworks",
+    "description": "Cellworks is a personalized medicine platform that uses AI to predict successful matches between patients and drug therapies, which are then clinically validated. This technology drives down costs and provides payors with transparency.",
+    "website": "https://cellworks.life/",
+    "socials": {
+      "facebook": "https://www.facebook.com/CellworksLife/",
+      "twitter": "https://www.twitter.com/cellworkslife",
+      "linkedin": "https://www.linkedin.com/company/cellworks-life/",
+      "youtube": "https://www.youtube.com/channel/UC7FZGopntMligPlv2AxrpXQ"
+    },
+    "categories": [
+      "healthcare"
+    ],
+    "current_stage": null,
+    "first_partnered_year": 2012,
+    "partners": [],
+    "primary_partner": null,
+    "milestones": {
+      "founded_year": 2005,
+      "partnered_year": 2012,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/cellworks/"
+    }
+  },
+  {
+    "id": "sequoia:thousandeyes",
+    "sequoia_id": null,
+    "name": "ThousandEyes",
+    "slug": "thousandeyes",
+    "description": "ThousandEyes is an internet performance and digital experience monitoring company that arms everyone—engineers, teams, developers and end users—with instant insights across all connected devices within an organization.",
+    "website": "https://www.thousandeyes.com",
+    "socials": {
+      "twitter": "https://www.twitter.com/thousandeyes",
+      "linkedin": "https://www.linkedin.com/company/thousandeyes",
+      "instagram": "https://www.instagram.com/thousandeyes/"
+    },
+    "categories": [
+      "security"
+    ],
+    "current_stage": "acquired",
+    "first_partnered_year": 2011,
+    "partners": [
+      "jim-goetz",
+      "carl-eschenbach"
+    ],
+    "primary_partner": "jim-goetz",
+    "milestones": {
+      "founded_year": 2010,
+      "partnered_year": 2011,
+      "ipo_year": null,
+      "acquired_year": 2020
+    },
+    "team": [
+      {
+        "name": "Mohit Lad",
+        "role": null
+      },
+      {
+        "name": "Ricardo Oliveira",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/thousandeyes/"
+    }
+  },
+  {
+    "id": "sequoia:doppler",
+    "sequoia_id": null,
+    "name": "Doppler",
+    "slug": "doppler",
+    "description": "Doppler is a central source of truth for env vars and secrets. It enables sharing of API keys, database urls and certs across users’ team and infra.",
+    "website": "https://doppler.com/",
+    "socials": {
+      "twitter": "https://www.twitter.com/DopplerHQ",
+      "linkedin": "https://www.linkedin.com/company/dopplerhq/"
+    },
+    "categories": [
+      "security"
+    ],
+    "current_stage": null,
+    "first_partnered_year": 2019,
+    "partners": [],
+    "primary_partner": null,
+    "milestones": {
+      "founded_year": 2018,
+      "partnered_year": 2019,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Brian Vallelunga",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/doppler/"
+    }
+  },
+  {
+    "id": "sequoia:evervault",
+    "sequoia_id": null,
+    "name": "Evervault",
+    "slug": "evervault",
+    "description": "Evervault is building the internet infrastructure for data privacy. Its simple, secure cloud infrastructure can be set up in minutes.",
+    "website": "https://evervault.com/",
+    "socials": {
+      "twitter": "https://www.twitter.com/evervault",
+      "linkedin": "https://www.linkedin.com/company/evervault/",
+      "instagram": "https://www.instagram.com/evervault/"
+    },
+    "categories": [
+      "developer-tools",
+      "security"
+    ],
+    "current_stage": null,
+    "first_partnered_year": 2019,
+    "partners": [],
+    "primary_partner": null,
+    "milestones": {
+      "founded_year": 2018,
+      "partnered_year": 2019,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Shane Curran",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/evervault/"
+    }
+  },
+  {
+    "id": "sequoia:filecoin",
+    "sequoia_id": null,
+    "name": "Filecoin",
+    "slug": "filecoin",
+    "description": "Filecoin is a decentralized storage network designed to store humanity’s most important information. The network verifies that data is stored securely through cryptographic proofs.",
+    "website": "https://filecoin.io/",
+    "socials": {},
+    "categories": [
+      "crypto"
+    ],
+    "current_stage": null,
+    "first_partnered_year": 2017,
+    "partners": [
+      "alfred-lin"
+    ],
+    "primary_partner": "alfred-lin",
+    "milestones": {
+      "founded_year": 2014,
+      "partnered_year": 2017,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Juan Benet",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/filecoin/"
+    }
+  },
+  {
+    "id": "sequoia:faire-wholesale",
+    "sequoia_id": null,
+    "name": "Faire",
+    "slug": "faire-wholesale",
+    "description": "Faire uses data and machine learning to connect entrepreneurs worldwide. Its online wholesale marketplaces level the playing field so small businesses can compete with the retail giants.",
+    "website": "https://www.faire.com/",
+    "socials": {
+      "twitter": "https://www.twitter.com/faire_wholesale",
+      "linkedin": "https://www.linkedin.com/company/18013280/",
+      "instagram": "https://www.instagram.com/faire_wholesale/?hl=en"
+    },
+    "categories": [
+      "marketplace"
+    ],
+    "current_stage": null,
+    "first_partnered_year": 2017,
+    "partners": [
+      "alfred-lin",
+      "ravi-gupta",
+      "isaiah-boone"
+    ],
+    "primary_partner": "alfred-lin",
+    "milestones": {
+      "founded_year": 2016,
+      "partnered_year": 2017,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Marcelo Cortes",
+        "role": null
+      },
+      {
+        "name": "Jeff Kolovson",
+        "role": null
+      },
+      {
+        "name": "Daniele Perito",
+        "role": null
+      },
+      {
+        "name": "Max Rhodes",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/faire-wholesale/"
+    }
+  },
+  {
+    "id": "sequoia:clever",
+    "sequoia_id": null,
+    "name": "Clever",
+    "slug": "clever",
+    "description": "Clever simplifies educational technology for teachers and students. Its platform puts every application in one place, charging app developers, not schools, for the service.",
+    "website": "https://clever.com",
+    "socials": {
+      "twitter": "https://www.twitter.com/clever",
+      "linkedin": "https://www.linkedin.com/company/clever-inc-"
+    },
+    "categories": [
+      "security"
+    ],
+    "current_stage": "acquired",
+    "first_partnered_year": 2013,
+    "partners": [
+      "bryan-schreier"
+    ],
+    "primary_partner": "bryan-schreier",
+    "milestones": {
+      "founded_year": 2012,
+      "partnered_year": 2013,
+      "ipo_year": null,
+      "acquired_year": 2021
+    },
+    "team": [
+      {
+        "name": "Tyler Bosmeny",
+        "role": null
+      },
+      {
+        "name": "Dan Carroll",
+        "role": null
+      },
+      {
+        "name": "Rafael Garcia",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/clever/"
+    }
+  },
+  {
+    "id": "sequoia:ringcentral",
+    "sequoia_id": null,
+    "name": "RingCentral",
+    "slug": "ringcentral",
+    "description": "RingCentral is a global provider of cloud enterprise unified communications and collaboration solutions. It allows mobile and distributed workforces to be connected anywhere and on any device through voice, video, team messaging, collaboration, SMS, conferencing, online meetings, contact center and fax.",
+    "website": "https://www.ringcentral.com",
+    "socials": {
+      "twitter": "https://www.twitter.com/RingCentral",
+      "linkedin": "https://www.linkedin.com/company/ringcentral"
+    },
+    "categories": [
+      "operations",
+      "productivity"
+    ],
+    "current_stage": "ipo",
+    "first_partnered_year": 2006,
+    "partners": [
+      "doug-leone"
+    ],
+    "primary_partner": "doug-leone",
+    "milestones": {
+      "founded_year": 1998,
+      "partnered_year": 2006,
+      "ipo_year": 2013,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Vlad Shmunis",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/ringcentral/"
+    }
+  },
+  {
+    "id": "sequoia:barracuda-networks",
+    "sequoia_id": null,
+    "name": "Barracuda",
+    "slug": "barracuda-networks",
+    "description": "Barracuda provides email protection, application and cloud security, network security and data protection solutions.",
+    "website": "https://www.barracuda.com",
+    "socials": {
+      "twitter": "https://www.twitter.com/barracuda",
+      "linkedin": "https://www.linkedin.com/company/barracuda-networks"
+    },
+    "categories": [
+      "security"
+    ],
+    "current_stage": "ipo",
+    "first_partnered_year": 2005,
+    "partners": [
+      "jim-goetz"
+    ],
+    "primary_partner": "jim-goetz",
+    "milestones": {
+      "founded_year": 2003,
+      "partnered_year": 2005,
+      "ipo_year": 2013,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Dean Drako",
+        "role": null
+      },
+      {
+        "name": "Zach Levow",
+        "role": null
+      },
+      {
+        "name": "Michael Perone",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/barracuda-networks/"
+    }
+  },
+  {
+    "id": "sequoia:fireeye",
+    "sequoia_id": null,
+    "name": "FireEye",
+    "slug": "fireeye",
+    "description": "FireEye brought a fresh perspective to network security when it launched in 2004. Today FireEye’s virtual machine-based security platform protects countless Fortune 500 companies and governments worldwide against cyberattacks and malware.",
+    "website": "https://www.fireeye.com",
+    "socials": {
+      "twitter": "https://www.twitter.com/FireEye",
+      "linkedin": "https://www.linkedin.com/company/fireeye"
+    },
+    "categories": [
+      "security"
+    ],
+    "current_stage": "ipo",
+    "first_partnered_year": 2004,
+    "partners": [
+      "bill-coughran"
+    ],
+    "primary_partner": "bill-coughran",
+    "milestones": {
+      "founded_year": 2004,
+      "partnered_year": 2004,
+      "ipo_year": 2013,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Ashar Aziz",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/fireeye/"
+    }
+  },
+  {
+    "id": "sequoia:guardant-health",
+    "sequoia_id": null,
+    "name": "Guardant Health",
+    "slug": "guardant-health",
+    "description": "Guardant Health is a leading oncology company focused on conquering cancer worldwide. Its proprietary blood tests, vast data sets and advanced analytics help drive commercial adoption, improve patient outcomes and lower healthcare costs at every stage of the treatment journey.",
+    "website": "https://www.guardanthealth.com",
+    "socials": {
+      "twitter": "https://www.twitter.com/GuardantHealth",
+      "linkedin": "https://www.linkedin.com/company/guardant-health"
+    },
+    "categories": [
+      "healthcare"
+    ],
+    "current_stage": "ipo",
+    "first_partnered_year": 2013,
+    "partners": [],
+    "primary_partner": null,
+    "milestones": {
+      "founded_year": 2012,
+      "partnered_year": 2013,
+      "ipo_year": 2018,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Michael Wiley",
+        "role": null
+      },
+      {
+        "name": "Helmy Eltoukhy",
+        "role": null
+      },
+      {
+        "name": "AmirAli Hajhossein Talasaz",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/guardant-health/"
+    }
+  },
+  {
+    "id": "sequoia:medallia",
+    "sequoia_id": null,
+    "name": "Medallia",
+    "slug": "medallia",
+    "description": "Medallia captures signals from face-to-face, digital and IoT interactions. It applies proprietary AI technology to get personalized and predictive insights that drive tremendous results. Using Medallia Experience Cloud, customers reduce churn, turn detractors into buyers, and find cross-sell and upsell opportunities with clear ROI.",
+    "website": "https://www.medallia.com",
+    "socials": {
+      "twitter": "https://www.twitter.com/Medallia",
+      "linkedin": "https://www.linkedin.com/company/medallia-inc."
+    },
+    "categories": [
+      "ai",
+      "gtm"
+    ],
+    "current_stage": "ipo",
+    "first_partnered_year": 2011,
+    "partners": [
+      "doug-leone",
+      "carl-eschenbach",
+      "pat-grady"
+    ],
+    "primary_partner": "doug-leone",
+    "milestones": {
+      "founded_year": 2001,
+      "partnered_year": 2011,
+      "ipo_year": 2019,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Leslie Stretch",
+        "role": null
+      },
+      {
+        "name": "Borge Hald",
+        "role": null
+      },
+      {
+        "name": "Amy Pressman",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/medallia/"
+    }
+  }
+]

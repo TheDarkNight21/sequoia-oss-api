@@ -1,0 +1,21 @@
+{
+  "id": "carl-eschenbach",
+  "name": "Carl Eschenbach",
+  "companies": [
+    {
+      "id": "sequoia:captivateiq",
+      "name": "CaptivateIQ",
+      "slug": "captivateiq"
+    },
+    {
+      "id": "sequoia:thousandeyes",
+      "name": "ThousandEyes",
+      "slug": "thousandeyes"
+    },
+    {
+      "id": "sequoia:medallia",
+      "name": "Medallia",
+      "slug": "medallia"
+    }
+  ]
+}

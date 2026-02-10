@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:oso",
+  "sequoia_id": null,
+  "name": "Oso",
+  "slug": "oso",
+  "description": "Oso puts security in the hands of the makers by presenting security as code. It gives developers a library for authorization, with the freedom to shape and extend it as their needs evolve. By offloading this mental work, developers all over the world can shift their focus to moving fast.",
+  "website": "https://www.osohq.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/osoHQ",
+    "linkedin": "https://www.linkedin.com/company/osohq"
+  },
+  "categories": [
+    "developer-tools",
+    "security"
+  ],
+  "current_stage": null,
+  "first_partnered_year": 2019,
+  "partners": [
+    "bill-coughran"
+  ],
+  "primary_partner": "bill-coughran",
+  "milestones": {
+    "founded_year": 2018,
+    "partnered_year": 2019,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Graham Neray",
+      "role": null
+    },
+    {
+      "name": "Sam Scott",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/oso/"
+  }
+}

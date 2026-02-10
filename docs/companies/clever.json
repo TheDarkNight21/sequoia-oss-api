@@ -1,0 +1,46 @@
+{
+  "id": "sequoia:clever",
+  "sequoia_id": null,
+  "name": "Clever",
+  "slug": "clever",
+  "description": "Clever simplifies educational technology for teachers and students. Its platform puts every application in one place, charging app developers, not schools, for the service.",
+  "website": "https://clever.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/clever",
+    "linkedin": "https://www.linkedin.com/company/clever-inc-"
+  },
+  "categories": [
+    "security"
+  ],
+  "current_stage": "acquired",
+  "first_partnered_year": 2013,
+  "partners": [
+    "bryan-schreier"
+  ],
+  "primary_partner": "bryan-schreier",
+  "milestones": {
+    "founded_year": 2012,
+    "partnered_year": 2013,
+    "ipo_year": null,
+    "acquired_year": 2021
+  },
+  "team": [
+    {
+      "name": "Tyler Bosmeny",
+      "role": null
+    },
+    {
+      "name": "Dan Carroll",
+      "role": null
+    },
+    {
+      "name": "Rafael Garcia",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/clever/"
+  }
+}

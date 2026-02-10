@@ -1,0 +1,40 @@
+{
+  "year": 2019,
+  "companies": [
+    {
+      "id": "sequoia:dolls-kill",
+      "name": "Dolls Kill",
+      "slug": "dolls-kill"
+    },
+    {
+      "id": "sequoia:oso",
+      "name": "Oso",
+      "slug": "oso"
+    },
+    {
+      "id": "sequoia:productboard",
+      "name": "Productboard",
+      "slug": "productboard"
+    },
+    {
+      "id": "sequoia:the-org",
+      "name": "The Org",
+      "slug": "the-org"
+    },
+    {
+      "id": "sequoia:stairwell",
+      "name": "Stairwell",
+      "slug": "stairwell"
+    },
+    {
+      "id": "sequoia:doppler",
+      "name": "Doppler",
+      "slug": "doppler"
+    },
+    {
+      "id": "sequoia:evervault",
+      "name": "Evervault",
+      "slug": "evervault"
+    }
+  ]
+}

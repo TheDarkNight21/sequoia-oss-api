@@ -1,0 +1,39 @@
+{
+  "id": "sequoia:opendns",
+  "sequoia_id": null,
+  "name": "OpenDNS",
+  "slug": "opendns",
+  "description": "OpenDNS is a suite of consumer products aimed at making the internet faster, safer and more reliable. Providing a layer of protection on and off a company’s network, it prevents malicious attacks over any port or protocol. OpenDNS easy to deploy without any hardware, software or manual updates. The company is now part of Cisco.",
+  "website": "https://www.opendns.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/opendns",
+    "linkedin": "https://www.linkedin.com/company/opendns"
+  },
+  "categories": [
+    "infrastructure",
+    "security"
+  ],
+  "current_stage": "acquired",
+  "first_partnered_year": 2009,
+  "partners": [
+    "pat-grady"
+  ],
+  "primary_partner": "pat-grady",
+  "milestones": {
+    "founded_year": 2006,
+    "partnered_year": 2009,
+    "ipo_year": null,
+    "acquired_year": 2015
+  },
+  "team": [
+    {
+      "name": "David Ulevitch",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/opendns/"
+  }
+}

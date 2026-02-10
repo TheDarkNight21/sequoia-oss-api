@@ -1,0 +1,71 @@
+{
+  "id": "consumer",
+  "label": "Consumer",
+  "companies": [
+    {
+      "id": "sequoia:bird",
+      "name": "Bird",
+      "slug": "bird"
+    },
+    {
+      "id": "sequoia:dolls-kill",
+      "name": "Dolls Kill",
+      "slug": "dolls-kill"
+    },
+    {
+      "id": "sequoia:houzz",
+      "name": "Houzz",
+      "slug": "houzz"
+    },
+    {
+      "id": "sequoia:kayak",
+      "name": "KAYAK",
+      "slug": "kayak"
+    },
+    {
+      "id": "sequoia:linkedin",
+      "name": "LinkedIn",
+      "slug": "linkedin"
+    },
+    {
+      "id": "sequoia:otter",
+      "name": "Otter",
+      "slug": "otter"
+    },
+    {
+      "id": "sequoia:rappi",
+      "name": "Rappi",
+      "slug": "rappi"
+    },
+    {
+      "id": "sequoia:tourlane",
+      "name": "Tourlane",
+      "slug": "tourlane"
+    },
+    {
+      "id": "sequoia:thumbtack",
+      "name": "Thumbtack",
+      "slug": "thumbtack"
+    },
+    {
+      "id": "sequoia:trulia",
+      "name": "Trulia",
+      "slug": "trulia"
+    },
+    {
+      "id": "sequoia:tumblr",
+      "name": "Tumblr",
+      "slug": "tumblr"
+    },
+    {
+      "id": "sequoia:xoom",
+      "name": "Xoom",
+      "slug": "xoom"
+    },
+    {
+      "id": "sequoia:yahoo",
+      "name": "Yahoo",
+      "slug": "yahoo"
+    }
+  ]
+}

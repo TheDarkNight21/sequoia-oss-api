@@ -1,0 +1,38 @@
+{
+  "id": "sequoia:evervault",
+  "sequoia_id": null,
+  "name": "Evervault",
+  "slug": "evervault",
+  "description": "Evervault is building the internet infrastructure for data privacy. Its simple, secure cloud infrastructure can be set up in minutes.",
+  "website": "https://evervault.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/evervault",
+    "linkedin": "https://www.linkedin.com/company/evervault/",
+    "instagram": "https://www.instagram.com/evervault/"
+  },
+  "categories": [
+    "developer-tools",
+    "security"
+  ],
+  "current_stage": null,
+  "first_partnered_year": 2019,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 2018,
+    "partnered_year": 2019,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Shane Curran",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/evervault/"
+  }
+}

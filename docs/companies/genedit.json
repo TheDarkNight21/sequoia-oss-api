@@ -1,0 +1,45 @@
+{
+  "id": "sequoia:genedit",
+  "sequoia_id": null,
+  "name": "GenEdit",
+  "slug": "genedit",
+  "description": "GenEdit wants to transform the delivery of gene therapies for the next generation of non-viral, gene editing-based therapeutics. GenEdit’s technology platform solves delivery challenges by systematically screening its proprietary nanoparticle library and providing safe, efficient delivery to target tissues. Its proprietary nanoparticles have broad applications, from CRISPR-based therapeutics to gene therapy products.",
+  "website": "https://www.genedit.com/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/genedit/about/"
+  },
+  "categories": [
+    "healthcare"
+  ],
+  "current_stage": null,
+  "first_partnered_year": 2016,
+  "partners": [
+    "roelof-botha"
+  ],
+  "primary_partner": "roelof-botha",
+  "milestones": {
+    "founded_year": 2016,
+    "partnered_year": 2016,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Kunwoo Lee",
+      "role": null
+    },
+    {
+      "name": "Niren Murthy",
+      "role": null
+    },
+    {
+      "name": "Hyo Min Park",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/genedit/"
+  }
+}

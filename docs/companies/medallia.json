@@ -1,0 +1,49 @@
+{
+  "id": "sequoia:medallia",
+  "sequoia_id": null,
+  "name": "Medallia",
+  "slug": "medallia",
+  "description": "Medallia captures signals from face-to-face, digital and IoT interactions. It applies proprietary AI technology to get personalized and predictive insights that drive tremendous results. Using Medallia Experience Cloud, customers reduce churn, turn detractors into buyers, and find cross-sell and upsell opportunities with clear ROI.",
+  "website": "https://www.medallia.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/Medallia",
+    "linkedin": "https://www.linkedin.com/company/medallia-inc."
+  },
+  "categories": [
+    "ai",
+    "gtm"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 2011,
+  "partners": [
+    "doug-leone",
+    "carl-eschenbach",
+    "pat-grady"
+  ],
+  "primary_partner": "doug-leone",
+  "milestones": {
+    "founded_year": 2001,
+    "partnered_year": 2011,
+    "ipo_year": 2019,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Leslie Stretch",
+      "role": null
+    },
+    {
+      "name": "Borge Hald",
+      "role": null
+    },
+    {
+      "name": "Amy Pressman",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/medallia/"
+  }
+}

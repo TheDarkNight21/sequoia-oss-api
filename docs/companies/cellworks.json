@@ -1,0 +1,33 @@
+{
+  "id": "sequoia:cellworks",
+  "sequoia_id": null,
+  "name": "Cellworks",
+  "slug": "cellworks",
+  "description": "Cellworks is a personalized medicine platform that uses AI to predict successful matches between patients and drug therapies, which are then clinically validated. This technology drives down costs and provides payors with transparency.",
+  "website": "https://cellworks.life/",
+  "socials": {
+    "facebook": "https://www.facebook.com/CellworksLife/",
+    "twitter": "https://www.twitter.com/cellworkslife",
+    "linkedin": "https://www.linkedin.com/company/cellworks-life/",
+    "youtube": "https://www.youtube.com/channel/UC7FZGopntMligPlv2AxrpXQ"
+  },
+  "categories": [
+    "healthcare"
+  ],
+  "current_stage": null,
+  "first_partnered_year": 2012,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 2005,
+    "partnered_year": 2012,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/cellworks/"
+  }
+}

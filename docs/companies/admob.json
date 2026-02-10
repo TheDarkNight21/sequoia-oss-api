@@ -1,0 +1,38 @@
+{
+  "id": "sequoia:admob",
+  "sequoia_id": null,
+  "name": "AdMob",
+  "slug": "admob",
+  "description": "AdMob built a pay-per click marketplace for mobile apps. Now part of Google, AdMob continues to help businesses gain user insights and drive in-app purchases.",
+  "website": "https://www.admob.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/admob",
+    "linkedin": "https://www.linkedin.com/company/admob"
+  },
+  "categories": [
+    "gtm"
+  ],
+  "current_stage": "acquired",
+  "first_partnered_year": 2006,
+  "partners": [
+    "jim-goetz"
+  ],
+  "primary_partner": "jim-goetz",
+  "milestones": {
+    "founded_year": 2006,
+    "partnered_year": 2006,
+    "ipo_year": null,
+    "acquired_year": 2010
+  },
+  "team": [
+    {
+      "name": "Omar Hamoui",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/admob/"
+  }
+}

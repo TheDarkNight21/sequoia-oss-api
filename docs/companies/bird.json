@@ -1,0 +1,39 @@
+{
+  "id": "sequoia:bird",
+  "sequoia_id": null,
+  "name": "Bird",
+  "slug": "bird",
+  "description": "Bird is an electric vehicle maker and bike-sharing network focused on sustainability. Its products make cities more livable by reducing car usage, traffic and carbon emissions.",
+  "website": "https://www.bird.co/",
+  "socials": {
+    "twitter": "https://www.twitter.com/BirdRide",
+    "linkedin": "https://www.linkedin.com/company/birdapp/"
+  },
+  "categories": [
+    "consumer",
+    "hardware"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 2018,
+  "partners": [
+    "roelof-botha"
+  ],
+  "primary_partner": "roelof-botha",
+  "milestones": {
+    "founded_year": 2017,
+    "partnered_year": 2018,
+    "ipo_year": 2021,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Travis VanderZanden",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/bird/"
+  }
+}

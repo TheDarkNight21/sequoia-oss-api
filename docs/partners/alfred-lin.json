@@ -1,0 +1,41 @@
+{
+  "id": "alfred-lin",
+  "name": "Alfred Lin",
+  "companies": [
+    {
+      "id": "sequoia:dolls-kill",
+      "name": "Dolls Kill",
+      "slug": "dolls-kill"
+    },
+    {
+      "id": "sequoia:houzz",
+      "name": "Houzz",
+      "slug": "houzz"
+    },
+    {
+      "id": "sequoia:otter",
+      "name": "Otter",
+      "slug": "otter"
+    },
+    {
+      "id": "sequoia:tourlane",
+      "name": "Tourlane",
+      "slug": "tourlane"
+    },
+    {
+      "id": "sequoia:truework",
+      "name": "Truework",
+      "slug": "truework"
+    },
+    {
+      "id": "sequoia:filecoin",
+      "name": "Filecoin",
+      "slug": "filecoin"
+    },
+    {
+      "id": "sequoia:faire-wholesale",
+      "name": "Faire",
+      "slug": "faire-wholesale"
+    }
+  ]
+}

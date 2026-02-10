@@ -1,0 +1,11 @@
+{
+  "id": "bogomil-balkansky",
+  "name": "Bogomil Balkansky",
+  "companies": [
+    {
+      "id": "sequoia:infracost",
+      "name": "Infracost",
+      "slug": "infracost"
+    }
+  ]
+}

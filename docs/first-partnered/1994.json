@@ -1,0 +1,10 @@
+{
+  "year": 1994,
+  "companies": [
+    {
+      "id": "sequoia:netapp",
+      "name": "NetApp",
+      "slug": "netapp"
+    }
+  ]
+}

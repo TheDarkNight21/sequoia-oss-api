@@ -1,0 +1,38 @@
+{
+  "id": "sequoia:fireeye",
+  "sequoia_id": null,
+  "name": "FireEye",
+  "slug": "fireeye",
+  "description": "FireEye brought a fresh perspective to network security when it launched in 2004. Today FireEye’s virtual machine-based security platform protects countless Fortune 500 companies and governments worldwide against cyberattacks and malware.",
+  "website": "https://www.fireeye.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/FireEye",
+    "linkedin": "https://www.linkedin.com/company/fireeye"
+  },
+  "categories": [
+    "security"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 2004,
+  "partners": [
+    "bill-coughran"
+  ],
+  "primary_partner": "bill-coughran",
+  "milestones": {
+    "founded_year": 2004,
+    "partnered_year": 2004,
+    "ipo_year": 2013,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Ashar Aziz",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/fireeye/"
+  }
+}

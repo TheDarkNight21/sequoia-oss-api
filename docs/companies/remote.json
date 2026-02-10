@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:remote",
+  "sequoia_id": null,
+  "name": "Remote",
+  "slug": "remote",
+  "description": "Remote helps companies of all sizes employ top talent around the world with international payroll, benefits, taxes, compliance and more.",
+  "website": "https://remote.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/remote",
+    "linkedin": "https://www.linkedin.com/company/remote.com/",
+    "instagram": "https://www.instagram.com/remote/"
+  },
+  "categories": [
+    "operations"
+  ],
+  "current_stage": null,
+  "first_partnered_year": 2020,
+  "partners": [
+    "ravi-gupta"
+  ],
+  "primary_partner": "ravi-gupta",
+  "milestones": {
+    "founded_year": 2017,
+    "partnered_year": 2020,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Marcelo Lebre",
+      "role": null
+    },
+    {
+      "name": "Job van der Voort",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/remote/"
+  }
+}

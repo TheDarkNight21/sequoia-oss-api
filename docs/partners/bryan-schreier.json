@@ -1,0 +1,21 @@
+{
+  "id": "bryan-schreier",
+  "name": "Bryan Schreier",
+  "companies": [
+    {
+      "id": "sequoia:thumbtack",
+      "name": "Thumbtack",
+      "slug": "thumbtack"
+    },
+    {
+      "id": "sequoia:trulia",
+      "name": "Trulia",
+      "slug": "trulia"
+    },
+    {
+      "id": "sequoia:clever",
+      "name": "Clever",
+      "slug": "clever"
+    }
+  ]
+}

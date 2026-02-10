@@ -1,0 +1,26 @@
+{
+  "id": "michael-moritz",
+  "name": "Michael Moritz",
+  "companies": [
+    {
+      "id": "sequoia:green-dot",
+      "name": "Green Dot",
+      "slug": "green-dot"
+    },
+    {
+      "id": "sequoia:kayak",
+      "name": "KAYAK",
+      "slug": "kayak"
+    },
+    {
+      "id": "sequoia:linkedin",
+      "name": "LinkedIn",
+      "slug": "linkedin"
+    },
+    {
+      "id": "sequoia:yahoo",
+      "name": "Yahoo",
+      "slug": "yahoo"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "sequoia:thousandeyes",
+  "sequoia_id": null,
+  "name": "ThousandEyes",
+  "slug": "thousandeyes",
+  "description": "ThousandEyes is an internet performance and digital experience monitoring company that arms everyone—engineers, teams, developers and end users—with instant insights across all connected devices within an organization.",
+  "website": "https://www.thousandeyes.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/thousandeyes",
+    "linkedin": "https://www.linkedin.com/company/thousandeyes",
+    "instagram": "https://www.instagram.com/thousandeyes/"
+  },
+  "categories": [
+    "security"
+  ],
+  "current_stage": "acquired",
+  "first_partnered_year": 2011,
+  "partners": [
+    "jim-goetz",
+    "carl-eschenbach"
+  ],
+  "primary_partner": "jim-goetz",
+  "milestones": {
+    "founded_year": 2010,
+    "partnered_year": 2011,
+    "ipo_year": null,
+    "acquired_year": 2020
+  },
+  "team": [
+    {
+      "name": "Mohit Lad",
+      "role": null
+    },
+    {
+      "name": "Ricardo Oliveira",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/thousandeyes/"
+  }
+}

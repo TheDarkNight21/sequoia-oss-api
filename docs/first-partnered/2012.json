@@ -1,0 +1,15 @@
+{
+  "year": 2012,
+  "companies": [
+    {
+      "id": "sequoia:versa-networks",
+      "name": "Versa Networks",
+      "slug": "versa-networks"
+    },
+    {
+      "id": "sequoia:cellworks",
+      "name": "Cellworks",
+      "slug": "cellworks"
+    }
+  ]
+}

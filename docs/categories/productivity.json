@@ -1,0 +1,16 @@
+{
+  "id": "productivity",
+  "label": "Productivity",
+  "companies": [
+    {
+      "id": "sequoia:plangrid",
+      "name": "PlanGrid",
+      "slug": "plangrid"
+    },
+    {
+      "id": "sequoia:ringcentral",
+      "name": "RingCentral",
+      "slug": "ringcentral"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "ai",
+  "label": "Ai",
+  "companies": [
+    {
+      "id": "sequoia:sumo-logic",
+      "name": "Sumo Logic",
+      "slug": "sumo-logic"
+    },
+    {
+      "id": "sequoia:medallia",
+      "name": "Medallia",
+      "slug": "medallia"
+    }
+  ]
+}

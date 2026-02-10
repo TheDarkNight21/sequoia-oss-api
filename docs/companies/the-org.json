@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:the-org",
+  "sequoia_id": null,
+  "name": "The Org",
+  "slug": "the-org",
+  "description": "The Org is an online professional community platform. It helps organizations get more exposure externally and operate more efficiently internally.",
+  "website": "https://theorg.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/TheOrgCom",
+    "linkedin": "https://www.linkedin.com/company/theorg/",
+    "instagram": "https://www.instagram.com/theorgcom/"
+  },
+  "categories": [
+    "gtm"
+  ],
+  "current_stage": null,
+  "first_partnered_year": 2019,
+  "partners": [
+    "roelof-botha"
+  ],
+  "primary_partner": "roelof-botha",
+  "milestones": {
+    "founded_year": 2017,
+    "partnered_year": 2019,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Andreas Jarbol",
+      "role": null
+    },
+    {
+      "name": "Christian Wylonis",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/the-org/"
+  }
+}

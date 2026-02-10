@@ -1,0 +1,46 @@
+{
+  "id": "sequoia:barracuda-networks",
+  "sequoia_id": null,
+  "name": "Barracuda",
+  "slug": "barracuda-networks",
+  "description": "Barracuda provides email protection, application and cloud security, network security and data protection solutions.",
+  "website": "https://www.barracuda.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/barracuda",
+    "linkedin": "https://www.linkedin.com/company/barracuda-networks"
+  },
+  "categories": [
+    "security"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 2005,
+  "partners": [
+    "jim-goetz"
+  ],
+  "primary_partner": "jim-goetz",
+  "milestones": {
+    "founded_year": 2003,
+    "partnered_year": 2005,
+    "ipo_year": 2013,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Dean Drako",
+      "role": null
+    },
+    {
+      "name": "Zach Levow",
+      "role": null
+    },
+    {
+      "name": "Michael Perone",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/barracuda-networks/"
+  }
+}

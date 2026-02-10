@@ -1,0 +1,26 @@
+{
+  "id": "gtm",
+  "label": "Gtm",
+  "companies": [
+    {
+      "id": "sequoia:admob",
+      "name": "AdMob",
+      "slug": "admob"
+    },
+    {
+      "id": "sequoia:the-org",
+      "name": "The Org",
+      "slug": "the-org"
+    },
+    {
+      "id": "sequoia:captivateiq",
+      "name": "CaptivateIQ",
+      "slug": "captivateiq"
+    },
+    {
+      "id": "sequoia:medallia",
+      "name": "Medallia",
+      "slug": "medallia"
+    }
+  ]
+}

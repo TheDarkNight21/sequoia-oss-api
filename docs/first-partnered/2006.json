@@ -1,0 +1,15 @@
+{
+  "year": 2006,
+  "companies": [
+    {
+      "id": "sequoia:admob",
+      "name": "AdMob",
+      "slug": "admob"
+    },
+    {
+      "id": "sequoia:ringcentral",
+      "name": "RingCentral",
+      "slug": "ringcentral"
+    }
+  ]
+}

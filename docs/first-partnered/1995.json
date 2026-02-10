@@ -1,0 +1,10 @@
+{
+  "year": 1995,
+  "companies": [
+    {
+      "id": "sequoia:yahoo",
+      "name": "Yahoo",
+      "slug": "yahoo"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "sequoia:alkira",
+  "sequoia_id": null,
+  "name": "Alkira",
+  "slug": "alkira",
+  "description": "Alkira equips its users with the first on-demand, multi-cloud network. Akira’s solution allows customers to build and deploy global secure cloud networks in minutes.",
+  "website": "https://www.alkira.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/alkiranet",
+    "linkedin": "https://www.linkedin.com/company/alkiranet/"
+  },
+  "categories": [
+    "infrastructure"
+  ],
+  "current_stage": null,
+  "first_partnered_year": 2018,
+  "partners": [
+    "bill-coughran"
+  ],
+  "primary_partner": "bill-coughran",
+  "milestones": {
+    "founded_year": 2018,
+    "partnered_year": 2018,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Atif Khan",
+      "role": null
+    },
+    {
+      "name": "Amir Khan",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/alkira/"
+  }
+}

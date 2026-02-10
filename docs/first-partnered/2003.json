@@ -1,0 +1,20 @@
+{
+  "year": 2003,
+  "companies": [
+    {
+      "id": "sequoia:green-dot",
+      "name": "Green Dot",
+      "slug": "green-dot"
+    },
+    {
+      "id": "sequoia:linkedin",
+      "name": "LinkedIn",
+      "slug": "linkedin"
+    },
+    {
+      "id": "sequoia:xoom",
+      "name": "Xoom",
+      "slug": "xoom"
+    }
+  ]
+}

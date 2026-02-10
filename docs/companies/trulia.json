@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:trulia",
+  "sequoia_id": null,
+  "name": "Trulia",
+  "slug": "trulia",
+  "description": "Trulia is an all-in-one real estate site. It gives the local scoop on homes for sale, apartments for rent, neighborhood insights, real estate markets and trends. It also helps visitors decide what, where and when to buy, sell or rent. Trulia was acquired by Zillow in 2014.",
+  "website": "https://www.trulia.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/trulia",
+    "linkedin": "https://www.linkedin.com/company/trulia"
+  },
+  "categories": [
+    "consumer",
+    "marketplace"
+  ],
+  "current_stage": "acquired",
+  "first_partnered_year": 2007,
+  "partners": [
+    "bryan-schreier"
+  ],
+  "primary_partner": "bryan-schreier",
+  "milestones": {
+    "founded_year": 2005,
+    "partnered_year": 2007,
+    "ipo_year": 2012,
+    "acquired_year": 2014
+  },
+  "team": [
+    {
+      "name": "Peter Flint",
+      "role": null
+    },
+    {
+      "name": "Sami Inkinen",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/trulia/"
+  }
+}

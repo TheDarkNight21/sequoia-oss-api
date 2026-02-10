@@ -1,0 +1,21 @@
+{
+  "id": "data-analytics",
+  "label": "Data Analytics",
+  "companies": [
+    {
+      "id": "sequoia:linkedin",
+      "name": "LinkedIn",
+      "slug": "linkedin"
+    },
+    {
+      "id": "sequoia:sumo-logic",
+      "name": "Sumo Logic",
+      "slug": "sumo-logic"
+    },
+    {
+      "id": "sequoia:dbt-labs",
+      "name": "dbt Labs",
+      "slug": "dbt-labs"
+    }
+  ]
+}

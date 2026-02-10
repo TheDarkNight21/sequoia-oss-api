@@ -1,0 +1,47 @@
+{
+  "id": "sequoia:xoom",
+  "sequoia_id": null,
+  "name": "Xoom",
+  "slug": "xoom",
+  "description": "Xoom is a global money transfer service that lets people send money quickly and cheaply from any web-enabled device. Recipients don’t need a bank account or internet connection, and senders can fund their transfer with a credit or debit card or bank account. Xoom was acquired by PayPal in 2015.",
+  "website": "https://www.xoom.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/Xoom",
+    "linkedin": "https://www.linkedin.com/company/xoom-corporation"
+  },
+  "categories": [
+    "consumer",
+    "fintech"
+  ],
+  "current_stage": "acquired",
+  "first_partnered_year": 2003,
+  "partners": [
+    "roelof-botha"
+  ],
+  "primary_partner": "roelof-botha",
+  "milestones": {
+    "founded_year": 2001,
+    "partnered_year": 2003,
+    "ipo_year": 2013,
+    "acquired_year": 2015
+  },
+  "team": [
+    {
+      "name": "Alan Braverman",
+      "role": null
+    },
+    {
+      "name": "Kevin Hartz",
+      "role": null
+    },
+    {
+      "name": "John Kunze",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/xoom/"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ravi-gupta",
+  "name": "Ravi Gupta",
+  "companies": [
+    {
+      "id": "sequoia:remote",
+      "name": "Remote",
+      "slug": "remote"
+    },
+    {
+      "id": "sequoia:fireblocks",
+      "name": "Fireblocks",
+      "slug": "fireblocks"
+    },
+    {
+      "id": "sequoia:faire-wholesale",
+      "name": "Faire",
+      "slug": "faire-wholesale"
+    }
+  ]
+}

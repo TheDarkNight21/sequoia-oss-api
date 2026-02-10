@@ -1,0 +1,20 @@
+{
+  "year": 2021,
+  "companies": [
+    {
+      "id": "sequoia:otter",
+      "name": "Otter",
+      "slug": "otter"
+    },
+    {
+      "id": "sequoia:fireblocks",
+      "name": "Fireblocks",
+      "slug": "fireblocks"
+    },
+    {
+      "id": "sequoia:infracost",
+      "name": "Infracost",
+      "slug": "infracost"
+    }
+  ]
+}

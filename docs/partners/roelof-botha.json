@@ -1,0 +1,36 @@
+{
+  "id": "roelof-botha",
+  "name": "Roelof Botha",
+  "companies": [
+    {
+      "id": "sequoia:bird",
+      "name": "Bird",
+      "slug": "bird"
+    },
+    {
+      "id": "sequoia:bridgebio",
+      "name": "BridgeBio",
+      "slug": "bridgebio"
+    },
+    {
+      "id": "sequoia:genedit",
+      "name": "GenEdit",
+      "slug": "genedit"
+    },
+    {
+      "id": "sequoia:the-org",
+      "name": "The Org",
+      "slug": "the-org"
+    },
+    {
+      "id": "sequoia:tumblr",
+      "name": "Tumblr",
+      "slug": "tumblr"
+    },
+    {
+      "id": "sequoia:xoom",
+      "name": "Xoom",
+      "slug": "xoom"
+    }
+  ]
+}

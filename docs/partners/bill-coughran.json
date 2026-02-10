@@ -1,0 +1,31 @@
+{
+  "id": "bill-coughran",
+  "name": "Bill Coughran",
+  "companies": [
+    {
+      "id": "sequoia:alkira",
+      "name": "Alkira",
+      "slug": "alkira"
+    },
+    {
+      "id": "sequoia:graphiant",
+      "name": "Graphiant",
+      "slug": "graphiant"
+    },
+    {
+      "id": "sequoia:oso",
+      "name": "Oso",
+      "slug": "oso"
+    },
+    {
+      "id": "sequoia:stairwell",
+      "name": "Stairwell",
+      "slug": "stairwell"
+    },
+    {
+      "id": "sequoia:fireeye",
+      "name": "FireEye",
+      "slug": "fireeye"
+    }
+  ]
+}

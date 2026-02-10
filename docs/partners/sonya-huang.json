@@ -1,0 +1,16 @@
+{
+  "id": "sonya-huang",
+  "name": "Sonya Huang",
+  "companies": [
+    {
+      "id": "sequoia:thumbtack",
+      "name": "Thumbtack",
+      "slug": "thumbtack"
+    },
+    {
+      "id": "sequoia:dbt-labs",
+      "name": "dbt Labs",
+      "slug": "dbt-labs"
+    }
+  ]
+}

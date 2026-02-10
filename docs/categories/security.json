@@ -1,0 +1,61 @@
+{
+  "id": "security",
+  "label": "Security",
+  "companies": [
+    {
+      "id": "sequoia:oso",
+      "name": "Oso",
+      "slug": "oso"
+    },
+    {
+      "id": "sequoia:opendns",
+      "name": "OpenDNS",
+      "slug": "opendns"
+    },
+    {
+      "id": "sequoia:security-scorecard",
+      "name": "Security Scorecard",
+      "slug": "security-scorecard"
+    },
+    {
+      "id": "sequoia:versa-networks",
+      "name": "Versa Networks",
+      "slug": "versa-networks"
+    },
+    {
+      "id": "sequoia:stairwell",
+      "name": "Stairwell",
+      "slug": "stairwell"
+    },
+    {
+      "id": "sequoia:thousandeyes",
+      "name": "ThousandEyes",
+      "slug": "thousandeyes"
+    },
+    {
+      "id": "sequoia:doppler",
+      "name": "Doppler",
+      "slug": "doppler"
+    },
+    {
+      "id": "sequoia:evervault",
+      "name": "Evervault",
+      "slug": "evervault"
+    },
+    {
+      "id": "sequoia:clever",
+      "name": "Clever",
+      "slug": "clever"
+    },
+    {
+      "id": "sequoia:barracuda-networks",
+      "name": "Barracuda",
+      "slug": "barracuda-networks"
+    },
+    {
+      "id": "sequoia:fireeye",
+      "name": "FireEye",
+      "slug": "fireeye"
+    }
+  ]
+}

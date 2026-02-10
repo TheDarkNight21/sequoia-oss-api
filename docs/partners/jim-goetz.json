@@ -1,0 +1,26 @@
+{
+  "id": "jim-goetz",
+  "name": "Jim Goetz",
+  "companies": [
+    {
+      "id": "sequoia:admob",
+      "name": "AdMob",
+      "slug": "admob"
+    },
+    {
+      "id": "sequoia:versa-networks",
+      "name": "Versa Networks",
+      "slug": "versa-networks"
+    },
+    {
+      "id": "sequoia:thousandeyes",
+      "name": "ThousandEyes",
+      "slug": "thousandeyes"
+    },
+    {
+      "id": "sequoia:barracuda-networks",
+      "name": "Barracuda",
+      "slug": "barracuda-networks"
+    }
+  ]
+}

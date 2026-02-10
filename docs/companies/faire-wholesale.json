@@ -1,0 +1,53 @@
+{
+  "id": "sequoia:faire-wholesale",
+  "sequoia_id": null,
+  "name": "Faire",
+  "slug": "faire-wholesale",
+  "description": "Faire uses data and machine learning to connect entrepreneurs worldwide. Its online wholesale marketplaces level the playing field so small businesses can compete with the retail giants.",
+  "website": "https://www.faire.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/faire_wholesale",
+    "linkedin": "https://www.linkedin.com/company/18013280/",
+    "instagram": "https://www.instagram.com/faire_wholesale/?hl=en"
+  },
+  "categories": [
+    "marketplace"
+  ],
+  "current_stage": null,
+  "first_partnered_year": 2017,
+  "partners": [
+    "alfred-lin",
+    "ravi-gupta",
+    "isaiah-boone"
+  ],
+  "primary_partner": "alfred-lin",
+  "milestones": {
+    "founded_year": 2016,
+    "partnered_year": 2017,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Marcelo Cortes",
+      "role": null
+    },
+    {
+      "name": "Jeff Kolovson",
+      "role": null
+    },
+    {
+      "name": "Daniele Perito",
+      "role": null
+    },
+    {
+      "name": "Max Rhodes",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/faire-wholesale/"
+  }
+}

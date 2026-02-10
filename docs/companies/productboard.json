@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:productboard",
+  "sequoia_id": null,
+  "name": "Productboard",
+  "slug": "productboard",
+  "description": "Productboard is a product management system helping organizations build the right products. It helps product managers learn what customers need, prioritize what to build next, and rally everyone around the roadmap.",
+  "website": "https://www.productboard.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/productboard",
+    "linkedin": "https://www.linkedin.com/company/productboard/",
+    "instagram": "https://www.instagram.com/productboard/?hl=en"
+  },
+  "categories": [
+    "operations"
+  ],
+  "current_stage": null,
+  "first_partnered_year": 2019,
+  "partners": [
+    "andrew-reed"
+  ],
+  "primary_partner": "andrew-reed",
+  "milestones": {
+    "founded_year": 2014,
+    "partnered_year": 2019,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Daniel Hejl",
+      "role": null
+    },
+    {
+      "name": "Hubert Palan",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/productboard/"
+  }
+}

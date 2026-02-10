@@ -1,0 +1,26 @@
+{
+  "id": "doug-leone",
+  "name": "Doug Leone",
+  "companies": [
+    {
+      "id": "sequoia:security-scorecard",
+      "name": "Security Scorecard",
+      "slug": "security-scorecard"
+    },
+    {
+      "id": "sequoia:plangrid",
+      "name": "PlanGrid",
+      "slug": "plangrid"
+    },
+    {
+      "id": "sequoia:ringcentral",
+      "name": "RingCentral",
+      "slug": "ringcentral"
+    },
+    {
+      "id": "sequoia:medallia",
+      "name": "Medallia",
+      "slug": "medallia"
+    }
+  ]
+}

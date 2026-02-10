@@ -1,0 +1,20 @@
+{
+  "year": 2013,
+  "companies": [
+    {
+      "id": "sequoia:thumbtack",
+      "name": "Thumbtack",
+      "slug": "thumbtack"
+    },
+    {
+      "id": "sequoia:clever",
+      "name": "Clever",
+      "slug": "clever"
+    },
+    {
+      "id": "sequoia:guardant-health",
+      "name": "Guardant Health",
+      "slug": "guardant-health"
+    }
+  ]
+}

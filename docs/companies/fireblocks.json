@@ -1,0 +1,47 @@
+{
+  "id": "sequoia:fireblocks",
+  "sequoia_id": null,
+  "name": "Fireblocks",
+  "slug": "fireblocks",
+  "description": "Fireblocks is an enterprise-grade platform with a secure infrastructure for moving, storing and issuing digital assets. It lets exchanges, custodians, banks, trading desks and hedge funds securely scale digital asset operations through the Fireblocks Network and MPC-based Wallet Infrastructure. Fireblocks’ insurance policy covers assets in storage and transit.",
+  "website": "https://www.fireblocks.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/fireblockshq",
+    "linkedin": "https://www.linkedin.com/company/fireblocks/"
+  },
+  "categories": [
+    "crypto",
+    "fintech"
+  ],
+  "current_stage": null,
+  "first_partnered_year": 2021,
+  "partners": [
+    "ravi-gupta"
+  ],
+  "primary_partner": "ravi-gupta",
+  "milestones": {
+    "founded_year": 2018,
+    "partnered_year": 2021,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Pavel Berengoltz",
+      "role": null
+    },
+    {
+      "name": "Idan Ofrat",
+      "role": null
+    },
+    {
+      "name": "Michael Shaulov",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/fireblocks/"
+  }
+}

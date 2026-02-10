@@ -1,0 +1,42 @@
+{
+  "id": "sequoia:yahoo",
+  "sequoia_id": null,
+  "name": "Yahoo",
+  "slug": "yahoo",
+  "description": "Yahoo is a global media and tech company that connects people to their passions, from finance and sports to shopping, gaming and news. The company also provides a full-stack platform for businesses to amplify growth and drive meaningful connections across advertising, search and media.",
+  "website": "https://www.yahoo.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/Yahoo",
+    "linkedin": "https://www.linkedin.com/company/yahoo"
+  },
+  "categories": [
+    "consumer"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 1995,
+  "partners": [
+    "michael-moritz"
+  ],
+  "primary_partner": "michael-moritz",
+  "milestones": {
+    "founded_year": 1994,
+    "partnered_year": 1995,
+    "ipo_year": 1996,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "David Filo",
+      "role": null
+    },
+    {
+      "name": "Jerry Yang",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/yahoo/"
+  }
+}

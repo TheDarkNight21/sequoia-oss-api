@@ -1,0 +1,10 @@
+{
+  "year": 2009,
+  "companies": [
+    {
+      "id": "sequoia:opendns",
+      "name": "OpenDNS",
+      "slug": "opendns"
+    }
+  ]
+}

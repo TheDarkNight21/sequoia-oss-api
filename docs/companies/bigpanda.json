@@ -1,0 +1,40 @@
+{
+  "id": "sequoia:bigpanda",
+  "sequoia_id": null,
+  "name": "BigPanda",
+  "slug": "bigpanda",
+  "description": "BigPanda improves how IT teams manage data. It analyzes IT alerts from fragmented clouds, applications and systems, and turns them into actionable insights.",
+  "website": "https://bigpanda.io/",
+  "socials": {
+    "twitter": "https://www.twitter.com/bigpanda",
+    "linkedin": "https://www.linkedin.com/company/2598034"
+  },
+  "categories": [
+    "infrastructure"
+  ],
+  "current_stage": null,
+  "first_partnered_year": 2011,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 2011,
+    "partnered_year": 2011,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Elik Eizenberg",
+      "role": null
+    },
+    {
+      "name": "Assaf Resnick",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/bigpanda/"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "sequoia:dbt-labs",
+  "sequoia_id": null,
+  "name": "dbt Labs",
+  "slug": "dbt-labs",
+  "description": "dbt uses integrated analytics to help data teams work like software engineers to ship data faster. Users can work directly within their data warehouse to quickly produce trusted datasets for reporting, ML modeling and operational workflows.",
+  "website": "https://www.getdbt.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/getdbt",
+    "linkedin": "https://www.linkedin.com/company/dbtlabs/"
+  },
+  "categories": [
+    "data-analytics"
+  ],
+  "current_stage": null,
+  "first_partnered_year": 2020,
+  "partners": [
+    "sonya-huang"
+  ],
+  "primary_partner": "sonya-huang",
+  "milestones": {
+    "founded_year": 2016,
+    "partnered_year": 2020,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Tristan Handy",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/dbt-labs/"
+  }
+}

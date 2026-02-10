@@ -1,0 +1,38 @@
+{
+  "id": "sequoia:green-dot",
+  "sequoia_id": null,
+  "name": "Green Dot",
+  "slug": "green-dot",
+  "description": "Green Dot is a financial technology and bank holding company. Through its retail and direct bank, Green Dot offers a suite of financial products for consumers and businesses that includes credit cards, payroll cards and money processing.",
+  "website": "https://www.greendot.com/greendot",
+  "socials": {
+    "twitter": "https://www.twitter.com/greendotcards",
+    "linkedin": "https://www.linkedin.com/company/green-dot-corporation"
+  },
+  "categories": [
+    "fintech"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 2003,
+  "partners": [
+    "michael-moritz"
+  ],
+  "primary_partner": "michael-moritz",
+  "milestones": {
+    "founded_year": 1999,
+    "partnered_year": 2003,
+    "ipo_year": 2010,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Steve Streit",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/green-dot/"
+  }
+}

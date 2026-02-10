@@ -1,0 +1,39 @@
+{
+  "id": "sequoia:otter",
+  "sequoia_id": null,
+  "name": "Otter",
+  "slug": "otter",
+  "description": "Otter connects parents who need childcare with stay-at-home parents who can watch their kids. Its goal is for every child to have access to safe, high-quality childcare and for every stay-at-home parent to be economically empowered in a way that has never been possible.",
+  "website": "https://withotter.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/WithOtter",
+    "linkedin": "https://www.linkedin.com/company/withotter/"
+  },
+  "categories": [
+    "consumer"
+  ],
+  "current_stage": null,
+  "first_partnered_year": 2021,
+  "partners": [
+    "jess-lee",
+    "alfred-lin"
+  ],
+  "primary_partner": "jess-lee",
+  "milestones": {
+    "founded_year": 2020,
+    "partnered_year": 2021,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Helen Mayer",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/otter/"
+  }
+}

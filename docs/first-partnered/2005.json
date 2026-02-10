@@ -1,0 +1,15 @@
+{
+  "year": 2005,
+  "companies": [
+    {
+      "id": "sequoia:kayak",
+      "name": "KAYAK",
+      "slug": "kayak"
+    },
+    {
+      "id": "sequoia:barracuda-networks",
+      "name": "Barracuda",
+      "slug": "barracuda-networks"
+    }
+  ]
+}

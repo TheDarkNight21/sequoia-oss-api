@@ -1,0 +1,15 @@
+{
+  "year": 2014,
+  "companies": [
+    {
+      "id": "sequoia:sumo-logic",
+      "name": "Sumo Logic",
+      "slug": "sumo-logic"
+    },
+    {
+      "id": "sequoia:plangrid",
+      "name": "PlanGrid",
+      "slug": "plangrid"
+    }
+  ]
+}

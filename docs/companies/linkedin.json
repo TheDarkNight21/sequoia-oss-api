@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:linkedin",
+  "sequoia_id": null,
+  "name": "LinkedIn",
+  "slug": "linkedin",
+  "description": "In 2003, LinkedIn launched the social network for professionals. Today LinkedIn, which is now part of Microsoft, helps hundreds of millions of users worldwide become more productive and successful.",
+  "website": null,
+  "socials": {
+    "linkedin": "https://www.linkedin.com",
+    "twitter": "https://www.twitter.com/LinkedIn"
+  },
+  "categories": [
+    "consumer",
+    "data-analytics"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 2003,
+  "partners": [
+    "michael-moritz"
+  ],
+  "primary_partner": "michael-moritz",
+  "milestones": {
+    "founded_year": 2002,
+    "partnered_year": 2003,
+    "ipo_year": 2011,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Jeff Weiner",
+      "role": null
+    },
+    {
+      "name": "Reid Hoffman",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/linkedin/"
+  }
+}

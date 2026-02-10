@@ -1,0 +1,37 @@
+{
+  "id": "sequoia:bridgebio",
+  "sequoia_id": null,
+  "name": "BridgeBio",
+  "slug": "bridgebio",
+  "description": "BridgeBio develops breakthrough medicines for genetic diseases. Its portfolio of more than 15 drugs, all in various stages of development, addresses everything from genetic skin, cancer- and heart-related issues to renal disease.",
+  "website": "https://bridgebio.com/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/bridgebio/about/"
+  },
+  "categories": [
+    "healthcare"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 2018,
+  "partners": [
+    "roelof-botha"
+  ],
+  "primary_partner": "roelof-botha",
+  "milestones": {
+    "founded_year": 2014,
+    "partnered_year": 2018,
+    "ipo_year": 2019,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Neil Kumar",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/bridgebio/"
+  }
+}

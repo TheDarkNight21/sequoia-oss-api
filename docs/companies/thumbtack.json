@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:thumbtack",
+  "sequoia_id": null,
+  "name": "Thumbtack",
+  "slug": "thumbtack",
+  "description": "Thumbtack helps people care for their homes from top to bottom, whether it’s a minor repair or a major remodel. Its home management platform connects customers to the right professionals for projects, empowering them to fix, maintain and improve their most valuable asset.",
+  "website": "https://www.thumbtack.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/thumbtack",
+    "linkedin": "https://www.linkedin.com/company/thumbtack-inc."
+  },
+  "categories": [
+    "consumer"
+  ],
+  "current_stage": null,
+  "first_partnered_year": 2013,
+  "partners": [
+    "bryan-schreier",
+    "sonya-huang"
+  ],
+  "primary_partner": "bryan-schreier",
+  "milestones": {
+    "founded_year": 2009,
+    "partnered_year": 2013,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Jonathan Swanson",
+      "role": null
+    },
+    {
+      "name": "Marco Zappacosta",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/thumbtack/"
+  }
+}

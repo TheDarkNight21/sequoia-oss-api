@@ -1,0 +1,43 @@
+{
+  "id": "sequoia:versa-networks",
+  "sequoia_id": null,
+  "name": "Versa Networks",
+  "slug": "versa-networks",
+  "description": "Versa Networks enables service providers and large enterprises to build next-generation WAN and branch networks based on a broad set of virtualized network functions (VNFs). Versa’s VNF-based solutions eliminate costly and proprietary network hardware to increase service agility and significantly reduce total cost of ownership.",
+  "website": "https://www.versa-networks.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/versanetworks",
+    "linkedin": "https://www.linkedin.com/company/versa-networks-inc-"
+  },
+  "categories": [
+    "infrastructure",
+    "security"
+  ],
+  "current_stage": null,
+  "first_partnered_year": 2012,
+  "partners": [
+    "jim-goetz"
+  ],
+  "primary_partner": "jim-goetz",
+  "milestones": {
+    "founded_year": 2012,
+    "partnered_year": 2012,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Apurva Mehta",
+      "role": null
+    },
+    {
+      "name": "Kumar Mehta",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/versa-networks/"
+  }
+}

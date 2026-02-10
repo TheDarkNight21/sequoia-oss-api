@@ -1,0 +1,26 @@
+{
+  "id": "healthcare",
+  "label": "Healthcare",
+  "companies": [
+    {
+      "id": "sequoia:bridgebio",
+      "name": "BridgeBio",
+      "slug": "bridgebio"
+    },
+    {
+      "id": "sequoia:genedit",
+      "name": "GenEdit",
+      "slug": "genedit"
+    },
+    {
+      "id": "sequoia:cellworks",
+      "name": "Cellworks",
+      "slug": "cellworks"
+    },
+    {
+      "id": "sequoia:guardant-health",
+      "name": "Guardant Health",
+      "slug": "guardant-health"
+    }
+  ]
+}

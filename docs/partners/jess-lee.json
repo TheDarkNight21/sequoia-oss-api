@@ -1,0 +1,11 @@
+{
+  "id": "jess-lee",
+  "name": "Jess Lee",
+  "companies": [
+    {
+      "id": "sequoia:otter",
+      "name": "Otter",
+      "slug": "otter"
+    }
+  ]
+}

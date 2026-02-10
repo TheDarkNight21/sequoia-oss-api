@@ -1,0 +1,31 @@
+{
+  "id": "operations",
+  "label": "Operations",
+  "companies": [
+    {
+      "id": "sequoia:productboard",
+      "name": "Productboard",
+      "slug": "productboard"
+    },
+    {
+      "id": "sequoia:remote",
+      "name": "Remote",
+      "slug": "remote"
+    },
+    {
+      "id": "sequoia:truework",
+      "name": "Truework",
+      "slug": "truework"
+    },
+    {
+      "id": "sequoia:infracost",
+      "name": "Infracost",
+      "slug": "infracost"
+    },
+    {
+      "id": "sequoia:ringcentral",
+      "name": "RingCentral",
+      "slug": "ringcentral"
+    }
+  ]
+}

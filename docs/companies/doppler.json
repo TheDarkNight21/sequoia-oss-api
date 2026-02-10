@@ -1,0 +1,36 @@
+{
+  "id": "sequoia:doppler",
+  "sequoia_id": null,
+  "name": "Doppler",
+  "slug": "doppler",
+  "description": "Doppler is a central source of truth for env vars and secrets. It enables sharing of API keys, database urls and certs across users’ team and infra.",
+  "website": "https://doppler.com/",
+  "socials": {
+    "twitter": "https://www.twitter.com/DopplerHQ",
+    "linkedin": "https://www.linkedin.com/company/dopplerhq/"
+  },
+  "categories": [
+    "security"
+  ],
+  "current_stage": null,
+  "first_partnered_year": 2019,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 2018,
+    "partnered_year": 2019,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Brian Vallelunga",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/doppler/"
+  }
+}

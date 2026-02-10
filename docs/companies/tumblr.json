@@ -1,0 +1,38 @@
+{
+  "id": "sequoia:tumblr",
+  "sequoia_id": null,
+  "name": "Tumblr",
+  "slug": "tumblr",
+  "description": "Tumblr is a short-form, mixed-media blogging platform focused on visuals and multimedia. Acquired by Yahoo in 2013, Tumblr attracts hundreds of millions of unique visitors who follow hundreds of millions of blogs. The platform also offers ad purchases and blog themes for companies and users.",
+  "website": "https://www.tumblr.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/tumblr",
+    "linkedin": "https://www.linkedin.com/company/tumblr"
+  },
+  "categories": [
+    "consumer"
+  ],
+  "current_stage": "acquired",
+  "first_partnered_year": 2010,
+  "partners": [
+    "roelof-botha"
+  ],
+  "primary_partner": "roelof-botha",
+  "milestones": {
+    "founded_year": 2007,
+    "partnered_year": 2010,
+    "ipo_year": null,
+    "acquired_year": 2013
+  },
+  "team": [
+    {
+      "name": "David Karp",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/tumblr/"
+  }
+}

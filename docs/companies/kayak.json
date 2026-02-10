@@ -1,0 +1,42 @@
+{
+  "id": "sequoia:kayak",
+  "sequoia_id": null,
+  "name": "KAYAK",
+  "slug": "kayak",
+  "description": "By consolidating search functions for hundreds of travel companies, KAYAK became a one-stop shop for plane tickets, hotels, cars and travel packages. Its app solves a number of travel logistic issues on several platforms with the goal of improving travel.",
+  "website": "https://www.kayak.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/KAYAK",
+    "linkedin": "https://www.linkedin.com/company/kayak"
+  },
+  "categories": [
+    "consumer"
+  ],
+  "current_stage": "acquired",
+  "first_partnered_year": 2005,
+  "partners": [
+    "michael-moritz"
+  ],
+  "primary_partner": "michael-moritz",
+  "milestones": {
+    "founded_year": 2004,
+    "partnered_year": 2005,
+    "ipo_year": 2012,
+    "acquired_year": 2013
+  },
+  "team": [
+    {
+      "name": "Paul English",
+      "role": null
+    },
+    {
+      "name": "Steve Hafner",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/kayak/"
+  }
+}

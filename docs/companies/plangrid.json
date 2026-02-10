@@ -1,0 +1,46 @@
+{
+  "id": "sequoia:plangrid",
+  "sequoia_id": null,
+  "name": "PlanGrid",
+  "slug": "plangrid",
+  "description": "Plangrid’s software brings blueprints and construction plans to the cloud, doing away with physical markups. It gets contractors and architects on the same page for instantaneous collaboration. Plangrid is now part of Autodesk.",
+  "website": "https://www.plangrid.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/PlanGrid",
+    "linkedin": "https://www.linkedin.com/company/plangrid"
+  },
+  "categories": [
+    "productivity"
+  ],
+  "current_stage": "acquired",
+  "first_partnered_year": 2014,
+  "partners": [
+    "doug-leone"
+  ],
+  "primary_partner": "doug-leone",
+  "milestones": {
+    "founded_year": 2011,
+    "partnered_year": 2014,
+    "ipo_year": null,
+    "acquired_year": 2018
+  },
+  "team": [
+    {
+      "name": "Ralph Gootee",
+      "role": null
+    },
+    {
+      "name": "Ryan Sutton-Gee",
+      "role": null
+    },
+    {
+      "name": "Tracy Young",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/plangrid/"
+  }
+}

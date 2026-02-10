@@ -1,0 +1,39 @@
+{
+  "id": "sequoia:ringcentral",
+  "sequoia_id": null,
+  "name": "RingCentral",
+  "slug": "ringcentral",
+  "description": "RingCentral is a global provider of cloud enterprise unified communications and collaboration solutions. It allows mobile and distributed workforces to be connected anywhere and on any device through voice, video, team messaging, collaboration, SMS, conferencing, online meetings, contact center and fax.",
+  "website": "https://www.ringcentral.com",
+  "socials": {
+    "twitter": "https://www.twitter.com/RingCentral",
+    "linkedin": "https://www.linkedin.com/company/ringcentral"
+  },
+  "categories": [
+    "operations",
+    "productivity"
+  ],
+  "current_stage": "ipo",
+  "first_partnered_year": 2006,
+  "partners": [
+    "doug-leone"
+  ],
+  "primary_partner": "doug-leone",
+  "milestones": {
+    "founded_year": 1998,
+    "partnered_year": 2006,
+    "ipo_year": 2013,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Vlad Shmunis",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/ringcentral/"
+  }
+}
