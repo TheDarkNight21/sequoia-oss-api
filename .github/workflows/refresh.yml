@@ -27,6 +27,14 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Restore crawl cache
+        uses: actions/cache@v4
+        with:
+          path: .cache
+          key: crawl-cache-${{ github.run_id }}
+          restore-keys: |
+            crawl-cache-
+
       - name: Run crawler and build into temp directory
         run: python run_build.py --limit 0 --output _build
 
