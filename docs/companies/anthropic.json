@@ -1,0 +1,51 @@
+{
+  "id": "sequoia:anthropic",
+  "sequoia_id": null,
+  "name": "Anthropic",
+  "slug": "anthropic",
+  "description": "Anthropic is a public benefit corporation dedicated to securing AI’s benefits and mitigating its risks.",
+  "website": "https://www.anthropic.com/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/anthropicresearch/"
+  },
+  "categories": [
+    "ai"
+  ],
+  "current_stage": null,
+  "first_partnered_year": 2026,
+  "partners": [
+    "sonya-huang",
+    "james-flynn",
+    "lauren-reeder"
+  ],
+  "primary_partner": "sonya-huang",
+  "milestones": {
+    "founded_year": 2021,
+    "partnered_year": 2026,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Dario Amodei",
+      "role": null
+    },
+    {
+      "name": "Daniela Amodei",
+      "role": null
+    },
+    {
+      "name": "Jack Clark",
+      "role": null
+    },
+    {
+      "name": "Jared Kaplan",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/anthropic/"
+  }
+}

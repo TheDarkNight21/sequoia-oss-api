@@ -16739,6 +16739,52 @@
     }
   },
   {
+    "id": "sequoia:sesame-ai",
+    "sequoia_id": "19697",
+    "name": "Sesame AI",
+    "slug": "sesame-ai",
+    "description": "Sesame is an interdisciplinary product and research team focused on creating lifelike voice agents that bring computers to life through natural human speech and interaction. The company develops systems designed to understand context, nuance and intent, enabling machines to see, hear and collaborate conversationally with people while advancing voice technology to cross the uncanny valley and make dialogue feel genuinely human-like. Their work spans intelligent voice agents that stay informed, provide conversational support and help users stay organized, alongside lightweight everyday wearable hardware that delivers seamless, high-quality access to voice agents in daily life.",
+    "website": "https://www.sesame.com/",
+    "socials": {
+      "linkedin": "https://www.linkedin.com/company/sesameai/"
+    },
+    "categories": [
+      "ai"
+    ],
+    "current_stage": "growth",
+    "first_partnered_year": 2025,
+    "partners": [
+      "david-cahn",
+      "roelof-botha"
+    ],
+    "primary_partner": "david-cahn",
+    "milestones": {
+      "founded_year": 2022,
+      "partnered_year": 2025,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Ryan Brown",
+        "role": null
+      },
+      {
+        "name": "Brendan Iribe",
+        "role": null
+      },
+      {
+        "name": "Ankit Kumar",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/sesame-ai/"
+    }
+  },
+  {
     "id": "sequoia:openai",
     "sequoia_id": "10340",
     "name": "OpenAI",
@@ -16787,49 +16833,54 @@
     }
   },
   {
-    "id": "sequoia:sesame-ai",
-    "sequoia_id": "19697",
-    "name": "Sesame AI",
-    "slug": "sesame-ai",
-    "description": "Sesame is an interdisciplinary product and research team focused on creating lifelike voice agents that bring computers to life through natural human speech and interaction. The company develops systems designed to understand context, nuance and intent, enabling machines to see, hear and collaborate conversationally with people while advancing voice technology to cross the uncanny valley and make dialogue feel genuinely human-like. Their work spans intelligent voice agents that stay informed, provide conversational support and help users stay organized, alongside lightweight everyday wearable hardware that delivers seamless, high-quality access to voice agents in daily life.",
-    "website": "https://www.sesame.com/",
+    "id": "sequoia:anthropic",
+    "sequoia_id": null,
+    "name": "Anthropic",
+    "slug": "anthropic",
+    "description": "Anthropic is a public benefit corporation dedicated to securing AI’s benefits and mitigating its risks.",
+    "website": "https://www.anthropic.com/",
     "socials": {
-      "linkedin": "https://www.linkedin.com/company/sesameai/"
+      "linkedin": "https://www.linkedin.com/company/anthropicresearch/"
     },
     "categories": [
       "ai"
     ],
-    "current_stage": "growth",
-    "first_partnered_year": 2025,
+    "current_stage": null,
+    "first_partnered_year": 2026,
     "partners": [
-      "david-cahn",
-      "roelof-botha"
+      "sonya-huang",
+      "james-flynn",
+      "lauren-reeder"
     ],
-    "primary_partner": "david-cahn",
+    "primary_partner": "sonya-huang",
     "milestones": {
-      "founded_year": 2022,
-      "partnered_year": 2025,
+      "founded_year": 2021,
+      "partnered_year": 2026,
       "ipo_year": null,
       "acquired_year": null
     },
     "team": [
       {
-        "name": "Ryan Brown",
+        "name": "Dario Amodei",
         "role": null
       },
       {
-        "name": "Brendan Iribe",
+        "name": "Daniela Amodei",
         "role": null
       },
       {
-        "name": "Ankit Kumar",
+        "name": "Jack Clark",
+        "role": null
+      },
+      {
+        "name": "Jared Kaplan",
         "role": null
       }
     ],
     "why_partnered": null,
     "source_urls": {
       "directory": "https://sequoiacap.com/our-companies/",
-      "profile": "https://sequoiacap.com/companies/sesame-ai/"
+      "profile": "https://sequoiacap.com/companies/anthropic/"
     }
   }
 ]

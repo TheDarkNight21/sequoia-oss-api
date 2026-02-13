@@ -543,14 +543,19 @@
       "slug": "rogo"
     },
     {
+      "id": "sequoia:sesame-ai",
+      "name": "Sesame AI",
+      "slug": "sesame-ai"
+    },
+    {
       "id": "sequoia:openai",
       "name": "OpenAI",
       "slug": "openai"
     },
     {
-      "id": "sequoia:sesame-ai",
-      "name": "Sesame AI",
-      "slug": "sesame-ai"
+      "id": "sequoia:anthropic",
+      "name": "Anthropic",
+      "slug": "anthropic"
     }
   ]
 }

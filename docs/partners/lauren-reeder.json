@@ -51,6 +51,11 @@
       "id": "sequoia:pace-2",
       "name": "Pace",
       "slug": "pace-2"
+    },
+    {
+      "id": "sequoia:anthropic",
+      "name": "Anthropic",
+      "slug": "anthropic"
     }
   ]
 }

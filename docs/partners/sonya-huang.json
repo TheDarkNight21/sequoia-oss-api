@@ -121,6 +121,11 @@
       "id": "sequoia:fal",
       "name": "fal",
       "slug": "fal"
+    },
+    {
+      "id": "sequoia:anthropic",
+      "name": "Anthropic",
+      "slug": "anthropic"
     }
   ]
 }

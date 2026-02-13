@@ -1,7 +1,7 @@
 {
-  "last_updated_iso": "2026-02-12T06:45:44.138944+00:00",
+  "last_updated_iso": "2026-02-13T06:43:08.322070+00:00",
   "schema_version": "1.0.0",
-  "total_companies": 393,
+  "total_companies": 394,
   "counts_by_stage": {
     "acquired": 33,
     "growth": 157,
@@ -22,7 +22,7 @@
     "security": 34,
     "operations": 32,
     "crypto": 22,
-    "ai": 110,
+    "ai": 111,
     "productivity": 25,
     "legal": 9,
     "climate": 6,

@@ -5,6 +5,11 @@
       "id": "sequoia:waymo",
       "name": "Waymo",
       "slug": "waymo"
+    },
+    {
+      "id": "sequoia:anthropic",
+      "name": "Anthropic",
+      "slug": "anthropic"
     }
   ]
 }
