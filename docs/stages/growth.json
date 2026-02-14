@@ -786,6 +786,11 @@
       "id": "sequoia:openai",
       "name": "OpenAI",
       "slug": "openai"
+    },
+    {
+      "id": "sequoia:anthropic",
+      "name": "Anthropic",
+      "slug": "anthropic"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "id": "sequoia:anthropic",
-  "sequoia_id": null,
+  "sequoia_id": "21598",
   "name": "Anthropic",
   "slug": "anthropic",
   "description": "Anthropic is a public benefit corporation dedicated to securing AI’s benefits and mitigating its risks.",
@@ -11,7 +11,7 @@
   "categories": [
     "ai"
   ],
-  "current_stage": null,
+  "current_stage": "growth",
   "first_partnered_year": 2026,
   "partners": [
     "sonya-huang",
