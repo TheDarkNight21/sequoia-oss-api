@@ -110,6 +110,11 @@
       "id": "sequoia:sesame-ai",
       "name": "Sesame AI",
       "slug": "sesame-ai"
+    },
+    {
+      "id": "sequoia:firetiger",
+      "name": "Firetiger",
+      "slug": "firetiger"
     }
   ]
 }

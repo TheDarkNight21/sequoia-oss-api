@@ -241,6 +241,11 @@
       "id": "sequoia:mindy",
       "name": "Mindy",
       "slug": "mindy"
+    },
+    {
+      "id": "sequoia:firetiger",
+      "name": "Firetiger",
+      "slug": "firetiger"
     }
   ]
 }

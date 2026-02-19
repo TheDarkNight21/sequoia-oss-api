@@ -56,6 +56,11 @@
       "id": "sequoia:anthropic",
       "name": "Anthropic",
       "slug": "anthropic"
+    },
+    {
+      "id": "sequoia:firetiger",
+      "name": "Firetiger",
+      "slug": "firetiger"
     }
   ]
 }

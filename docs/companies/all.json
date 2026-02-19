@@ -16882,5 +16882,47 @@
       "directory": "https://sequoiacap.com/our-companies/",
       "profile": "https://sequoiacap.com/companies/anthropic/"
     }
+  },
+  {
+    "id": "sequoia:firetiger",
+    "sequoia_id": "15481",
+    "name": "Firetiger",
+    "slug": "firetiger",
+    "description": "Firetiger is the operations layer for the agentic coding era. Its AI agents combine production observability data, codebase understanding and business context to identify reliability and performance issues, then steer coding agents to fix them autonomously.",
+    "website": "https://firetiger.com",
+    "socials": {
+      "linkedin": "https://www.linkedin.com/company/firetiger-inc/"
+    },
+    "categories": [
+      "ai"
+    ],
+    "current_stage": "pre-seed-seed",
+    "first_partnered_year": 2025,
+    "partners": [
+      "lauren-reeder",
+      "alfred-lin"
+    ],
+    "primary_partner": "lauren-reeder",
+    "milestones": {
+      "founded_year": 2025,
+      "partnered_year": 2025,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Rustam Lalkaka",
+        "role": null
+      },
+      {
+        "name": "Achille Roussel",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/firetiger/"
+    }
   }
 ]

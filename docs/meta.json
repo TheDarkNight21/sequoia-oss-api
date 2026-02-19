@@ -1,13 +1,13 @@
 {
-  "last_updated_iso": "2026-02-18T06:45:12.225260+00:00",
+  "last_updated_iso": "2026-02-19T06:43:53.347853+00:00",
   "schema_version": "1.0.0",
-  "total_companies": 394,
+  "total_companies": 395,
   "counts_by_stage": {
     "acquired": 33,
     "growth": 158,
     "ipo": 66,
     "early": 77,
-    "pre-seed-seed": 48
+    "pre-seed-seed": 49
   },
   "counts_by_category": {
     "gtm": 30,
@@ -22,7 +22,7 @@
     "security": 34,
     "operations": 32,
     "crypto": 22,
-    "ai": 111,
+    "ai": 112,
     "productivity": 25,
     "legal": 9,
     "climate": 6,

@@ -181,6 +181,11 @@
       "id": "sequoia:openai",
       "name": "OpenAI",
       "slug": "openai"
+    },
+    {
+      "id": "sequoia:firetiger",
+      "name": "Firetiger",
+      "slug": "firetiger"
     }
   ]
 }
