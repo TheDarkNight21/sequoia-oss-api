@@ -118,11 +118,6 @@
       "slug": "physical-intelligence"
     },
     {
-      "id": "sequoia:tanda",
-      "name": "Tanda",
-      "slug": "tanda"
-    },
-    {
       "id": "sequoia:otto-finance",
       "name": "Otto Finance",
       "slug": "otto-finance"
@@ -246,6 +241,11 @@
       "id": "sequoia:firetiger",
       "name": "Firetiger",
       "slug": "firetiger"
+    },
+    {
+      "id": "sequoia:bruce",
+      "name": "Bruce",
+      "slug": "bruce"
     }
   ]
 }

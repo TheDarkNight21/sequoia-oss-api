@@ -1,5 +1,5 @@
 {
-  "last_updated_iso": "2026-02-25T06:46:29.211849+00:00",
+  "last_updated_iso": "2026-02-26T06:43:05.419101+00:00",
   "schema_version": "1.0.0",
   "total_companies": 395,
   "counts_by_stage": {
@@ -12,17 +12,17 @@
   "counts_by_category": {
     "gtm": 30,
     "infrastructure": 22,
-    "consumer": 86,
+    "consumer": 85,
     "hardware": 33,
     "healthcare": 34,
-    "fintech": 40,
+    "fintech": 39,
     "marketplace": 16,
     "data-analytics": 30,
     "developer-tools": 34,
     "security": 34,
     "operations": 32,
     "crypto": 22,
-    "ai": 112,
+    "ai": 113,
     "productivity": 25,
     "legal": 9,
     "climate": 6,

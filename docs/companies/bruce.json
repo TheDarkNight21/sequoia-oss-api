@@ -1,0 +1,45 @@
+{
+  "id": "sequoia:bruce",
+  "sequoia_id": "15251",
+  "name": "Bruce",
+  "slug": "bruce",
+  "description": "Bruce is the trust infrastructure platform for professional services. As an AI-native reputation and discovery layer, it converts real-world relationships and verified performance into structured trust data that powers intelligent search and matching. By scaling trust beyond individual networks, it establishes the system of record for professional trust, aligning market success with real credibility.",
+  "website": "https://www.bruce.bot",
+  "socials": {
+    "facebook": "https://www.facebook.com/BruceBotAIOfficial",
+    "linkedin": "https://www.linkedin.com/company/brucebotai",
+    "instagram": "https://www.instagram.com/BruceBotAI"
+  },
+  "categories": [
+    "ai"
+  ],
+  "current_stage": "pre-seed-seed",
+  "first_partnered_year": 2023,
+  "partners": [],
+  "primary_partner": null,
+  "milestones": {
+    "founded_year": 2023,
+    "partnered_year": 2023,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Jesse Chor",
+      "role": null
+    },
+    {
+      "name": "Mike Emery",
+      "role": null
+    },
+    {
+      "name": "Glen Wong",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/bruce/"
+  }
+}

@@ -7775,58 +7775,6 @@
     }
   },
   {
-    "id": "sequoia:tanda",
-    "sequoia_id": "15251",
-    "name": "Tanda",
-    "slug": "tanda",
-    "description": "Tanda is a community-driven savings service dedicated to improving financial well-being for all. It empowers users to pursue financial goals by building a community of mutual support.",
-    "website": "https://www.tanda.io",
-    "socials": {
-      "facebook": "https://www.facebook.com/TandaAppHQ",
-      "twitter": "https://twitter.com/TandaAppHQ",
-      "linkedin": "https://www.linkedin.com/company/TandaApp",
-      "instagram": "https://www.instagram.com/TandaApp/",
-      "youtube": "https://www.youtube.com/@TandaApp"
-    },
-    "categories": [
-      "consumer",
-      "fintech"
-    ],
-    "current_stage": "pre-seed-seed",
-    "first_partnered_year": 2023,
-    "partners": [],
-    "primary_partner": null,
-    "milestones": {
-      "founded_year": 2023,
-      "partnered_year": 2023,
-      "ipo_year": null,
-      "acquired_year": null
-    },
-    "team": [
-      {
-        "name": "Chris Chan",
-        "role": null
-      },
-      {
-        "name": "Jesse Chor",
-        "role": null
-      },
-      {
-        "name": "Mike Emery",
-        "role": null
-      },
-      {
-        "name": "Glen Wong",
-        "role": null
-      }
-    ],
-    "why_partnered": null,
-    "source_urls": {
-      "directory": "https://sequoiacap.com/our-companies/",
-      "profile": "https://sequoiacap.com/companies/tanda/"
-    }
-  },
-  {
     "id": "sequoia:zafran",
     "sequoia_id": "14926",
     "name": "Zafran",
@@ -16923,6 +16871,51 @@
     "source_urls": {
       "directory": "https://sequoiacap.com/our-companies/",
       "profile": "https://sequoiacap.com/companies/anthropic/"
+    }
+  },
+  {
+    "id": "sequoia:bruce",
+    "sequoia_id": "15251",
+    "name": "Bruce",
+    "slug": "bruce",
+    "description": "Bruce is the trust infrastructure platform for professional services. As an AI-native reputation and discovery layer, it converts real-world relationships and verified performance into structured trust data that powers intelligent search and matching. By scaling trust beyond individual networks, it establishes the system of record for professional trust, aligning market success with real credibility.",
+    "website": "https://www.bruce.bot",
+    "socials": {
+      "facebook": "https://www.facebook.com/BruceBotAIOfficial",
+      "linkedin": "https://www.linkedin.com/company/brucebotai",
+      "instagram": "https://www.instagram.com/BruceBotAI"
+    },
+    "categories": [
+      "ai"
+    ],
+    "current_stage": "pre-seed-seed",
+    "first_partnered_year": 2023,
+    "partners": [],
+    "primary_partner": null,
+    "milestones": {
+      "founded_year": 2023,
+      "partnered_year": 2023,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Jesse Chor",
+        "role": null
+      },
+      {
+        "name": "Mike Emery",
+        "role": null
+      },
+      {
+        "name": "Glen Wong",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/bruce/"
     }
   }
 ]

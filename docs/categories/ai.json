@@ -561,6 +561,11 @@
       "id": "sequoia:anthropic",
       "name": "Anthropic",
       "slug": "anthropic"
+    },
+    {
+      "id": "sequoia:bruce",
+      "name": "Bruce",
+      "slug": "bruce"
     }
   ]
 }

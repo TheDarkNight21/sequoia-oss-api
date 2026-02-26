@@ -228,11 +228,6 @@
       "slug": "captions"
     },
     {
-      "id": "sequoia:tanda",
-      "name": "Tanda",
-      "slug": "tanda"
-    },
-    {
       "id": "sequoia:cafepress",
       "name": "CafePress",
       "slug": "cafepress"

@@ -47,11 +47,6 @@
       "slug": "factory"
     },
     {
-      "id": "sequoia:tanda",
-      "name": "Tanda",
-      "slug": "tanda"
-    },
-    {
       "id": "sequoia:zafran",
       "name": "Zafran",
       "slug": "zafran"
@@ -160,6 +155,11 @@
       "id": "sequoia:mindy",
       "name": "Mindy",
       "slug": "mindy"
+    },
+    {
+      "id": "sequoia:bruce",
+      "name": "Bruce",
+      "slug": "bruce"
     }
   ]
 }
