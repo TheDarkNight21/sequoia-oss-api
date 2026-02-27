@@ -773,11 +773,6 @@
       "slug": "waymo"
     },
     {
-      "id": "sequoia:rogo",
-      "name": "Rogo",
-      "slug": "rogo"
-    },
-    {
       "id": "sequoia:sesame-ai",
       "name": "Sesame AI",
       "slug": "sesame-ai"
@@ -791,6 +786,11 @@
       "id": "sequoia:anthropic",
       "name": "Anthropic",
       "slug": "anthropic"
+    },
+    {
+      "id": "sequoia:rogo",
+      "name": "Rogo",
+      "slug": "rogo"
     }
   ]
 }

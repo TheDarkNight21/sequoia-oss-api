@@ -102,11 +102,6 @@
       "slug": "inferact"
     },
     {
-      "id": "sequoia:rogo",
-      "name": "Rogo",
-      "slug": "rogo"
-    },
-    {
       "id": "sequoia:sesame-ai",
       "name": "Sesame AI",
       "slug": "sesame-ai"
@@ -115,6 +110,11 @@
       "id": "sequoia:firetiger",
       "name": "Firetiger",
       "slug": "firetiger"
+    },
+    {
+      "id": "sequoia:rogo",
+      "name": "Rogo",
+      "slug": "rogo"
     }
   ]
 }
