@@ -16917,5 +16917,91 @@
       "directory": "https://sequoiacap.com/our-companies/",
       "profile": "https://sequoiacap.com/companies/rogo/"
     }
+  },
+  {
+    "id": "sequoia:rowspace",
+    "sequoia_id": "18408",
+    "name": "Rowspace",
+    "slug": "rowspace",
+    "description": "Rowspace helps financial firms make better decisions by turning their proprietary data into compounding edge with AI. The platform connects structured and unstructured data across a firm’s entire history, models how that firm operates and thinks, and delivers that intelligence wherever teams work. Rowspace deploys directly into customer environments for complete data security as they drive AI transformation.",
+    "website": "https://www.rowspace.ai",
+    "socials": {
+      "linkedin": "https://linkedin.com/company/rowspaceai"
+    },
+    "categories": [
+      "fintech"
+    ],
+    "current_stage": "early",
+    "first_partnered_year": 2025,
+    "partners": [
+      "alfred-lin"
+    ],
+    "primary_partner": "alfred-lin",
+    "milestones": {
+      "founded_year": 2024,
+      "partnered_year": 2025,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Yibo Ling",
+        "role": null
+      },
+      {
+        "name": "Michael Manapat",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/rowspace/"
+    }
+  },
+  {
+    "id": "sequoia:flapping-airplanes",
+    "sequoia_id": "21688",
+    "name": "Flapping Airplanes",
+    "slug": "flapping-airplanes",
+    "description": "Flapping Airplanes is a foundational AI research lab devoted to solving the data efficiency problem.",
+    "website": "https://flappingairplanes.com/",
+    "socials": {
+      "linkedin": "https://www.linkedin.com/company/flapping-airplanes/"
+    },
+    "categories": [
+      "ai"
+    ],
+    "current_stage": "pre-seed-seed",
+    "first_partnered_year": 2025,
+    "partners": [
+      "david-cahn"
+    ],
+    "primary_partner": "david-cahn",
+    "milestones": {
+      "founded_year": 2025,
+      "partnered_year": 2025,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Aidan Smith",
+        "role": null
+      },
+      {
+        "name": "Ben Spector",
+        "role": null
+      },
+      {
+        "name": "Asher Spector",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/flapping-airplanes/"
+    }
   }
 ]

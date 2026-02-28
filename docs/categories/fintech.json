@@ -196,6 +196,11 @@
       "id": "sequoia:ethos-technologies",
       "name": "Ethos",
       "slug": "ethos-technologies"
+    },
+    {
+      "id": "sequoia:rowspace",
+      "name": "Rowspace",
+      "slug": "rowspace"
     }
   ]
 }

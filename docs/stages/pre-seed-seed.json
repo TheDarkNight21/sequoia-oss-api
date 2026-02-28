@@ -246,6 +246,11 @@
       "id": "sequoia:bruce",
       "name": "Bruce",
       "slug": "bruce"
+    },
+    {
+      "id": "sequoia:flapping-airplanes",
+      "name": "Flapping Airplanes",
+      "slug": "flapping-airplanes"
     }
   ]
 }

@@ -186,6 +186,11 @@
       "id": "sequoia:firetiger",
       "name": "Firetiger",
       "slug": "firetiger"
+    },
+    {
+      "id": "sequoia:rowspace",
+      "name": "Rowspace",
+      "slug": "rowspace"
     }
   ]
 }

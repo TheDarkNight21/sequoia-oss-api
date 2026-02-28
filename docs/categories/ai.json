@@ -566,6 +566,11 @@
       "id": "sequoia:rogo",
       "name": "Rogo",
       "slug": "rogo"
+    },
+    {
+      "id": "sequoia:flapping-airplanes",
+      "name": "Flapping Airplanes",
+      "slug": "flapping-airplanes"
     }
   ]
 }
