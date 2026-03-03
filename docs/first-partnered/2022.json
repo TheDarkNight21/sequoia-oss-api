@@ -52,11 +52,6 @@
       "slug": "citadel-securities"
     },
     {
-      "id": "sequoia:twain",
-      "name": "Twain",
-      "slug": "twain"
-    },
-    {
       "id": "sequoia:arcwise",
       "name": "Arcwise",
       "slug": "arcwise"
@@ -235,6 +230,11 @@
       "id": "sequoia:tola",
       "name": "Tola",
       "slug": "tola"
+    },
+    {
+      "id": "sequoia:twain",
+      "name": "Twain",
+      "slug": "twain"
     }
   ]
 }

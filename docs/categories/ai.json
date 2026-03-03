@@ -23,11 +23,6 @@
       "slug": "rec-room"
     },
     {
-      "id": "sequoia:twain",
-      "name": "Twain",
-      "slug": "twain"
-    },
-    {
       "id": "sequoia:arcwise",
       "name": "Arcwise",
       "slug": "arcwise"
@@ -571,6 +566,11 @@
       "id": "sequoia:flapping-airplanes",
       "name": "Flapping Airplanes",
       "slug": "flapping-airplanes"
+    },
+    {
+      "id": "sequoia:twain",
+      "name": "Twain",
+      "slug": "twain"
     }
   ]
 }
