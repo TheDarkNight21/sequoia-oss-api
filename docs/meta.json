@@ -1,10 +1,10 @@
 {
-  "last_updated_iso": "2026-03-03T06:34:17.825891+00:00",
+  "last_updated_iso": "2026-03-04T06:30:50.737665+00:00",
   "schema_version": "1.0.0",
-  "total_companies": 397,
+  "total_companies": 398,
   "counts_by_stage": {
     "acquired": 33,
-    "growth": 158,
+    "growth": 159,
     "ipo": 66,
     "early": 78,
     "pre-seed-seed": 50
@@ -15,7 +15,7 @@
     "consumer": 85,
     "hardware": 33,
     "healthcare": 34,
-    "fintech": 40,
+    "fintech": 41,
     "marketplace": 16,
     "data-analytics": 30,
     "developer-tools": 34,

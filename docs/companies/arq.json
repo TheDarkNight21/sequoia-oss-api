@@ -1,0 +1,48 @@
+{
+  "id": "sequoia:arq",
+  "sequoia_id": "18592",
+  "name": "ARQ",
+  "slug": "arq",
+  "description": "ARQ opens the world’s strongest assets and markets to travelers, investors and professionals across the Americas—so they can spend, receive, send and grow their money wherever they are.",
+  "website": "https://www.arqfinance.com",
+  "socials": {
+    "facebook": "https://www.facebook.com/arqfinance/",
+    "linkedin": "https://www.linkedin.com/company/79356857/",
+    "instagram": "https://www.instagram.com/arq_finance",
+    "youtube": "https://www.youtube.com/@arqfinance"
+  },
+  "categories": [
+    "fintech"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2024,
+  "partners": [
+    "andrew-reed"
+  ],
+  "primary_partner": "andrew-reed",
+  "milestones": {
+    "founded_year": 2021,
+    "partnered_year": 2024,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Álvaro Correa",
+      "role": null
+    },
+    {
+      "name": "Zach Garman",
+      "role": null
+    },
+    {
+      "name": "Fernando Terrés",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/arq/"
+  }
+}

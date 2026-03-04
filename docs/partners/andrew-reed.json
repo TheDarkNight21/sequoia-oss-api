@@ -141,6 +141,11 @@
       "id": "sequoia:figma",
       "name": "Figma",
       "slug": "figma"
+    },
+    {
+      "id": "sequoia:arq",
+      "name": "ARQ",
+      "slug": "arq"
     }
   ]
 }

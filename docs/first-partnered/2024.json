@@ -170,6 +170,11 @@
       "id": "sequoia:blockit-ai",
       "name": "Blockit AI",
       "slug": "blockit-ai"
+    },
+    {
+      "id": "sequoia:arq",
+      "name": "ARQ",
+      "slug": "arq"
     }
   ]
 }
