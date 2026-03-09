@@ -123,11 +123,6 @@
       "slug": "zed"
     },
     {
-      "id": "sequoia:langchain",
-      "name": "LangChain",
-      "slug": "langchain"
-    },
-    {
       "id": "sequoia:magic",
       "name": "Magic",
       "slug": "magic"
@@ -171,6 +166,11 @@
       "id": "sequoia:unity-technologies",
       "name": "Unity",
       "slug": "unity-technologies"
+    },
+    {
+      "id": "sequoia:langchain",
+      "name": "LangChain",
+      "slug": "langchain"
     }
   ]
 }

@@ -122,11 +122,6 @@
       "slug": "zed"
     },
     {
-      "id": "sequoia:langchain",
-      "name": "LangChain",
-      "slug": "langchain"
-    },
-    {
       "id": "sequoia:magic",
       "name": "Magic",
       "slug": "magic"
@@ -175,6 +170,11 @@
       "id": "sequoia:arq",
       "name": "ARQ",
       "slug": "arq"
+    },
+    {
+      "id": "sequoia:langchain",
+      "name": "LangChain",
+      "slug": "langchain"
     }
   ]
 }

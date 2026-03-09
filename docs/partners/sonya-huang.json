@@ -93,11 +93,6 @@
       "slug": "zed"
     },
     {
-      "id": "sequoia:langchain",
-      "name": "LangChain",
-      "slug": "langchain"
-    },
-    {
       "id": "sequoia:fireworks-ai",
       "name": "Fireworks AI",
       "slug": "fireworks-ai"
@@ -126,6 +121,11 @@
       "id": "sequoia:anthropic",
       "name": "Anthropic",
       "slug": "anthropic"
+    },
+    {
+      "id": "sequoia:langchain",
+      "name": "LangChain",
+      "slug": "langchain"
     }
   ]
 }

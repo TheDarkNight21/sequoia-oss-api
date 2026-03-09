@@ -293,11 +293,6 @@
       "slug": "irregular"
     },
     {
-      "id": "sequoia:langchain",
-      "name": "LangChain",
-      "slug": "langchain"
-    },
-    {
       "id": "sequoia:openevidence",
       "name": "OpenEvidence",
       "slug": "openevidence"
@@ -391,6 +386,11 @@
       "id": "sequoia:rowspace",
       "name": "Rowspace",
       "slug": "rowspace"
+    },
+    {
+      "id": "sequoia:langchain",
+      "name": "LangChain",
+      "slug": "langchain"
     }
   ]
 }

@@ -363,11 +363,6 @@
       "slug": "elevenlabs"
     },
     {
-      "id": "sequoia:langchain",
-      "name": "LangChain",
-      "slug": "langchain"
-    },
-    {
       "id": "sequoia:fireworks-ai",
       "name": "Fireworks AI",
       "slug": "fireworks-ai"
@@ -571,6 +566,11 @@
       "id": "sequoia:twain",
       "name": "Twain",
       "slug": "twain"
+    },
+    {
+      "id": "sequoia:langchain",
+      "name": "LangChain",
+      "slug": "langchain"
     }
   ]
 }
