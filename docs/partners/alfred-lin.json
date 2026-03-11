@@ -143,11 +143,6 @@
       "slug": "turnkey"
     },
     {
-      "id": "sequoia:kalshi",
-      "name": "Kalshi",
-      "slug": "kalshi"
-    },
-    {
       "id": "sequoia:nominal",
       "name": "Nominal",
       "slug": "nominal"
@@ -191,6 +186,11 @@
       "id": "sequoia:rowspace",
       "name": "Rowspace",
       "slug": "rowspace"
+    },
+    {
+      "id": "sequoia:kalshi",
+      "name": "Kalshi",
+      "slug": "kalshi"
     }
   ]
 }

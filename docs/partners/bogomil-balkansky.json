@@ -91,6 +91,11 @@
       "id": "sequoia:sandstone",
       "name": "Sandstone",
       "slug": "sandstone"
+    },
+    {
+      "id": "sequoia:scanner",
+      "name": "Scanner",
+      "slug": "scanner"
     }
   ]
 }

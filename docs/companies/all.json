@@ -573,40 +573,42 @@
     }
   },
   {
-    "id": "sequoia:oracle",
-    "sequoia_id": "512",
-    "name": "Oracle",
-    "slug": "oracle",
-    "description": "For decades, Oracle has engineered integrated hardware and software systems for some of the largest companies in the world. Oracle optimizes cloud monitoring and storage, develops databases and enterprises, and provides complementary services for cloud and real-world data centers.",
-    "website": "https://www.oracle.com",
+    "id": "sequoia:opendns",
+    "sequoia_id": "510",
+    "name": "OpenDNS",
+    "slug": "opendns",
+    "description": "OpenDNS is a suite of consumer products aimed at making the internet faster, safer and more reliable. Providing a layer of protection on and off a company’s network, it prevents malicious attacks over any port or protocol. OpenDNS easy to deploy without any hardware, software or manual updates. The company is now part of Cisco.",
+    "website": "https://www.opendns.com",
     "socials": {
-      "twitter": "https://www.twitter.com/Oracle",
-      "linkedin": "https://www.linkedin.com/company/oracle"
+      "twitter": "https://www.twitter.com/opendns",
+      "linkedin": "https://www.linkedin.com/company/opendns"
     },
     "categories": [
-      "hardware",
-      "infrastructure"
+      "infrastructure",
+      "security"
     ],
-    "current_stage": "ipo",
-    "first_partnered_year": 1983,
-    "partners": [],
-    "primary_partner": null,
+    "current_stage": "acquired",
+    "first_partnered_year": 2009,
+    "partners": [
+      "pat-grady"
+    ],
+    "primary_partner": "pat-grady",
     "milestones": {
-      "founded_year": 1977,
-      "partnered_year": 1983,
-      "ipo_year": 1986,
-      "acquired_year": null
+      "founded_year": 2006,
+      "partnered_year": 2009,
+      "ipo_year": null,
+      "acquired_year": 2015
     },
     "team": [
       {
-        "name": "Larry Ellison",
+        "name": "David Ulevitch",
         "role": null
       }
     ],
     "why_partnered": null,
     "source_urls": {
       "directory": "https://sequoiacap.com/our-companies/",
-      "profile": "https://sequoiacap.com/companies/oracle/"
+      "profile": "https://sequoiacap.com/companies/opendns/"
     }
   },
   {
@@ -653,42 +655,40 @@
     }
   },
   {
-    "id": "sequoia:opendns",
-    "sequoia_id": "510",
-    "name": "OpenDNS",
-    "slug": "opendns",
-    "description": "OpenDNS is a suite of consumer products aimed at making the internet faster, safer and more reliable. Providing a layer of protection on and off a company’s network, it prevents malicious attacks over any port or protocol. OpenDNS easy to deploy without any hardware, software or manual updates. The company is now part of Cisco.",
-    "website": "https://www.opendns.com",
+    "id": "sequoia:oracle",
+    "sequoia_id": "512",
+    "name": "Oracle",
+    "slug": "oracle",
+    "description": "For decades, Oracle has engineered integrated hardware and software systems for some of the largest companies in the world. Oracle optimizes cloud monitoring and storage, develops databases and enterprises, and provides complementary services for cloud and real-world data centers.",
+    "website": "https://www.oracle.com",
     "socials": {
-      "twitter": "https://www.twitter.com/opendns",
-      "linkedin": "https://www.linkedin.com/company/opendns"
+      "twitter": "https://www.twitter.com/Oracle",
+      "linkedin": "https://www.linkedin.com/company/oracle"
     },
     "categories": [
-      "infrastructure",
-      "security"
+      "hardware",
+      "infrastructure"
     ],
-    "current_stage": "acquired",
-    "first_partnered_year": 2009,
-    "partners": [
-      "pat-grady"
-    ],
-    "primary_partner": "pat-grady",
+    "current_stage": "ipo",
+    "first_partnered_year": 1983,
+    "partners": [],
+    "primary_partner": null,
     "milestones": {
-      "founded_year": 2006,
-      "partnered_year": 2009,
-      "ipo_year": null,
-      "acquired_year": 2015
+      "founded_year": 1977,
+      "partnered_year": 1983,
+      "ipo_year": 1986,
+      "acquired_year": null
     },
     "team": [
       {
-        "name": "David Ulevitch",
+        "name": "Larry Ellison",
         "role": null
       }
     ],
     "why_partnered": null,
     "source_urls": {
       "directory": "https://sequoiacap.com/our-companies/",
-      "profile": "https://sequoiacap.com/companies/opendns/"
+      "profile": "https://sequoiacap.com/companies/oracle/"
     }
   },
   {
@@ -13382,51 +13382,6 @@
     }
   },
   {
-    "id": "sequoia:kalshi",
-    "sequoia_id": "423",
-    "name": "Kalshi",
-    "slug": "kalshi",
-    "description": "Kalshi is the first federally regulated exchange dedicated to trading on future events. Its exchange allows investors to buy yes or no positions on possible events through a novel asset class called event contracts.",
-    "website": "https://kalshi.com/",
-    "socials": {
-      "twitter": "https://www.twitter.com/kalshi_official",
-      "linkedin": "https://www.linkedin.com/company/kalshi/",
-      "instagram": "https://www.instagram.com/kalshi_official"
-    },
-    "categories": [
-      "consumer",
-      "fintech"
-    ],
-    "current_stage": "early",
-    "first_partnered_year": 2020,
-    "partners": [
-      "alfred-lin",
-      "abhishek-malani"
-    ],
-    "primary_partner": "alfred-lin",
-    "milestones": {
-      "founded_year": 2018,
-      "partnered_year": 2020,
-      "ipo_year": null,
-      "acquired_year": null
-    },
-    "team": [
-      {
-        "name": "Luana Lopes Lara",
-        "role": null
-      },
-      {
-        "name": "Tarek Mansour",
-        "role": null
-      }
-    ],
-    "why_partnered": null,
-    "source_urls": {
-      "directory": "https://sequoiacap.com/our-companies/",
-      "profile": "https://sequoiacap.com/companies/kalshi/"
-    }
-  },
-  {
     "id": "sequoia:zed",
     "sequoia_id": "18402",
     "name": "Zed",
@@ -17050,6 +17005,93 @@
     "source_urls": {
       "directory": "https://sequoiacap.com/our-companies/",
       "profile": "https://sequoiacap.com/companies/langchain/"
+    }
+  },
+  {
+    "id": "sequoia:kalshi",
+    "sequoia_id": "423",
+    "name": "Kalshi",
+    "slug": "kalshi",
+    "description": "Kalshi is the first federally regulated exchange dedicated to trading on future events. Its exchange allows investors to buy yes or no positions on possible events through a novel asset class called event contracts.",
+    "website": "https://kalshi.com/",
+    "socials": {
+      "twitter": "https://www.twitter.com/kalshi_official",
+      "linkedin": "https://www.linkedin.com/company/kalshi/",
+      "instagram": "https://www.instagram.com/kalshi_official"
+    },
+    "categories": [
+      "consumer",
+      "fintech"
+    ],
+    "current_stage": "early",
+    "first_partnered_year": 2020,
+    "partners": [
+      "alfred-lin",
+      "abhishek-malani"
+    ],
+    "primary_partner": "alfred-lin",
+    "milestones": {
+      "founded_year": 2018,
+      "partnered_year": 2020,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Luana Lopes Lara",
+        "role": null
+      },
+      {
+        "name": "Tarek Mansour",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/kalshi/"
+    }
+  },
+  {
+    "id": "sequoia:scanner",
+    "sequoia_id": "21595",
+    "name": "Scanner",
+    "slug": "scanner",
+    "description": "AI agents are reshaping how security teams investigate threats, and they need a radically different kind of data layer to do it. Scanner indexes security logs directly in S3, making petabytes of data searchable in seconds at a fraction of traditional SIEM costs. Customers including Notion, Ramp and BeyondTrust use Scanner to run detections across years of data. AI agents now execute over 80% of queries on the platform.",
+    "website": "https://scanner.dev",
+    "socials": {
+      "linkedin": "https://www.linkedin.com/company/scanner-dev/",
+      "youtube": "https://www.youtube.com/@Scanner_dev"
+    },
+    "categories": [
+      "security"
+    ],
+    "current_stage": "early",
+    "first_partnered_year": 2026,
+    "partners": [
+      "bogomil-balkansky"
+    ],
+    "primary_partner": "bogomil-balkansky",
+    "milestones": {
+      "founded_year": 2022,
+      "partnered_year": 2026,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Cliff Crosland",
+        "role": null
+      },
+      {
+        "name": "Steven Wu",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/scanner/"
     }
   }
 ]

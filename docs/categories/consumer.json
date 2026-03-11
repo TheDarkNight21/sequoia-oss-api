@@ -368,11 +368,6 @@
       "slug": "elevate"
     },
     {
-      "id": "sequoia:kalshi",
-      "name": "Kalshi",
-      "slug": "kalshi"
-    },
-    {
       "id": "sequoia:google",
       "name": "Google",
       "slug": "google"
@@ -426,6 +421,11 @@
       "id": "sequoia:waymo",
       "name": "Waymo",
       "slug": "waymo"
+    },
+    {
+      "id": "sequoia:kalshi",
+      "name": "Kalshi",
+      "slug": "kalshi"
     }
   ]
 }

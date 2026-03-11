@@ -10,6 +10,11 @@
       "id": "sequoia:anthropic",
       "name": "Anthropic",
       "slug": "anthropic"
+    },
+    {
+      "id": "sequoia:scanner",
+      "name": "Scanner",
+      "slug": "scanner"
     }
   ]
 }

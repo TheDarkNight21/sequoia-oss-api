@@ -3,11 +3,6 @@
   "name": "Abhishek Malani",
   "companies": [
     {
-      "id": "sequoia:kalshi",
-      "name": "Kalshi",
-      "slug": "kalshi"
-    },
-    {
       "id": "sequoia:juicebox",
       "name": "Juicebox",
       "slug": "juicebox"
@@ -16,6 +11,11 @@
       "id": "sequoia:waymo",
       "name": "Waymo",
       "slug": "waymo"
+    },
+    {
+      "id": "sequoia:kalshi",
+      "name": "Kalshi",
+      "slug": "kalshi"
     }
   ]
 }

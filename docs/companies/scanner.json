@@ -1,0 +1,42 @@
+{
+  "id": "sequoia:scanner",
+  "sequoia_id": "21595",
+  "name": "Scanner",
+  "slug": "scanner",
+  "description": "AI agents are reshaping how security teams investigate threats, and they need a radically different kind of data layer to do it. Scanner indexes security logs directly in S3, making petabytes of data searchable in seconds at a fraction of traditional SIEM costs. Customers including Notion, Ramp and BeyondTrust use Scanner to run detections across years of data. AI agents now execute over 80% of queries on the platform.",
+  "website": "https://scanner.dev",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/scanner-dev/",
+    "youtube": "https://www.youtube.com/@Scanner_dev"
+  },
+  "categories": [
+    "security"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2026,
+  "partners": [
+    "bogomil-balkansky"
+  ],
+  "primary_partner": "bogomil-balkansky",
+  "milestones": {
+    "founded_year": 2022,
+    "partnered_year": 2026,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Cliff Crosland",
+      "role": null
+    },
+    {
+      "name": "Steven Wu",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/scanner/"
+  }
+}

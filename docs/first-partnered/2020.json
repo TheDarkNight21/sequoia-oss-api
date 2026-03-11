@@ -147,11 +147,6 @@
       "slug": "blues"
     },
     {
-      "id": "sequoia:kalshi",
-      "name": "Kalshi",
-      "slug": "kalshi"
-    },
-    {
       "id": "sequoia:n8n",
       "name": "n8n",
       "slug": "n8n"
@@ -180,6 +175,11 @@
       "id": "sequoia:anrok",
       "name": "Anrok",
       "slug": "anrok"
+    },
+    {
+      "id": "sequoia:kalshi",
+      "name": "Kalshi",
+      "slug": "kalshi"
     }
   ]
 }

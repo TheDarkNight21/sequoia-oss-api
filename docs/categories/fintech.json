@@ -138,11 +138,6 @@
       "slug": "two"
     },
     {
-      "id": "sequoia:kalshi",
-      "name": "Kalshi",
-      "slug": "kalshi"
-    },
-    {
       "id": "sequoia:klarna",
       "name": "Klarna",
       "slug": "klarna"
@@ -206,6 +201,11 @@
       "id": "sequoia:arq",
       "name": "ARQ",
       "slug": "arq"
+    },
+    {
+      "id": "sequoia:kalshi",
+      "name": "Kalshi",
+      "slug": "kalshi"
     }
   ]
 }

@@ -283,11 +283,6 @@
       "slug": "zefir"
     },
     {
-      "id": "sequoia:kalshi",
-      "name": "Kalshi",
-      "slug": "kalshi"
-    },
-    {
       "id": "sequoia:irregular",
       "name": "Irregular",
       "slug": "irregular"
@@ -391,6 +386,16 @@
       "id": "sequoia:langchain",
       "name": "LangChain",
       "slug": "langchain"
+    },
+    {
+      "id": "sequoia:kalshi",
+      "name": "Kalshi",
+      "slug": "kalshi"
+    },
+    {
+      "id": "sequoia:scanner",
+      "name": "Scanner",
+      "slug": "scanner"
     }
   ]
 }
