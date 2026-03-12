@@ -166,6 +166,11 @@
       "id": "sequoia:mos",
       "name": "Mos",
       "slug": "mos"
+    },
+    {
+      "id": "sequoia:wiz",
+      "name": "Wiz",
+      "slug": "wiz"
     }
   ]
 }

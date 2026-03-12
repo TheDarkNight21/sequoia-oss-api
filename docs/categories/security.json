@@ -143,11 +143,6 @@
       "slug": "xbow"
     },
     {
-      "id": "sequoia:wiz",
-      "name": "Wiz",
-      "slug": "wiz"
-    },
-    {
       "id": "sequoia:salt-security",
       "name": "Salt Security",
       "slug": "salt-security"
@@ -176,6 +171,11 @@
       "id": "sequoia:scanner",
       "name": "Scanner",
       "slug": "scanner"
+    },
+    {
+      "id": "sequoia:wiz",
+      "name": "Wiz",
+      "slug": "wiz"
     }
   ]
 }

@@ -63,11 +63,6 @@
       "slug": "servicenow"
     },
     {
-      "id": "sequoia:wiz",
-      "name": "Wiz",
-      "slug": "wiz"
-    },
-    {
       "id": "sequoia:physna",
       "name": "Physna",
       "slug": "physna"
@@ -81,6 +76,11 @@
       "id": "sequoia:trade-republic",
       "name": "Trade Republic",
       "slug": "trade-republic"
+    },
+    {
+      "id": "sequoia:wiz",
+      "name": "Wiz",
+      "slug": "wiz"
     }
   ]
 }

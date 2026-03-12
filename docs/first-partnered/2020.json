@@ -112,11 +112,6 @@
       "slug": "sunday"
     },
     {
-      "id": "sequoia:wiz",
-      "name": "Wiz",
-      "slug": "wiz"
-    },
-    {
       "id": "sequoia:supernova",
       "name": "Supernova",
       "slug": "supernova"
@@ -180,6 +175,11 @@
       "id": "sequoia:kalshi",
       "name": "Kalshi",
       "slug": "kalshi"
+    },
+    {
+      "id": "sequoia:wiz",
+      "name": "Wiz",
+      "slug": "wiz"
     }
   ]
 }
