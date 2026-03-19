@@ -396,6 +396,11 @@
       "id": "sequoia:scanner",
       "name": "Scanner",
       "slug": "scanner"
+    },
+    {
+      "id": "sequoia:edra",
+      "name": "Edra",
+      "slug": "edra"
     }
   ]
 }

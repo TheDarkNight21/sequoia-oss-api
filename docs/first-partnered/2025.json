@@ -125,6 +125,11 @@
       "id": "sequoia:flapping-airplanes",
       "name": "Flapping Airplanes",
       "slug": "flapping-airplanes"
+    },
+    {
+      "id": "sequoia:edra",
+      "name": "Edra",
+      "slug": "edra"
     }
   ]
 }

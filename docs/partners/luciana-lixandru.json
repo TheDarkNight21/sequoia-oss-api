@@ -51,6 +51,11 @@
       "id": "sequoia:nevis",
       "name": "Nevis",
       "slug": "nevis"
+    },
+    {
+      "id": "sequoia:edra",
+      "name": "Edra",
+      "slug": "edra"
     }
   ]
 }

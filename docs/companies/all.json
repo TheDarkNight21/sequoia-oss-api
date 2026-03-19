@@ -17093,5 +17093,46 @@
       "directory": "https://sequoiacap.com/our-companies/",
       "profile": "https://sequoiacap.com/companies/wiz/"
     }
+  },
+  {
+    "id": "sequoia:edra",
+    "sequoia_id": "21797",
+    "name": "Edra",
+    "slug": "edra",
+    "description": "Edra learns how businesses operate to give AI agents the knowledge they need to automate operations.",
+    "website": "https://edra.ai/",
+    "socials": {
+      "linkedin": "https://www.linkedin.com/company/edra-ai"
+    },
+    "categories": [
+      "ai"
+    ],
+    "current_stage": "early",
+    "first_partnered_year": 2025,
+    "partners": [
+      "luciana-lixandru"
+    ],
+    "primary_partner": "luciana-lixandru",
+    "milestones": {
+      "founded_year": 2024,
+      "partnered_year": 2025,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Eugen Alpeza",
+        "role": null
+      },
+      {
+        "name": "Yannis Karamanlakis",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/edra/"
+    }
   }
 ]
