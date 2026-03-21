@@ -33,11 +33,6 @@
       "slug": "ironclad"
     },
     {
-      "id": "sequoia:harvey",
-      "name": "Harvey",
-      "slug": "harvey"
-    },
-    {
       "id": "sequoia:crosby",
       "name": "Crosby",
       "slug": "crosby"
@@ -46,6 +41,11 @@
       "id": "sequoia:sandstone",
       "name": "Sandstone",
       "slug": "sandstone"
+    },
+    {
+      "id": "sequoia:harvey",
+      "name": "Harvey",
+      "slug": "harvey"
     }
   ]
 }

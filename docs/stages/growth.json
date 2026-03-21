@@ -493,11 +493,6 @@
       "slug": "pennylane"
     },
     {
-      "id": "sequoia:draftea",
-      "name": "Draftea",
-      "slug": "draftea"
-    },
-    {
       "id": "sequoia:peregrine",
       "name": "Peregrine",
       "slug": "peregrine"
@@ -623,11 +618,6 @@
       "slug": "elevate"
     },
     {
-      "id": "sequoia:rillet",
-      "name": "Rillet",
-      "slug": "rillet"
-    },
-    {
       "id": "sequoia:zed",
       "name": "Zed",
       "slug": "zed"
@@ -661,11 +651,6 @@
       "id": "sequoia:ramp",
       "name": "Ramp",
       "slug": "ramp"
-    },
-    {
-      "id": "sequoia:harvey",
-      "name": "Harvey",
-      "slug": "harvey"
     },
     {
       "id": "sequoia:gong",
@@ -748,11 +733,6 @@
       "slug": "fal"
     },
     {
-      "id": "sequoia:serval",
-      "name": "Serval",
-      "slug": "serval"
-    },
-    {
       "id": "sequoia:withcoverage",
       "name": "WithCoverage",
       "slug": "withcoverage"
@@ -773,11 +753,6 @@
       "slug": "sesame-ai"
     },
     {
-      "id": "sequoia:openai",
-      "name": "OpenAI",
-      "slug": "openai"
-    },
-    {
       "id": "sequoia:anthropic",
       "name": "Anthropic",
       "slug": "anthropic"
@@ -791,6 +766,31 @@
       "id": "sequoia:arq",
       "name": "ARQ",
       "slug": "arq"
+    },
+    {
+      "id": "sequoia:serval",
+      "name": "Serval",
+      "slug": "serval"
+    },
+    {
+      "id": "sequoia:rillet",
+      "name": "Rillet",
+      "slug": "rillet"
+    },
+    {
+      "id": "sequoia:draftea",
+      "name": "Draftea",
+      "slug": "draftea"
+    },
+    {
+      "id": "sequoia:harvey",
+      "name": "Harvey",
+      "slug": "harvey"
+    },
+    {
+      "id": "sequoia:openai",
+      "name": "OpenAI",
+      "slug": "openai"
     }
   ]
 }

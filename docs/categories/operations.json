@@ -133,11 +133,6 @@
       "slug": "squint"
     },
     {
-      "id": "sequoia:rillet",
-      "name": "Rillet",
-      "slug": "rillet"
-    },
-    {
       "id": "sequoia:ramp",
       "name": "Ramp",
       "slug": "ramp"
@@ -161,6 +156,11 @@
       "id": "sequoia:anrok",
       "name": "Anrok",
       "slug": "anrok"
+    },
+    {
+      "id": "sequoia:rillet",
+      "name": "Rillet",
+      "slug": "rillet"
     }
   ]
 }

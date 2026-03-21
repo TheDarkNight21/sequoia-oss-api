@@ -142,11 +142,6 @@
       "slug": "pennylane"
     },
     {
-      "id": "sequoia:draftea",
-      "name": "Draftea",
-      "slug": "draftea"
-    },
-    {
       "id": "sequoia:notion",
       "name": "Notion",
       "slug": "notion"
@@ -220,6 +215,11 @@
       "id": "sequoia:evy",
       "name": "Evy",
       "slug": "evy"
+    },
+    {
+      "id": "sequoia:draftea",
+      "name": "Draftea",
+      "slug": "draftea"
     },
     {
       "id": "sequoia:openai",

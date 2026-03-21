@@ -122,11 +122,6 @@
       "slug": "ramp"
     },
     {
-      "id": "sequoia:harvey",
-      "name": "Harvey",
-      "slug": "harvey"
-    },
-    {
       "id": "sequoia:day-ai",
       "name": "Day.ai",
       "slug": "day-ai"
@@ -160,6 +155,11 @@
       "id": "sequoia:bruce",
       "name": "Bruce",
       "slug": "bruce"
+    },
+    {
+      "id": "sequoia:harvey",
+      "name": "Harvey",
+      "slug": "harvey"
     }
   ]
 }

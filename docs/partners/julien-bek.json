@@ -13,11 +13,6 @@
       "slug": "magentic"
     },
     {
-      "id": "sequoia:rillet",
-      "name": "Rillet",
-      "slug": "rillet"
-    },
-    {
       "id": "sequoia:dust",
       "name": "Dust",
       "slug": "dust"
@@ -31,6 +26,11 @@
       "id": "sequoia:tacto",
       "name": "Tacto",
       "slug": "tacto"
+    },
+    {
+      "id": "sequoia:rillet",
+      "name": "Rillet",
+      "slug": "rillet"
     }
   ]
 }

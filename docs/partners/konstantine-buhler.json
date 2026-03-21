@@ -48,11 +48,6 @@
       "slug": "xbow"
     },
     {
-      "id": "sequoia:draftea",
-      "name": "Draftea",
-      "slug": "draftea"
-    },
-    {
       "id": "sequoia:enter",
       "name": "Enter",
       "slug": "enter"
@@ -71,6 +66,11 @@
       "id": "sequoia:waymo",
       "name": "Waymo",
       "slug": "waymo"
+    },
+    {
+      "id": "sequoia:draftea",
+      "name": "Draftea",
+      "slug": "draftea"
     }
   ]
 }

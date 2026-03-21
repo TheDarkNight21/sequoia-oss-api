@@ -343,11 +343,6 @@
       "slug": "squint"
     },
     {
-      "id": "sequoia:rillet",
-      "name": "Rillet",
-      "slug": "rillet"
-    },
-    {
       "id": "sequoia:zed",
       "name": "Zed",
       "slug": "zed"
@@ -391,11 +386,6 @@
       "id": "sequoia:nvidia",
       "name": "NVIDIA",
       "slug": "nvidia"
-    },
-    {
-      "id": "sequoia:harvey",
-      "name": "Harvey",
-      "slug": "harvey"
     },
     {
       "id": "sequoia:day-ai",
@@ -493,11 +483,6 @@
       "slug": "agency"
     },
     {
-      "id": "sequoia:serval",
-      "name": "Serval",
-      "slug": "serval"
-    },
-    {
       "id": "sequoia:withcoverage",
       "name": "WithCoverage",
       "slug": "withcoverage"
@@ -531,11 +516,6 @@
       "id": "sequoia:sesame-ai",
       "name": "Sesame AI",
       "slug": "sesame-ai"
-    },
-    {
-      "id": "sequoia:openai",
-      "name": "OpenAI",
-      "slug": "openai"
     },
     {
       "id": "sequoia:firetiger",
@@ -576,6 +556,26 @@
       "id": "sequoia:edra",
       "name": "Edra",
       "slug": "edra"
+    },
+    {
+      "id": "sequoia:serval",
+      "name": "Serval",
+      "slug": "serval"
+    },
+    {
+      "id": "sequoia:rillet",
+      "name": "Rillet",
+      "slug": "rillet"
+    },
+    {
+      "id": "sequoia:harvey",
+      "name": "Harvey",
+      "slug": "harvey"
+    },
+    {
+      "id": "sequoia:openai",
+      "name": "OpenAI",
+      "slug": "openai"
     }
   ]
 }

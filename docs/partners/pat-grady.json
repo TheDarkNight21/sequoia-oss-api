@@ -113,11 +113,6 @@
       "slug": "openevidence"
     },
     {
-      "id": "sequoia:harvey",
-      "name": "Harvey",
-      "slug": "harvey"
-    },
-    {
       "id": "sequoia:day-ai",
       "name": "Day.ai",
       "slug": "day-ai"
@@ -146,6 +141,11 @@
       "id": "sequoia:blockit-ai",
       "name": "Blockit AI",
       "slug": "blockit-ai"
+    },
+    {
+      "id": "sequoia:harvey",
+      "name": "Harvey",
+      "slug": "harvey"
     },
     {
       "id": "sequoia:openai",

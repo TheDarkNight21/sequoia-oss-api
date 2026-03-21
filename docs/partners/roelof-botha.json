@@ -108,11 +108,6 @@
       "slug": "blues"
     },
     {
-      "id": "sequoia:rillet",
-      "name": "Rillet",
-      "slug": "rillet"
-    },
-    {
       "id": "sequoia:flow-engineering",
       "name": "Flow Engineering",
       "slug": "flow-engineering"
@@ -151,6 +146,11 @@
       "id": "sequoia:sesame-ai",
       "name": "Sesame AI",
       "slug": "sesame-ai"
+    },
+    {
+      "id": "sequoia:rillet",
+      "name": "Rillet",
+      "slug": "rillet"
     }
   ]
 }

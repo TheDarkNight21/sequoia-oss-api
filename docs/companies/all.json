@@ -10491,50 +10491,6 @@
     }
   },
   {
-    "id": "sequoia:draftea",
-    "sequoia_id": "7624",
-    "name": "Draftea",
-    "slug": "draftea",
-    "description": "Draftea is the premier real-money gaming platform in the Spanish-speaking world. Sports fans can easily place bets on their favorite teams, players and matches while enjoying an engaging live experience that brings the action closer than ever.",
-    "website": "https://draftea.com/",
-    "socials": {
-      "facebook": "https://www.facebook.com/Draftea-Mexico-104224608762223",
-      "twitter": "https://twitter.com/Draftea_Mexico",
-      "linkedin": "https://www.linkedin.com/company/draftea",
-      "instagram": "https://www.instagram.com/draftea_mexico"
-    },
-    "categories": [
-      "consumer"
-    ],
-    "current_stage": "growth",
-    "first_partnered_year": 2021,
-    "partners": [
-      "konstantine-buhler"
-    ],
-    "primary_partner": "konstantine-buhler",
-    "milestones": {
-      "founded_year": 2021,
-      "partnered_year": 2021,
-      "ipo_year": null,
-      "acquired_year": null
-    },
-    "team": [
-      {
-        "name": "Joe Cohen",
-        "role": null
-      },
-      {
-        "name": "Alán Jaime",
-        "role": null
-      }
-    ],
-    "why_partnered": null,
-    "source_urls": {
-      "directory": "https://sequoiacap.com/our-companies/",
-      "profile": "https://sequoiacap.com/companies/draftea/"
-    }
-  },
-  {
     "id": "sequoia:peregrine",
     "sequoia_id": "18920",
     "name": "Peregrine",
@@ -13286,50 +13242,6 @@
     }
   },
   {
-    "id": "sequoia:rillet",
-    "sequoia_id": "19719",
-    "name": "Rillet",
-    "slug": "rillet",
-    "description": "Rillet is the AI-native ERP made to tailor fit the workflows of accountants and a full replacement for legacy ERPs. Fast-growing companies use Rillet to enable a smarter close with native integrations, automated journal entries and AI embedded workflows supporting multi-entity, multi-currency and multi-geography.",
-    "website": "https://www.rillet.com/",
-    "socials": {
-      "linkedin": "https://www.linkedin.com/company/team-rillet",
-      "youtube": "https://www.youtube.com/@RilletHQ-zt4rj"
-    },
-    "categories": [
-      "ai",
-      "operations"
-    ],
-    "current_stage": "growth",
-    "first_partnered_year": 2025,
-    "partners": [
-      "julien-bek",
-      "roelof-botha"
-    ],
-    "primary_partner": "julien-bek",
-    "milestones": {
-      "founded_year": 2021,
-      "partnered_year": 2025,
-      "ipo_year": null,
-      "acquired_year": null
-    },
-    "team": [
-      {
-        "name": "Nicolas Kopp",
-        "role": null
-      },
-      {
-        "name": "Stelios Modes",
-        "role": null
-      }
-    ],
-    "why_partnered": "We partnered with Rillet because Nicolas and Stelios experienced the pain of legacy general ledger solutions firsthand while scaling N26, recognizing that AI’s massive savings potential was pushing CFOs to innovate. They decided to rebuild an AI-native ERP from the ground up with a mission to enable zero-day closes and a “one-person Finance function.” This addresses companies forced to graduate from limited products to arcane systems requiring 10+ specialists and 15-20 days of manual work monthly. What impressed us most was their vision for agentic automation of the Finance function, which we believe will take the CFO experience to a whole new level.",
-    "source_urls": {
-      "directory": "https://sequoiacap.com/our-companies/",
-      "profile": "https://sequoiacap.com/companies/rillet/"
-    }
-  },
-  {
     "id": "sequoia:zed",
     "sequoia_id": "18402",
     "name": "Zed",
@@ -13983,50 +13895,6 @@
     "source_urls": {
       "directory": "https://sequoiacap.com/our-companies/",
       "profile": "https://sequoiacap.com/companies/nvidia/"
-    }
-  },
-  {
-    "id": "sequoia:harvey",
-    "sequoia_id": "13904",
-    "name": "Harvey",
-    "slug": "harvey",
-    "description": "Harvey is a generative AI company backed by Sequoia and OpenAI. They partner with elite law firms and professional service providers to augment their expertise with cutting edge AI to tackle the world’s most complex business challenges.",
-    "website": "https://www.harvey.ai/",
-    "socials": {
-      "linkedin": "https://www.linkedin.com/company/harvey-ai/"
-    },
-    "categories": [
-      "ai",
-      "legal"
-    ],
-    "current_stage": "growth",
-    "first_partnered_year": 2023,
-    "partners": [
-      "pat-grady",
-      "charlie-curnin",
-      "anas-biad"
-    ],
-    "primary_partner": "pat-grady",
-    "milestones": {
-      "founded_year": 2022,
-      "partnered_year": 2023,
-      "ipo_year": null,
-      "acquired_year": null
-    },
-    "team": [
-      {
-        "name": "Gabe Pereyra",
-        "role": null
-      },
-      {
-        "name": "Winston Weinberg",
-        "role": null
-      }
-    ],
-    "why_partnered": null,
-    "source_urls": {
-      "directory": "https://sequoiacap.com/our-companies/",
-      "profile": "https://sequoiacap.com/companies/harvey/"
     }
   },
   {
@@ -15861,48 +15729,6 @@
     }
   },
   {
-    "id": "sequoia:serval",
-    "sequoia_id": "21205",
-    "name": "Serval",
-    "slug": "serval",
-    "description": "Serval deploys AI agents for IT. Companies such as Perplexity, Mercor, Vercel, Verkada and Clay use Serval to automate help desk tickets, just-in-time access requests, onboarding and  offboarding flows, and more. With Serval, IT teams turn natural language prompts into complex automations in seconds, automating more than 50% of tickets on day one.",
-    "website": "https://www.serval.com/",
-    "socials": {
-      "linkedin": "https://www.linkedin.com/company/getserval/",
-      "youtube": "https://www.youtube.com/@servalvideo"
-    },
-    "categories": [
-      "ai"
-    ],
-    "current_stage": "growth",
-    "first_partnered_year": 2025,
-    "partners": [
-      "anas-biad"
-    ],
-    "primary_partner": "anas-biad",
-    "milestones": {
-      "founded_year": 2024,
-      "partnered_year": 2025,
-      "ipo_year": null,
-      "acquired_year": null
-    },
-    "team": [
-      {
-        "name": "Alex McLeod",
-        "role": null
-      },
-      {
-        "name": "Jake Stauch",
-        "role": null
-      }
-    ],
-    "why_partnered": null,
-    "source_urls": {
-      "directory": "https://sequoiacap.com/our-companies/",
-      "profile": "https://sequoiacap.com/companies/serval/"
-    }
-  },
-  {
     "id": "sequoia:tola",
     "sequoia_id": "10352",
     "name": "Tola",
@@ -16510,54 +16336,6 @@
     }
   },
   {
-    "id": "sequoia:openai",
-    "sequoia_id": "10340",
-    "name": "OpenAI",
-    "slug": "openai",
-    "description": "OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity.  It is dedicated to putting safety and human needs ahead of profit, and believes artificial intelligence has the potential to help people solve immense global challenges.",
-    "website": "https://openai.com/",
-    "socials": {
-      "twitter": "https://twitter.com/OpenAI",
-      "linkedin": "https://www.linkedin.com/company/openai"
-    },
-    "categories": [
-      "ai"
-    ],
-    "current_stage": "growth",
-    "first_partnered_year": 2021,
-    "partners": [
-      "pat-grady",
-      "alfred-lin",
-      "james-flynn"
-    ],
-    "primary_partner": "pat-grady",
-    "milestones": {
-      "founded_year": 2015,
-      "partnered_year": 2021,
-      "ipo_year": null,
-      "acquired_year": null
-    },
-    "team": [
-      {
-        "name": "Sam Altman",
-        "role": null
-      },
-      {
-        "name": "Greg Brockman",
-        "role": null
-      },
-      {
-        "name": "Ilya Sutskever",
-        "role": null
-      }
-    ],
-    "why_partnered": null,
-    "source_urls": {
-      "directory": "https://sequoiacap.com/our-companies/",
-      "profile": "https://sequoiacap.com/companies/openai/"
-    }
-  },
-  {
     "id": "sequoia:firetiger",
     "sequoia_id": "15481",
     "name": "Firetiger",
@@ -17133,6 +16911,228 @@
     "source_urls": {
       "directory": "https://sequoiacap.com/our-companies/",
       "profile": "https://sequoiacap.com/companies/edra/"
+    }
+  },
+  {
+    "id": "sequoia:serval",
+    "sequoia_id": "21205",
+    "name": "Serval",
+    "slug": "serval",
+    "description": "Serval deploys AI agents for IT. Companies such as Perplexity, Mercor, Vercel, Verkada and Clay use Serval to automate help desk tickets, just-in-time access requests, onboarding and  offboarding flows, and more. With Serval, IT teams turn natural language prompts into complex automations in seconds, automating more than 50% of tickets on day one.",
+    "website": "https://www.serval.com/",
+    "socials": {
+      "linkedin": "https://www.linkedin.com/company/getserval/",
+      "youtube": "https://www.youtube.com/@servalvideo"
+    },
+    "categories": [
+      "ai"
+    ],
+    "current_stage": "growth",
+    "first_partnered_year": 2025,
+    "partners": [
+      "anas-biad"
+    ],
+    "primary_partner": "anas-biad",
+    "milestones": {
+      "founded_year": 2024,
+      "partnered_year": 2025,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Alex McLeod",
+        "role": null
+      },
+      {
+        "name": "Jake Stauch",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/serval/"
+    }
+  },
+  {
+    "id": "sequoia:rillet",
+    "sequoia_id": "19719",
+    "name": "Rillet",
+    "slug": "rillet",
+    "description": "Rillet is the AI-native ERP made to tailor fit the workflows of accountants and a full replacement for legacy ERPs. Fast-growing companies use Rillet to enable a smarter close with native integrations, automated journal entries and AI embedded workflows supporting multi-entity, multi-currency and multi-geography.",
+    "website": "https://www.rillet.com/",
+    "socials": {
+      "linkedin": "https://www.linkedin.com/company/team-rillet",
+      "youtube": "https://www.youtube.com/@RilletHQ-zt4rj"
+    },
+    "categories": [
+      "ai",
+      "operations"
+    ],
+    "current_stage": "growth",
+    "first_partnered_year": 2025,
+    "partners": [
+      "julien-bek",
+      "roelof-botha"
+    ],
+    "primary_partner": "julien-bek",
+    "milestones": {
+      "founded_year": 2021,
+      "partnered_year": 2025,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Nicolas Kopp",
+        "role": null
+      },
+      {
+        "name": "Stelios Modes",
+        "role": null
+      }
+    ],
+    "why_partnered": "We partnered with Rillet because Nicolas and Stelios experienced the pain of legacy general ledger solutions firsthand while scaling N26, recognizing that AI’s massive savings potential was pushing CFOs to innovate. They decided to rebuild an AI-native ERP from the ground up with a mission to enable zero-day closes and a “one-person Finance function.” This addresses companies forced to graduate from limited products to arcane systems requiring 10+ specialists and 15-20 days of manual work monthly. What impressed us most was their vision for agentic automation of the Finance function, which we believe will take the CFO experience to a whole new level.",
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/rillet/"
+    }
+  },
+  {
+    "id": "sequoia:draftea",
+    "sequoia_id": "7624",
+    "name": "Draftea",
+    "slug": "draftea",
+    "description": "Draftea is the premier real-money gaming platform in the Spanish-speaking world. Sports fans can easily place bets on their favorite teams, players and matches while enjoying an engaging live experience that brings the action closer than ever.",
+    "website": "https://draftea.com/",
+    "socials": {
+      "facebook": "https://www.facebook.com/Draftea-Mexico-104224608762223",
+      "twitter": "https://twitter.com/Draftea_Mexico",
+      "linkedin": "https://www.linkedin.com/company/draftea",
+      "instagram": "https://www.instagram.com/draftea_mexico"
+    },
+    "categories": [
+      "consumer"
+    ],
+    "current_stage": "growth",
+    "first_partnered_year": 2021,
+    "partners": [
+      "konstantine-buhler"
+    ],
+    "primary_partner": "konstantine-buhler",
+    "milestones": {
+      "founded_year": 2021,
+      "partnered_year": 2021,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Joe Cohen",
+        "role": null
+      },
+      {
+        "name": "Alán Jaime",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/draftea/"
+    }
+  },
+  {
+    "id": "sequoia:harvey",
+    "sequoia_id": "13904",
+    "name": "Harvey",
+    "slug": "harvey",
+    "description": "Harvey is a generative AI company backed by Sequoia and OpenAI. They partner with elite law firms and professional service providers to augment their expertise with cutting edge AI to tackle the world’s most complex business challenges.",
+    "website": "https://www.harvey.ai/",
+    "socials": {
+      "linkedin": "https://www.linkedin.com/company/harvey-ai/"
+    },
+    "categories": [
+      "ai",
+      "legal"
+    ],
+    "current_stage": "growth",
+    "first_partnered_year": 2023,
+    "partners": [
+      "pat-grady",
+      "charlie-curnin",
+      "anas-biad"
+    ],
+    "primary_partner": "pat-grady",
+    "milestones": {
+      "founded_year": 2022,
+      "partnered_year": 2023,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Gabe Pereyra",
+        "role": null
+      },
+      {
+        "name": "Winston Weinberg",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/harvey/"
+    }
+  },
+  {
+    "id": "sequoia:openai",
+    "sequoia_id": "10340",
+    "name": "OpenAI",
+    "slug": "openai",
+    "description": "OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity.  It is dedicated to putting safety and human needs ahead of profit, and believes artificial intelligence has the potential to help people solve immense global challenges.",
+    "website": "https://openai.com/",
+    "socials": {
+      "twitter": "https://twitter.com/OpenAI",
+      "linkedin": "https://www.linkedin.com/company/openai"
+    },
+    "categories": [
+      "ai"
+    ],
+    "current_stage": "growth",
+    "first_partnered_year": 2021,
+    "partners": [
+      "pat-grady",
+      "alfred-lin",
+      "james-flynn"
+    ],
+    "primary_partner": "pat-grady",
+    "milestones": {
+      "founded_year": 2015,
+      "partnered_year": 2021,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Sam Altman",
+        "role": null
+      },
+      {
+        "name": "Greg Brockman",
+        "role": null
+      },
+      {
+        "name": "Ilya Sutskever",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/openai/"
     }
   }
 ]

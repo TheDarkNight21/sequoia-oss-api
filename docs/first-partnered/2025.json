@@ -17,11 +17,6 @@
       "slug": "neuralink"
     },
     {
-      "id": "sequoia:rillet",
-      "name": "Rillet",
-      "slug": "rillet"
-    },
-    {
       "id": "sequoia:irregular",
       "name": "Irregular",
       "slug": "irregular"
@@ -82,11 +77,6 @@
       "slug": "fal"
     },
     {
-      "id": "sequoia:serval",
-      "name": "Serval",
-      "slug": "serval"
-    },
-    {
       "id": "sequoia:withcoverage",
       "name": "WithCoverage",
       "slug": "withcoverage"
@@ -130,6 +120,16 @@
       "id": "sequoia:edra",
       "name": "Edra",
       "slug": "edra"
+    },
+    {
+      "id": "sequoia:serval",
+      "name": "Serval",
+      "slug": "serval"
+    },
+    {
+      "id": "sequoia:rillet",
+      "name": "Rillet",
+      "slug": "rillet"
     }
   ]
 }

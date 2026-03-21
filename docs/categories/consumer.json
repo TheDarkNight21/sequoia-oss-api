@@ -303,11 +303,6 @@
       "slug": "veed"
     },
     {
-      "id": "sequoia:draftea",
-      "name": "Draftea",
-      "slug": "draftea"
-    },
-    {
       "id": "sequoia:claim",
       "name": "Claim",
       "slug": "claim"
@@ -426,6 +421,11 @@
       "id": "sequoia:kalshi",
       "name": "Kalshi",
       "slug": "kalshi"
+    },
+    {
+      "id": "sequoia:draftea",
+      "name": "Draftea",
+      "slug": "draftea"
     }
   ]
 }
