@@ -233,11 +233,6 @@
       "slug": "hubspot"
     },
     {
-      "id": "sequoia:block",
-      "name": "Block",
-      "slug": "block"
-    },
-    {
       "id": "sequoia:airbnb",
       "name": "Airbnb",
       "slug": "airbnb"
@@ -331,6 +326,11 @@
       "id": "sequoia:ethos-technologies",
       "name": "Ethos",
       "slug": "ethos-technologies"
+    },
+    {
+      "id": "sequoia:block",
+      "name": "Block",
+      "slug": "block"
     }
   ]
 }

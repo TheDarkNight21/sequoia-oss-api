@@ -42,11 +42,6 @@
       "slug": "hubspot"
     },
     {
-      "id": "sequoia:block",
-      "name": "Block",
-      "slug": "block"
-    },
-    {
       "id": "sequoia:humble-bundle",
       "name": "Humble Bundle",
       "slug": "humble-bundle"
@@ -55,6 +50,11 @@
       "id": "sequoia:despegar",
       "name": "Despegar",
       "slug": "despegar"
+    },
+    {
+      "id": "sequoia:block",
+      "name": "Block",
+      "slug": "block"
     }
   ]
 }

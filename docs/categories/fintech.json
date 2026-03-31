@@ -93,11 +93,6 @@
       "slug": "robinhood"
     },
     {
-      "id": "sequoia:block",
-      "name": "Block",
-      "slug": "block"
-    },
-    {
       "id": "sequoia:paypal",
       "name": "PayPal",
       "slug": "paypal"
@@ -206,6 +201,11 @@
       "id": "sequoia:kalshi",
       "name": "Kalshi",
       "slug": "kalshi"
+    },
+    {
+      "id": "sequoia:block",
+      "name": "Block",
+      "slug": "block"
     }
   ]
 }

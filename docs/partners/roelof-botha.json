@@ -88,11 +88,6 @@
       "slug": "natera"
     },
     {
-      "id": "sequoia:block",
-      "name": "Block",
-      "slug": "block"
-    },
-    {
       "id": "sequoia:myome",
       "name": "MyOme",
       "slug": "myome"
@@ -151,6 +146,11 @@
       "id": "sequoia:rillet",
       "name": "Rillet",
       "slug": "rillet"
+    },
+    {
+      "id": "sequoia:block",
+      "name": "Block",
+      "slug": "block"
     }
   ]
 }

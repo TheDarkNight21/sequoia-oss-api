@@ -278,11 +278,6 @@
       "slug": "reddit"
     },
     {
-      "id": "sequoia:block",
-      "name": "Block",
-      "slug": "block"
-    },
-    {
       "id": "sequoia:airbnb",
       "name": "Airbnb",
       "slug": "airbnb"
@@ -426,6 +421,11 @@
       "id": "sequoia:draftea",
       "name": "Draftea",
       "slug": "draftea"
+    },
+    {
+      "id": "sequoia:block",
+      "name": "Block",
+      "slug": "block"
     }
   ]
 }
