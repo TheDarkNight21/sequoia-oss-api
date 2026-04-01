@@ -558,11 +558,6 @@
       "slug": "edra"
     },
     {
-      "id": "sequoia:serval",
-      "name": "Serval",
-      "slug": "serval"
-    },
-    {
       "id": "sequoia:rillet",
       "name": "Rillet",
       "slug": "rillet"
@@ -576,6 +571,11 @@
       "id": "sequoia:openai",
       "name": "OpenAI",
       "slug": "openai"
+    },
+    {
+      "id": "sequoia:serval",
+      "name": "Serval",
+      "slug": "serval"
     }
   ]
 }

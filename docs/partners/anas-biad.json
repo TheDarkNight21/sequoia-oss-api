@@ -53,14 +53,14 @@
       "slug": "unity-technologies"
     },
     {
-      "id": "sequoia:serval",
-      "name": "Serval",
-      "slug": "serval"
-    },
-    {
       "id": "sequoia:harvey",
       "name": "Harvey",
       "slug": "harvey"
+    },
+    {
+      "id": "sequoia:serval",
+      "name": "Serval",
+      "slug": "serval"
     }
   ]
 }
