@@ -15,6 +15,11 @@
       "id": "sequoia:scanner",
       "name": "Scanner",
       "slug": "scanner"
+    },
+    {
+      "id": "sequoia:nuvacore",
+      "name": "NUVACORE",
+      "slug": "nuvacore"
     }
   ]
 }

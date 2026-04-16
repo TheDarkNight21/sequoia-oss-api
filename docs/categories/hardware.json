@@ -166,6 +166,11 @@
       "id": "sequoia:neros",
       "name": "Neros",
       "slug": "neros"
+    },
+    {
+      "id": "sequoia:nuvacore",
+      "name": "NUVACORE",
+      "slug": "nuvacore"
     }
   ]
 }

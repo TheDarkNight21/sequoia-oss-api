@@ -127,11 +127,6 @@
       "slug": "kumo"
     },
     {
-      "id": "sequoia:veed",
-      "name": "VEED",
-      "slug": "veed"
-    },
-    {
       "id": "sequoia:vanta",
       "name": "Vanta",
       "slug": "vanta"
@@ -225,6 +220,11 @@
       "id": "sequoia:openai",
       "name": "OpenAI",
       "slug": "openai"
+    },
+    {
+      "id": "sequoia:veed",
+      "name": "VEED",
+      "slug": "veed"
     }
   ]
 }

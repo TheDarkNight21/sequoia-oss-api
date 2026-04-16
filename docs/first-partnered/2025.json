@@ -130,6 +130,11 @@
       "id": "sequoia:serval",
       "name": "Serval",
       "slug": "serval"
+    },
+    {
+      "id": "sequoia:auctor",
+      "name": "Auctor",
+      "slug": "auctor"
     }
   ]
 }

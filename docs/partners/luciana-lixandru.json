@@ -13,11 +13,6 @@
       "slug": "stripe"
     },
     {
-      "id": "sequoia:veed",
-      "name": "VEED",
-      "slug": "veed"
-    },
-    {
       "id": "sequoia:robco",
       "name": "Robco",
       "slug": "robco"
@@ -56,6 +51,11 @@
       "id": "sequoia:edra",
       "name": "Edra",
       "slug": "edra"
+    },
+    {
+      "id": "sequoia:veed",
+      "name": "VEED",
+      "slug": "veed"
     }
   ]
 }

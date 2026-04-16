@@ -8,11 +8,6 @@
       "slug": "bolt"
     },
     {
-      "id": "sequoia:veed",
-      "name": "VEED",
-      "slug": "veed"
-    },
-    {
       "id": "sequoia:pennylane",
       "name": "Pennylane",
       "slug": "pennylane"
@@ -61,6 +56,11 @@
       "id": "sequoia:serval",
       "name": "Serval",
       "slug": "serval"
+    },
+    {
+      "id": "sequoia:veed",
+      "name": "VEED",
+      "slug": "veed"
     }
   ]
 }

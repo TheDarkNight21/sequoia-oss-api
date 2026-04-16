@@ -473,11 +473,6 @@
       "slug": "glean"
     },
     {
-      "id": "sequoia:veed",
-      "name": "VEED",
-      "slug": "veed"
-    },
-    {
       "id": "sequoia:vanta",
       "name": "Vanta",
       "slug": "vanta"
@@ -791,6 +786,11 @@
       "id": "sequoia:serval",
       "name": "Serval",
       "slug": "serval"
+    },
+    {
+      "id": "sequoia:veed",
+      "name": "VEED",
+      "slug": "veed"
     }
   ]
 }

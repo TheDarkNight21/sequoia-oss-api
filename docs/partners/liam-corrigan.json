@@ -1,0 +1,11 @@
+{
+  "id": "liam-corrigan",
+  "name": "Liam Corrigan",
+  "companies": [
+    {
+      "id": "sequoia:nuvacore",
+      "name": "NUVACORE",
+      "slug": "nuvacore"
+    }
+  ]
+}

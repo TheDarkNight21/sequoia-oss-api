@@ -251,6 +251,11 @@
       "id": "sequoia:twain",
       "name": "Twain",
       "slug": "twain"
+    },
+    {
+      "id": "sequoia:nuvacore",
+      "name": "NUVACORE",
+      "slug": "nuvacore"
     }
   ]
 }

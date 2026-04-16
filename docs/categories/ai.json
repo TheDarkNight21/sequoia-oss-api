@@ -228,11 +228,6 @@
       "slug": "harmonic"
     },
     {
-      "id": "sequoia:veed",
-      "name": "VEED",
-      "slug": "veed"
-    },
-    {
       "id": "sequoia:robco",
       "name": "Robco",
       "slug": "robco"
@@ -576,6 +571,16 @@
       "id": "sequoia:serval",
       "name": "Serval",
       "slug": "serval"
+    },
+    {
+      "id": "sequoia:auctor",
+      "name": "Auctor",
+      "slug": "auctor"
+    },
+    {
+      "id": "sequoia:veed",
+      "name": "VEED",
+      "slug": "veed"
     }
   ]
 }

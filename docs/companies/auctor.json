@@ -1,0 +1,46 @@
+{
+  "id": "sequoia:auctor",
+  "sequoia_id": "21883",
+  "name": "Auctor",
+  "slug": "auctor",
+  "description": "Auctor is the AI-native system of action for the entire software implementation lifecycle. It enables professional services teams and system integrators to deliver faster, more consistently and smarter with every project.",
+  "website": "https://www.getauctor.com/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/getauctor/",
+    "youtube": "https://www.youtube.com/@AuctorAI"
+  },
+  "categories": [
+    "ai"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2025,
+  "partners": [
+    "julien-bek"
+  ],
+  "primary_partner": "julien-bek",
+  "milestones": {
+    "founded_year": 2025,
+    "partnered_year": 2025,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Matthew Blackburn",
+      "role": null
+    },
+    {
+      "name": "Sky Ng-Thow-Hing",
+      "role": null
+    },
+    {
+      "name": "William Sun",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/auctor/"
+  }
+}

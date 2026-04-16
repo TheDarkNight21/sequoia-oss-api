@@ -71,6 +71,11 @@
       "id": "sequoia:draftea",
       "name": "Draftea",
       "slug": "draftea"
+    },
+    {
+      "id": "sequoia:nuvacore",
+      "name": "NUVACORE",
+      "slug": "nuvacore"
     }
   ]
 }

@@ -293,11 +293,6 @@
       "slug": "decart"
     },
     {
-      "id": "sequoia:veed",
-      "name": "VEED",
-      "slug": "veed"
-    },
-    {
       "id": "sequoia:claim",
       "name": "Claim",
       "slug": "claim"
@@ -426,6 +421,11 @@
       "id": "sequoia:block",
       "name": "Block",
       "slug": "block"
+    },
+    {
+      "id": "sequoia:veed",
+      "name": "VEED",
+      "slug": "veed"
     }
   ]
 }

@@ -10205,52 +10205,6 @@
     }
   },
   {
-    "id": "sequoia:veed",
-    "sequoia_id": "8451",
-    "name": "VEED",
-    "slug": "veed",
-    "description": "VEED is a browser-based, collaborative and easy-to-use video creation and editing tool. The product has millions of monthly active users all over the world and with different video editing skills, ranging from prosumers to SMEs and users in the enterprise. Use cases are broad from social media videos, to marketing, sales, HR, training videos, internal communication, etc.",
-    "website": "https://veed.io/",
-    "socials": {
-      "twitter": "https://twitter.com/veedstudio",
-      "linkedin": "https://www.linkedin.com/company/veedhq/",
-      "instagram": "https://www.instagram.com/veedstudio/",
-      "youtube": "https://www.youtube.com/c/VEEDSTUDIO/"
-    },
-    "categories": [
-      "ai",
-      "consumer"
-    ],
-    "current_stage": "growth",
-    "first_partnered_year": 2021,
-    "partners": [
-      "luciana-lixandru",
-      "anas-biad"
-    ],
-    "primary_partner": "luciana-lixandru",
-    "milestones": {
-      "founded_year": 2018,
-      "partnered_year": 2021,
-      "ipo_year": null,
-      "acquired_year": null
-    },
-    "team": [
-      {
-        "name": "Sabba Keynejad",
-        "role": null
-      },
-      {
-        "name": "Timur Mamedov",
-        "role": null
-      }
-    ],
-    "why_partnered": null,
-    "source_urls": {
-      "directory": "https://sequoiacap.com/our-companies/",
-      "profile": "https://sequoiacap.com/companies/veed/"
-    }
-  },
-  {
     "id": "sequoia:vanta",
     "sequoia_id": "661",
     "name": "Vanta",
@@ -17133,6 +17087,144 @@
     "source_urls": {
       "directory": "https://sequoiacap.com/our-companies/",
       "profile": "https://sequoiacap.com/companies/serval/"
+    }
+  },
+  {
+    "id": "sequoia:nuvacore",
+    "sequoia_id": "21894",
+    "name": "NUVACORE",
+    "slug": "nuvacore",
+    "description": "At its heart, NUVACORE is building a general-purpose CPU core that refuses to compromise. The company is hyper-focused on two massive pillars of modern hardware: maximum performance and absolute area efficiency. While legacy architectures struggle to balance power and performance, NUVACORE is designing from the ground up to excel everywhere. Its target workloads aren’t just standard data center tasks; the team is building specifically for the intense, continuous demands of advanced AI systems and agentic computing.",
+    "website": "https://www.nuvacore.ai/",
+    "socials": {
+      "linkedin": "https://www.linkedin.com/company/nuvacore/"
+    },
+    "categories": [
+      "hardware"
+    ],
+    "current_stage": "pre-seed-seed",
+    "first_partnered_year": 2026,
+    "partners": [
+      "konstantine-buhler",
+      "liam-corrigan"
+    ],
+    "primary_partner": "konstantine-buhler",
+    "milestones": {
+      "founded_year": 2026,
+      "partnered_year": 2026,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "John Bruno",
+        "role": null
+      },
+      {
+        "name": "Ram Srinivasan",
+        "role": null
+      },
+      {
+        "name": "Gerard Williams",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/nuvacore/"
+    }
+  },
+  {
+    "id": "sequoia:auctor",
+    "sequoia_id": "21883",
+    "name": "Auctor",
+    "slug": "auctor",
+    "description": "Auctor is the AI-native system of action for the entire software implementation lifecycle. It enables professional services teams and system integrators to deliver faster, more consistently and smarter with every project.",
+    "website": "https://www.getauctor.com/",
+    "socials": {
+      "linkedin": "https://www.linkedin.com/company/getauctor/",
+      "youtube": "https://www.youtube.com/@AuctorAI"
+    },
+    "categories": [
+      "ai"
+    ],
+    "current_stage": "early",
+    "first_partnered_year": 2025,
+    "partners": [
+      "julien-bek"
+    ],
+    "primary_partner": "julien-bek",
+    "milestones": {
+      "founded_year": 2025,
+      "partnered_year": 2025,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Matthew Blackburn",
+        "role": null
+      },
+      {
+        "name": "Sky Ng-Thow-Hing",
+        "role": null
+      },
+      {
+        "name": "William Sun",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/auctor/"
+    }
+  },
+  {
+    "id": "sequoia:veed",
+    "sequoia_id": "8451",
+    "name": "VEED",
+    "slug": "veed",
+    "description": "VEED is a browser-based, collaborative and easy-to-use video creation and editing tool. The product has millions of monthly active users all over the world and with different video editing skills, ranging from prosumers to SMEs and users in the enterprise. Use cases are broad from social media videos, to marketing, sales, HR, training videos, internal communication, etc.",
+    "website": "https://veed.io/",
+    "socials": {
+      "twitter": "https://twitter.com/veedstudio",
+      "linkedin": "https://www.linkedin.com/company/veedhq/",
+      "instagram": "https://www.instagram.com/veedstudio/",
+      "youtube": "https://www.youtube.com/c/VEEDSTUDIO/"
+    },
+    "categories": [
+      "ai",
+      "consumer"
+    ],
+    "current_stage": "growth",
+    "first_partnered_year": 2021,
+    "partners": [
+      "luciana-lixandru",
+      "anas-biad"
+    ],
+    "primary_partner": "luciana-lixandru",
+    "milestones": {
+      "founded_year": 2018,
+      "partnered_year": 2021,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Sabba Keynejad",
+        "role": null
+      },
+      {
+        "name": "Timur Mamedov",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/veed/"
     }
   }
 ]

@@ -1,0 +1,46 @@
+{
+  "id": "sequoia:nuvacore",
+  "sequoia_id": "21894",
+  "name": "NUVACORE",
+  "slug": "nuvacore",
+  "description": "At its heart, NUVACORE is building a general-purpose CPU core that refuses to compromise. The company is hyper-focused on two massive pillars of modern hardware: maximum performance and absolute area efficiency. While legacy architectures struggle to balance power and performance, NUVACORE is designing from the ground up to excel everywhere. Its target workloads aren’t just standard data center tasks; the team is building specifically for the intense, continuous demands of advanced AI systems and agentic computing.",
+  "website": "https://www.nuvacore.ai/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/nuvacore/"
+  },
+  "categories": [
+    "hardware"
+  ],
+  "current_stage": "pre-seed-seed",
+  "first_partnered_year": 2026,
+  "partners": [
+    "konstantine-buhler",
+    "liam-corrigan"
+  ],
+  "primary_partner": "konstantine-buhler",
+  "milestones": {
+    "founded_year": 2026,
+    "partnered_year": 2026,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "John Bruno",
+      "role": null
+    },
+    {
+      "name": "Ram Srinivasan",
+      "role": null
+    },
+    {
+      "name": "Gerard Williams",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/nuvacore/"
+  }
+}

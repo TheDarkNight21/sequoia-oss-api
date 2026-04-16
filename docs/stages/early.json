@@ -401,6 +401,11 @@
       "id": "sequoia:edra",
       "name": "Edra",
       "slug": "edra"
+    },
+    {
+      "id": "sequoia:auctor",
+      "name": "Auctor",
+      "slug": "auctor"
     }
   ]
 }
