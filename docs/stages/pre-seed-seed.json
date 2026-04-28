@@ -256,6 +256,11 @@
       "id": "sequoia:nuvacore",
       "name": "NUVACORE",
       "slug": "nuvacore"
+    },
+    {
+      "id": "sequoia:ineffable-intelligence",
+      "name": "Ineffable Intelligence",
+      "slug": "ineffable-intelligence"
     }
   ]
 }

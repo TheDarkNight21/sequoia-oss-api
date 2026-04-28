@@ -17226,5 +17226,43 @@
       "directory": "https://sequoiacap.com/our-companies/",
       "profile": "https://sequoiacap.com/companies/nuvacore/"
     }
+  },
+  {
+    "id": "sequoia:ineffable-intelligence",
+    "sequoia_id": "21596",
+    "name": "Ineffable Intelligence",
+    "slug": "ineffable-intelligence",
+    "description": "Ineffable Intelligence is creating a superlearner that discovers all knowledge from its own experience, from elementary motor skills through to profound intellectual breakthroughs. This superlearning capability—the ability to endlessly discover knowledge and skills, without relying on human data—will be driven by the world’s most powerful reinforcement learning algorithms.",
+    "website": "https://www.ineffable.ai",
+    "socials": {
+      "linkedin": "https://www.linkedin.com/company/ineffable-intelligence/"
+    },
+    "categories": [
+      "ai"
+    ],
+    "current_stage": "pre-seed-seed",
+    "first_partnered_year": 2026,
+    "partners": [
+      "alfred-lin",
+      "sonya-huang"
+    ],
+    "primary_partner": "alfred-lin",
+    "milestones": {
+      "founded_year": 2026,
+      "partnered_year": 2026,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "David Silver",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/ineffable-intelligence/"
+    }
   }
 ]

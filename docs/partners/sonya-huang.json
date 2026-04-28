@@ -126,6 +126,11 @@
       "id": "sequoia:langchain",
       "name": "LangChain",
       "slug": "langchain"
+    },
+    {
+      "id": "sequoia:ineffable-intelligence",
+      "name": "Ineffable Intelligence",
+      "slug": "ineffable-intelligence"
     }
   ]
 }

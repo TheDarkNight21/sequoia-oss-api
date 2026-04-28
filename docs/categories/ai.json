@@ -581,6 +581,11 @@
       "id": "sequoia:veed",
       "name": "VEED",
       "slug": "veed"
+    },
+    {
+      "id": "sequoia:ineffable-intelligence",
+      "name": "Ineffable Intelligence",
+      "slug": "ineffable-intelligence"
     }
   ]
 }

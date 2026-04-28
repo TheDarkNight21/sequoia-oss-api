@@ -191,6 +191,11 @@
       "id": "sequoia:openai",
       "name": "OpenAI",
       "slug": "openai"
+    },
+    {
+      "id": "sequoia:ineffable-intelligence",
+      "name": "Ineffable Intelligence",
+      "slug": "ineffable-intelligence"
     }
   ]
 }
