@@ -237,51 +237,6 @@
     }
   },
   {
-    "id": "sequoia:genedit",
-    "sequoia_id": "377",
-    "name": "GenEdit",
-    "slug": "genedit",
-    "description": "GenEdit wants to transform the delivery of gene therapies for the next generation of non-viral, gene editing-based therapeutics. GenEdit’s technology platform solves delivery challenges by systematically screening its proprietary nanoparticle library and providing safe, efficient delivery to target tissues. Its proprietary nanoparticles have broad applications, from CRISPR-based therapeutics to gene therapy products.",
-    "website": "https://www.genedit.com/",
-    "socials": {
-      "linkedin": "https://www.linkedin.com/company/genedit/about/"
-    },
-    "categories": [
-      "healthcare"
-    ],
-    "current_stage": "early",
-    "first_partnered_year": 2016,
-    "partners": [
-      "roelof-botha"
-    ],
-    "primary_partner": "roelof-botha",
-    "milestones": {
-      "founded_year": 2016,
-      "partnered_year": 2016,
-      "ipo_year": null,
-      "acquired_year": null
-    },
-    "team": [
-      {
-        "name": "Kunwoo Lee",
-        "role": null
-      },
-      {
-        "name": "Niren Murthy",
-        "role": null
-      },
-      {
-        "name": "Hyo Min Park",
-        "role": null
-      }
-    ],
-    "why_partnered": null,
-    "source_urls": {
-      "directory": "https://sequoiacap.com/our-companies/",
-      "profile": "https://sequoiacap.com/companies/genedit/"
-    }
-  },
-  {
     "id": "sequoia:graphiant",
     "sequoia_id": "393",
     "name": "Graphiant",
@@ -534,6 +489,86 @@
     }
   },
   {
+    "id": "sequoia:oracle",
+    "sequoia_id": "512",
+    "name": "Oracle",
+    "slug": "oracle",
+    "description": "For decades, Oracle has engineered integrated hardware and software systems for some of the largest companies in the world. Oracle optimizes cloud monitoring and storage, develops databases and enterprises, and provides complementary services for cloud and real-world data centers.",
+    "website": "https://www.oracle.com",
+    "socials": {
+      "twitter": "https://www.twitter.com/Oracle",
+      "linkedin": "https://www.linkedin.com/company/oracle"
+    },
+    "categories": [
+      "hardware",
+      "infrastructure"
+    ],
+    "current_stage": "ipo",
+    "first_partnered_year": 1983,
+    "partners": [],
+    "primary_partner": null,
+    "milestones": {
+      "founded_year": 1977,
+      "partnered_year": 1983,
+      "ipo_year": 1986,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Larry Ellison",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/oracle/"
+    }
+  },
+  {
+    "id": "sequoia:oso",
+    "sequoia_id": "518",
+    "name": "Oso",
+    "slug": "oso",
+    "description": "Oso puts security in the hands of the makers by presenting security as code. It gives developers a library for authorization, with the freedom to shape and extend it as their needs evolve. By offloading this mental work, developers all over the world can shift their focus to moving fast.",
+    "website": "https://www.osohq.com/",
+    "socials": {
+      "twitter": "https://www.twitter.com/osoHQ",
+      "linkedin": "https://www.linkedin.com/company/osohq"
+    },
+    "categories": [
+      "developer-tools",
+      "security"
+    ],
+    "current_stage": "early",
+    "first_partnered_year": 2019,
+    "partners": [
+      "bill-coughran"
+    ],
+    "primary_partner": "bill-coughran",
+    "milestones": {
+      "founded_year": 2018,
+      "partnered_year": 2019,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Graham Neray",
+        "role": null
+      },
+      {
+        "name": "Sam Scott",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/oso/"
+    }
+  },
+  {
     "id": "sequoia:otter",
     "sequoia_id": "520",
     "name": "Otter",
@@ -612,83 +647,46 @@
     }
   },
   {
-    "id": "sequoia:oso",
-    "sequoia_id": "518",
-    "name": "Oso",
-    "slug": "oso",
-    "description": "Oso puts security in the hands of the makers by presenting security as code. It gives developers a library for authorization, with the freedom to shape and extend it as their needs evolve. By offloading this mental work, developers all over the world can shift their focus to moving fast.",
-    "website": "https://www.osohq.com/",
+    "id": "sequoia:productboard",
+    "sequoia_id": "543",
+    "name": "Productboard",
+    "slug": "productboard",
+    "description": "Productboard is a product management system helping organizations build the right products. It helps product managers learn what customers need, prioritize what to build next, and rally everyone around the roadmap.",
+    "website": "https://www.productboard.com/",
     "socials": {
-      "twitter": "https://www.twitter.com/osoHQ",
-      "linkedin": "https://www.linkedin.com/company/osohq"
+      "twitter": "https://www.twitter.com/productboard",
+      "linkedin": "https://www.linkedin.com/company/productboard/",
+      "instagram": "https://www.instagram.com/productboard/?hl=en"
     },
     "categories": [
-      "developer-tools",
-      "security"
+      "operations"
     ],
-    "current_stage": "early",
+    "current_stage": "growth",
     "first_partnered_year": 2019,
     "partners": [
-      "bill-coughran"
+      "andrew-reed"
     ],
-    "primary_partner": "bill-coughran",
+    "primary_partner": "andrew-reed",
     "milestones": {
-      "founded_year": 2018,
+      "founded_year": 2014,
       "partnered_year": 2019,
       "ipo_year": null,
       "acquired_year": null
     },
     "team": [
       {
-        "name": "Graham Neray",
+        "name": "Daniel Hejl",
         "role": null
       },
       {
-        "name": "Sam Scott",
+        "name": "Hubert Palan",
         "role": null
       }
     ],
     "why_partnered": null,
     "source_urls": {
       "directory": "https://sequoiacap.com/our-companies/",
-      "profile": "https://sequoiacap.com/companies/oso/"
-    }
-  },
-  {
-    "id": "sequoia:oracle",
-    "sequoia_id": "512",
-    "name": "Oracle",
-    "slug": "oracle",
-    "description": "For decades, Oracle has engineered integrated hardware and software systems for some of the largest companies in the world. Oracle optimizes cloud monitoring and storage, develops databases and enterprises, and provides complementary services for cloud and real-world data centers.",
-    "website": "https://www.oracle.com",
-    "socials": {
-      "twitter": "https://www.twitter.com/Oracle",
-      "linkedin": "https://www.linkedin.com/company/oracle"
-    },
-    "categories": [
-      "hardware",
-      "infrastructure"
-    ],
-    "current_stage": "ipo",
-    "first_partnered_year": 1983,
-    "partners": [],
-    "primary_partner": null,
-    "milestones": {
-      "founded_year": 1977,
-      "partnered_year": 1983,
-      "ipo_year": 1986,
-      "acquired_year": null
-    },
-    "team": [
-      {
-        "name": "Larry Ellison",
-        "role": null
-      }
-    ],
-    "why_partnered": null,
-    "source_urls": {
-      "directory": "https://sequoiacap.com/our-companies/",
-      "profile": "https://sequoiacap.com/companies/oracle/"
+      "profile": "https://sequoiacap.com/companies/productboard/"
     }
   },
   {
@@ -735,49 +733,6 @@
     "source_urls": {
       "directory": "https://sequoiacap.com/our-companies/",
       "profile": "https://sequoiacap.com/companies/rappi/"
-    }
-  },
-  {
-    "id": "sequoia:productboard",
-    "sequoia_id": "543",
-    "name": "Productboard",
-    "slug": "productboard",
-    "description": "Productboard is a product management system helping organizations build the right products. It helps product managers learn what customers need, prioritize what to build next, and rally everyone around the roadmap.",
-    "website": "https://www.productboard.com/",
-    "socials": {
-      "twitter": "https://www.twitter.com/productboard",
-      "linkedin": "https://www.linkedin.com/company/productboard/",
-      "instagram": "https://www.instagram.com/productboard/?hl=en"
-    },
-    "categories": [
-      "operations"
-    ],
-    "current_stage": "growth",
-    "first_partnered_year": 2019,
-    "partners": [
-      "andrew-reed"
-    ],
-    "primary_partner": "andrew-reed",
-    "milestones": {
-      "founded_year": 2014,
-      "partnered_year": 2019,
-      "ipo_year": null,
-      "acquired_year": null
-    },
-    "team": [
-      {
-        "name": "Daniel Hejl",
-        "role": null
-      },
-      {
-        "name": "Hubert Palan",
-        "role": null
-      }
-    ],
-    "why_partnered": null,
-    "source_urls": {
-      "directory": "https://sequoiacap.com/our-companies/",
-      "profile": "https://sequoiacap.com/companies/productboard/"
     }
   },
   {
@@ -1001,49 +956,6 @@
     }
   },
   {
-    "id": "sequoia:tourlane",
-    "sequoia_id": "646",
-    "name": "Tourlane",
-    "slug": "tourlane",
-    "description": "Tourlane connects travelers with handpicked travel experts to organize authentic customized experiences, from safaris in Tanzania to diving in the Galápagos Islands.",
-    "website": "https://www.tourlane.com/",
-    "socials": {
-      "twitter": "https://www.twitter.com/tourlane?lang=en",
-      "linkedin": "https://www.linkedin.com/company/tourlane/"
-    },
-    "categories": [
-      "consumer"
-    ],
-    "current_stage": "growth",
-    "first_partnered_year": 2018,
-    "partners": [
-      "andrew-reed",
-      "alfred-lin"
-    ],
-    "primary_partner": "andrew-reed",
-    "milestones": {
-      "founded_year": 2016,
-      "partnered_year": 2018,
-      "ipo_year": null,
-      "acquired_year": null
-    },
-    "team": [
-      {
-        "name": "Julian Stiefel",
-        "role": null
-      },
-      {
-        "name": "Julian Weselek",
-        "role": null
-      }
-    ],
-    "why_partnered": null,
-    "source_urls": {
-      "directory": "https://sequoiacap.com/our-companies/",
-      "profile": "https://sequoiacap.com/companies/tourlane/"
-    }
-  },
-  {
     "id": "sequoia:thumbtack",
     "sequoia_id": "644",
     "name": "Thumbtack",
@@ -1084,6 +996,49 @@
     "source_urls": {
       "directory": "https://sequoiacap.com/our-companies/",
       "profile": "https://sequoiacap.com/companies/thumbtack/"
+    }
+  },
+  {
+    "id": "sequoia:tourlane",
+    "sequoia_id": "646",
+    "name": "Tourlane",
+    "slug": "tourlane",
+    "description": "Tourlane connects travelers with handpicked travel experts to organize authentic customized experiences, from safaris in Tanzania to diving in the Galápagos Islands.",
+    "website": "https://www.tourlane.com/",
+    "socials": {
+      "twitter": "https://www.twitter.com/tourlane?lang=en",
+      "linkedin": "https://www.linkedin.com/company/tourlane/"
+    },
+    "categories": [
+      "consumer"
+    ],
+    "current_stage": "growth",
+    "first_partnered_year": 2018,
+    "partners": [
+      "andrew-reed",
+      "alfred-lin"
+    ],
+    "primary_partner": "andrew-reed",
+    "milestones": {
+      "founded_year": 2016,
+      "partnered_year": 2018,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Julian Stiefel",
+        "role": null
+      },
+      {
+        "name": "Julian Weselek",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/tourlane/"
     }
   },
   {
@@ -17263,6 +17218,51 @@
     "source_urls": {
       "directory": "https://sequoiacap.com/our-companies/",
       "profile": "https://sequoiacap.com/companies/ineffable-intelligence/"
+    }
+  },
+  {
+    "id": "sequoia:breezebio",
+    "sequoia_id": null,
+    "name": "BreezeBio",
+    "slug": "breezebio",
+    "description": "BreezeBio is a genetic medicines company pioneering precision-delivered therapies for autoimmune disease and oncology. Powered by its proprietary NanoGalaxy® platform, BreezeBio delivers genetic medicines to the right targets to precisely modulate immune responses at their source. By restoring immune balance, the company aims to move beyond symptom management toward durable, potentially curative therapies—starting with Type 1 Diabetes and expanding into a broad range of immune-mediated diseases and cancer.",
+    "website": "https://breezebio.com/",
+    "socials": {
+      "linkedin": "https://www.linkedin.com/company/breezebio/"
+    },
+    "categories": [
+      "healthcare"
+    ],
+    "current_stage": null,
+    "first_partnered_year": 2016,
+    "partners": [
+      "roelof-botha"
+    ],
+    "primary_partner": "roelof-botha",
+    "milestones": {
+      "founded_year": 2016,
+      "partnered_year": 2016,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Kunwoo Lee",
+        "role": null
+      },
+      {
+        "name": "Niren Murthy",
+        "role": null
+      },
+      {
+        "name": "Hyo Min Park",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/breezebio/"
     }
   }
 ]

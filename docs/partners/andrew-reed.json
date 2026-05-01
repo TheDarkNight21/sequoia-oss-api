@@ -3,14 +3,14 @@
   "name": "Andrew Reed",
   "companies": [
     {
-      "id": "sequoia:rappi",
-      "name": "Rappi",
-      "slug": "rappi"
-    },
-    {
       "id": "sequoia:productboard",
       "name": "Productboard",
       "slug": "productboard"
+    },
+    {
+      "id": "sequoia:rappi",
+      "name": "Rappi",
+      "slug": "rappi"
     },
     {
       "id": "sequoia:sumo-logic",

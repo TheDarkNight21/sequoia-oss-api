@@ -23,14 +23,14 @@
       "slug": "houzz"
     },
     {
-      "id": "sequoia:rappi",
-      "name": "Rappi",
-      "slug": "rappi"
-    },
-    {
       "id": "sequoia:productboard",
       "name": "Productboard",
       "slug": "productboard"
+    },
+    {
+      "id": "sequoia:rappi",
+      "name": "Rappi",
+      "slug": "rappi"
     },
     {
       "id": "sequoia:remote",
@@ -53,14 +53,14 @@
       "slug": "the-org"
     },
     {
-      "id": "sequoia:tourlane",
-      "name": "Tourlane",
-      "slug": "tourlane"
-    },
-    {
       "id": "sequoia:thumbtack",
       "name": "Thumbtack",
       "slug": "thumbtack"
+    },
+    {
+      "id": "sequoia:tourlane",
+      "name": "Tourlane",
+      "slug": "tourlane"
     },
     {
       "id": "sequoia:truework",

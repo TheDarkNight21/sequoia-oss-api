@@ -2,11 +2,6 @@
   "year": 2016,
   "companies": [
     {
-      "id": "sequoia:genedit",
-      "name": "GenEdit",
-      "slug": "genedit"
-    },
-    {
       "id": "sequoia:rappi",
       "name": "Rappi",
       "slug": "rappi"
@@ -40,6 +35,11 @@
       "id": "sequoia:domino-data-lab",
       "name": "Domino Data Lab",
       "slug": "domino-data-lab"
+    },
+    {
+      "id": "sequoia:breezebio",
+      "name": "BreezeBio",
+      "slug": "breezebio"
     }
   ]
 }

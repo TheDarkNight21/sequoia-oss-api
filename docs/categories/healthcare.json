@@ -8,11 +8,6 @@
       "slug": "bridgebio"
     },
     {
-      "id": "sequoia:genedit",
-      "name": "GenEdit",
-      "slug": "genedit"
-    },
-    {
       "id": "sequoia:cellworks",
       "name": "Cellworks",
       "slug": "cellworks"
@@ -171,6 +166,11 @@
       "id": "sequoia:garner-health",
       "name": "Garner Health",
       "slug": "garner-health"
+    },
+    {
+      "id": "sequoia:breezebio",
+      "name": "BreezeBio",
+      "slug": "breezebio"
     }
   ]
 }

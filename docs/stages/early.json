@@ -3,24 +3,19 @@
   "label": "Early",
   "companies": [
     {
-      "id": "sequoia:genedit",
-      "name": "GenEdit",
-      "slug": "genedit"
-    },
-    {
       "id": "sequoia:graphiant",
       "name": "Graphiant",
       "slug": "graphiant"
     },
     {
-      "id": "sequoia:otter",
-      "name": "Otter",
-      "slug": "otter"
-    },
-    {
       "id": "sequoia:oso",
       "name": "Oso",
       "slug": "oso"
+    },
+    {
+      "id": "sequoia:otter",
+      "name": "Otter",
+      "slug": "otter"
     },
     {
       "id": "sequoia:stairwell",

@@ -13,11 +13,6 @@
       "slug": "bridgebio"
     },
     {
-      "id": "sequoia:genedit",
-      "name": "GenEdit",
-      "slug": "genedit"
-    },
-    {
       "id": "sequoia:the-org",
       "name": "The Org",
       "slug": "the-org"
@@ -151,6 +146,11 @@
       "id": "sequoia:block",
       "name": "Block",
       "slug": "block"
+    },
+    {
+      "id": "sequoia:breezebio",
+      "name": "BreezeBio",
+      "slug": "breezebio"
     }
   ]
 }

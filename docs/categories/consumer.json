@@ -38,14 +38,14 @@
       "slug": "rappi"
     },
     {
-      "id": "sequoia:tourlane",
-      "name": "Tourlane",
-      "slug": "tourlane"
-    },
-    {
       "id": "sequoia:thumbtack",
       "name": "Thumbtack",
       "slug": "thumbtack"
+    },
+    {
+      "id": "sequoia:tourlane",
+      "name": "Tourlane",
+      "slug": "tourlane"
     },
     {
       "id": "sequoia:trulia",

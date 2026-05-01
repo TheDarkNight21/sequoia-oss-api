@@ -1,0 +1,45 @@
+{
+  "id": "sequoia:breezebio",
+  "sequoia_id": null,
+  "name": "BreezeBio",
+  "slug": "breezebio",
+  "description": "BreezeBio is a genetic medicines company pioneering precision-delivered therapies for autoimmune disease and oncology. Powered by its proprietary NanoGalaxy® platform, BreezeBio delivers genetic medicines to the right targets to precisely modulate immune responses at their source. By restoring immune balance, the company aims to move beyond symptom management toward durable, potentially curative therapies—starting with Type 1 Diabetes and expanding into a broad range of immune-mediated diseases and cancer.",
+  "website": "https://breezebio.com/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/breezebio/"
+  },
+  "categories": [
+    "healthcare"
+  ],
+  "current_stage": null,
+  "first_partnered_year": 2016,
+  "partners": [
+    "roelof-botha"
+  ],
+  "primary_partner": "roelof-botha",
+  "milestones": {
+    "founded_year": 2016,
+    "partnered_year": 2016,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Kunwoo Lee",
+      "role": null
+    },
+    {
+      "name": "Niren Murthy",
+      "role": null
+    },
+    {
+      "name": "Hyo Min Park",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/breezebio/"
+  }
+}
