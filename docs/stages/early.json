@@ -401,6 +401,16 @@
       "id": "sequoia:auctor",
       "name": "Auctor",
       "slug": "auctor"
+    },
+    {
+      "id": "sequoia:breezebio",
+      "name": "BreezeBio",
+      "slug": "breezebio"
+    },
+    {
+      "id": "sequoia:standard-intelligence",
+      "name": "Standard Intelligence",
+      "slug": "standard-intelligence"
     }
   ]
 }

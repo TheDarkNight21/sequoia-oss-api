@@ -17222,7 +17222,7 @@
   },
   {
     "id": "sequoia:breezebio",
-    "sequoia_id": null,
+    "sequoia_id": "377",
     "name": "BreezeBio",
     "slug": "breezebio",
     "description": "BreezeBio is a genetic medicines company pioneering precision-delivered therapies for autoimmune disease and oncology. Powered by its proprietary NanoGalaxy® platform, BreezeBio delivers genetic medicines to the right targets to precisely modulate immune responses at their source. By restoring immune balance, the company aims to move beyond symptom management toward durable, potentially curative therapies—starting with Type 1 Diabetes and expanding into a broad range of immune-mediated diseases and cancer.",
@@ -17233,7 +17233,7 @@
     "categories": [
       "healthcare"
     ],
-    "current_stage": null,
+    "current_stage": "early",
     "first_partnered_year": 2016,
     "partners": [
       "roelof-botha"
@@ -17263,6 +17263,88 @@
     "source_urls": {
       "directory": "https://sequoiacap.com/our-companies/",
       "profile": "https://sequoiacap.com/companies/breezebio/"
+    }
+  },
+  {
+    "id": "sequoia:parallel-web-systems",
+    "sequoia_id": "22012",
+    "name": "Parallel Web Systems",
+    "slug": "parallel-web-systems",
+    "description": "Parallel Web Systems is the highest accuracy web search for your AI.",
+    "website": "https://www.parallel.ai",
+    "socials": {
+      "linkedin": "https://www.linkedin.com/company/parallel-web/about/"
+    },
+    "categories": [
+      "ai"
+    ],
+    "current_stage": "growth",
+    "first_partnered_year": 2026,
+    "partners": [
+      "andrew-reed"
+    ],
+    "primary_partner": "andrew-reed",
+    "milestones": {
+      "founded_year": 2023,
+      "partnered_year": 2026,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Parag Agrawal",
+        "role": null
+      },
+      {
+        "name": "Travers Nisbet",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/parallel-web-systems/"
+    }
+  },
+  {
+    "id": "sequoia:standard-intelligence",
+    "sequoia_id": "21891",
+    "name": "Standard Intelligence",
+    "slug": "standard-intelligence",
+    "description": "Standard Intelligence is building aligned AGI through scaling raw video.",
+    "website": "https://si.inc/",
+    "socials": {
+      "linkedin": "https://www.linkedin.com/company/standardintelligence/"
+    },
+    "categories": [
+      "ai"
+    ],
+    "current_stage": "early",
+    "first_partnered_year": 2026,
+    "partners": [
+      "sonya-huang"
+    ],
+    "primary_partner": "sonya-huang",
+    "milestones": {
+      "founded_year": 2024,
+      "partnered_year": 2026,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Galen Mead",
+        "role": null
+      },
+      {
+        "name": "Devansh Pandey",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/standard-intelligence/"
     }
   }
 ]

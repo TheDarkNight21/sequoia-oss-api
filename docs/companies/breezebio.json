@@ -1,6 +1,6 @@
 {
   "id": "sequoia:breezebio",
-  "sequoia_id": null,
+  "sequoia_id": "377",
   "name": "BreezeBio",
   "slug": "breezebio",
   "description": "BreezeBio is a genetic medicines company pioneering precision-delivered therapies for autoimmune disease and oncology. Powered by its proprietary NanoGalaxy® platform, BreezeBio delivers genetic medicines to the right targets to precisely modulate immune responses at their source. By restoring immune balance, the company aims to move beyond symptom management toward durable, potentially curative therapies—starting with Type 1 Diabetes and expanding into a broad range of immune-mediated diseases and cancer.",
@@ -11,7 +11,7 @@
   "categories": [
     "healthcare"
   ],
-  "current_stage": null,
+  "current_stage": "early",
   "first_partnered_year": 2016,
   "partners": [
     "roelof-botha"

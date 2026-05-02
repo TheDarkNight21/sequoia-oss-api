@@ -25,6 +25,16 @@
       "id": "sequoia:ineffable-intelligence",
       "name": "Ineffable Intelligence",
       "slug": "ineffable-intelligence"
+    },
+    {
+      "id": "sequoia:parallel-web-systems",
+      "name": "Parallel Web Systems",
+      "slug": "parallel-web-systems"
+    },
+    {
+      "id": "sequoia:standard-intelligence",
+      "name": "Standard Intelligence",
+      "slug": "standard-intelligence"
     }
   ]
 }

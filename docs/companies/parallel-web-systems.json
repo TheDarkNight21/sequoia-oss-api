@@ -1,0 +1,41 @@
+{
+  "id": "sequoia:parallel-web-systems",
+  "sequoia_id": "22012",
+  "name": "Parallel Web Systems",
+  "slug": "parallel-web-systems",
+  "description": "Parallel Web Systems is the highest accuracy web search for your AI.",
+  "website": "https://www.parallel.ai",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/parallel-web/about/"
+  },
+  "categories": [
+    "ai"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2026,
+  "partners": [
+    "andrew-reed"
+  ],
+  "primary_partner": "andrew-reed",
+  "milestones": {
+    "founded_year": 2023,
+    "partnered_year": 2026,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Parag Agrawal",
+      "role": null
+    },
+    {
+      "name": "Travers Nisbet",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/parallel-web-systems/"
+  }
+}

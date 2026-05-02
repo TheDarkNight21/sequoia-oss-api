@@ -131,6 +131,11 @@
       "id": "sequoia:ineffable-intelligence",
       "name": "Ineffable Intelligence",
       "slug": "ineffable-intelligence"
+    },
+    {
+      "id": "sequoia:standard-intelligence",
+      "name": "Standard Intelligence",
+      "slug": "standard-intelligence"
     }
   ]
 }

@@ -1,0 +1,41 @@
+{
+  "id": "sequoia:standard-intelligence",
+  "sequoia_id": "21891",
+  "name": "Standard Intelligence",
+  "slug": "standard-intelligence",
+  "description": "Standard Intelligence is building aligned AGI through scaling raw video.",
+  "website": "https://si.inc/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/standardintelligence/"
+  },
+  "categories": [
+    "ai"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2026,
+  "partners": [
+    "sonya-huang"
+  ],
+  "primary_partner": "sonya-huang",
+  "milestones": {
+    "founded_year": 2024,
+    "partnered_year": 2026,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Galen Mead",
+      "role": null
+    },
+    {
+      "name": "Devansh Pandey",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/standard-intelligence/"
+  }
+}
