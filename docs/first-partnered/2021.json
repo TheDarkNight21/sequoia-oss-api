@@ -52,11 +52,6 @@
       "slug": "fintual"
     },
     {
-      "id": "sequoia:statsig",
-      "name": "Statsig",
-      "slug": "statsig"
-    },
-    {
       "id": "sequoia:rippling",
       "name": "Rippling",
       "slug": "rippling"
@@ -225,6 +220,11 @@
       "id": "sequoia:veed",
       "name": "VEED",
       "slug": "veed"
+    },
+    {
+      "id": "sequoia:statsig",
+      "name": "Statsig",
+      "slug": "statsig"
     }
   ]
 }

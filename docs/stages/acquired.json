@@ -171,6 +171,11 @@
       "id": "sequoia:wiz",
       "name": "Wiz",
       "slug": "wiz"
+    },
+    {
+      "id": "sequoia:statsig",
+      "name": "Statsig",
+      "slug": "statsig"
     }
   ]
 }

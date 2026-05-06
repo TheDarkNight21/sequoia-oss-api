@@ -43,11 +43,6 @@
       "slug": "orbital-insight"
     },
     {
-      "id": "sequoia:statsig",
-      "name": "Statsig",
-      "slug": "statsig"
-    },
-    {
       "id": "sequoia:arcwise",
       "name": "Arcwise",
       "slug": "arcwise"
@@ -151,6 +146,11 @@
       "id": "sequoia:knowde",
       "name": "Knowde",
       "slug": "knowde"
+    },
+    {
+      "id": "sequoia:statsig",
+      "name": "Statsig",
+      "slug": "statsig"
     }
   ]
 }

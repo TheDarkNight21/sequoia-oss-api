@@ -426,6 +426,11 @@
       "id": "sequoia:veed",
       "name": "VEED",
       "slug": "veed"
+    },
+    {
+      "id": "sequoia:astrocade",
+      "name": "Astrocade",
+      "slug": "astrocade"
     }
   ]
 }

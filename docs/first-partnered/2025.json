@@ -135,6 +135,11 @@
       "id": "sequoia:auctor",
       "name": "Auctor",
       "slug": "auctor"
+    },
+    {
+      "id": "sequoia:astrocade",
+      "name": "Astrocade",
+      "slug": "astrocade"
     }
   ]
 }

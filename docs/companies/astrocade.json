@@ -1,0 +1,47 @@
+{
+  "id": "sequoia:astrocade",
+  "sequoia_id": "21597",
+  "name": "Astrocade",
+  "slug": "astrocade",
+  "description": "Astrocade is a social entertainment platform where creators of all backgrounds and skills create games and playable content, and millions of players discover endless things to play.",
+  "website": "https://www.astrocade.com",
+  "socials": {
+    "linkedin": "https://linkedin.com/company/astrocade",
+    "instagram": "https://www.instagram.com/playastrocade",
+    "youtube": "https://www.youtube.com/@PlayAstrocade"
+  },
+  "categories": [
+    "consumer"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2025,
+  "partners": [
+    "david-cahn"
+  ],
+  "primary_partner": "david-cahn",
+  "milestones": {
+    "founded_year": 2022,
+    "partnered_year": 2025,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Fei-Fei Li",
+      "role": null
+    },
+    {
+      "name": "Amir Sadeghian",
+      "role": null
+    },
+    {
+      "name": "Ali Sadeghian",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/astrocade/"
+  }
+}
