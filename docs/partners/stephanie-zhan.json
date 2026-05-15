@@ -8,11 +8,6 @@
       "slug": "middesk"
     },
     {
-      "id": "sequoia:rec-room",
-      "name": "Rec Room",
-      "slug": "rec-room"
-    },
-    {
       "id": "sequoia:linear",
       "name": "Linear",
       "slug": "linear"
@@ -46,6 +41,11 @@
       "id": "sequoia:evy",
       "name": "Evy",
       "slug": "evy"
+    },
+    {
+      "id": "sequoia:rec-room",
+      "name": "Rec Room",
+      "slug": "rec-room"
     }
   ]
 }

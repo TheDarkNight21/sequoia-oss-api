@@ -223,11 +223,6 @@
       "slug": "fintual"
     },
     {
-      "id": "sequoia:rec-room",
-      "name": "Rec Room",
-      "slug": "rec-room"
-    },
-    {
       "id": "sequoia:biomodal",
       "name": "biomodal",
       "slug": "biomodal"
@@ -796,6 +791,11 @@
       "id": "sequoia:astrocade",
       "name": "Astrocade",
       "slug": "astrocade"
+    },
+    {
+      "id": "sequoia:rec-room",
+      "name": "Rec Room",
+      "slug": "rec-room"
     }
   ]
 }

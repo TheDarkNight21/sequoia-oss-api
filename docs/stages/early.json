@@ -3,19 +3,14 @@
   "label": "Early",
   "companies": [
     {
-      "id": "sequoia:graphiant",
-      "name": "Graphiant",
-      "slug": "graphiant"
+      "id": "sequoia:otter",
+      "name": "Otter",
+      "slug": "otter"
     },
     {
       "id": "sequoia:oso",
       "name": "Oso",
       "slug": "oso"
-    },
-    {
-      "id": "sequoia:otter",
-      "name": "Otter",
-      "slug": "otter"
     },
     {
       "id": "sequoia:stairwell",
@@ -411,6 +406,11 @@
       "id": "sequoia:standard-intelligence",
       "name": "Standard Intelligence",
       "slug": "standard-intelligence"
+    },
+    {
+      "id": "sequoia:graphiant",
+      "name": "Graphiant",
+      "slug": "graphiant"
     }
   ]
 }

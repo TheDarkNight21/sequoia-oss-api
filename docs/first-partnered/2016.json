@@ -12,11 +12,6 @@
       "slug": "zoom"
     },
     {
-      "id": "sequoia:rec-room",
-      "name": "Rec Room",
-      "slug": "rec-room"
-    },
-    {
       "id": "sequoia:biomodal",
       "name": "biomodal",
       "slug": "biomodal"
@@ -40,6 +35,11 @@
       "id": "sequoia:breezebio",
       "name": "BreezeBio",
       "slug": "breezebio"
+    },
+    {
+      "id": "sequoia:rec-room",
+      "name": "Rec Room",
+      "slug": "rec-room"
     }
   ]
 }

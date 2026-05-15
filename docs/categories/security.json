@@ -3,14 +3,14 @@
   "label": "Security",
   "companies": [
     {
-      "id": "sequoia:oso",
-      "name": "Oso",
-      "slug": "oso"
-    },
-    {
       "id": "sequoia:opendns",
       "name": "OpenDNS",
       "slug": "opendns"
+    },
+    {
+      "id": "sequoia:oso",
+      "name": "Oso",
+      "slug": "oso"
     },
     {
       "id": "sequoia:security-scorecard",

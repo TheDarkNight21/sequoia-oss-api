@@ -18,11 +18,6 @@
       "slug": "telescope"
     },
     {
-      "id": "sequoia:rec-room",
-      "name": "Rec Room",
-      "slug": "rec-room"
-    },
-    {
       "id": "sequoia:arcwise",
       "name": "Arcwise",
       "slug": "arcwise"
@@ -596,6 +591,11 @@
       "id": "sequoia:standard-intelligence",
       "name": "Standard Intelligence",
       "slug": "standard-intelligence"
+    },
+    {
+      "id": "sequoia:rec-room",
+      "name": "Rec Room",
+      "slug": "rec-room"
     }
   ]
 }

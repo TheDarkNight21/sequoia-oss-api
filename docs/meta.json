@@ -1,5 +1,5 @@
 {
-  "last_updated_iso": "2026-05-14T08:20:43.447086+00:00",
+  "last_updated_iso": "2026-05-15T08:32:52.901091+00:00",
   "schema_version": "1.0.0",
   "total_companies": 406,
   "counts_by_stage": {
@@ -18,8 +18,8 @@
     "fintech": 41,
     "marketplace": 16,
     "data-analytics": 30,
-    "developer-tools": 34,
     "security": 35,
+    "developer-tools": 34,
     "operations": 32,
     "crypto": 22,
     "ai": 119,

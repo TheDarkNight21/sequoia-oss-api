@@ -123,11 +123,6 @@
       "slug": "fintual"
     },
     {
-      "id": "sequoia:rec-room",
-      "name": "Rec Room",
-      "slug": "rec-room"
-    },
-    {
       "id": "sequoia:picsart",
       "name": "PicsArt",
       "slug": "picsart"
@@ -431,6 +426,11 @@
       "id": "sequoia:astrocade",
       "name": "Astrocade",
       "slug": "astrocade"
+    },
+    {
+      "id": "sequoia:rec-room",
+      "name": "Rec Room",
+      "slug": "rec-room"
     }
   ]
 }

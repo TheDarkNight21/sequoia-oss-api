@@ -8,11 +8,6 @@
       "slug": "alkira"
     },
     {
-      "id": "sequoia:graphiant",
-      "name": "Graphiant",
-      "slug": "graphiant"
-    },
-    {
       "id": "sequoia:oso",
       "name": "Oso",
       "slug": "oso"
@@ -101,6 +96,11 @@
       "id": "sequoia:cue-labs",
       "name": "CUE Labs",
       "slug": "cue-labs"
+    },
+    {
+      "id": "sequoia:graphiant",
+      "name": "Graphiant",
+      "slug": "graphiant"
     }
   ]
 }

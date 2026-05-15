@@ -237,48 +237,6 @@
     }
   },
   {
-    "id": "sequoia:graphiant",
-    "sequoia_id": "393",
-    "name": "Graphiant",
-    "slug": "graphiant",
-    "description": "Graphiant is creating a new model for connectivity in a rapidly changing world.",
-    "website": "https://www.graphiant.com/",
-    "socials": {
-      "twitter": "https://www.twitter.com/GraphiantHQ",
-      "linkedin": "https://www.linkedin.com/company/graphiant/"
-    },
-    "categories": [
-      "infrastructure"
-    ],
-    "current_stage": "early",
-    "first_partnered_year": 2020,
-    "partners": [
-      "bill-coughran"
-    ],
-    "primary_partner": "bill-coughran",
-    "milestones": {
-      "founded_year": 2020,
-      "partnered_year": 2020,
-      "ipo_year": null,
-      "acquired_year": null
-    },
-    "team": [
-      {
-        "name": "Stefan Olofsson",
-        "role": null
-      },
-      {
-        "name": "Khalid Raza",
-        "role": null
-      }
-    ],
-    "why_partnered": null,
-    "source_urls": {
-      "directory": "https://sequoiacap.com/our-companies/",
-      "profile": "https://sequoiacap.com/companies/graphiant/"
-    }
-  },
-  {
     "id": "sequoia:green-dot",
     "sequoia_id": "395",
     "name": "Green Dot",
@@ -489,86 +447,6 @@
     }
   },
   {
-    "id": "sequoia:oracle",
-    "sequoia_id": "512",
-    "name": "Oracle",
-    "slug": "oracle",
-    "description": "For decades, Oracle has engineered integrated hardware and software systems for some of the largest companies in the world. Oracle optimizes cloud monitoring and storage, develops databases and enterprises, and provides complementary services for cloud and real-world data centers.",
-    "website": "https://www.oracle.com",
-    "socials": {
-      "twitter": "https://www.twitter.com/Oracle",
-      "linkedin": "https://www.linkedin.com/company/oracle"
-    },
-    "categories": [
-      "hardware",
-      "infrastructure"
-    ],
-    "current_stage": "ipo",
-    "first_partnered_year": 1983,
-    "partners": [],
-    "primary_partner": null,
-    "milestones": {
-      "founded_year": 1977,
-      "partnered_year": 1983,
-      "ipo_year": 1986,
-      "acquired_year": null
-    },
-    "team": [
-      {
-        "name": "Larry Ellison",
-        "role": null
-      }
-    ],
-    "why_partnered": null,
-    "source_urls": {
-      "directory": "https://sequoiacap.com/our-companies/",
-      "profile": "https://sequoiacap.com/companies/oracle/"
-    }
-  },
-  {
-    "id": "sequoia:oso",
-    "sequoia_id": "518",
-    "name": "Oso",
-    "slug": "oso",
-    "description": "Oso puts security in the hands of the makers by presenting security as code. It gives developers a library for authorization, with the freedom to shape and extend it as their needs evolve. By offloading this mental work, developers all over the world can shift their focus to moving fast.",
-    "website": "https://www.osohq.com/",
-    "socials": {
-      "twitter": "https://www.twitter.com/osoHQ",
-      "linkedin": "https://www.linkedin.com/company/osohq"
-    },
-    "categories": [
-      "developer-tools",
-      "security"
-    ],
-    "current_stage": "early",
-    "first_partnered_year": 2019,
-    "partners": [
-      "bill-coughran"
-    ],
-    "primary_partner": "bill-coughran",
-    "milestones": {
-      "founded_year": 2018,
-      "partnered_year": 2019,
-      "ipo_year": null,
-      "acquired_year": null
-    },
-    "team": [
-      {
-        "name": "Graham Neray",
-        "role": null
-      },
-      {
-        "name": "Sam Scott",
-        "role": null
-      }
-    ],
-    "why_partnered": null,
-    "source_urls": {
-      "directory": "https://sequoiacap.com/our-companies/",
-      "profile": "https://sequoiacap.com/companies/oso/"
-    }
-  },
-  {
     "id": "sequoia:otter",
     "sequoia_id": "520",
     "name": "Otter",
@@ -644,6 +522,86 @@
     "source_urls": {
       "directory": "https://sequoiacap.com/our-companies/",
       "profile": "https://sequoiacap.com/companies/opendns/"
+    }
+  },
+  {
+    "id": "sequoia:oso",
+    "sequoia_id": "518",
+    "name": "Oso",
+    "slug": "oso",
+    "description": "Oso puts security in the hands of the makers by presenting security as code. It gives developers a library for authorization, with the freedom to shape and extend it as their needs evolve. By offloading this mental work, developers all over the world can shift their focus to moving fast.",
+    "website": "https://www.osohq.com/",
+    "socials": {
+      "twitter": "https://www.twitter.com/osoHQ",
+      "linkedin": "https://www.linkedin.com/company/osohq"
+    },
+    "categories": [
+      "developer-tools",
+      "security"
+    ],
+    "current_stage": "early",
+    "first_partnered_year": 2019,
+    "partners": [
+      "bill-coughran"
+    ],
+    "primary_partner": "bill-coughran",
+    "milestones": {
+      "founded_year": 2018,
+      "partnered_year": 2019,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Graham Neray",
+        "role": null
+      },
+      {
+        "name": "Sam Scott",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/oso/"
+    }
+  },
+  {
+    "id": "sequoia:oracle",
+    "sequoia_id": "512",
+    "name": "Oracle",
+    "slug": "oracle",
+    "description": "For decades, Oracle has engineered integrated hardware and software systems for some of the largest companies in the world. Oracle optimizes cloud monitoring and storage, develops databases and enterprises, and provides complementary services for cloud and real-world data centers.",
+    "website": "https://www.oracle.com",
+    "socials": {
+      "twitter": "https://www.twitter.com/Oracle",
+      "linkedin": "https://www.linkedin.com/company/oracle"
+    },
+    "categories": [
+      "hardware",
+      "infrastructure"
+    ],
+    "current_stage": "ipo",
+    "first_partnered_year": 1983,
+    "partners": [],
+    "primary_partner": null,
+    "milestones": {
+      "founded_year": 1977,
+      "partnered_year": 1983,
+      "ipo_year": 1986,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Larry Ellison",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/oracle/"
     }
   },
   {
@@ -1131,44 +1089,6 @@
     }
   },
   {
-    "id": "sequoia:tumblr",
-    "sequoia_id": "655",
-    "name": "Tumblr",
-    "slug": "tumblr",
-    "description": "Tumblr is a short-form, mixed-media blogging platform focused on visuals and multimedia. Acquired by Yahoo in 2013, Tumblr attracts hundreds of millions of unique visitors who follow hundreds of millions of blogs. The platform also offers ad purchases and blog themes for companies and users.",
-    "website": "https://www.tumblr.com",
-    "socials": {
-      "twitter": "https://www.twitter.com/tumblr",
-      "linkedin": "https://www.linkedin.com/company/tumblr"
-    },
-    "categories": [
-      "consumer"
-    ],
-    "current_stage": "acquired",
-    "first_partnered_year": 2010,
-    "partners": [
-      "roelof-botha"
-    ],
-    "primary_partner": "roelof-botha",
-    "milestones": {
-      "founded_year": 2007,
-      "partnered_year": 2010,
-      "ipo_year": null,
-      "acquired_year": 2013
-    },
-    "team": [
-      {
-        "name": "David Karp",
-        "role": null
-      }
-    ],
-    "why_partnered": null,
-    "source_urls": {
-      "directory": "https://sequoiacap.com/our-companies/",
-      "profile": "https://sequoiacap.com/companies/tumblr/"
-    }
-  },
-  {
     "id": "sequoia:versa-networks",
     "sequoia_id": "665",
     "name": "Versa Networks",
@@ -1209,6 +1129,44 @@
     "source_urls": {
       "directory": "https://sequoiacap.com/our-companies/",
       "profile": "https://sequoiacap.com/companies/versa-networks/"
+    }
+  },
+  {
+    "id": "sequoia:tumblr",
+    "sequoia_id": "655",
+    "name": "Tumblr",
+    "slug": "tumblr",
+    "description": "Tumblr is a short-form, mixed-media blogging platform focused on visuals and multimedia. Acquired by Yahoo in 2013, Tumblr attracts hundreds of millions of unique visitors who follow hundreds of millions of blogs. The platform also offers ad purchases and blog themes for companies and users.",
+    "website": "https://www.tumblr.com",
+    "socials": {
+      "twitter": "https://www.twitter.com/tumblr",
+      "linkedin": "https://www.linkedin.com/company/tumblr"
+    },
+    "categories": [
+      "consumer"
+    ],
+    "current_stage": "acquired",
+    "first_partnered_year": 2010,
+    "partners": [
+      "roelof-botha"
+    ],
+    "primary_partner": "roelof-botha",
+    "milestones": {
+      "founded_year": 2007,
+      "partnered_year": 2010,
+      "ipo_year": null,
+      "acquired_year": 2013
+    },
+    "team": [
+      {
+        "name": "David Karp",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/tumblr/"
     }
   },
   {
@@ -4285,67 +4243,6 @@
     "source_urls": {
       "directory": "https://sequoiacap.com/our-companies/",
       "profile": "https://sequoiacap.com/companies/fintual/"
-    }
-  },
-  {
-    "id": "sequoia:rec-room",
-    "sequoia_id": "554",
-    "name": "Rec Room",
-    "slug": "rec-room",
-    "description": "Rec Room is an AR and VR software company that makes it easy to chat, hang out and explore millions of player-created rooms. Think of it as a digital third place for kids at heart.",
-    "website": "https://recroom.com/",
-    "socials": {
-      "twitter": "https://www.twitter.com/recroom",
-      "linkedin": "https://www.linkedin.com/company/against-gravity-corp./about/",
-      "instagram": "https://www.instagram.com/recroom/"
-    },
-    "categories": [
-      "ai",
-      "consumer"
-    ],
-    "current_stage": "growth",
-    "first_partnered_year": 2016,
-    "partners": [
-      "stephanie-zhan",
-      "andrew-reed"
-    ],
-    "primary_partner": "stephanie-zhan",
-    "milestones": {
-      "founded_year": 2016,
-      "partnered_year": 2016,
-      "ipo_year": null,
-      "acquired_year": null
-    },
-    "team": [
-      {
-        "name": "John Bevis",
-        "role": null
-      },
-      {
-        "name": "Cameron Brown",
-        "role": null
-      },
-      {
-        "name": "Nick Fajt",
-        "role": null
-      },
-      {
-        "name": "Dan Kroymann",
-        "role": null
-      },
-      {
-        "name": "O. Bilal Orhan",
-        "role": null
-      },
-      {
-        "name": "Josh Wehrly",
-        "role": null
-      }
-    ],
-    "why_partnered": null,
-    "source_urls": {
-      "directory": "https://sequoiacap.com/our-companies/",
-      "profile": "https://sequoiacap.com/companies/rec-room/"
     }
   },
   {
@@ -17392,6 +17289,109 @@
     "source_urls": {
       "directory": "https://sequoiacap.com/our-companies/",
       "profile": "https://sequoiacap.com/companies/statsig/"
+    }
+  },
+  {
+    "id": "sequoia:graphiant",
+    "sequoia_id": "393",
+    "name": "Graphiant",
+    "slug": "graphiant",
+    "description": "Graphiant is creating a new model for connectivity in a rapidly changing world.",
+    "website": "https://www.graphiant.com/",
+    "socials": {
+      "twitter": "https://www.twitter.com/GraphiantHQ",
+      "linkedin": "https://www.linkedin.com/company/graphiant/"
+    },
+    "categories": [
+      "infrastructure"
+    ],
+    "current_stage": "early",
+    "first_partnered_year": 2020,
+    "partners": [
+      "bill-coughran"
+    ],
+    "primary_partner": "bill-coughran",
+    "milestones": {
+      "founded_year": 2020,
+      "partnered_year": 2020,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Stefan Olofsson",
+        "role": null
+      },
+      {
+        "name": "Khalid Raza",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/graphiant/"
+    }
+  },
+  {
+    "id": "sequoia:rec-room",
+    "sequoia_id": "554",
+    "name": "Rec Room",
+    "slug": "rec-room",
+    "description": "Rec Room is an AR and VR software company that makes it easy to chat, hang out and explore millions of player-created rooms. Think of it as a digital third place for kids at heart.",
+    "website": "https://recroom.com/",
+    "socials": {
+      "twitter": "https://www.twitter.com/recroom",
+      "linkedin": "https://www.linkedin.com/company/against-gravity-corp./about/",
+      "instagram": "https://www.instagram.com/recroom/"
+    },
+    "categories": [
+      "ai",
+      "consumer"
+    ],
+    "current_stage": "growth",
+    "first_partnered_year": 2016,
+    "partners": [
+      "stephanie-zhan",
+      "andrew-reed"
+    ],
+    "primary_partner": "stephanie-zhan",
+    "milestones": {
+      "founded_year": 2016,
+      "partnered_year": 2016,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "John Bevis",
+        "role": null
+      },
+      {
+        "name": "Cameron Brown",
+        "role": null
+      },
+      {
+        "name": "Nick Fajt",
+        "role": null
+      },
+      {
+        "name": "Dan Kroymann",
+        "role": null
+      },
+      {
+        "name": "O. Bilal Orhan",
+        "role": null
+      },
+      {
+        "name": "Josh Wehrly",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/rec-room/"
     }
   }
 ]

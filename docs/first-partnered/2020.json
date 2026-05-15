@@ -2,11 +2,6 @@
   "year": 2020,
   "companies": [
     {
-      "id": "sequoia:graphiant",
-      "name": "Graphiant",
-      "slug": "graphiant"
-    },
-    {
       "id": "sequoia:remote",
       "name": "Remote",
       "slug": "remote"
@@ -180,6 +175,11 @@
       "id": "sequoia:wiz",
       "name": "Wiz",
       "slug": "wiz"
+    },
+    {
+      "id": "sequoia:graphiant",
+      "name": "Graphiant",
+      "slug": "graphiant"
     }
   ]
 }
