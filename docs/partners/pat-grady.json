@@ -128,11 +128,6 @@
       "slug": "hugging-face"
     },
     {
-      "id": "sequoia:grow-therapy",
-      "name": "Grow Therapy",
-      "slug": "grow-therapy"
-    },
-    {
       "id": "sequoia:agency",
       "name": "Agency",
       "slug": "agency"
@@ -151,6 +146,11 @@
       "id": "sequoia:openai",
       "name": "OpenAI",
       "slug": "openai"
+    },
+    {
+      "id": "sequoia:grow-therapy",
+      "name": "Grow Therapy",
+      "slug": "grow-therapy"
     }
   ]
 }

@@ -513,11 +513,6 @@
       "slug": "firetiger"
     },
     {
-      "id": "sequoia:anthropic",
-      "name": "Anthropic",
-      "slug": "anthropic"
-    },
-    {
       "id": "sequoia:bruce",
       "name": "Bruce",
       "slug": "bruce"
@@ -596,6 +591,11 @@
       "id": "sequoia:rec-room",
       "name": "Rec Room",
       "slug": "rec-room"
+    },
+    {
+      "id": "sequoia:anthropic",
+      "name": "Anthropic",
+      "slug": "anthropic"
     }
   ]
 }

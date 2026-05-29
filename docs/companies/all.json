@@ -14532,54 +14532,6 @@
     }
   },
   {
-    "id": "sequoia:grow-therapy",
-    "sequoia_id": "16895",
-    "name": "Grow Therapy",
-    "slug": "grow-therapy",
-    "description": "Grow Therapy is an online therapy platform making insurance-covered therapy easier to deliver and easier to find—enabling 1M+ clients through partnerships with 100+ insurance plans.",
-    "website": "https://growtherapy.com/",
-    "socials": {
-      "facebook": "https://www.facebook.com/joingrowtherapy/",
-      "twitter": "https://www.twitter.com/GrowTherapy_/",
-      "linkedin": "https://www.linkedin.com/company/grow-therapy/",
-      "instagram": "https://www.instagram.com/growtherapy__/"
-    },
-    "categories": [
-      "healthcare"
-    ],
-    "current_stage": "growth",
-    "first_partnered_year": 2024,
-    "partners": [
-      "pat-grady"
-    ],
-    "primary_partner": "pat-grady",
-    "milestones": {
-      "founded_year": 2020,
-      "partnered_year": 2024,
-      "ipo_year": null,
-      "acquired_year": null
-    },
-    "team": [
-      {
-        "name": "Jake Cooper",
-        "role": null
-      },
-      {
-        "name": "Manoj Kanagaraj",
-        "role": null
-      },
-      {
-        "name": "Alan Ni",
-        "role": null
-      }
-    ],
-    "why_partnered": null,
-    "source_urls": {
-      "directory": "https://sequoiacap.com/our-companies/",
-      "profile": "https://sequoiacap.com/companies/grow-therapy/"
-    }
-  },
-  {
     "id": "sequoia:mithril",
     "sequoia_id": "13007",
     "name": "Mithril",
@@ -16103,57 +16055,6 @@
     }
   },
   {
-    "id": "sequoia:anthropic",
-    "sequoia_id": "21598",
-    "name": "Anthropic",
-    "slug": "anthropic",
-    "description": "Anthropic is a public benefit corporation dedicated to securing AI’s benefits and mitigating its risks.",
-    "website": "https://www.anthropic.com/",
-    "socials": {
-      "linkedin": "https://www.linkedin.com/company/anthropicresearch/"
-    },
-    "categories": [
-      "ai"
-    ],
-    "current_stage": "growth",
-    "first_partnered_year": 2026,
-    "partners": [
-      "sonya-huang",
-      "james-flynn",
-      "lauren-reeder"
-    ],
-    "primary_partner": "sonya-huang",
-    "milestones": {
-      "founded_year": 2021,
-      "partnered_year": 2026,
-      "ipo_year": null,
-      "acquired_year": null
-    },
-    "team": [
-      {
-        "name": "Dario Amodei",
-        "role": null
-      },
-      {
-        "name": "Daniela Amodei",
-        "role": null
-      },
-      {
-        "name": "Jack Clark",
-        "role": null
-      },
-      {
-        "name": "Jared Kaplan",
-        "role": null
-      }
-    ],
-    "why_partnered": null,
-    "source_urls": {
-      "directory": "https://sequoiacap.com/our-companies/",
-      "profile": "https://sequoiacap.com/companies/anthropic/"
-    }
-  },
-  {
     "id": "sequoia:bruce",
     "sequoia_id": "15251",
     "name": "Bruce",
@@ -17392,6 +17293,146 @@
     "source_urls": {
       "directory": "https://sequoiacap.com/our-companies/",
       "profile": "https://sequoiacap.com/companies/rec-room/"
+    }
+  },
+  {
+    "id": "sequoia:sendcutsend",
+    "sequoia_id": "22119",
+    "name": "SendCutSend",
+    "slug": "sendcutsend",
+    "description": "SendCutSend is a rapid custom manufacturer where production begins with the click of a button.",
+    "website": "https://sendcutsend.com/",
+    "socials": {
+      "facebook": "https://www.facebook.com/sendcutsend/",
+      "linkedin": "https://www.linkedin.com/company/sendcutsend/",
+      "instagram": "https://www.instagram.com/sendcutsend",
+      "youtube": "https://www.youtube.com/channel/UCQ0t_nKCvuqsHhWYYd1HbNw"
+    },
+    "categories": [
+      "consumer",
+      "hardware"
+    ],
+    "current_stage": "early",
+    "first_partnered_year": 2026,
+    "partners": [
+      "andrew-reed"
+    ],
+    "primary_partner": "andrew-reed",
+    "milestones": {
+      "founded_year": 2018,
+      "partnered_year": 2026,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Jim Belosic",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/sendcutsend/"
+    }
+  },
+  {
+    "id": "sequoia:grow-therapy",
+    "sequoia_id": "16895",
+    "name": "Grow Therapy",
+    "slug": "grow-therapy",
+    "description": "Grow Therapy is an online therapy platform making insurance-covered therapy easier to deliver and easier to find—enabling 1M+ clients through partnerships with 100+ insurance plans.",
+    "website": "https://growtherapy.com/",
+    "socials": {
+      "facebook": "https://www.facebook.com/joingrowtherapy/",
+      "twitter": "https://www.twitter.com/GrowTherapy_/",
+      "linkedin": "https://www.linkedin.com/company/grow-therapy/",
+      "instagram": "https://www.instagram.com/growtherapy__/"
+    },
+    "categories": [
+      "healthcare"
+    ],
+    "current_stage": "growth",
+    "first_partnered_year": 2024,
+    "partners": [
+      "pat-grady"
+    ],
+    "primary_partner": "pat-grady",
+    "milestones": {
+      "founded_year": 2020,
+      "partnered_year": 2024,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Jake Cooper",
+        "role": null
+      },
+      {
+        "name": "Manoj Kanagaraj",
+        "role": null
+      },
+      {
+        "name": "Alan Ni",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/grow-therapy/"
+    }
+  },
+  {
+    "id": "sequoia:anthropic",
+    "sequoia_id": "21598",
+    "name": "Anthropic",
+    "slug": "anthropic",
+    "description": "Anthropic is a public benefit corporation dedicated to securing AI’s benefits and mitigating its risks.",
+    "website": "https://www.anthropic.com/",
+    "socials": {
+      "linkedin": "https://www.linkedin.com/company/anthropicresearch/"
+    },
+    "categories": [
+      "ai"
+    ],
+    "current_stage": "growth",
+    "first_partnered_year": 2026,
+    "partners": [
+      "sonya-huang",
+      "james-flynn",
+      "lauren-reeder"
+    ],
+    "primary_partner": "sonya-huang",
+    "milestones": {
+      "founded_year": 2021,
+      "partnered_year": 2026,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Dario Amodei",
+        "role": null
+      },
+      {
+        "name": "Daniela Amodei",
+        "role": null
+      },
+      {
+        "name": "Jack Clark",
+        "role": null
+      },
+      {
+        "name": "Jared Kaplan",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/anthropic/"
     }
   }
 ]

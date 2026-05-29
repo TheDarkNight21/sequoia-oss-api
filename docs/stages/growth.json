@@ -688,11 +688,6 @@
       "slug": "knowde"
     },
     {
-      "id": "sequoia:grow-therapy",
-      "name": "Grow Therapy",
-      "slug": "grow-therapy"
-    },
-    {
       "id": "sequoia:sunflower-labs",
       "name": "Sunflower Labs",
       "slug": "sunflower-labs"
@@ -736,11 +731,6 @@
       "id": "sequoia:sesame-ai",
       "name": "Sesame AI",
       "slug": "sesame-ai"
-    },
-    {
-      "id": "sequoia:anthropic",
-      "name": "Anthropic",
-      "slug": "anthropic"
     },
     {
       "id": "sequoia:rogo",
@@ -796,6 +786,16 @@
       "id": "sequoia:rec-room",
       "name": "Rec Room",
       "slug": "rec-room"
+    },
+    {
+      "id": "sequoia:grow-therapy",
+      "name": "Grow Therapy",
+      "slug": "grow-therapy"
+    },
+    {
+      "id": "sequoia:anthropic",
+      "name": "Anthropic",
+      "slug": "anthropic"
     }
   ]
 }

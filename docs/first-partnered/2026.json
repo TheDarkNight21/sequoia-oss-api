@@ -7,11 +7,6 @@
       "slug": "waymo"
     },
     {
-      "id": "sequoia:anthropic",
-      "name": "Anthropic",
-      "slug": "anthropic"
-    },
-    {
       "id": "sequoia:scanner",
       "name": "Scanner",
       "slug": "scanner"
@@ -35,6 +30,16 @@
       "id": "sequoia:standard-intelligence",
       "name": "Standard Intelligence",
       "slug": "standard-intelligence"
+    },
+    {
+      "id": "sequoia:sendcutsend",
+      "name": "SendCutSend",
+      "slug": "sendcutsend"
+    },
+    {
+      "id": "sequoia:anthropic",
+      "name": "Anthropic",
+      "slug": "anthropic"
     }
   ]
 }

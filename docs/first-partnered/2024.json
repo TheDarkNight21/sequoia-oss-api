@@ -142,11 +142,6 @@
       "slug": "crosby"
     },
     {
-      "id": "sequoia:grow-therapy",
-      "name": "Grow Therapy",
-      "slug": "grow-therapy"
-    },
-    {
       "id": "sequoia:agency",
       "name": "Agency",
       "slug": "agency"
@@ -175,6 +170,11 @@
       "id": "sequoia:langchain",
       "name": "LangChain",
       "slug": "langchain"
+    },
+    {
+      "id": "sequoia:grow-therapy",
+      "name": "Grow Therapy",
+      "slug": "grow-therapy"
     }
   ]
 }

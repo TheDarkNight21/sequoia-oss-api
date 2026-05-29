@@ -118,11 +118,6 @@
       "slug": "fal"
     },
     {
-      "id": "sequoia:anthropic",
-      "name": "Anthropic",
-      "slug": "anthropic"
-    },
-    {
       "id": "sequoia:langchain",
       "name": "LangChain",
       "slug": "langchain"
@@ -136,6 +131,11 @@
       "id": "sequoia:standard-intelligence",
       "name": "Standard Intelligence",
       "slug": "standard-intelligence"
+    },
+    {
+      "id": "sequoia:anthropic",
+      "name": "Anthropic",
+      "slug": "anthropic"
     }
   ]
 }

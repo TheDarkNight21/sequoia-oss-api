@@ -53,14 +53,14 @@
       "slug": "firetiger"
     },
     {
-      "id": "sequoia:anthropic",
-      "name": "Anthropic",
-      "slug": "anthropic"
-    },
-    {
       "id": "sequoia:statsig",
       "name": "Statsig",
       "slug": "statsig"
+    },
+    {
+      "id": "sequoia:anthropic",
+      "name": "Anthropic",
+      "slug": "anthropic"
     }
   ]
 }

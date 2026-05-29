@@ -1,0 +1,41 @@
+{
+  "id": "sequoia:sendcutsend",
+  "sequoia_id": "22119",
+  "name": "SendCutSend",
+  "slug": "sendcutsend",
+  "description": "SendCutSend is a rapid custom manufacturer where production begins with the click of a button.",
+  "website": "https://sendcutsend.com/",
+  "socials": {
+    "facebook": "https://www.facebook.com/sendcutsend/",
+    "linkedin": "https://www.linkedin.com/company/sendcutsend/",
+    "instagram": "https://www.instagram.com/sendcutsend",
+    "youtube": "https://www.youtube.com/channel/UCQ0t_nKCvuqsHhWYYd1HbNw"
+  },
+  "categories": [
+    "consumer",
+    "hardware"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2026,
+  "partners": [
+    "andrew-reed"
+  ],
+  "primary_partner": "andrew-reed",
+  "milestones": {
+    "founded_year": 2018,
+    "partnered_year": 2026,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Jim Belosic",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/sendcutsend/"
+  }
+}

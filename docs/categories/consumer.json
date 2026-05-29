@@ -431,6 +431,11 @@
       "id": "sequoia:rec-room",
       "name": "Rec Room",
       "slug": "rec-room"
+    },
+    {
+      "id": "sequoia:sendcutsend",
+      "name": "SendCutSend",
+      "slug": "sendcutsend"
     }
   ]
 }

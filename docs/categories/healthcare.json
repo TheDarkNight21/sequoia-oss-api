@@ -158,11 +158,6 @@
       "slug": "abby-care"
     },
     {
-      "id": "sequoia:grow-therapy",
-      "name": "Grow Therapy",
-      "slug": "grow-therapy"
-    },
-    {
       "id": "sequoia:garner-health",
       "name": "Garner Health",
       "slug": "garner-health"
@@ -171,6 +166,11 @@
       "id": "sequoia:breezebio",
       "name": "BreezeBio",
       "slug": "breezebio"
+    },
+    {
+      "id": "sequoia:grow-therapy",
+      "name": "Grow Therapy",
+      "slug": "grow-therapy"
     }
   ]
 }
