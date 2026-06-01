@@ -773,11 +773,6 @@
       "slug": "veed"
     },
     {
-      "id": "sequoia:parallel-web-systems",
-      "name": "Parallel Web Systems",
-      "slug": "parallel-web-systems"
-    },
-    {
       "id": "sequoia:astrocade",
       "name": "Astrocade",
       "slug": "astrocade"
@@ -796,6 +791,11 @@
       "id": "sequoia:anthropic",
       "name": "Anthropic",
       "slug": "anthropic"
+    },
+    {
+      "id": "sequoia:parallel-web-systems",
+      "name": "Parallel Web Systems",
+      "slug": "parallel-web-systems"
     }
   ]
 }

@@ -143,11 +143,6 @@
       "slug": "arq"
     },
     {
-      "id": "sequoia:parallel-web-systems",
-      "name": "Parallel Web Systems",
-      "slug": "parallel-web-systems"
-    },
-    {
       "id": "sequoia:rec-room",
       "name": "Rec Room",
       "slug": "rec-room"
@@ -156,6 +151,11 @@
       "id": "sequoia:sendcutsend",
       "name": "SendCutSend",
       "slug": "sendcutsend"
+    },
+    {
+      "id": "sequoia:parallel-web-systems",
+      "name": "Parallel Web Systems",
+      "slug": "parallel-web-systems"
     }
   ]
 }
