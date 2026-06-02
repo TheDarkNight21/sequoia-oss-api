@@ -27,11 +27,6 @@
       "slug": "standard-intelligence"
     },
     {
-      "id": "sequoia:sendcutsend",
-      "name": "SendCutSend",
-      "slug": "sendcutsend"
-    },
-    {
       "id": "sequoia:anthropic",
       "name": "Anthropic",
       "slug": "anthropic"
@@ -40,6 +35,11 @@
       "id": "sequoia:parallel-web-systems",
       "name": "Parallel Web Systems",
       "slug": "parallel-web-systems"
+    },
+    {
+      "id": "sequoia:sendcutsend",
+      "name": "SendCutSend",
+      "slug": "sendcutsend"
     }
   ]
 }
