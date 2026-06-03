@@ -76,6 +76,11 @@
       "id": "sequoia:nuvacore",
       "name": "NUVACORE",
       "slug": "nuvacore"
+    },
+    {
+      "id": "sequoia:odessia",
+      "name": "Odessia",
+      "slug": "odessia"
     }
   ]
 }

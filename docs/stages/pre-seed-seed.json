@@ -261,6 +261,11 @@
       "id": "sequoia:ineffable-intelligence",
       "name": "Ineffable Intelligence",
       "slug": "ineffable-intelligence"
+    },
+    {
+      "id": "sequoia:odessia",
+      "name": "Odessia",
+      "slug": "odessia"
     }
   ]
 }

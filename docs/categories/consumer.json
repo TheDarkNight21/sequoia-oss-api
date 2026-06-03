@@ -436,6 +436,11 @@
       "id": "sequoia:sendcutsend",
       "name": "SendCutSend",
       "slug": "sendcutsend"
+    },
+    {
+      "id": "sequoia:odessia",
+      "name": "Odessia",
+      "slug": "odessia"
     }
   ]
 }

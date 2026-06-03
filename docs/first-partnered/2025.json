@@ -140,6 +140,11 @@
       "id": "sequoia:astrocade",
       "name": "Astrocade",
       "slug": "astrocade"
+    },
+    {
+      "id": "sequoia:odessia",
+      "name": "Odessia",
+      "slug": "odessia"
     }
   ]
 }

@@ -1,0 +1,38 @@
+{
+  "id": "sequoia:odessia",
+  "sequoia_id": "21593",
+  "name": "Odessia",
+  "slug": "odessia",
+  "description": "Odessia makes it effortless to book better trips. A simple conversation turns into optimized transportation, handpicked places to stay, and a full personalized itinerary. Everything is price shopped and bookable instantly. It’s never been faster and easier to put together great trips — the hardest part is now figuring out where to go next.",
+  "website": "https://odessia.com/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/odessia-travel",
+    "instagram": "https://instagram.com/odessiatravel"
+  },
+  "categories": [
+    "consumer"
+  ],
+  "current_stage": "pre-seed-seed",
+  "first_partnered_year": 2025,
+  "partners": [
+    "konstantine-buhler"
+  ],
+  "primary_partner": "konstantine-buhler",
+  "milestones": {
+    "founded_year": 2026,
+    "partnered_year": 2025,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Francis Davidson",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/odessia/"
+  }
+}
