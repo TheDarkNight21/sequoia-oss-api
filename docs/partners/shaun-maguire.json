@@ -58,11 +58,6 @@
       "slug": "watershed"
     },
     {
-      "id": "sequoia:spacex",
-      "name": "SpaceX",
-      "slug": "spacex"
-    },
-    {
       "id": "sequoia:factory",
       "name": "Factory",
       "slug": "factory"
@@ -176,6 +171,11 @@
       "id": "sequoia:fin",
       "name": "Fin",
       "slug": "fin"
+    },
+    {
+      "id": "sequoia:spacex",
+      "name": "SpaceX",
+      "slug": "spacex"
     }
   ]
 }

@@ -331,6 +331,11 @@
       "id": "sequoia:block",
       "name": "Block",
       "slug": "block"
+    },
+    {
+      "id": "sequoia:spacex",
+      "name": "SpaceX",
+      "slug": "spacex"
     }
   ]
 }

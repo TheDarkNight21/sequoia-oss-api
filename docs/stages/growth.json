@@ -53,14 +53,14 @@
       "slug": "the-org"
     },
     {
-      "id": "sequoia:thumbtack",
-      "name": "Thumbtack",
-      "slug": "thumbtack"
-    },
-    {
       "id": "sequoia:tourlane",
       "name": "Tourlane",
       "slug": "tourlane"
+    },
+    {
+      "id": "sequoia:thumbtack",
+      "name": "Thumbtack",
+      "slug": "thumbtack"
     },
     {
       "id": "sequoia:truework",
@@ -371,11 +371,6 @@
       "id": "sequoia:commure",
       "name": "Commure",
       "slug": "commure"
-    },
-    {
-      "id": "sequoia:spacex",
-      "name": "SpaceX",
-      "slug": "spacex"
     },
     {
       "id": "sequoia:retool",

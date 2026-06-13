@@ -67,11 +67,6 @@
       "slug": "watershed"
     },
     {
-      "id": "sequoia:spacex",
-      "name": "SpaceX",
-      "slug": "spacex"
-    },
-    {
       "id": "sequoia:airtop",
       "name": "Airtop",
       "slug": "airtop"
@@ -180,6 +175,11 @@
       "id": "sequoia:graphiant",
       "name": "Graphiant",
       "slug": "graphiant"
+    },
+    {
+      "id": "sequoia:spacex",
+      "name": "SpaceX",
+      "slug": "spacex"
     }
   ]
 }

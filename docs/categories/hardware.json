@@ -53,11 +53,6 @@
       "slug": "collaborative-robotics"
     },
     {
-      "id": "sequoia:spacex",
-      "name": "SpaceX",
-      "slug": "spacex"
-    },
-    {
       "id": "sequoia:cisco",
       "name": "Cisco",
       "slug": "cisco"
@@ -176,6 +171,11 @@
       "id": "sequoia:sendcutsend",
       "name": "SendCutSend",
       "slug": "sendcutsend"
+    },
+    {
+      "id": "sequoia:spacex",
+      "name": "SpaceX",
+      "slug": "spacex"
     }
   ]
 }
