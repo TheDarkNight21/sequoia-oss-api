@@ -128,11 +128,6 @@
       "slug": "myome"
     },
     {
-      "id": "sequoia:bunkerhill-health",
-      "name": "Bunkerhill Health",
-      "slug": "bunkerhill-health"
-    },
-    {
       "id": "sequoia:neuralink",
       "name": "Neuralink",
       "slug": "neuralink"

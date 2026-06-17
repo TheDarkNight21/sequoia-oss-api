@@ -77,11 +77,6 @@
       "slug": "mach"
     },
     {
-      "id": "sequoia:bunkerhill-health",
-      "name": "Bunkerhill Health",
-      "slug": "bunkerhill-health"
-    },
-    {
       "id": "sequoia:hex",
       "name": "Hex",
       "slug": "hex"
