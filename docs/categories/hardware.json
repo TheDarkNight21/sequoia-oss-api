@@ -148,11 +148,6 @@
       "slug": "nvidia"
     },
     {
-      "id": "sequoia:flow-engineering",
-      "name": "Flow Engineering",
-      "slug": "flow-engineering"
-    },
-    {
       "id": "sequoia:sunflower-labs",
       "name": "Sunflower Labs",
       "slug": "sunflower-labs"
@@ -176,6 +171,11 @@
       "id": "sequoia:spacex",
       "name": "SpaceX",
       "slug": "spacex"
+    },
+    {
+      "id": "sequoia:flow-engineering",
+      "name": "Flow Engineering",
+      "slug": "flow-engineering"
     }
   ]
 }

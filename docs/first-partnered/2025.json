@@ -52,11 +52,6 @@
       "slug": "delphi"
     },
     {
-      "id": "sequoia:flow-engineering",
-      "name": "Flow Engineering",
-      "slug": "flow-engineering"
-    },
-    {
       "id": "sequoia:sunflower-labs",
       "name": "Sunflower Labs",
       "slug": "sunflower-labs"
@@ -145,6 +140,11 @@
       "id": "sequoia:odessia",
       "name": "Odessia",
       "slug": "odessia"
+    },
+    {
+      "id": "sequoia:flow-engineering",
+      "name": "Flow Engineering",
+      "slug": "flow-engineering"
     }
   ]
 }

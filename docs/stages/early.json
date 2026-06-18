@@ -303,11 +303,6 @@
       "slug": "delphi"
     },
     {
-      "id": "sequoia:flow-engineering",
-      "name": "Flow Engineering",
-      "slug": "flow-engineering"
-    },
-    {
       "id": "sequoia:abby-care",
       "name": "Abby Care",
       "slug": "abby-care"
@@ -411,6 +406,11 @@
       "id": "sequoia:sendcutsend",
       "name": "SendCutSend",
       "slug": "sendcutsend"
+    },
+    {
+      "id": "sequoia:flow-engineering",
+      "name": "Flow Engineering",
+      "slug": "flow-engineering"
     }
   ]
 }

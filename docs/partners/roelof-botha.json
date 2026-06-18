@@ -98,11 +98,6 @@
       "slug": "blues"
     },
     {
-      "id": "sequoia:flow-engineering",
-      "name": "Flow Engineering",
-      "slug": "flow-engineering"
-    },
-    {
       "id": "sequoia:sunflower-labs",
       "name": "Sunflower Labs",
       "slug": "sunflower-labs"
@@ -151,6 +146,11 @@
       "id": "sequoia:breezebio",
       "name": "BreezeBio",
       "slug": "breezebio"
+    },
+    {
+      "id": "sequoia:flow-engineering",
+      "name": "Flow Engineering",
+      "slug": "flow-engineering"
     }
   ]
 }
