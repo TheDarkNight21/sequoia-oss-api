@@ -108,11 +108,6 @@
       "slug": "fastapi-labs"
     },
     {
-      "id": "sequoia:skyramp",
-      "name": "Skyramp",
-      "slug": "skyramp"
-    },
-    {
       "id": "sequoia:warp",
       "name": "Warp",
       "slug": "warp"
@@ -171,6 +166,11 @@
       "id": "sequoia:langchain",
       "name": "LangChain",
       "slug": "langchain"
+    },
+    {
+      "id": "sequoia:skyramp",
+      "name": "Skyramp",
+      "slug": "skyramp"
     }
   ]
 }

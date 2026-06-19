@@ -173,11 +173,6 @@
       "slug": "fastapi-labs"
     },
     {
-      "id": "sequoia:skyramp",
-      "name": "Skyramp",
-      "slug": "skyramp"
-    },
-    {
       "id": "sequoia:magentic",
       "name": "Magentic",
       "slug": "magentic"
@@ -266,6 +261,11 @@
       "id": "sequoia:odessia",
       "name": "Odessia",
       "slug": "odessia"
+    },
+    {
+      "id": "sequoia:skyramp",
+      "name": "Skyramp",
+      "slug": "skyramp"
     }
   ]
 }

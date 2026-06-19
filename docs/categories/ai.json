@@ -293,11 +293,6 @@
       "slug": "neuralink"
     },
     {
-      "id": "sequoia:skyramp",
-      "name": "Skyramp",
-      "slug": "skyramp"
-    },
-    {
       "id": "sequoia:warp",
       "name": "Warp",
       "slug": "warp"
@@ -596,6 +591,11 @@
       "id": "sequoia:parallel-web-systems",
       "name": "Parallel Web Systems",
       "slug": "parallel-web-systems"
+    },
+    {
+      "id": "sequoia:skyramp",
+      "name": "Skyramp",
+      "slug": "skyramp"
     }
   ]
 }

@@ -161,6 +161,11 @@
       "id": "sequoia:rillet",
       "name": "Rillet",
       "slug": "rillet"
+    },
+    {
+      "id": "sequoia:ninjaone",
+      "name": "NinjaOne",
+      "slug": "ninjaone"
     }
   ]
 }

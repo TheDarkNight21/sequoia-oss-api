@@ -1,0 +1,44 @@
+{
+  "id": "sequoia:ninjaone",
+  "sequoia_id": "20365",
+  "name": "NinjaOne",
+  "slug": "ninjaone",
+  "description": "NinjaOne is a unified IT operations platform that delivers endpoint management, autonomous patching, backup and remote access in a single console to improve efficiency, increase resilience and reduce spend.",
+  "website": "https://www.ninjaone.com/",
+  "socials": {
+    "facebook": "https://www.facebook.com/NinjaOne",
+    "linkedin": "https://www.linkedin.com/company/ninjaone/",
+    "instagram": "https://www.instagram.com/p/DZXHJT-lieS/",
+    "youtube": "https://www.youtube.com/@NinjaOne"
+  },
+  "categories": [
+    "operations"
+  ],
+  "current_stage": "growth",
+  "first_partnered_year": 2025,
+  "partners": [
+    "isaiah-boone"
+  ],
+  "primary_partner": "isaiah-boone",
+  "milestones": {
+    "founded_year": 2013,
+    "partnered_year": 2025,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Chris Matarese",
+      "role": null
+    },
+    {
+      "name": "Sal Sferlazza",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/ninjaone/"
+  }
+}

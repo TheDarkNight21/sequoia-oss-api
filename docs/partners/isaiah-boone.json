@@ -41,6 +41,11 @@
       "id": "sequoia:whatnot",
       "name": "Whatnot",
       "slug": "whatnot"
+    },
+    {
+      "id": "sequoia:ninjaone",
+      "name": "NinjaOne",
+      "slug": "ninjaone"
     }
   ]
 }

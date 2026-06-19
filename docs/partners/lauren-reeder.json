@@ -28,11 +28,6 @@
       "slug": "fastapi-labs"
     },
     {
-      "id": "sequoia:skyramp",
-      "name": "Skyramp",
-      "slug": "skyramp"
-    },
-    {
       "id": "sequoia:juicebox",
       "name": "Juicebox",
       "slug": "juicebox"
@@ -61,6 +56,11 @@
       "id": "sequoia:anthropic",
       "name": "Anthropic",
       "slug": "anthropic"
+    },
+    {
+      "id": "sequoia:skyramp",
+      "name": "Skyramp",
+      "slug": "skyramp"
     }
   ]
 }

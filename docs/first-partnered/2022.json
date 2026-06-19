@@ -177,11 +177,6 @@
       "slug": "popsink"
     },
     {
-      "id": "sequoia:skyramp",
-      "name": "Skyramp",
-      "slug": "skyramp"
-    },
-    {
       "id": "sequoia:warp",
       "name": "Warp",
       "slug": "warp"
@@ -235,6 +230,11 @@
       "id": "sequoia:twain",
       "name": "Twain",
       "slug": "twain"
+    },
+    {
+      "id": "sequoia:skyramp",
+      "name": "Skyramp",
+      "slug": "skyramp"
     }
   ]
 }

@@ -12152,45 +12152,6 @@
     }
   },
   {
-    "id": "sequoia:skyramp",
-    "sequoia_id": "10834",
-    "name": "Skyramp",
-    "slug": "skyramp",
-    "description": "Skyramp is an AI-driven testing platform that acts like a personal QA engineer for your dev team. It automatically generates functional and performance tests in seconds, covering everything from API endpoints to full user flows, allowing teams to ship with confidence on every release.",
-    "website": "https://www.skyramp.dev/",
-    "socials": {
-      "linkedin": "https://www.linkedin.com/company/skyramp-dev/"
-    },
-    "categories": [
-      "ai",
-      "developer-tools"
-    ],
-    "current_stage": "pre-seed-seed",
-    "first_partnered_year": 2022,
-    "partners": [
-      "shaun-maguire",
-      "lauren-reeder"
-    ],
-    "primary_partner": "shaun-maguire",
-    "milestones": {
-      "founded_year": 2022,
-      "partnered_year": 2022,
-      "ipo_year": null,
-      "acquired_year": null
-    },
-    "team": [
-      {
-        "name": "Nithin Michael",
-        "role": null
-      }
-    ],
-    "why_partnered": null,
-    "source_urls": {
-      "directory": "https://sequoiacap.com/our-companies/",
-      "profile": "https://sequoiacap.com/companies/skyramp/"
-    }
-  },
-  {
     "id": "sequoia:blues",
     "sequoia_id": "270",
     "name": "Blues",
@@ -17429,6 +17390,89 @@
     "source_urls": {
       "directory": "https://sequoiacap.com/our-companies/",
       "profile": "https://sequoiacap.com/companies/flow-engineering/"
+    }
+  },
+  {
+    "id": "sequoia:ninjaone",
+    "sequoia_id": "20365",
+    "name": "NinjaOne",
+    "slug": "ninjaone",
+    "description": "NinjaOne is a unified IT operations platform that delivers endpoint management, autonomous patching, backup and remote access in a single console to improve efficiency, increase resilience and reduce spend.",
+    "website": "https://www.ninjaone.com/",
+    "socials": {
+      "facebook": "https://www.facebook.com/NinjaOne",
+      "linkedin": "https://www.linkedin.com/company/ninjaone/",
+      "instagram": "https://www.instagram.com/p/DZXHJT-lieS/",
+      "youtube": "https://www.youtube.com/@NinjaOne"
+    },
+    "categories": [
+      "operations"
+    ],
+    "current_stage": "growth",
+    "first_partnered_year": 2025,
+    "partners": [
+      "isaiah-boone"
+    ],
+    "primary_partner": "isaiah-boone",
+    "milestones": {
+      "founded_year": 2013,
+      "partnered_year": 2025,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Chris Matarese",
+        "role": null
+      },
+      {
+        "name": "Sal Sferlazza",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/ninjaone/"
+    }
+  },
+  {
+    "id": "sequoia:skyramp",
+    "sequoia_id": "10834",
+    "name": "Skyramp",
+    "slug": "skyramp",
+    "description": "Skyramp is an AI-driven testing platform that acts like a personal QA engineer for your dev team. It automatically generates functional and performance tests in seconds, covering everything from API endpoints to full user flows, allowing teams to ship with confidence on every release.",
+    "website": "https://www.skyramp.dev/",
+    "socials": {
+      "linkedin": "https://www.linkedin.com/company/skyramp-dev/"
+    },
+    "categories": [
+      "ai",
+      "developer-tools"
+    ],
+    "current_stage": "pre-seed-seed",
+    "first_partnered_year": 2022,
+    "partners": [
+      "shaun-maguire",
+      "lauren-reeder"
+    ],
+    "primary_partner": "shaun-maguire",
+    "milestones": {
+      "founded_year": 2022,
+      "partnered_year": 2022,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Nithin Michael",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/skyramp/"
     }
   }
 ]

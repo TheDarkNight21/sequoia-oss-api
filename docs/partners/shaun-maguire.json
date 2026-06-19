@@ -133,11 +133,6 @@
       "slug": "neuralink"
     },
     {
-      "id": "sequoia:skyramp",
-      "name": "Skyramp",
-      "slug": "skyramp"
-    },
-    {
       "id": "sequoia:bridge",
       "name": "Bridge",
       "slug": "bridge"
@@ -176,6 +171,11 @@
       "id": "sequoia:spacex",
       "name": "SpaceX",
       "slug": "spacex"
+    },
+    {
+      "id": "sequoia:skyramp",
+      "name": "Skyramp",
+      "slug": "skyramp"
     }
   ]
 }
