@@ -142,14 +142,14 @@
       "slug": "odessia"
     },
     {
-      "id": "sequoia:flow-engineering",
-      "name": "Flow Engineering",
-      "slug": "flow-engineering"
-    },
-    {
       "id": "sequoia:ninjaone",
       "name": "NinjaOne",
       "slug": "ninjaone"
+    },
+    {
+      "id": "sequoia:flow-engineering",
+      "name": "Flow Engineering",
+      "slug": "flow-engineering"
     }
   ]
 }
