@@ -263,11 +263,6 @@
       "slug": "supernova"
     },
     {
-      "id": "sequoia:xai",
-      "name": "xAI",
-      "slug": "xai"
-    },
-    {
       "id": "sequoia:hex",
       "name": "Hex",
       "slug": "hex"
@@ -596,6 +591,26 @@
       "id": "sequoia:skyramp",
       "name": "Skyramp",
       "slug": "skyramp"
+    },
+    {
+      "id": "sequoia:probook",
+      "name": "Probook",
+      "slug": "probook"
+    },
+    {
+      "id": "sequoia:xai",
+      "name": "xAI",
+      "slug": "xai"
+    },
+    {
+      "id": "sequoia:stark",
+      "name": "STARK",
+      "slug": "stark"
+    },
+    {
+      "id": "sequoia:engram",
+      "name": "Engram",
+      "slug": "engram"
     }
   ]
 }

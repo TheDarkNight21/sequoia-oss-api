@@ -411,6 +411,21 @@
       "id": "sequoia:flow-engineering",
       "name": "Flow Engineering",
       "slug": "flow-engineering"
+    },
+    {
+      "id": "sequoia:probook",
+      "name": "Probook",
+      "slug": "probook"
+    },
+    {
+      "id": "sequoia:stark",
+      "name": "STARK",
+      "slug": "stark"
+    },
+    {
+      "id": "sequoia:engram",
+      "name": "Engram",
+      "slug": "engram"
     }
   ]
 }

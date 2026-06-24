@@ -1,12 +1,12 @@
 {
-  "last_updated_iso": "2026-06-23T08:51:31.252796+00:00",
+  "last_updated_iso": "2026-06-24T08:47:24.277368+00:00",
   "schema_version": "1.0.0",
-  "total_companies": 408,
+  "total_companies": 411,
   "counts_by_stage": {
-    "acquired": 35,
-    "growth": 159,
+    "acquired": 37,
+    "growth": 157,
     "ipo": 67,
-    "early": 82,
+    "early": 85,
     "pre-seed-seed": 53
   },
   "counts_by_category": {
@@ -22,11 +22,11 @@
     "developer-tools": 34,
     "operations": 33,
     "crypto": 22,
-    "ai": 119,
+    "ai": 122,
     "productivity": 25,
     "legal": 9,
     "climate": 6,
-    "defense": 4
+    "defense": 5
   },
   "source_entry_url": "https://sequoiacap.com/our-companies/"
 }

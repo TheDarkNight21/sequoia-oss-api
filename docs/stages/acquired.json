@@ -176,6 +176,16 @@
       "id": "sequoia:statsig",
       "name": "Statsig",
       "slug": "statsig"
+    },
+    {
+      "id": "sequoia:x",
+      "name": "X",
+      "slug": "x"
+    },
+    {
+      "id": "sequoia:xai",
+      "name": "xAI",
+      "slug": "xai"
     }
   ]
 }

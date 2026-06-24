@@ -1507,5 +1507,86 @@
       "directory": "https://sequoiacap.com/our-companies/",
       "profile": "https://sequoiacap.com/companies/statsig/"
     }
+  },
+  {
+    "id": "sequoia:x",
+    "sequoia_id": "14392",
+    "name": "X",
+    "slug": "x",
+    "description": "X (formerly Twitter) is a Sequoia-backed company since 2022.",
+    "website": "https://www.x.com",
+    "socials": {
+      "linkedin": "https://www.linkedin.com/company/twitter/"
+    },
+    "categories": [
+      "consumer"
+    ],
+    "current_stage": "acquired",
+    "first_partnered_year": 2022,
+    "partners": [
+      "shaun-maguire",
+      "roelof-botha"
+    ],
+    "primary_partner": "shaun-maguire",
+    "milestones": {
+      "founded_year": 2006,
+      "partnered_year": 2022,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Elon Musk",
+        "role": null
+      },
+      {
+        "name": "Linda Yaccarino",
+        "role": null
+      },
+      {
+        "name": "Jack Dorsey",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/x/"
+    }
+  },
+  {
+    "id": "sequoia:xai",
+    "sequoia_id": "17532",
+    "name": "xAI",
+    "slug": "xai",
+    "description": "xAI is an AI platform for accelerating human scientific discovery. Its Grok foundation model serves the AI research community and the general public with tools for information retrieval, knowledge acquisition and understanding.",
+    "website": "https://x.ai/",
+    "socials": {},
+    "categories": [
+      "ai"
+    ],
+    "current_stage": "acquired",
+    "first_partnered_year": 2024,
+    "partners": [
+      "shaun-maguire"
+    ],
+    "primary_partner": "shaun-maguire",
+    "milestones": {
+      "founded_year": 2023,
+      "partnered_year": 2024,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Elon Musk",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/xai/"
+    }
   }
 ]

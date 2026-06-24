@@ -1,0 +1,53 @@
+{
+  "id": "sequoia:engram",
+  "sequoia_id": "21594",
+  "name": "Engram",
+  "slug": "engram",
+  "description": "Engram trains AI on your unique context so it can match or beat frontier models while using between 1% and 10% as many tokens. The company’s models study your world and anticipate your questions in advance, forming engrams: compact memories that capture your knowledge and history, owned by you.",
+  "website": "https://engram.com/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/engram-lab/"
+  },
+  "categories": [
+    "ai"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2025,
+  "partners": [
+    "shaun-maguire"
+  ],
+  "primary_partner": "shaun-maguire",
+  "milestones": {
+    "founded_year": 2025,
+    "partnered_year": 2025,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Dan Biderman",
+      "role": null
+    },
+    {
+      "name": "Sabri Eyuboglu",
+      "role": null
+    },
+    {
+      "name": "Jessy Lin",
+      "role": null
+    },
+    {
+      "name": "Scott Linderman",
+      "role": null
+    },
+    {
+      "name": "Jack Morris",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/engram/"
+  }
+}

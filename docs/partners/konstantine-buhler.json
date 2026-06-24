@@ -81,6 +81,11 @@
       "id": "sequoia:odessia",
       "name": "Odessia",
       "slug": "odessia"
+    },
+    {
+      "id": "sequoia:probook",
+      "name": "Probook",
+      "slug": "probook"
     }
   ]
 }

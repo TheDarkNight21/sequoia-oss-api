@@ -77,11 +77,6 @@
       "slug": "kela"
     },
     {
-      "id": "sequoia:xai",
-      "name": "xAI",
-      "slug": "xai"
-    },
-    {
       "id": "sequoia:finch",
       "name": "Finch",
       "slug": "finch"
@@ -175,6 +170,16 @@
       "id": "sequoia:grow-therapy",
       "name": "Grow Therapy",
       "slug": "grow-therapy"
+    },
+    {
+      "id": "sequoia:xai",
+      "name": "xAI",
+      "slug": "xai"
+    },
+    {
+      "id": "sequoia:stark",
+      "name": "STARK",
+      "slug": "stark"
     }
   ]
 }

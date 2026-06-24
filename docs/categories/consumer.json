@@ -133,11 +133,6 @@
       "slug": "noom"
     },
     {
-      "id": "sequoia:x",
-      "name": "X",
-      "slug": "x"
-    },
-    {
       "id": "sequoia:studeo",
       "name": "Studeo",
       "slug": "studeo"
@@ -441,6 +436,11 @@
       "id": "sequoia:odessia",
       "name": "Odessia",
       "slug": "odessia"
+    },
+    {
+      "id": "sequoia:x",
+      "name": "X",
+      "slug": "x"
     }
   ]
 }

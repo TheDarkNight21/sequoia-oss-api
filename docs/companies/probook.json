@@ -1,0 +1,45 @@
+{
+  "id": "sequoia:probook",
+  "sequoia_id": "19049",
+  "name": "Probook",
+  "slug": "probook",
+  "description": "Probook is the AI operating system for home services. Built around dispatch and by people from the trades, Probook unifies intake, data cleaning, chat and outbound. Operators add points to their EBITDA and run their customer experience as one connected system. Hundreds of the largest home service brands in America run on Probook.",
+  "website": "https://www.probook.ai",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/probook-ai/"
+  },
+  "categories": [
+    "ai"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2025,
+  "partners": [
+    "konstantine-buhler"
+  ],
+  "primary_partner": "konstantine-buhler",
+  "milestones": {
+    "founded_year": 2024,
+    "partnered_year": 2025,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Ben Cervantez",
+      "role": null
+    },
+    {
+      "name": "George Eliadis",
+      "role": null
+    },
+    {
+      "name": "Lewis Zhang",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/probook/"
+  }
+}

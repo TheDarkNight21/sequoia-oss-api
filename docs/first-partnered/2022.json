@@ -67,11 +67,6 @@
       "slug": "surein"
     },
     {
-      "id": "sequoia:x",
-      "name": "X",
-      "slug": "x"
-    },
-    {
       "id": "sequoia:studeo",
       "name": "Studeo",
       "slug": "studeo"
@@ -235,6 +230,11 @@
       "id": "sequoia:skyramp",
       "name": "Skyramp",
       "slug": "skyramp"
+    },
+    {
+      "id": "sequoia:x",
+      "name": "X",
+      "slug": "x"
     }
   ]
 }

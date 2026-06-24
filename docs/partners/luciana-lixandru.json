@@ -56,6 +56,11 @@
       "id": "sequoia:veed",
       "name": "VEED",
       "slug": "veed"
+    },
+    {
+      "id": "sequoia:stark",
+      "name": "STARK",
+      "slug": "stark"
     }
   ]
 }

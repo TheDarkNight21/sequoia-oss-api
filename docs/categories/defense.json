@@ -21,6 +21,11 @@
       "id": "sequoia:neros",
       "name": "Neros",
       "slug": "neros"
+    },
+    {
+      "id": "sequoia:stark",
+      "name": "STARK",
+      "slug": "stark"
     }
   ]
 }

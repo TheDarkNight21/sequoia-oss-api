@@ -43,11 +43,6 @@
       "slug": "monad"
     },
     {
-      "id": "sequoia:x",
-      "name": "X",
-      "slug": "x"
-    },
-    {
       "id": "sequoia:blockaid",
       "name": "Blockaid",
       "slug": "blockaid"
@@ -101,11 +96,6 @@
       "id": "sequoia:kela",
       "name": "Kela",
       "slug": "kela"
-    },
-    {
-      "id": "sequoia:xai",
-      "name": "xAI",
-      "slug": "xai"
     },
     {
       "id": "sequoia:espresso-systems",
@@ -176,6 +166,21 @@
       "id": "sequoia:skyramp",
       "name": "Skyramp",
       "slug": "skyramp"
+    },
+    {
+      "id": "sequoia:x",
+      "name": "X",
+      "slug": "x"
+    },
+    {
+      "id": "sequoia:xai",
+      "name": "xAI",
+      "slug": "xai"
+    },
+    {
+      "id": "sequoia:engram",
+      "name": "Engram",
+      "slug": "engram"
     }
   ]
 }

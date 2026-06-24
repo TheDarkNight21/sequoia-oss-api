@@ -1,0 +1,39 @@
+{
+  "id": "sequoia:stark",
+  "sequoia_id": "17963",
+  "name": "STARK",
+  "slug": "stark",
+  "description": "STARK was founded in 2024 in response to critical operational demands from Ukraine. Its unmanned systems are designed to meet the realities of modern conflict: AI-enabled, software-defined and ready for affordable production at scale. STARK has a presence in Germany, Ukraine, the United Kingdom, Sweden and Greece with its headquarters in Berlin.",
+  "website": "https://stark-defence.com/en",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/stark-defence/",
+    "youtube": "https://www.youtube.com/@STARK-defence"
+  },
+  "categories": [
+    "ai",
+    "defense"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2024,
+  "partners": [
+    "luciana-lixandru"
+  ],
+  "primary_partner": "luciana-lixandru",
+  "milestones": {
+    "founded_year": 2024,
+    "partnered_year": 2024,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Uwe Horstmann",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/stark/"
+  }
+}

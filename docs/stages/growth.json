@@ -303,11 +303,6 @@
       "slug": "noom"
     },
     {
-      "id": "sequoia:x",
-      "name": "X",
-      "slug": "x"
-    },
-    {
       "id": "sequoia:zum",
       "name": "Zum",
       "slug": "zum"
@@ -496,11 +491,6 @@
       "id": "sequoia:myome",
       "name": "MyOme",
       "slug": "myome"
-    },
-    {
-      "id": "sequoia:xai",
-      "name": "xAI",
-      "slug": "xai"
     },
     {
       "id": "sequoia:front",
