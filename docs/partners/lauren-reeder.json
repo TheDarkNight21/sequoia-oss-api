@@ -61,6 +61,11 @@
       "id": "sequoia:skyramp",
       "name": "Skyramp",
       "slug": "skyramp"
+    },
+    {
+      "id": "sequoia:sail-research",
+      "name": "Sail Research",
+      "slug": "sail-research"
     }
   ]
 }

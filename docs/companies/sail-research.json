@@ -1,0 +1,42 @@
+{
+  "id": "sequoia:sail-research",
+  "sequoia_id": "21587",
+  "name": "Sail Research",
+  "slug": "sail-research",
+  "description": "Sail builds the most efficient inference service in the world, designed for AI agents that run autonomously over hours and days. This efficiency comes from full-stack engineering, from silicon to APIs. Sail inference powers some of the most ambitious applications in AI.",
+  "website": "https://sailresearch.com",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/sailresearch/"
+  },
+  "categories": [
+    "ai"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2025,
+  "partners": [
+    "konstantine-buhler",
+    "lauren-reeder"
+  ],
+  "primary_partner": "konstantine-buhler",
+  "milestones": {
+    "founded_year": 2025,
+    "partnered_year": 2025,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Samir Menon",
+      "role": null
+    },
+    {
+      "name": "Neil Movva",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/sail-research/"
+  }
+}

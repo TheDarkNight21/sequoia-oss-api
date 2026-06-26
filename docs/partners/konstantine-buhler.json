@@ -86,6 +86,11 @@
       "id": "sequoia:probook",
       "name": "Probook",
       "slug": "probook"
+    },
+    {
+      "id": "sequoia:sail-research",
+      "name": "Sail Research",
+      "slug": "sail-research"
     }
   ]
 }

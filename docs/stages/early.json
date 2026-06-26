@@ -426,6 +426,11 @@
       "id": "sequoia:stark",
       "name": "STARK",
       "slug": "stark"
+    },
+    {
+      "id": "sequoia:sail-research",
+      "name": "Sail Research",
+      "slug": "sail-research"
     }
   ]
 }
