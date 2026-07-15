@@ -40,6 +40,11 @@
       "id": "sequoia:sendcutsend",
       "name": "SendCutSend",
       "slug": "sendcutsend"
+    },
+    {
+      "id": "sequoia:chai-discovery",
+      "name": "Chai Discovery",
+      "slug": "chai-discovery"
     }
   ]
 }

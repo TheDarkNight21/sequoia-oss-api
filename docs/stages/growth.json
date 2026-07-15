@@ -786,6 +786,11 @@
       "id": "sequoia:ninjaone",
       "name": "NinjaOne",
       "slug": "ninjaone"
+    },
+    {
+      "id": "sequoia:chai-discovery",
+      "name": "Chai Discovery",
+      "slug": "chai-discovery"
     }
   ]
 }

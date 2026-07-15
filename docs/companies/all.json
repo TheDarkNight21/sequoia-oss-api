@@ -17653,5 +17653,57 @@
       "directory": "https://sequoiacap.com/our-companies/",
       "profile": "https://sequoiacap.com/companies/sail-research/"
     }
+  },
+  {
+    "id": "sequoia:chai-discovery",
+    "sequoia_id": "22349",
+    "name": "Chai Discovery",
+    "slug": "chai-discovery",
+    "description": "Chai Discovery is building a world where new medicines are not found through trial and error, but designed with the precision, speed and scale of modern engineering.",
+    "website": "https://www.chaidiscovery.com/",
+    "socials": {
+      "linkedin": "https://www.linkedin.com/company/chaidiscovery/"
+    },
+    "categories": [
+      "ai",
+      "healthcare"
+    ],
+    "current_stage": "growth",
+    "first_partnered_year": 2026,
+    "partners": [
+      "pat-grady",
+      "sonali-singh",
+      "james-flynn"
+    ],
+    "primary_partner": "pat-grady",
+    "milestones": {
+      "founded_year": 2024,
+      "partnered_year": 2026,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Jacques Boitreaud",
+        "role": null
+      },
+      {
+        "name": "Jack Dent",
+        "role": null
+      },
+      {
+        "name": "Matthew McPartlon",
+        "role": null
+      },
+      {
+        "name": "Joshua Meier",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/chai-discovery/"
+    }
   }
 ]

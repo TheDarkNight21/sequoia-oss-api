@@ -66,6 +66,11 @@
       "id": "sequoia:anthropic",
       "name": "Anthropic",
       "slug": "anthropic"
+    },
+    {
+      "id": "sequoia:chai-discovery",
+      "name": "Chai Discovery",
+      "slug": "chai-discovery"
     }
   ]
 }

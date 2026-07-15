@@ -1,0 +1,11 @@
+{
+  "id": "sonali-singh",
+  "name": "Sonali Singh",
+  "companies": [
+    {
+      "id": "sequoia:chai-discovery",
+      "name": "Chai Discovery",
+      "slug": "chai-discovery"
+    }
+  ]
+}

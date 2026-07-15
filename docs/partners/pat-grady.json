@@ -151,6 +151,11 @@
       "id": "sequoia:grow-therapy",
       "name": "Grow Therapy",
       "slug": "grow-therapy"
+    },
+    {
+      "id": "sequoia:chai-discovery",
+      "name": "Chai Discovery",
+      "slug": "chai-discovery"
     }
   ]
 }

@@ -616,6 +616,11 @@
       "id": "sequoia:sail-research",
       "name": "Sail Research",
       "slug": "sail-research"
+    },
+    {
+      "id": "sequoia:chai-discovery",
+      "name": "Chai Discovery",
+      "slug": "chai-discovery"
     }
   ]
 }
