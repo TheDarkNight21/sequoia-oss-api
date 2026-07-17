@@ -2461,45 +2461,6 @@
     }
   },
   {
-    "id": "sequoia:prelude",
-    "sequoia_id": "9175",
-    "name": "Prelude",
-    "slug": "prelude",
-    "description": "Prelude is a technology company that hardens cybersecurity defenses. Organizations of all sizes can use our tools to run continuous security tests against their systems to discover areas of weakness to fix. We do that in a way that’s safe, transparent, and integrated with existing defensive tools to allow organizations to get ahead of real incidents before they happen.",
-    "website": "https://www.prelude.org",
-    "socials": {
-      "twitter": "https://twitter.com/preludeorg",
-      "linkedin": "https://www.linkedin.com/company/preludeorg/",
-      "youtube": "https://www.youtube.com/c/Preludeorg"
-    },
-    "categories": [
-      "security"
-    ],
-    "current_stage": "early",
-    "first_partnered_year": 2021,
-    "partners": [
-      "bill-coughran"
-    ],
-    "primary_partner": "bill-coughran",
-    "milestones": {
-      "founded_year": 2020,
-      "partnered_year": 2021,
-      "ipo_year": null,
-      "acquired_year": null
-    },
-    "team": [
-      {
-        "name": "Spencer Thompson",
-        "role": null
-      }
-    ],
-    "why_partnered": null,
-    "source_urls": {
-      "directory": "https://sequoiacap.com/our-companies/",
-      "profile": "https://sequoiacap.com/companies/prelude/"
-    }
-  },
-  {
     "id": "sequoia:qualtrics",
     "sequoia_id": "547",
     "name": "Qualtrics",
@@ -17704,6 +17665,136 @@
     "source_urls": {
       "directory": "https://sequoiacap.com/our-companies/",
       "profile": "https://sequoiacap.com/companies/chai-discovery/"
+    }
+  },
+  {
+    "id": "sequoia:sable-ai",
+    "sequoia_id": "21592",
+    "name": "Sable AI",
+    "slug": "sable-ai",
+    "description": "Sable builds Aidan, the first AI employee. Powered by real-time computer use, vision and voice, Aidan enables businesses to run customer interactions at scale. Companies use Sable’s platform to deploy, monitor and continuously improve their AI employees.",
+    "website": "https://withsable.com/",
+    "socials": {
+      "linkedin": "https://linkedin.com/company/withsable/",
+      "youtube": "https://www.youtube.com/@withsable"
+    },
+    "categories": [
+      "ai"
+    ],
+    "current_stage": "early",
+    "first_partnered_year": 2025,
+    "partners": [
+      "shaun-maguire"
+    ],
+    "primary_partner": "shaun-maguire",
+    "milestones": {
+      "founded_year": 2025,
+      "partnered_year": 2025,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Leon Chen",
+        "role": null
+      },
+      {
+        "name": "Linda He",
+        "role": null
+      },
+      {
+        "name": "Nim Ravid",
+        "role": null
+      },
+      {
+        "name": "Itamar Rocha",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/sable-ai/"
+    }
+  },
+  {
+    "id": "sequoia:bunkerhill-health",
+    "sequoia_id": "13013",
+    "name": "Bunkerhill Health",
+    "slug": "bunkerhill-health",
+    "description": "Bunkerhill Health brings AI algorithms—built by researchers around the world—to widespread adoption in healthcare, helping hospitals find at-risk patients and close critical gaps in care. Its platform scans medical images and EHRs, flags patients for follow-up, and automates care coordination. Bunkerhill improves outcomes, streamlines workflows, and boosts revenue—without adding work for clinicians.",
+    "website": "https://www.bunkerhillhealth.com/",
+    "socials": {
+      "twitter": "https://twitter.com/joinBunkerhill",
+      "linkedin": "https://www.linkedin.com/company/bunkerhill-health/"
+    },
+    "categories": [
+      "healthcare"
+    ],
+    "current_stage": "growth",
+    "first_partnered_year": 2023,
+    "partners": [
+      "alfred-lin"
+    ],
+    "primary_partner": "alfred-lin",
+    "milestones": {
+      "founded_year": 2018,
+      "partnered_year": 2023,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "David Eng",
+        "role": null
+      },
+      {
+        "name": "Nishith Khandwala",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/bunkerhill-health/"
+    }
+  },
+  {
+    "id": "sequoia:originhq",
+    "sequoia_id": null,
+    "name": "Origin",
+    "slug": "originhq",
+    "description": "Origin is a technology company that hardens cybersecurity defenses. Organizations of all sizes can use our tools to run continuous security tests against their systems to discover areas of weakness to fix. We do that in a way that’s safe, transparent, and integrated with existing defensive tools to allow organizations to get ahead of real incidents before they happen.",
+    "website": "https://www.originhq.com/",
+    "socials": {
+      "linkedin": "https://www.linkedin.com/company/originhq",
+      "youtube": "https://www.youtube.com/@origin-hq"
+    },
+    "categories": [
+      "security"
+    ],
+    "current_stage": null,
+    "first_partnered_year": 2021,
+    "partners": [
+      "bill-coughran"
+    ],
+    "primary_partner": "bill-coughran",
+    "milestones": {
+      "founded_year": 2020,
+      "partnered_year": 2021,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Spencer Thompson",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/originhq/"
     }
   }
 ]

@@ -73,11 +73,6 @@
       "slug": "cyera"
     },
     {
-      "id": "sequoia:prelude",
-      "name": "Prelude",
-      "slug": "prelude"
-    },
-    {
       "id": "sequoia:cohesity",
       "name": "Cohesity",
       "slug": "cohesity"
@@ -176,6 +171,11 @@
       "id": "sequoia:wiz",
       "name": "Wiz",
       "slug": "wiz"
+    },
+    {
+      "id": "sequoia:originhq",
+      "name": "Origin",
+      "slug": "originhq"
     }
   ]
 }

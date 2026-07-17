@@ -23,11 +23,6 @@
       "slug": "fireeye"
     },
     {
-      "id": "sequoia:prelude",
-      "name": "Prelude",
-      "slug": "prelude"
-    },
-    {
       "id": "sequoia:cohesity",
       "name": "Cohesity",
       "slug": "cohesity"
@@ -101,6 +96,11 @@
       "id": "sequoia:graphiant",
       "name": "Graphiant",
       "slug": "graphiant"
+    },
+    {
+      "id": "sequoia:originhq",
+      "name": "Origin",
+      "slug": "originhq"
     }
   ]
 }

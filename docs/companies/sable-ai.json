@@ -1,0 +1,50 @@
+{
+  "id": "sequoia:sable-ai",
+  "sequoia_id": "21592",
+  "name": "Sable AI",
+  "slug": "sable-ai",
+  "description": "Sable builds Aidan, the first AI employee. Powered by real-time computer use, vision and voice, Aidan enables businesses to run customer interactions at scale. Companies use Sable’s platform to deploy, monitor and continuously improve their AI employees.",
+  "website": "https://withsable.com/",
+  "socials": {
+    "linkedin": "https://linkedin.com/company/withsable/",
+    "youtube": "https://www.youtube.com/@withsable"
+  },
+  "categories": [
+    "ai"
+  ],
+  "current_stage": "early",
+  "first_partnered_year": 2025,
+  "partners": [
+    "shaun-maguire"
+  ],
+  "primary_partner": "shaun-maguire",
+  "milestones": {
+    "founded_year": 2025,
+    "partnered_year": 2025,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Leon Chen",
+      "role": null
+    },
+    {
+      "name": "Linda He",
+      "role": null
+    },
+    {
+      "name": "Nim Ravid",
+      "role": null
+    },
+    {
+      "name": "Itamar Rocha",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/sable-ai/"
+  }
+}

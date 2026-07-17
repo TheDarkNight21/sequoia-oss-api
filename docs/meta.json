@@ -1,10 +1,10 @@
 {
-  "last_updated_iso": "2026-07-16T07:49:10.894706+00:00",
+  "last_updated_iso": "2026-07-17T07:46:44.456746+00:00",
   "schema_version": "1.0.0",
-  "total_companies": 413,
+  "total_companies": 415,
   "counts_by_stage": {
     "acquired": 37,
-    "growth": 158,
+    "growth": 159,
     "ipo": 67,
     "early": 86,
     "pre-seed-seed": 53
@@ -14,7 +14,7 @@
     "infrastructure": 22,
     "consumer": 88,
     "hardware": 35,
-    "healthcare": 34,
+    "healthcare": 35,
     "fintech": 41,
     "marketplace": 16,
     "data-analytics": 30,
@@ -22,7 +22,7 @@
     "developer-tools": 34,
     "operations": 33,
     "crypto": 22,
-    "ai": 124,
+    "ai": 125,
     "productivity": 25,
     "legal": 9,
     "climate": 6,

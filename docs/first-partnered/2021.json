@@ -22,11 +22,6 @@
       "slug": "bolt"
     },
     {
-      "id": "sequoia:prelude",
-      "name": "Prelude",
-      "slug": "prelude"
-    },
-    {
       "id": "sequoia:parallel",
       "name": "Parallel",
       "slug": "parallel"
@@ -225,6 +220,11 @@
       "id": "sequoia:statsig",
       "name": "Statsig",
       "slug": "statsig"
+    },
+    {
+      "id": "sequoia:originhq",
+      "name": "Origin",
+      "slug": "originhq"
     }
   ]
 }

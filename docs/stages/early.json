@@ -38,11 +38,6 @@
       "slug": "cyera"
     },
     {
-      "id": "sequoia:prelude",
-      "name": "Prelude",
-      "slug": "prelude"
-    },
-    {
       "id": "sequoia:jitx",
       "name": "JITX",
       "slug": "jitx"
@@ -431,6 +426,11 @@
       "id": "sequoia:sail-research",
       "name": "Sail Research",
       "slug": "sail-research"
+    },
+    {
+      "id": "sequoia:sable-ai",
+      "name": "Sable AI",
+      "slug": "sable-ai"
     }
   ]
 }

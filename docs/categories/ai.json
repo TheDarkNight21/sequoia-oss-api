@@ -621,6 +621,11 @@
       "id": "sequoia:chai-discovery",
       "name": "Chai Discovery",
       "slug": "chai-discovery"
+    },
+    {
+      "id": "sequoia:sable-ai",
+      "name": "Sable AI",
+      "slug": "sable-ai"
     }
   ]
 }

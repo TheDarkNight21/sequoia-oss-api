@@ -181,6 +181,11 @@
       "id": "sequoia:engram",
       "name": "Engram",
       "slug": "engram"
+    },
+    {
+      "id": "sequoia:sable-ai",
+      "name": "Sable AI",
+      "slug": "sable-ai"
     }
   ]
 }
