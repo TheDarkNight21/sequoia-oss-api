@@ -2252,49 +2252,6 @@
     }
   },
   {
-    "id": "sequoia:island",
-    "sequoia_id": "7848",
-    "name": "Island",
-    "slug": "island",
-    "description": "With the core needs of the enterprise naturally embedded in the browser itself, the Island Enterprise Browser gives organizations complete control, visibility, and governance over the last mile, while delivering the same Chromium-based browser experience users expect. Island is redefining the future of work for some of the largest, most respected enterprises in the world.",
-    "website": "https://island.io/",
-    "socials": {
-      "twitter": "https://twitter.com/island_io",
-      "linkedin": "https://www.linkedin.com/company/island-io"
-    },
-    "categories": [
-      "productivity",
-      "security"
-    ],
-    "current_stage": "growth",
-    "first_partnered_year": 2020,
-    "partners": [
-      "doug-leone"
-    ],
-    "primary_partner": "doug-leone",
-    "milestones": {
-      "founded_year": 2020,
-      "partnered_year": 2020,
-      "ipo_year": null,
-      "acquired_year": null
-    },
-    "team": [
-      {
-        "name": "Dan Amiga",
-        "role": null
-      },
-      {
-        "name": "Mike Fey",
-        "role": null
-      }
-    ],
-    "why_partnered": null,
-    "source_urls": {
-      "directory": "https://sequoiacap.com/our-companies/",
-      "profile": "https://sequoiacap.com/companies/island/"
-    }
-  },
-  {
     "id": "sequoia:cyera",
     "sequoia_id": "8739",
     "name": "Cyera",
@@ -17795,6 +17752,97 @@
     "source_urls": {
       "directory": "https://sequoiacap.com/our-companies/",
       "profile": "https://sequoiacap.com/companies/originhq/"
+    }
+  },
+  {
+    "id": "sequoia:island",
+    "sequoia_id": "7848",
+    "name": "Island",
+    "slug": "island",
+    "description": "With the core needs of the enterprise naturally embedded in the browser itself, the Island Enterprise Browser gives organizations complete control, visibility, and governance over the last mile, while delivering the same Chromium-based browser experience users expect. Island is redefining the future of work for some of the largest, most respected enterprises in the world.",
+    "website": "https://island.io/",
+    "socials": {
+      "twitter": "https://twitter.com/island_io",
+      "linkedin": "https://www.linkedin.com/company/island-io"
+    },
+    "categories": [
+      "productivity",
+      "security"
+    ],
+    "current_stage": "growth",
+    "first_partnered_year": 2020,
+    "partners": [
+      "doug-leone"
+    ],
+    "primary_partner": "doug-leone",
+    "milestones": {
+      "founded_year": 2020,
+      "partnered_year": 2020,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Dan Amiga",
+        "role": null
+      },
+      {
+        "name": "Mike Fey",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/island/"
+    }
+  },
+  {
+    "id": "sequoia:glow",
+    "sequoia_id": "18821",
+    "name": "Glow",
+    "slug": "glow",
+    "description": "Glow is the Endpoint AI company. As AI changes how people work, creating a new generation of risks that traditional reactive tools can’t keep up with, Glow is rethinking endpoint security from the ground up. The company’s AI-powered operating model is built on prevention, not reaction, that fixes the endpoint foundation so organizations can adopt new software and AI on solid ground.",
+    "website": "https://glow.io",
+    "socials": {
+      "linkedin": "https://www.linkedin.com/company/glowsecurity/",
+      "instagram": "https://www.instagram.com/lifeatglow/"
+    },
+    "categories": [
+      "ai",
+      "security"
+    ],
+    "current_stage": "early",
+    "first_partnered_year": 2025,
+    "partners": [
+      "shaun-maguire",
+      "dean-meyer"
+    ],
+    "primary_partner": "shaun-maguire",
+    "milestones": {
+      "founded_year": 2025,
+      "partnered_year": 2025,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Ophir Arie",
+        "role": null
+      },
+      {
+        "name": "Omer Singer",
+        "role": null
+      },
+      {
+        "name": "Roi Tiger",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/glow/"
     }
   }
 ]

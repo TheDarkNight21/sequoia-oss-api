@@ -63,11 +63,6 @@
       "slug": "armis-security"
     },
     {
-      "id": "sequoia:island",
-      "name": "Island",
-      "slug": "island"
-    },
-    {
       "id": "sequoia:cyera",
       "name": "Cyera",
       "slug": "cyera"
@@ -176,6 +171,16 @@
       "id": "sequoia:originhq",
       "name": "Origin",
       "slug": "originhq"
+    },
+    {
+      "id": "sequoia:island",
+      "name": "Island",
+      "slug": "island"
+    },
+    {
+      "id": "sequoia:glow",
+      "name": "Glow",
+      "slug": "glow"
     }
   ]
 }

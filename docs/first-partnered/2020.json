@@ -17,11 +17,6 @@
       "slug": "dbt-labs"
     },
     {
-      "id": "sequoia:island",
-      "name": "Island",
-      "slug": "island"
-    },
-    {
       "id": "sequoia:pilot",
       "name": "Pilot",
       "slug": "pilot"
@@ -180,6 +175,11 @@
       "id": "sequoia:spacex",
       "name": "SpaceX",
       "slug": "spacex"
+    },
+    {
+      "id": "sequoia:island",
+      "name": "Island",
+      "slug": "island"
     }
   ]
 }

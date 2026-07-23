@@ -21,6 +21,11 @@
       "id": "sequoia:irregular",
       "name": "Irregular",
       "slug": "irregular"
+    },
+    {
+      "id": "sequoia:glow",
+      "name": "Glow",
+      "slug": "glow"
     }
   ]
 }

@@ -186,6 +186,11 @@
       "id": "sequoia:sable-ai",
       "name": "Sable AI",
       "slug": "sable-ai"
+    },
+    {
+      "id": "sequoia:glow",
+      "name": "Glow",
+      "slug": "glow"
     }
   ]
 }

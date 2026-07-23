@@ -103,11 +103,6 @@
       "slug": "bolt"
     },
     {
-      "id": "sequoia:island",
-      "name": "Island",
-      "slug": "island"
-    },
-    {
       "id": "sequoia:wonolo",
       "name": "Wonolo",
       "slug": "wonolo"
@@ -796,6 +791,11 @@
       "id": "sequoia:bunkerhill-health",
       "name": "Bunkerhill Health",
       "slug": "bunkerhill-health"
+    },
+    {
+      "id": "sequoia:island",
+      "name": "Island",
+      "slug": "island"
     }
   ]
 }

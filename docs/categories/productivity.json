@@ -13,11 +13,6 @@
       "slug": "ringcentral"
     },
     {
-      "id": "sequoia:island",
-      "name": "Island",
-      "slug": "island"
-    },
-    {
       "id": "sequoia:zoom",
       "name": "Zoom",
       "slug": "zoom"
@@ -126,6 +121,11 @@
       "id": "sequoia:mindy",
       "name": "Mindy",
       "slug": "mindy"
+    },
+    {
+      "id": "sequoia:island",
+      "name": "Island",
+      "slug": "island"
     }
   ]
 }
