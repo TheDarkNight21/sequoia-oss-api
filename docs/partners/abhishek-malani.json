@@ -16,6 +16,11 @@
       "id": "sequoia:kalshi",
       "name": "Kalshi",
       "slug": "kalshi"
+    },
+    {
+      "id": "sequoia:etched",
+      "name": "Etched",
+      "slug": "etched"
     }
   ]
 }

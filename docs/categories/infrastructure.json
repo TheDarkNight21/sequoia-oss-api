@@ -111,6 +111,11 @@
       "id": "sequoia:graphiant",
       "name": "Graphiant",
       "slug": "graphiant"
+    },
+    {
+      "id": "sequoia:etched",
+      "name": "Etched",
+      "slug": "etched"
     }
   ]
 }

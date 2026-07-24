@@ -45,6 +45,11 @@
       "id": "sequoia:chai-discovery",
       "name": "Chai Discovery",
       "slug": "chai-discovery"
+    },
+    {
+      "id": "sequoia:etched",
+      "name": "Etched",
+      "slug": "etched"
     }
   ]
 }

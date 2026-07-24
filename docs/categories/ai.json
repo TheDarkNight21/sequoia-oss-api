@@ -631,6 +631,11 @@
       "id": "sequoia:glow",
       "name": "Glow",
       "slug": "glow"
+    },
+    {
+      "id": "sequoia:etched",
+      "name": "Etched",
+      "slug": "etched"
     }
   ]
 }

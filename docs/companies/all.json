@@ -17844,5 +17844,52 @@
       "directory": "https://sequoiacap.com/our-companies/",
       "profile": "https://sequoiacap.com/companies/glow/"
     }
+  },
+  {
+    "id": "sequoia:etched",
+    "sequoia_id": "22423",
+    "name": "Etched",
+    "slug": "etched",
+    "description": "Etched builds frontier inference clusters designed to run the world’s most advanced AI models faster and more efficiently. It has pioneered technologies including Low Voltage Inference and Cluster Scale Memory, which unlock best-in-class throughput and latency for inference at scale. By co-designing silicon, memory, networking, software and rack-scale systems, Etched turns these breakthroughs into production infrastructure for frontier AI.",
+    "website": "https://www.etched.com/",
+    "socials": {
+      "linkedin": "https://www.linkedin.com/company/etched-ai"
+    },
+    "categories": [
+      "ai",
+      "infrastructure"
+    ],
+    "current_stage": "growth",
+    "first_partnered_year": 2026,
+    "partners": [
+      "sonya-huang",
+      "abhishek-malani"
+    ],
+    "primary_partner": "sonya-huang",
+    "milestones": {
+      "founded_year": 2022,
+      "partnered_year": 2026,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Gavin Uberti",
+        "role": null
+      },
+      {
+        "name": "Rob Wachen",
+        "role": null
+      },
+      {
+        "name": "Chris Zhu",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/etched/"
+    }
   }
 ]

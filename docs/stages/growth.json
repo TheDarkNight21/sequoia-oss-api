@@ -796,6 +796,11 @@
       "id": "sequoia:island",
       "name": "Island",
       "slug": "island"
+    },
+    {
+      "id": "sequoia:etched",
+      "name": "Etched",
+      "slug": "etched"
     }
   ]
 }
