@@ -18,11 +18,6 @@
       "slug": "faire-wholesale"
     },
     {
-      "id": "sequoia:amplitude",
-      "name": "Amplitude",
-      "slug": "amplitude"
-    },
-    {
       "id": "sequoia:meter",
       "name": "Meter",
       "slug": "meter"
@@ -56,6 +51,11 @@
       "id": "sequoia:instacart",
       "name": "Instacart",
       "slug": "instacart"
+    },
+    {
+      "id": "sequoia:amplitude",
+      "name": "Amplitude",
+      "slug": "amplitude"
     }
   ]
 }

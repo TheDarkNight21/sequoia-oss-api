@@ -73,16 +73,6 @@
       "slug": "cohesity"
     },
     {
-      "id": "sequoia:cribl",
-      "name": "Cribl",
-      "slug": "cribl"
-    },
-    {
-      "id": "sequoia:dashlane",
-      "name": "Dashlane",
-      "slug": "dashlane"
-    },
-    {
       "id": "sequoia:verkada",
       "name": "Verkada",
       "slug": "verkada"
@@ -181,6 +171,16 @@
       "id": "sequoia:glow",
       "name": "Glow",
       "slug": "glow"
+    },
+    {
+      "id": "sequoia:cribl",
+      "name": "Cribl",
+      "slug": "cribl"
+    },
+    {
+      "id": "sequoia:dashlane",
+      "name": "Dashlane",
+      "slug": "dashlane"
     }
   ]
 }

@@ -22,11 +22,6 @@
       "slug": "wonolo"
     },
     {
-      "id": "sequoia:pendulum-therapeutics",
-      "name": "Pendulum",
-      "slug": "pendulum-therapeutics"
-    },
-    {
       "id": "sequoia:drift",
       "name": "Drift",
       "slug": "drift"
@@ -70,6 +65,11 @@
       "id": "sequoia:ethos-technologies",
       "name": "Ethos",
       "slug": "ethos-technologies"
+    },
+    {
+      "id": "sequoia:pendulum-therapeutics",
+      "name": "Pendulum",
+      "slug": "pendulum-therapeutics"
     }
   ]
 }

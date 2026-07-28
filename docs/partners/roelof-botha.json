@@ -28,11 +28,6 @@
       "slug": "xoom"
     },
     {
-      "id": "sequoia:pendulum-therapeutics",
-      "name": "Pendulum",
-      "slug": "pendulum-therapeutics"
-    },
-    {
       "id": "sequoia:instagram",
       "name": "Instagram",
       "slug": "instagram"
@@ -151,6 +146,11 @@
       "id": "sequoia:x",
       "name": "X",
       "slug": "x"
+    },
+    {
+      "id": "sequoia:pendulum-therapeutics",
+      "name": "Pendulum",
+      "slug": "pendulum-therapeutics"
     }
   ]
 }

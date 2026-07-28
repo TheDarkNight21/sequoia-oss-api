@@ -18,11 +18,6 @@
       "slug": "dbt-labs"
     },
     {
-      "id": "sequoia:amplitude",
-      "name": "Amplitude",
-      "slug": "amplitude"
-    },
-    {
       "id": "sequoia:confluent",
       "name": "Confluent",
       "slug": "confluent"
@@ -33,11 +28,6 @@
       "slug": "cohesity"
     },
     {
-      "id": "sequoia:cribl",
-      "name": "Cribl",
-      "slug": "cribl"
-    },
-    {
       "id": "sequoia:orbital-insight",
       "name": "Orbital Insight",
       "slug": "orbital-insight"
@@ -46,16 +36,6 @@
       "id": "sequoia:arcwise",
       "name": "Arcwise",
       "slug": "arcwise"
-    },
-    {
-      "id": "sequoia:tecton",
-      "name": "Tecton",
-      "slug": "tecton"
-    },
-    {
-      "id": "sequoia:census",
-      "name": "Census",
-      "slug": "census"
     },
     {
       "id": "sequoia:cockroach-labs",
@@ -151,6 +131,26 @@
       "id": "sequoia:statsig",
       "name": "Statsig",
       "slug": "statsig"
+    },
+    {
+      "id": "sequoia:census",
+      "name": "Census",
+      "slug": "census"
+    },
+    {
+      "id": "sequoia:cribl",
+      "name": "Cribl",
+      "slug": "cribl"
+    },
+    {
+      "id": "sequoia:tecton",
+      "name": "Tecton",
+      "slug": "tecton"
+    },
+    {
+      "id": "sequoia:amplitude",
+      "name": "Amplitude",
+      "slug": "amplitude"
     }
   ]
 }

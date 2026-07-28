@@ -43,11 +43,6 @@
       "slug": "clari"
     },
     {
-      "id": "sequoia:dashlane",
-      "name": "Dashlane",
-      "slug": "dashlane"
-    },
-    {
       "id": "sequoia:semgrep",
       "name": "Semgrep",
       "slug": "semgrep"
@@ -106,6 +101,11 @@
       "id": "sequoia:palo-alto-networks",
       "name": "Palo Alto Networks",
       "slug": "palo-alto-networks"
+    },
+    {
+      "id": "sequoia:dashlane",
+      "name": "Dashlane",
+      "slug": "dashlane"
     }
   ]
 }

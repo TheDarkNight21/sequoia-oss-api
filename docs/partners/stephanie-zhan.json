@@ -8,14 +8,19 @@
       "slug": "middesk"
     },
     {
+      "id": "sequoia:rec-room",
+      "name": "Rec Room",
+      "slug": "rec-room"
+    },
+    {
+      "id": "sequoia:evy",
+      "name": "Evy",
+      "slug": "evy"
+    },
+    {
       "id": "sequoia:linear",
       "name": "Linear",
       "slug": "linear"
-    },
-    {
-      "id": "sequoia:skild-ai",
-      "name": "Skild AI",
-      "slug": "skild-ai"
     },
     {
       "id": "sequoia:mach",
@@ -28,24 +33,19 @@
       "slug": "reflection-ai"
     },
     {
-      "id": "sequoia:tavus",
-      "name": "Tavus",
-      "slug": "tavus"
-    },
-    {
       "id": "sequoia:ricursive-intelligence",
       "name": "Ricursive Intelligence",
       "slug": "ricursive-intelligence"
     },
     {
-      "id": "sequoia:evy",
-      "name": "Evy",
-      "slug": "evy"
+      "id": "sequoia:skild-ai",
+      "name": "Skild AI",
+      "slug": "skild-ai"
     },
     {
-      "id": "sequoia:rec-room",
-      "name": "Rec Room",
-      "slug": "rec-room"
+      "id": "sequoia:tavus",
+      "name": "Tavus",
+      "slug": "tavus"
     }
   ]
 }

@@ -3,11 +3,6 @@
   "label": "Defense",
   "companies": [
     {
-      "id": "sequoia:mach",
-      "name": "Mach Industries",
-      "slug": "mach"
-    },
-    {
       "id": "sequoia:kela",
       "name": "Kela",
       "slug": "kela"
@@ -26,6 +21,11 @@
       "id": "sequoia:stark",
       "name": "STARK",
       "slug": "stark"
+    },
+    {
+      "id": "sequoia:mach",
+      "name": "Mach Industries",
+      "slug": "mach"
     }
   ]
 }

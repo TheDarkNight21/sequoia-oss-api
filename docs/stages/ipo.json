@@ -78,11 +78,6 @@
       "slug": "nimble-storage"
     },
     {
-      "id": "sequoia:amplitude",
-      "name": "Amplitude",
-      "slug": "amplitude"
-    },
-    {
       "id": "sequoia:confluent",
       "name": "Confluent",
       "slug": "confluent"
@@ -336,6 +331,11 @@
       "id": "sequoia:spacex",
       "name": "SpaceX",
       "slug": "spacex"
+    },
+    {
+      "id": "sequoia:amplitude",
+      "name": "Amplitude",
+      "slug": "amplitude"
     }
   ]
 }

@@ -52,11 +52,6 @@
       "slug": "zafran"
     },
     {
-      "id": "sequoia:skild-ai",
-      "name": "Skild AI",
-      "slug": "skild-ai"
-    },
-    {
       "id": "sequoia:cove",
       "name": "Cove",
       "slug": "cove"
@@ -70,11 +65,6 @@
       "id": "sequoia:pydantic",
       "name": "Pydantic",
       "slug": "pydantic"
-    },
-    {
-      "id": "sequoia:mach",
-      "name": "Mach Industries",
-      "slug": "mach"
     },
     {
       "id": "sequoia:hex",
@@ -160,6 +150,16 @@
       "id": "sequoia:bunkerhill-health",
       "name": "Bunkerhill Health",
       "slug": "bunkerhill-health"
+    },
+    {
+      "id": "sequoia:mach",
+      "name": "Mach Industries",
+      "slug": "mach"
+    },
+    {
+      "id": "sequoia:skild-ai",
+      "name": "Skild AI",
+      "slug": "skild-ai"
     }
   ]
 }

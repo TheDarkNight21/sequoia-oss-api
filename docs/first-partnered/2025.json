@@ -62,11 +62,6 @@
       "slug": "whatnot"
     },
     {
-      "id": "sequoia:ricursive-intelligence",
-      "name": "Ricursive Intelligence",
-      "slug": "ricursive-intelligence"
-    },
-    {
       "id": "sequoia:fal",
       "name": "fal",
       "slug": "fal"
@@ -175,6 +170,11 @@
       "id": "sequoia:glow",
       "name": "Glow",
       "slug": "glow"
+    },
+    {
+      "id": "sequoia:ricursive-intelligence",
+      "name": "Ricursive Intelligence",
+      "slug": "ricursive-intelligence"
     }
   ]
 }

@@ -2,11 +2,6 @@
   "year": 2013,
   "companies": [
     {
-      "id": "sequoia:thumbtack",
-      "name": "Thumbtack",
-      "slug": "thumbtack"
-    },
-    {
       "id": "sequoia:clever",
       "name": "Clever",
       "slug": "clever"
@@ -40,6 +35,11 @@
       "id": "sequoia:instacart",
       "name": "Instacart",
       "slug": "instacart"
+    },
+    {
+      "id": "sequoia:thumbtack",
+      "name": "Thumbtack",
+      "slug": "thumbtack"
     }
   ]
 }

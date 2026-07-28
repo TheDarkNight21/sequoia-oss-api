@@ -33,11 +33,6 @@
       "slug": "lilt"
     },
     {
-      "id": "sequoia:linear",
-      "name": "Linear",
-      "slug": "linear"
-    },
-    {
       "id": "sequoia:loom",
       "name": "Loom",
       "slug": "loom"
@@ -126,6 +121,11 @@
       "id": "sequoia:island",
       "name": "Island",
       "slug": "island"
+    },
+    {
+      "id": "sequoia:linear",
+      "name": "Linear",
+      "slug": "linear"
     }
   ]
 }

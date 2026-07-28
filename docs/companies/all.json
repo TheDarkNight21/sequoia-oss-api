@@ -447,42 +447,40 @@
     }
   },
   {
-    "id": "sequoia:otter",
-    "sequoia_id": "520",
-    "name": "Otter",
-    "slug": "otter",
-    "description": "Otter connects parents who need childcare with stay-at-home parents who can watch their kids. Its goal is for every child to have access to safe, high-quality childcare and for every stay-at-home parent to be economically empowered in a way that has never been possible.",
-    "website": "https://withotter.com/",
+    "id": "sequoia:oracle",
+    "sequoia_id": "512",
+    "name": "Oracle",
+    "slug": "oracle",
+    "description": "For decades, Oracle has engineered integrated hardware and software systems for some of the largest companies in the world. Oracle optimizes cloud monitoring and storage, develops databases and enterprises, and provides complementary services for cloud and real-world data centers.",
+    "website": "https://www.oracle.com",
     "socials": {
-      "twitter": "https://www.twitter.com/WithOtter",
-      "linkedin": "https://www.linkedin.com/company/withotter/"
+      "twitter": "https://www.twitter.com/Oracle",
+      "linkedin": "https://www.linkedin.com/company/oracle"
     },
     "categories": [
-      "consumer"
+      "hardware",
+      "infrastructure"
     ],
-    "current_stage": "early",
-    "first_partnered_year": 2021,
-    "partners": [
-      "jess-lee",
-      "alfred-lin"
-    ],
-    "primary_partner": "jess-lee",
+    "current_stage": "ipo",
+    "first_partnered_year": 1983,
+    "partners": [],
+    "primary_partner": null,
     "milestones": {
-      "founded_year": 2020,
-      "partnered_year": 2021,
-      "ipo_year": null,
+      "founded_year": 1977,
+      "partnered_year": 1983,
+      "ipo_year": 1986,
       "acquired_year": null
     },
     "team": [
       {
-        "name": "Helen Mayer",
+        "name": "Larry Ellison",
         "role": null
       }
     ],
     "why_partnered": null,
     "source_urls": {
       "directory": "https://sequoiacap.com/our-companies/",
-      "profile": "https://sequoiacap.com/companies/otter/"
+      "profile": "https://sequoiacap.com/companies/oracle/"
     }
   },
   {
@@ -522,6 +520,45 @@
     "source_urls": {
       "directory": "https://sequoiacap.com/our-companies/",
       "profile": "https://sequoiacap.com/companies/opendns/"
+    }
+  },
+  {
+    "id": "sequoia:otter",
+    "sequoia_id": "520",
+    "name": "Otter",
+    "slug": "otter",
+    "description": "Otter connects parents who need childcare with stay-at-home parents who can watch their kids. Its goal is for every child to have access to safe, high-quality childcare and for every stay-at-home parent to be economically empowered in a way that has never been possible.",
+    "website": "https://withotter.com/",
+    "socials": {
+      "twitter": "https://www.twitter.com/WithOtter",
+      "linkedin": "https://www.linkedin.com/company/withotter/"
+    },
+    "categories": [
+      "consumer"
+    ],
+    "current_stage": "early",
+    "first_partnered_year": 2021,
+    "partners": [
+      "jess-lee",
+      "alfred-lin"
+    ],
+    "primary_partner": "jess-lee",
+    "milestones": {
+      "founded_year": 2020,
+      "partnered_year": 2021,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Helen Mayer",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/otter/"
     }
   },
   {
@@ -568,86 +605,6 @@
     }
   },
   {
-    "id": "sequoia:oracle",
-    "sequoia_id": "512",
-    "name": "Oracle",
-    "slug": "oracle",
-    "description": "For decades, Oracle has engineered integrated hardware and software systems for some of the largest companies in the world. Oracle optimizes cloud monitoring and storage, develops databases and enterprises, and provides complementary services for cloud and real-world data centers.",
-    "website": "https://www.oracle.com",
-    "socials": {
-      "twitter": "https://www.twitter.com/Oracle",
-      "linkedin": "https://www.linkedin.com/company/oracle"
-    },
-    "categories": [
-      "hardware",
-      "infrastructure"
-    ],
-    "current_stage": "ipo",
-    "first_partnered_year": 1983,
-    "partners": [],
-    "primary_partner": null,
-    "milestones": {
-      "founded_year": 1977,
-      "partnered_year": 1983,
-      "ipo_year": 1986,
-      "acquired_year": null
-    },
-    "team": [
-      {
-        "name": "Larry Ellison",
-        "role": null
-      }
-    ],
-    "why_partnered": null,
-    "source_urls": {
-      "directory": "https://sequoiacap.com/our-companies/",
-      "profile": "https://sequoiacap.com/companies/oracle/"
-    }
-  },
-  {
-    "id": "sequoia:productboard",
-    "sequoia_id": "543",
-    "name": "Productboard",
-    "slug": "productboard",
-    "description": "Productboard is a product management system helping organizations build the right products. It helps product managers learn what customers need, prioritize what to build next, and rally everyone around the roadmap.",
-    "website": "https://www.productboard.com/",
-    "socials": {
-      "twitter": "https://www.twitter.com/productboard",
-      "linkedin": "https://www.linkedin.com/company/productboard/",
-      "instagram": "https://www.instagram.com/productboard/?hl=en"
-    },
-    "categories": [
-      "operations"
-    ],
-    "current_stage": "growth",
-    "first_partnered_year": 2019,
-    "partners": [
-      "andrew-reed"
-    ],
-    "primary_partner": "andrew-reed",
-    "milestones": {
-      "founded_year": 2014,
-      "partnered_year": 2019,
-      "ipo_year": null,
-      "acquired_year": null
-    },
-    "team": [
-      {
-        "name": "Daniel Hejl",
-        "role": null
-      },
-      {
-        "name": "Hubert Palan",
-        "role": null
-      }
-    ],
-    "why_partnered": null,
-    "source_urls": {
-      "directory": "https://sequoiacap.com/our-companies/",
-      "profile": "https://sequoiacap.com/companies/productboard/"
-    }
-  },
-  {
     "id": "sequoia:rappi",
     "sequoia_id": "552",
     "name": "Rappi",
@@ -691,6 +648,49 @@
     "source_urls": {
       "directory": "https://sequoiacap.com/our-companies/",
       "profile": "https://sequoiacap.com/companies/rappi/"
+    }
+  },
+  {
+    "id": "sequoia:productboard",
+    "sequoia_id": "543",
+    "name": "Productboard",
+    "slug": "productboard",
+    "description": "Productboard is a product management system helping organizations build the right products. It helps product managers learn what customers need, prioritize what to build next, and rally everyone around the roadmap.",
+    "website": "https://www.productboard.com/",
+    "socials": {
+      "twitter": "https://www.twitter.com/productboard",
+      "linkedin": "https://www.linkedin.com/company/productboard/",
+      "instagram": "https://www.instagram.com/productboard/?hl=en"
+    },
+    "categories": [
+      "operations"
+    ],
+    "current_stage": "growth",
+    "first_partnered_year": 2019,
+    "partners": [
+      "andrew-reed"
+    ],
+    "primary_partner": "andrew-reed",
+    "milestones": {
+      "founded_year": 2014,
+      "partnered_year": 2019,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Daniel Hejl",
+        "role": null
+      },
+      {
+        "name": "Hubert Palan",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/productboard/"
     }
   },
   {
@@ -957,49 +957,6 @@
     }
   },
   {
-    "id": "sequoia:thumbtack",
-    "sequoia_id": "644",
-    "name": "Thumbtack",
-    "slug": "thumbtack",
-    "description": "Thumbtack helps people care for their homes from top to bottom, whether it’s a minor repair or a major remodel. Its home management platform connects customers to the right professionals for projects, empowering them to fix, maintain and improve their most valuable asset.",
-    "website": "https://www.thumbtack.com",
-    "socials": {
-      "twitter": "https://www.twitter.com/thumbtack",
-      "linkedin": "https://www.linkedin.com/company/thumbtack-inc."
-    },
-    "categories": [
-      "consumer"
-    ],
-    "current_stage": "growth",
-    "first_partnered_year": 2013,
-    "partners": [
-      "bryan-schreier",
-      "sonya-huang"
-    ],
-    "primary_partner": "bryan-schreier",
-    "milestones": {
-      "founded_year": 2009,
-      "partnered_year": 2013,
-      "ipo_year": null,
-      "acquired_year": null
-    },
-    "team": [
-      {
-        "name": "Jonathan Swanson",
-        "role": null
-      },
-      {
-        "name": "Marco Zappacosta",
-        "role": null
-      }
-    ],
-    "why_partnered": null,
-    "source_urls": {
-      "directory": "https://sequoiacap.com/our-companies/",
-      "profile": "https://sequoiacap.com/companies/thumbtack/"
-    }
-  },
-  {
     "id": "sequoia:truework",
     "sequoia_id": "652",
     "name": "Truework",
@@ -1089,6 +1046,44 @@
     }
   },
   {
+    "id": "sequoia:tumblr",
+    "sequoia_id": "655",
+    "name": "Tumblr",
+    "slug": "tumblr",
+    "description": "Tumblr is a short-form, mixed-media blogging platform focused on visuals and multimedia. Acquired by Yahoo in 2013, Tumblr attracts hundreds of millions of unique visitors who follow hundreds of millions of blogs. The platform also offers ad purchases and blog themes for companies and users.",
+    "website": "https://www.tumblr.com",
+    "socials": {
+      "twitter": "https://www.twitter.com/tumblr",
+      "linkedin": "https://www.linkedin.com/company/tumblr"
+    },
+    "categories": [
+      "consumer"
+    ],
+    "current_stage": "acquired",
+    "first_partnered_year": 2010,
+    "partners": [
+      "roelof-botha"
+    ],
+    "primary_partner": "roelof-botha",
+    "milestones": {
+      "founded_year": 2007,
+      "partnered_year": 2010,
+      "ipo_year": null,
+      "acquired_year": 2013
+    },
+    "team": [
+      {
+        "name": "David Karp",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/tumblr/"
+    }
+  },
+  {
     "id": "sequoia:versa-networks",
     "sequoia_id": "665",
     "name": "Versa Networks",
@@ -1129,44 +1124,6 @@
     "source_urls": {
       "directory": "https://sequoiacap.com/our-companies/",
       "profile": "https://sequoiacap.com/companies/versa-networks/"
-    }
-  },
-  {
-    "id": "sequoia:tumblr",
-    "sequoia_id": "655",
-    "name": "Tumblr",
-    "slug": "tumblr",
-    "description": "Tumblr is a short-form, mixed-media blogging platform focused on visuals and multimedia. Acquired by Yahoo in 2013, Tumblr attracts hundreds of millions of unique visitors who follow hundreds of millions of blogs. The platform also offers ad purchases and blog themes for companies and users.",
-    "website": "https://www.tumblr.com",
-    "socials": {
-      "twitter": "https://www.twitter.com/tumblr",
-      "linkedin": "https://www.linkedin.com/company/tumblr"
-    },
-    "categories": [
-      "consumer"
-    ],
-    "current_stage": "acquired",
-    "first_partnered_year": 2010,
-    "partners": [
-      "roelof-botha"
-    ],
-    "primary_partner": "roelof-botha",
-    "milestones": {
-      "founded_year": 2007,
-      "partnered_year": 2010,
-      "ipo_year": null,
-      "acquired_year": 2013
-    },
-    "team": [
-      {
-        "name": "David Karp",
-        "role": null
-      }
-    ],
-    "why_partnered": null,
-    "source_urls": {
-      "directory": "https://sequoiacap.com/our-companies/",
-      "profile": "https://sequoiacap.com/companies/tumblr/"
     }
   },
   {
@@ -2069,54 +2026,6 @@
     }
   },
   {
-    "id": "sequoia:amplitude",
-    "sequoia_id": "236",
-    "name": "Amplitude",
-    "slug": "amplitude",
-    "description": "Amplitude helps companies optimize the business value of digital product innovation. Its Behavioral Graph is the largest database of customer behavior and the industry’s first Digital Optimization System.",
-    "website": "https://amplitude.com/",
-    "socials": {
-      "twitter": "https://www.twitter.com/Amplitude_HQ",
-      "linkedin": "https://www.linkedin.com/company/amplitude-analytics"
-    },
-    "categories": [
-      "data-analytics"
-    ],
-    "current_stage": "ipo",
-    "first_partnered_year": 2018,
-    "partners": [
-      "pat-grady",
-      "sonya-huang",
-      "ravi-gupta"
-    ],
-    "primary_partner": "pat-grady",
-    "milestones": {
-      "founded_year": 2012,
-      "partnered_year": 2018,
-      "ipo_year": 2021,
-      "acquired_year": null
-    },
-    "team": [
-      {
-        "name": "Curtis Liu",
-        "role": null
-      },
-      {
-        "name": "Spenser Skates",
-        "role": null
-      },
-      {
-        "name": "Jeffrey Wang",
-        "role": null
-      }
-    ],
-    "why_partnered": null,
-    "source_urls": {
-      "directory": "https://sequoiacap.com/our-companies/",
-      "profile": "https://sequoiacap.com/companies/amplitude/"
-    }
-  },
-  {
     "id": "sequoia:confluent",
     "sequoia_id": "304",
     "name": "Confluent",
@@ -2330,54 +2239,6 @@
     "source_urls": {
       "directory": "https://sequoiacap.com/our-companies/",
       "profile": "https://sequoiacap.com/companies/wonolo/"
-    }
-  },
-  {
-    "id": "sequoia:pendulum-therapeutics",
-    "sequoia_id": null,
-    "name": "Pendulum",
-    "slug": "pendulum-therapeutics",
-    "description": "Pendulum develops novel interventions that target the human microbiome to improve the lives of patients suffering from a variety of diseases. Its targeted formulations, made with natural bacterial strains, help rebalance the microbiome, which restores people’s health.",
-    "website": "https://pendulum.co/",
-    "socials": {
-      "twitter": "https://www.twitter.com/Pendulum_Co",
-      "linkedin": "https://www.linkedin.com/company/pendulumco/?viewAsMember=true"
-    },
-    "categories": [
-      "healthcare"
-    ],
-    "current_stage": null,
-    "first_partnered_year": 2017,
-    "partners": [
-      "jess-lee",
-      "roelof-botha",
-      "sonya-huang"
-    ],
-    "primary_partner": "jess-lee",
-    "milestones": {
-      "founded_year": 2012,
-      "partnered_year": 2017,
-      "ipo_year": null,
-      "acquired_year": null
-    },
-    "team": [
-      {
-        "name": "James Bullard",
-        "role": null
-      },
-      {
-        "name": "Colleen Cutcliffe",
-        "role": null
-      },
-      {
-        "name": "John Eid",
-        "role": null
-      }
-    ],
-    "why_partnered": null,
-    "source_urls": {
-      "directory": "https://sequoiacap.com/our-companies/",
-      "profile": "https://sequoiacap.com/companies/pendulum-therapeutics/"
     }
   },
   {
@@ -3646,54 +3507,6 @@
     }
   },
   {
-    "id": "sequoia:cribl",
-    "sequoia_id": "310",
-    "name": "Cribl",
-    "slug": "cribl",
-    "description": "Founded by three ex-Splunkers on a mission to get the most out of machine data, Cribl helps customers easily sift through data to find the nuggets they need. Its innovative and customizable controls route security and machine data where it has the most value—and with a singular focus on assuring customers have complete control to shape their data. As data needs evolve, LogStream evolves too, helping to get the right data, to the right destinations, in the right formats, at the right time.",
-    "website": "https://cribl.io/",
-    "socials": {
-      "twitter": "https://www.twitter.com/cribl_io",
-      "linkedin": "https://www.linkedin.com/company/cribl/"
-    },
-    "categories": [
-      "data-analytics",
-      "security"
-    ],
-    "current_stage": "growth",
-    "first_partnered_year": 2020,
-    "partners": [
-      "pat-grady",
-      "sonya-huang"
-    ],
-    "primary_partner": "pat-grady",
-    "milestones": {
-      "founded_year": 2017,
-      "partnered_year": 2020,
-      "ipo_year": null,
-      "acquired_year": null
-    },
-    "team": [
-      {
-        "name": "Dritan Bitincka",
-        "role": null
-      },
-      {
-        "name": "Ledion Bitincka",
-        "role": null
-      },
-      {
-        "name": "Clint Sharp",
-        "role": null
-      }
-    ],
-    "why_partnered": null,
-    "source_urls": {
-      "directory": "https://sequoiacap.com/our-companies/",
-      "profile": "https://sequoiacap.com/companies/cribl/"
-    }
-  },
-  {
     "id": "sequoia:found",
     "sequoia_id": "367",
     "name": "Found",
@@ -4063,107 +3876,6 @@
     }
   },
   {
-    "id": "sequoia:dashlane",
-    "sequoia_id": "312",
-    "name": "Dashlane",
-    "slug": "dashlane",
-    "description": "Dashlane secures users’ digital identity across a wide range of platforms and devices. The Dashlane app automatically fills and stores passwords, personal data and payment details, and includes a suite of tools to help consumers protect their identity online.",
-    "website": "https://www.dashlane.com/",
-    "socials": {
-      "twitter": "https://www.twitter.com/dashlane",
-      "linkedin": "https://www.linkedin.com/company/dashlane/",
-      "instagram": "https://www.instagram.com/dashlane/?hl=en"
-    },
-    "categories": [
-      "security"
-    ],
-    "current_stage": "growth",
-    "first_partnered_year": 2019,
-    "partners": [
-      "jim-goetz",
-      "sonya-huang"
-    ],
-    "primary_partner": "jim-goetz",
-    "milestones": {
-      "founded_year": 2009,
-      "partnered_year": 2019,
-      "ipo_year": null,
-      "acquired_year": null
-    },
-    "team": [
-      {
-        "name": "John Bennett",
-        "role": null
-      },
-      {
-        "name": "Jean Guillou",
-        "role": null
-      },
-      {
-        "name": "Guillaume Maron",
-        "role": null
-      }
-    ],
-    "why_partnered": null,
-    "source_urls": {
-      "directory": "https://sequoiacap.com/our-companies/",
-      "profile": "https://sequoiacap.com/companies/dashlane/"
-    }
-  },
-  {
-    "id": "sequoia:fintual",
-    "sequoia_id": "359",
-    "name": "Fintual",
-    "slug": "fintual",
-    "description": "Fintual provides easy access to a balanced investment portfolio through its easy-to-use app. Launched in Chile in 2018, and Mexico in 2021, Fintual has a regulatory license that allows it to offer mostly global ETFs.",
-    "website": "https://fintual.cl/",
-    "socials": {
-      "facebook": "https://www.facebook.com/fintual/",
-      "twitter": "https://www.twitter.com/fintual/",
-      "instagram": "https://www.instagram.com/fintual/",
-      "youtube": "https://www.youtube.com/fintual"
-    },
-    "categories": [
-      "consumer",
-      "fintech"
-    ],
-    "current_stage": "growth",
-    "first_partnered_year": 2021,
-    "partners": [
-      "sonya-huang"
-    ],
-    "primary_partner": "sonya-huang",
-    "milestones": {
-      "founded_year": 2018,
-      "partnered_year": 2021,
-      "ipo_year": null,
-      "acquired_year": null
-    },
-    "team": [
-      {
-        "name": "Agustin Feuerhake Larrain",
-        "role": null
-      },
-      {
-        "name": "Omar Larré",
-        "role": null
-      },
-      {
-        "name": "Andrés Marinkovic",
-        "role": null
-      },
-      {
-        "name": "Pedro Pineda",
-        "role": null
-      }
-    ],
-    "why_partnered": null,
-    "source_urls": {
-      "directory": "https://sequoiacap.com/our-companies/",
-      "profile": "https://sequoiacap.com/companies/fintual/"
-    }
-  },
-  {
     "id": "sequoia:biomodal",
     "sequoia_id": "12966",
     "name": "biomodal",
@@ -4373,54 +4085,6 @@
     }
   },
   {
-    "id": "sequoia:tecton",
-    "sequoia_id": "628",
-    "name": "Tecton",
-    "slug": "tecton",
-    "description": "Tecton’s enterprise-ready feature store makes world-class machine learning accessible to every company. Its store helps ML teams serve great features quickly, reliably and at scale.",
-    "website": "https://tecton.ai/",
-    "socials": {
-      "twitter": "https://www.twitter.com/TectonAI",
-      "linkedin": "https://www.linkedin.com/company/tectonai/"
-    },
-    "categories": [
-      "ai",
-      "data-analytics"
-    ],
-    "current_stage": "growth",
-    "first_partnered_year": 2018,
-    "partners": [
-      "sonya-huang",
-      "bill-coughran"
-    ],
-    "primary_partner": "sonya-huang",
-    "milestones": {
-      "founded_year": 2018,
-      "partnered_year": 2018,
-      "ipo_year": null,
-      "acquired_year": null
-    },
-    "team": [
-      {
-        "name": "Michael Del Balso",
-        "role": null
-      },
-      {
-        "name": "Jeremy Hermann",
-        "role": null
-      },
-      {
-        "name": "Kevin Stumpf",
-        "role": null
-      }
-    ],
-    "why_partnered": null,
-    "source_urls": {
-      "directory": "https://sequoiacap.com/our-companies/",
-      "profile": "https://sequoiacap.com/companies/tecton/"
-    }
-  },
-  {
     "id": "sequoia:verkada",
     "sequoia_id": "663",
     "name": "Verkada",
@@ -4512,55 +4176,6 @@
     "source_urls": {
       "directory": "https://sequoiacap.com/our-companies/",
       "profile": "https://sequoiacap.com/companies/vise/"
-    }
-  },
-  {
-    "id": "sequoia:attentive",
-    "sequoia_id": "252",
-    "name": "Attentive",
-    "slug": "attentive",
-    "description": "Attentive is a personalized text messaging platform for innovative brands. Using real-time behavioral data, Attentive automatically sends engaging text messages to each subscriber at every step of their customer journey.",
-    "website": "https://attentivemobile.com",
-    "socials": {
-      "twitter": "https://www.twitter.com/attentivemobile",
-      "linkedin": "https://www.linkedin.com/company/attentivemobile/",
-      "instagram": "https://www.instagram.com/attentivemobile/"
-    },
-    "categories": [
-      "ai",
-      "gtm"
-    ],
-    "current_stage": "growth",
-    "first_partnered_year": 2019,
-    "partners": [
-      "pat-grady",
-      "sonya-huang"
-    ],
-    "primary_partner": "pat-grady",
-    "milestones": {
-      "founded_year": 2016,
-      "partnered_year": 2019,
-      "ipo_year": null,
-      "acquired_year": null
-    },
-    "team": [
-      {
-        "name": "Amit Jhawar",
-        "role": null
-      },
-      {
-        "name": "Andrew Jones",
-        "role": null
-      },
-      {
-        "name": "Brian Long",
-        "role": null
-      }
-    ],
-    "why_partnered": null,
-    "source_urls": {
-      "directory": "https://sequoiacap.com/our-companies/",
-      "profile": "https://sequoiacap.com/companies/attentive/"
     }
   },
   {
@@ -4896,57 +4511,6 @@
     }
   },
   {
-    "id": "sequoia:census",
-    "sequoia_id": "290",
-    "name": "Census",
-    "slug": "census",
-    "description": "Census takes models and insights from data warehouses to help go-to-market teams streamline their workflows.",
-    "website": "https://www.getcensus.com/",
-    "socials": {
-      "twitter": "https://www.twitter.com/getcensus",
-      "linkedin": "https://www.linkedin.com/company/getcensus/"
-    },
-    "categories": [
-      "data-analytics",
-      "gtm"
-    ],
-    "current_stage": "growth",
-    "first_partnered_year": 2020,
-    "partners": [
-      "sonya-huang"
-    ],
-    "primary_partner": "sonya-huang",
-    "milestones": {
-      "founded_year": 2018,
-      "partnered_year": 2020,
-      "ipo_year": null,
-      "acquired_year": null
-    },
-    "team": [
-      {
-        "name": "Bradley Buda",
-        "role": null
-      },
-      {
-        "name": "Boris Jabes",
-        "role": null
-      },
-      {
-        "name": "Sean Lynch",
-        "role": null
-      },
-      {
-        "name": "Anton Vaynshtok",
-        "role": null
-      }
-    ],
-    "why_partnered": null,
-    "source_urls": {
-      "directory": "https://sequoiacap.com/our-companies/",
-      "profile": "https://sequoiacap.com/companies/census/"
-    }
-  },
-  {
     "id": "sequoia:mutiny",
     "sequoia_id": "476",
     "name": "Mutiny",
@@ -5077,53 +4641,6 @@
     "source_urls": {
       "directory": "https://sequoiacap.com/our-companies/",
       "profile": "https://sequoiacap.com/companies/surein/"
-    }
-  },
-  {
-    "id": "sequoia:linear",
-    "sequoia_id": "443",
-    "name": "Linear",
-    "slug": "linear",
-    "description": "Linear helps developers streamline software projects, sprints, tasks and bug tracking without hampering progress.",
-    "website": "https://linear.app/",
-    "socials": {
-      "twitter": "https://www.twitter.com/linear_app",
-      "linkedin": "https://www.linkedin.com/company/linearapp/"
-    },
-    "categories": [
-      "developer-tools",
-      "productivity"
-    ],
-    "current_stage": "early",
-    "first_partnered_year": 2019,
-    "partners": [
-      "stephanie-zhan"
-    ],
-    "primary_partner": "stephanie-zhan",
-    "milestones": {
-      "founded_year": 2019,
-      "partnered_year": 2019,
-      "ipo_year": null,
-      "acquired_year": null
-    },
-    "team": [
-      {
-        "name": "Tuomas Artman",
-        "role": null
-      },
-      {
-        "name": "Jori Lallo",
-        "role": null
-      },
-      {
-        "name": "Karri Saarinen",
-        "role": null
-      }
-    ],
-    "why_partnered": "Linear’s ambition was to become the new standard for modern software development and project management—a Jira 2.0. Karri and his team’s understanding of the pain points experienced by engineers and PMs was apparent as was their ability to translate that into a product. The speed with which they moved and the early engagement they were able to drive gave us conviction that Linear could define the next generation of software development tools.",
-    "source_urls": {
-      "directory": "https://sequoiacap.com/our-companies/",
-      "profile": "https://sequoiacap.com/companies/linear/"
     }
   },
   {
@@ -7428,49 +6945,6 @@
     "source_urls": {
       "directory": "https://sequoiacap.com/our-companies/",
       "profile": "https://sequoiacap.com/companies/zafran/"
-    }
-  },
-  {
-    "id": "sequoia:skild-ai",
-    "sequoia_id": "14924",
-    "name": "Skild AI",
-    "slug": "skild-ai",
-    "description": "Skild AI is building a scalable AI foundation model for robotics to unlock intelligence in the embodied, physical world. This general-purpose model will enable the use of low-cost robots across a broad range of industries and applications.",
-    "website": "https://www.skild.ai/",
-    "socials": {
-      "twitter": "https://twitter.com/SkildAI",
-      "linkedin": "https://www.linkedin.com/company/skild-ai/",
-      "youtube": "https://www.youtube.com/@SkildAI"
-    },
-    "categories": [
-      "ai"
-    ],
-    "current_stage": "early",
-    "first_partnered_year": 2023,
-    "partners": [
-      "stephanie-zhan"
-    ],
-    "primary_partner": "stephanie-zhan",
-    "milestones": {
-      "founded_year": 2023,
-      "partnered_year": 2023,
-      "ipo_year": null,
-      "acquired_year": null
-    },
-    "team": [
-      {
-        "name": "Abhinav Gupta",
-        "role": null
-      },
-      {
-        "name": "Deepak Pathak",
-        "role": null
-      }
-    ],
-    "why_partnered": null,
-    "source_urls": {
-      "directory": "https://sequoiacap.com/our-companies/",
-      "profile": "https://sequoiacap.com/companies/skild-ai/"
     }
   },
   {
@@ -10536,43 +10010,6 @@
     }
   },
   {
-    "id": "sequoia:mach",
-    "sequoia_id": null,
-    "name": "Mach Industries",
-    "slug": "mach",
-    "description": "Mach Industries is building a defense company for the post-unmanned world. With its ecosystem of war-changing products and a survivable supply chain to produce them, Mach aims to become a core supplier for national defense.",
-    "website": "https://www.machindustries.com/",
-    "socials": {},
-    "categories": [
-      "defense",
-      "hardware"
-    ],
-    "current_stage": null,
-    "first_partnered_year": 2023,
-    "partners": [
-      "shaun-maguire",
-      "stephanie-zhan"
-    ],
-    "primary_partner": "shaun-maguire",
-    "milestones": {
-      "founded_year": 2022,
-      "partnered_year": 2023,
-      "ipo_year": null,
-      "acquired_year": null
-    },
-    "team": [
-      {
-        "name": "Ethan Thornton",
-        "role": null
-      }
-    ],
-    "why_partnered": null,
-    "source_urls": {
-      "directory": "https://sequoiacap.com/our-companies/",
-      "profile": "https://sequoiacap.com/companies/mach/"
-    }
-  },
-  {
     "id": "sequoia:kela",
     "sequoia_id": "17735",
     "name": "Kela",
@@ -12199,48 +11636,6 @@
     "source_urls": {
       "directory": "https://sequoiacap.com/our-companies/",
       "profile": "https://sequoiacap.com/companies/privy/"
-    }
-  },
-  {
-    "id": "sequoia:reflection-ai",
-    "sequoia_id": "16811",
-    "name": "Reflection AI",
-    "slug": "reflection-ai",
-    "description": "Reflection AI is building superintelligent autonomous systems, starting with coding agents.",
-    "website": "https://www.reflection.ai/",
-    "socials": {
-      "linkedin": "https://www.linkedin.com/company/reflectionai/"
-    },
-    "categories": [
-      "ai"
-    ],
-    "current_stage": "early",
-    "first_partnered_year": 2024,
-    "partners": [
-      "stephanie-zhan",
-      "charlie-curnin"
-    ],
-    "primary_partner": "stephanie-zhan",
-    "milestones": {
-      "founded_year": 2024,
-      "partnered_year": 2024,
-      "ipo_year": null,
-      "acquired_year": null
-    },
-    "team": [
-      {
-        "name": "Ioannis Antonoglou",
-        "role": null
-      },
-      {
-        "name": "Misha Laskin",
-        "role": null
-      }
-    ],
-    "why_partnered": null,
-    "source_urls": {
-      "directory": "https://sequoiacap.com/our-companies/",
-      "profile": "https://sequoiacap.com/companies/reflection-ai/"
     }
   },
   {
@@ -14291,48 +13686,6 @@
     }
   },
   {
-    "id": "sequoia:tavus",
-    "sequoia_id": "10348",
-    "name": "Tavus",
-    "slug": "tavus",
-    "description": "Tavus is a research lab pioneering human computing. Their real-time human simulation models let machines see, hear, respond, and even look real, enabling meaningful face-to-face conversations with people. Imagine a therapist that anyone can afford; a personal trainer that adapts to your schedule; medical assistants that can give every patient the attention they need, available 24/7, in every language.",
-    "website": "https://www.tavus.io",
-    "socials": {
-      "linkedin": "https://www.linkedin.com/company/tavus-io/"
-    },
-    "categories": [
-      "ai",
-      "gtm"
-    ],
-    "current_stage": "early",
-    "first_partnered_year": 2021,
-    "partners": [
-      "stephanie-zhan"
-    ],
-    "primary_partner": "stephanie-zhan",
-    "milestones": {
-      "founded_year": 2021,
-      "partnered_year": 2021,
-      "ipo_year": null,
-      "acquired_year": null
-    },
-    "team": [
-      {
-        "name": "Quinn Favret",
-        "role": null
-      },
-      {
-        "name": "Hassaan Raza",
-        "role": null
-      }
-    ],
-    "why_partnered": null,
-    "source_urls": {
-      "directory": "https://sequoiacap.com/our-companies/",
-      "profile": "https://sequoiacap.com/companies/tavus/"
-    }
-  },
-  {
     "id": "sequoia:sunflower-labs",
     "sequoia_id": "19977",
     "name": "Sunflower Labs",
@@ -14740,45 +14093,6 @@
     }
   },
   {
-    "id": "sequoia:ricursive-intelligence",
-    "sequoia_id": "21086",
-    "name": "Ricursive Intelligence",
-    "slug": "ricursive-intelligence",
-    "description": "Ricursive builds the AI stack that designs, verifies and closes silicon, so models and chips co-evolve in a tight loop. It enables a paradigm shift from fabless to “designless”: clients select the tradeoffs that matter to them, and Ricursive delivers a fully optimized, ready-to-build chip design. Models design next-gen chips that enable next-gen models, recursively accelerating our path to artificial superintelligence.",
-    "website": "https://ricursive.com",
-    "socials": {},
-    "categories": [
-      "ai"
-    ],
-    "current_stage": "early",
-    "first_partnered_year": 2025,
-    "partners": [
-      "stephanie-zhan"
-    ],
-    "primary_partner": "stephanie-zhan",
-    "milestones": {
-      "founded_year": 2025,
-      "partnered_year": 2025,
-      "ipo_year": null,
-      "acquired_year": null
-    },
-    "team": [
-      {
-        "name": "Anna Goldie",
-        "role": null
-      },
-      {
-        "name": "Azalia Mirhoseini",
-        "role": null
-      }
-    ],
-    "why_partnered": null,
-    "source_urls": {
-      "directory": "https://sequoiacap.com/our-companies/",
-      "profile": "https://sequoiacap.com/companies/ricursive-intelligence/"
-    }
-  },
-  {
     "id": "sequoia:fin",
     "sequoia_id": "13008",
     "name": "Fin",
@@ -14987,52 +14301,6 @@
     "source_urls": {
       "directory": "https://sequoiacap.com/our-companies/",
       "profile": "https://sequoiacap.com/companies/tacto/"
-    }
-  },
-  {
-    "id": "sequoia:evy",
-    "sequoia_id": "10329",
-    "name": "Evy",
-    "slug": "evy",
-    "description": "Evy provides a turnkey product protection solution that can be fully integrated into a merchant’s existing sales channels. Customers benefit from a first-class service that gives them peace of mind from the moment of purchase. Evy is committed to facilitating product repairs over their replacement, by developing additional services such as buyback, recycling or reconditioning.",
-    "website": "https://evy.eu",
-    "socials": {
-      "linkedin": "https://www.linkedin.com/company/evy-eu/"
-    },
-    "categories": [
-      "marketplace"
-    ],
-    "current_stage": "early",
-    "first_partnered_year": 2021,
-    "partners": [
-      "stephanie-zhan",
-      "george-robson"
-    ],
-    "primary_partner": "stephanie-zhan",
-    "milestones": {
-      "founded_year": 2021,
-      "partnered_year": 2021,
-      "ipo_year": null,
-      "acquired_year": null
-    },
-    "team": [
-      {
-        "name": "Shana Azria",
-        "role": null
-      },
-      {
-        "name": "Simon Kemoun",
-        "role": null
-      },
-      {
-        "name": "Tanguy Le Stradic",
-        "role": null
-      }
-    ],
-    "why_partnered": null,
-    "source_urls": {
-      "directory": "https://sequoiacap.com/our-companies/",
-      "profile": "https://sequoiacap.com/companies/evy/"
     }
   },
   {
@@ -17890,6 +17158,738 @@
     "source_urls": {
       "directory": "https://sequoiacap.com/our-companies/",
       "profile": "https://sequoiacap.com/companies/etched/"
+    }
+  },
+  {
+    "id": "sequoia:attentive",
+    "sequoia_id": "252",
+    "name": "Attentive",
+    "slug": "attentive",
+    "description": "Attentive is a personalized text messaging platform for innovative brands. Using real-time behavioral data, Attentive automatically sends engaging text messages to each subscriber at every step of their customer journey.",
+    "website": "https://attentivemobile.com",
+    "socials": {
+      "twitter": "https://www.twitter.com/attentivemobile",
+      "linkedin": "https://www.linkedin.com/company/attentivemobile/",
+      "instagram": "https://www.instagram.com/attentivemobile/"
+    },
+    "categories": [
+      "ai",
+      "gtm"
+    ],
+    "current_stage": "growth",
+    "first_partnered_year": 2019,
+    "partners": [
+      "pat-grady",
+      "sonya-huang"
+    ],
+    "primary_partner": "pat-grady",
+    "milestones": {
+      "founded_year": 2016,
+      "partnered_year": 2019,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Amit Jhawar",
+        "role": null
+      },
+      {
+        "name": "Andrew Jones",
+        "role": null
+      },
+      {
+        "name": "Brian Long",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/attentive/"
+    }
+  },
+  {
+    "id": "sequoia:census",
+    "sequoia_id": "290",
+    "name": "Census",
+    "slug": "census",
+    "description": "Census takes models and insights from data warehouses to help go-to-market teams streamline their workflows.",
+    "website": "https://www.getcensus.com/",
+    "socials": {
+      "twitter": "https://www.twitter.com/getcensus",
+      "linkedin": "https://www.linkedin.com/company/getcensus/"
+    },
+    "categories": [
+      "data-analytics",
+      "gtm"
+    ],
+    "current_stage": "growth",
+    "first_partnered_year": 2020,
+    "partners": [
+      "sonya-huang"
+    ],
+    "primary_partner": "sonya-huang",
+    "milestones": {
+      "founded_year": 2018,
+      "partnered_year": 2020,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Bradley Buda",
+        "role": null
+      },
+      {
+        "name": "Boris Jabes",
+        "role": null
+      },
+      {
+        "name": "Sean Lynch",
+        "role": null
+      },
+      {
+        "name": "Anton Vaynshtok",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/census/"
+    }
+  },
+  {
+    "id": "sequoia:cribl",
+    "sequoia_id": "310",
+    "name": "Cribl",
+    "slug": "cribl",
+    "description": "Founded by three ex-Splunkers on a mission to get the most out of machine data, Cribl helps customers easily sift through data to find the nuggets they need. Its innovative and customizable controls route security and machine data where it has the most value—and with a singular focus on assuring customers have complete control to shape their data. As data needs evolve, LogStream evolves too, helping to get the right data, to the right destinations, in the right formats, at the right time.",
+    "website": "https://cribl.io/",
+    "socials": {
+      "twitter": "https://www.twitter.com/cribl_io",
+      "linkedin": "https://www.linkedin.com/company/cribl/"
+    },
+    "categories": [
+      "data-analytics",
+      "security"
+    ],
+    "current_stage": "growth",
+    "first_partnered_year": 2020,
+    "partners": [
+      "pat-grady",
+      "sonya-huang"
+    ],
+    "primary_partner": "pat-grady",
+    "milestones": {
+      "founded_year": 2017,
+      "partnered_year": 2020,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Dritan Bitincka",
+        "role": null
+      },
+      {
+        "name": "Ledion Bitincka",
+        "role": null
+      },
+      {
+        "name": "Clint Sharp",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/cribl/"
+    }
+  },
+  {
+    "id": "sequoia:dashlane",
+    "sequoia_id": "312",
+    "name": "Dashlane",
+    "slug": "dashlane",
+    "description": "Dashlane secures users’ digital identity across a wide range of platforms and devices. The Dashlane app automatically fills and stores passwords, personal data and payment details, and includes a suite of tools to help consumers protect their identity online.",
+    "website": "https://www.dashlane.com/",
+    "socials": {
+      "twitter": "https://www.twitter.com/dashlane",
+      "linkedin": "https://www.linkedin.com/company/dashlane/",
+      "instagram": "https://www.instagram.com/dashlane/?hl=en"
+    },
+    "categories": [
+      "security"
+    ],
+    "current_stage": "growth",
+    "first_partnered_year": 2019,
+    "partners": [
+      "jim-goetz",
+      "sonya-huang"
+    ],
+    "primary_partner": "jim-goetz",
+    "milestones": {
+      "founded_year": 2009,
+      "partnered_year": 2019,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "John Bennett",
+        "role": null
+      },
+      {
+        "name": "Jean Guillou",
+        "role": null
+      },
+      {
+        "name": "Guillaume Maron",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/dashlane/"
+    }
+  },
+  {
+    "id": "sequoia:fintual",
+    "sequoia_id": "359",
+    "name": "Fintual",
+    "slug": "fintual",
+    "description": "Fintual provides easy access to a balanced investment portfolio through its easy-to-use app. Launched in Chile in 2018, and Mexico in 2021, Fintual has a regulatory license that allows it to offer mostly global ETFs.",
+    "website": "https://fintual.cl/",
+    "socials": {
+      "facebook": "https://www.facebook.com/fintual/",
+      "twitter": "https://www.twitter.com/fintual/",
+      "instagram": "https://www.instagram.com/fintual/",
+      "youtube": "https://www.youtube.com/fintual"
+    },
+    "categories": [
+      "consumer",
+      "fintech"
+    ],
+    "current_stage": "growth",
+    "first_partnered_year": 2021,
+    "partners": [
+      "sonya-huang"
+    ],
+    "primary_partner": "sonya-huang",
+    "milestones": {
+      "founded_year": 2018,
+      "partnered_year": 2021,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Agustin Feuerhake Larrain",
+        "role": null
+      },
+      {
+        "name": "Omar Larré",
+        "role": null
+      },
+      {
+        "name": "Andrés Marinkovic",
+        "role": null
+      },
+      {
+        "name": "Pedro Pineda",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/fintual/"
+    }
+  },
+  {
+    "id": "sequoia:pendulum-therapeutics",
+    "sequoia_id": null,
+    "name": "Pendulum",
+    "slug": "pendulum-therapeutics",
+    "description": "Pendulum develops novel interventions that target the human microbiome to improve the lives of patients suffering from a variety of diseases. Its targeted formulations, made with natural bacterial strains, help rebalance the microbiome, which restores people’s health.",
+    "website": "https://pendulum.co/",
+    "socials": {
+      "twitter": "https://www.twitter.com/Pendulum_Co",
+      "linkedin": "https://www.linkedin.com/company/pendulumco/?viewAsMember=true"
+    },
+    "categories": [
+      "healthcare"
+    ],
+    "current_stage": null,
+    "first_partnered_year": 2017,
+    "partners": [
+      "jess-lee",
+      "roelof-botha",
+      "sonya-huang"
+    ],
+    "primary_partner": "jess-lee",
+    "milestones": {
+      "founded_year": 2012,
+      "partnered_year": 2017,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "James Bullard",
+        "role": null
+      },
+      {
+        "name": "Colleen Cutcliffe",
+        "role": null
+      },
+      {
+        "name": "John Eid",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/pendulum-therapeutics/"
+    }
+  },
+  {
+    "id": "sequoia:tecton",
+    "sequoia_id": "628",
+    "name": "Tecton",
+    "slug": "tecton",
+    "description": "Tecton’s enterprise-ready feature store makes world-class machine learning accessible to every company. Its store helps ML teams serve great features quickly, reliably and at scale.",
+    "website": "https://tecton.ai/",
+    "socials": {
+      "twitter": "https://www.twitter.com/TectonAI",
+      "linkedin": "https://www.linkedin.com/company/tectonai/"
+    },
+    "categories": [
+      "ai",
+      "data-analytics"
+    ],
+    "current_stage": "growth",
+    "first_partnered_year": 2018,
+    "partners": [
+      "sonya-huang",
+      "bill-coughran"
+    ],
+    "primary_partner": "sonya-huang",
+    "milestones": {
+      "founded_year": 2018,
+      "partnered_year": 2018,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Michael Del Balso",
+        "role": null
+      },
+      {
+        "name": "Jeremy Hermann",
+        "role": null
+      },
+      {
+        "name": "Kevin Stumpf",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/tecton/"
+    }
+  },
+  {
+    "id": "sequoia:thumbtack",
+    "sequoia_id": "644",
+    "name": "Thumbtack",
+    "slug": "thumbtack",
+    "description": "Thumbtack helps people care for their homes from top to bottom, whether it’s a minor repair or a major remodel. Its home management platform connects customers to the right professionals for projects, empowering them to fix, maintain and improve their most valuable asset.",
+    "website": "https://www.thumbtack.com",
+    "socials": {
+      "twitter": "https://www.twitter.com/thumbtack",
+      "linkedin": "https://www.linkedin.com/company/thumbtack-inc."
+    },
+    "categories": [
+      "consumer"
+    ],
+    "current_stage": "growth",
+    "first_partnered_year": 2013,
+    "partners": [
+      "bryan-schreier",
+      "sonya-huang"
+    ],
+    "primary_partner": "bryan-schreier",
+    "milestones": {
+      "founded_year": 2009,
+      "partnered_year": 2013,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Jonathan Swanson",
+        "role": null
+      },
+      {
+        "name": "Marco Zappacosta",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/thumbtack/"
+    }
+  },
+  {
+    "id": "sequoia:amplitude",
+    "sequoia_id": "236",
+    "name": "Amplitude",
+    "slug": "amplitude",
+    "description": "Amplitude helps companies optimize the business value of digital product innovation. Its Behavioral Graph is the largest database of customer behavior and the industry’s first Digital Optimization System.",
+    "website": "https://amplitude.com/",
+    "socials": {
+      "twitter": "https://www.twitter.com/Amplitude_HQ",
+      "linkedin": "https://www.linkedin.com/company/amplitude-analytics"
+    },
+    "categories": [
+      "data-analytics"
+    ],
+    "current_stage": "ipo",
+    "first_partnered_year": 2018,
+    "partners": [
+      "pat-grady",
+      "sonya-huang",
+      "ravi-gupta"
+    ],
+    "primary_partner": "pat-grady",
+    "milestones": {
+      "founded_year": 2012,
+      "partnered_year": 2018,
+      "ipo_year": 2021,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Curtis Liu",
+        "role": null
+      },
+      {
+        "name": "Spenser Skates",
+        "role": null
+      },
+      {
+        "name": "Jeffrey Wang",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/amplitude/"
+    }
+  },
+  {
+    "id": "sequoia:evy",
+    "sequoia_id": "10329",
+    "name": "Evy",
+    "slug": "evy",
+    "description": "Evy provides a turnkey product protection solution that can be fully integrated into a merchant’s existing sales channels. Customers benefit from a first-class service that gives them peace of mind from the moment of purchase. Evy is committed to facilitating product repairs over their replacement, by developing additional services such as buyback, recycling or reconditioning.",
+    "website": "https://evy.eu",
+    "socials": {
+      "linkedin": "https://www.linkedin.com/company/evy-eu/"
+    },
+    "categories": [
+      "marketplace"
+    ],
+    "current_stage": "growth",
+    "first_partnered_year": 2021,
+    "partners": [
+      "stephanie-zhan",
+      "george-robson"
+    ],
+    "primary_partner": "stephanie-zhan",
+    "milestones": {
+      "founded_year": 2021,
+      "partnered_year": 2021,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Shana Azria",
+        "role": null
+      },
+      {
+        "name": "Simon Kemoun",
+        "role": null
+      },
+      {
+        "name": "Tanguy Le Stradic",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/evy/"
+    }
+  },
+  {
+    "id": "sequoia:linear",
+    "sequoia_id": "443",
+    "name": "Linear",
+    "slug": "linear",
+    "description": "Linear helps developers streamline software projects, sprints, tasks and bug tracking without hampering progress.",
+    "website": "https://linear.app/",
+    "socials": {
+      "twitter": "https://www.twitter.com/linear_app",
+      "linkedin": "https://www.linkedin.com/company/linearapp/"
+    },
+    "categories": [
+      "developer-tools",
+      "productivity"
+    ],
+    "current_stage": "growth",
+    "first_partnered_year": 2019,
+    "partners": [
+      "stephanie-zhan"
+    ],
+    "primary_partner": "stephanie-zhan",
+    "milestones": {
+      "founded_year": 2019,
+      "partnered_year": 2019,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Tuomas Artman",
+        "role": null
+      },
+      {
+        "name": "Jori Lallo",
+        "role": null
+      },
+      {
+        "name": "Karri Saarinen",
+        "role": null
+      }
+    ],
+    "why_partnered": "Linear’s ambition was to become the new standard for modern software development and project management—a Jira 2.0. Karri and his team’s understanding of the pain points experienced by engineers and PMs was apparent as was their ability to translate that into a product. The speed with which they moved and the early engagement they were able to drive gave us conviction that Linear could define the next generation of software development tools.",
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/linear/"
+    }
+  },
+  {
+    "id": "sequoia:mach",
+    "sequoia_id": null,
+    "name": "Mach Industries",
+    "slug": "mach",
+    "description": "Mach Industries is building a defense company for the post-unmanned world. With its ecosystem of war-changing products and a survivable supply chain to produce them, Mach aims to become a core supplier for national defense.",
+    "website": "https://www.machindustries.com/",
+    "socials": {},
+    "categories": [
+      "defense",
+      "hardware"
+    ],
+    "current_stage": null,
+    "first_partnered_year": 2023,
+    "partners": [
+      "shaun-maguire",
+      "stephanie-zhan"
+    ],
+    "primary_partner": "shaun-maguire",
+    "milestones": {
+      "founded_year": 2022,
+      "partnered_year": 2023,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Ethan Thornton",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/mach/"
+    }
+  },
+  {
+    "id": "sequoia:reflection-ai",
+    "sequoia_id": "16811",
+    "name": "Reflection AI",
+    "slug": "reflection-ai",
+    "description": "Reflection AI is building superintelligent autonomous systems, starting with coding agents.",
+    "website": "https://www.reflection.ai/",
+    "socials": {
+      "linkedin": "https://www.linkedin.com/company/reflectionai/"
+    },
+    "categories": [
+      "ai"
+    ],
+    "current_stage": "growth",
+    "first_partnered_year": 2024,
+    "partners": [
+      "stephanie-zhan",
+      "charlie-curnin"
+    ],
+    "primary_partner": "stephanie-zhan",
+    "milestones": {
+      "founded_year": 2024,
+      "partnered_year": 2024,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Ioannis Antonoglou",
+        "role": null
+      },
+      {
+        "name": "Misha Laskin",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/reflection-ai/"
+    }
+  },
+  {
+    "id": "sequoia:ricursive-intelligence",
+    "sequoia_id": "21086",
+    "name": "Ricursive Intelligence",
+    "slug": "ricursive-intelligence",
+    "description": "Ricursive builds the AI stack that designs, verifies and closes silicon, so models and chips co-evolve in a tight loop. It enables a paradigm shift from fabless to “designless”: clients select the tradeoffs that matter to them, and Ricursive delivers a fully optimized, ready-to-build chip design. Models design next-gen chips that enable next-gen models, recursively accelerating our path to artificial superintelligence.",
+    "website": "https://ricursive.com",
+    "socials": {},
+    "categories": [
+      "ai"
+    ],
+    "current_stage": "growth",
+    "first_partnered_year": 2025,
+    "partners": [
+      "stephanie-zhan"
+    ],
+    "primary_partner": "stephanie-zhan",
+    "milestones": {
+      "founded_year": 2025,
+      "partnered_year": 2025,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Anna Goldie",
+        "role": null
+      },
+      {
+        "name": "Azalia Mirhoseini",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/ricursive-intelligence/"
+    }
+  },
+  {
+    "id": "sequoia:skild-ai",
+    "sequoia_id": "14924",
+    "name": "Skild AI",
+    "slug": "skild-ai",
+    "description": "Skild AI is building a scalable AI foundation model for robotics to unlock intelligence in the embodied, physical world. This general-purpose model will enable the use of low-cost robots across a broad range of industries and applications.",
+    "website": "https://www.skild.ai/",
+    "socials": {
+      "twitter": "https://twitter.com/SkildAI",
+      "linkedin": "https://www.linkedin.com/company/skild-ai/",
+      "youtube": "https://www.youtube.com/@SkildAI"
+    },
+    "categories": [
+      "ai"
+    ],
+    "current_stage": "growth",
+    "first_partnered_year": 2023,
+    "partners": [
+      "stephanie-zhan"
+    ],
+    "primary_partner": "stephanie-zhan",
+    "milestones": {
+      "founded_year": 2023,
+      "partnered_year": 2023,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Abhinav Gupta",
+        "role": null
+      },
+      {
+        "name": "Deepak Pathak",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/skild-ai/"
+    }
+  },
+  {
+    "id": "sequoia:tavus",
+    "sequoia_id": "10348",
+    "name": "Tavus",
+    "slug": "tavus",
+    "description": "Tavus is a research lab pioneering human computing. Their real-time human simulation models let machines see, hear, respond, and even look real, enabling meaningful face-to-face conversations with people. Imagine a therapist that anyone can afford; a personal trainer that adapts to your schedule; medical assistants that can give every patient the attention they need, available 24/7, in every language.",
+    "website": "https://www.tavus.io",
+    "socials": {
+      "linkedin": "https://www.linkedin.com/company/tavus-io/"
+    },
+    "categories": [
+      "ai",
+      "gtm"
+    ],
+    "current_stage": "growth",
+    "first_partnered_year": 2021,
+    "partners": [
+      "stephanie-zhan"
+    ],
+    "primary_partner": "stephanie-zhan",
+    "milestones": {
+      "founded_year": 2021,
+      "partnered_year": 2021,
+      "ipo_year": null,
+      "acquired_year": null
+    },
+    "team": [
+      {
+        "name": "Quinn Favret",
+        "role": null
+      },
+      {
+        "name": "Hassaan Raza",
+        "role": null
+      }
+    ],
+    "why_partnered": null,
+    "source_urls": {
+      "directory": "https://sequoiacap.com/our-companies/",
+      "profile": "https://sequoiacap.com/companies/tavus/"
     }
   }
 ]

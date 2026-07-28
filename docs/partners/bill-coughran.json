@@ -38,11 +38,6 @@
       "slug": "lilt"
     },
     {
-      "id": "sequoia:tecton",
-      "name": "Tecton",
-      "slug": "tecton"
-    },
-    {
       "id": "sequoia:chkk",
       "name": "Chkk",
       "slug": "chkk"
@@ -101,6 +96,11 @@
       "id": "sequoia:originhq",
       "name": "Origin",
       "slug": "originhq"
+    },
+    {
+      "id": "sequoia:tecton",
+      "name": "Tecton",
+      "slug": "tecton"
     }
   ]
 }

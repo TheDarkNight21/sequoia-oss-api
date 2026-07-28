@@ -53,16 +53,6 @@
       "slug": "clari"
     },
     {
-      "id": "sequoia:attentive",
-      "name": "Attentive",
-      "slug": "attentive"
-    },
-    {
-      "id": "sequoia:census",
-      "name": "Census",
-      "slug": "census"
-    },
-    {
       "id": "sequoia:mutiny",
       "name": "Mutiny",
       "slug": "mutiny"
@@ -133,11 +123,6 @@
       "slug": "listen-labs"
     },
     {
-      "id": "sequoia:tavus",
-      "name": "Tavus",
-      "slug": "tavus"
-    },
-    {
       "id": "sequoia:rift",
       "name": "Rift",
       "slug": "rift"
@@ -151,6 +136,21 @@
       "id": "sequoia:twain",
       "name": "Twain",
       "slug": "twain"
+    },
+    {
+      "id": "sequoia:attentive",
+      "name": "Attentive",
+      "slug": "attentive"
+    },
+    {
+      "id": "sequoia:census",
+      "name": "Census",
+      "slug": "census"
+    },
+    {
+      "id": "sequoia:tavus",
+      "name": "Tavus",
+      "slug": "tavus"
     }
   ]
 }

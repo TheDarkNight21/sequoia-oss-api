@@ -33,11 +33,6 @@
       "slug": "semgrep"
     },
     {
-      "id": "sequoia:linear",
-      "name": "Linear",
-      "slug": "linear"
-    },
-    {
       "id": "sequoia:gladia",
       "name": "Gladia",
       "slug": "gladia"
@@ -171,6 +166,11 @@
       "id": "sequoia:skyramp",
       "name": "Skyramp",
       "slug": "skyramp"
+    },
+    {
+      "id": "sequoia:linear",
+      "name": "Linear",
+      "slug": "linear"
     }
   ]
 }

@@ -42,11 +42,6 @@
       "slug": "ftx"
     },
     {
-      "id": "sequoia:fintual",
-      "name": "Fintual",
-      "slug": "fintual"
-    },
-    {
       "id": "sequoia:rippling",
       "name": "Rippling",
       "slug": "rippling"
@@ -187,19 +182,9 @@
       "slug": "cue-labs"
     },
     {
-      "id": "sequoia:tavus",
-      "name": "Tavus",
-      "slug": "tavus"
-    },
-    {
       "id": "sequoia:replicate",
       "name": "Replicate",
       "slug": "replicate"
-    },
-    {
-      "id": "sequoia:evy",
-      "name": "Evy",
-      "slug": "evy"
     },
     {
       "id": "sequoia:draftea",
@@ -225,6 +210,21 @@
       "id": "sequoia:originhq",
       "name": "Origin",
       "slug": "originhq"
+    },
+    {
+      "id": "sequoia:fintual",
+      "name": "Fintual",
+      "slug": "fintual"
+    },
+    {
+      "id": "sequoia:evy",
+      "name": "Evy",
+      "slug": "evy"
+    },
+    {
+      "id": "sequoia:tavus",
+      "name": "Tavus",
+      "slug": "tavus"
     }
   ]
 }

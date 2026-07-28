@@ -18,14 +18,14 @@
       "slug": "netapp"
     },
     {
-      "id": "sequoia:opendns",
-      "name": "OpenDNS",
-      "slug": "opendns"
-    },
-    {
       "id": "sequoia:oracle",
       "name": "Oracle",
       "slug": "oracle"
+    },
+    {
+      "id": "sequoia:opendns",
+      "name": "OpenDNS",
+      "slug": "opendns"
     },
     {
       "id": "sequoia:starkware",

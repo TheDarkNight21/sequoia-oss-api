@@ -93,11 +93,6 @@
       "slug": "robco"
     },
     {
-      "id": "sequoia:mach",
-      "name": "Mach Industries",
-      "slug": "mach"
-    },
-    {
       "id": "sequoia:pixelworks",
       "name": "Pixelworks",
       "slug": "pixelworks"
@@ -176,6 +171,11 @@
       "id": "sequoia:flow-engineering",
       "name": "Flow Engineering",
       "slug": "flow-engineering"
+    },
+    {
+      "id": "sequoia:mach",
+      "name": "Mach Industries",
+      "slug": "mach"
     }
   ]
 }

@@ -102,11 +102,6 @@
       "slug": "210664"
     },
     {
-      "id": "sequoia:reflection-ai",
-      "name": "Reflection AI",
-      "slug": "reflection-ai"
-    },
-    {
       "id": "sequoia:magentic",
       "name": "Magentic",
       "slug": "magentic"
@@ -180,6 +175,11 @@
       "id": "sequoia:stark",
       "name": "STARK",
       "slug": "stark"
+    },
+    {
+      "id": "sequoia:reflection-ai",
+      "name": "Reflection AI",
+      "slug": "reflection-ai"
     }
   ]
 }

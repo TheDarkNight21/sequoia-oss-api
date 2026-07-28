@@ -3,19 +3,9 @@
   "name": "Sonya Huang",
   "companies": [
     {
-      "id": "sequoia:thumbtack",
-      "name": "Thumbtack",
-      "slug": "thumbtack"
-    },
-    {
       "id": "sequoia:dbt-labs",
       "name": "dbt Labs",
       "slug": "dbt-labs"
-    },
-    {
-      "id": "sequoia:amplitude",
-      "name": "Amplitude",
-      "slug": "amplitude"
     },
     {
       "id": "sequoia:armis-security",
@@ -23,49 +13,14 @@
       "slug": "armis-security"
     },
     {
-      "id": "sequoia:pendulum-therapeutics",
-      "name": "Pendulum",
-      "slug": "pendulum-therapeutics"
-    },
-    {
       "id": "sequoia:glossier",
       "name": "Glossier",
       "slug": "glossier"
     },
     {
-      "id": "sequoia:cribl",
-      "name": "Cribl",
-      "slug": "cribl"
-    },
-    {
-      "id": "sequoia:dashlane",
-      "name": "Dashlane",
-      "slug": "dashlane"
-    },
-    {
-      "id": "sequoia:fintual",
-      "name": "Fintual",
-      "slug": "fintual"
-    },
-    {
-      "id": "sequoia:tecton",
-      "name": "Tecton",
-      "slug": "tecton"
-    },
-    {
-      "id": "sequoia:attentive",
-      "name": "Attentive",
-      "slug": "attentive"
-    },
-    {
       "id": "sequoia:keen-technologies",
       "name": "Keen Technologies",
       "slug": "keen-technologies"
-    },
-    {
-      "id": "sequoia:census",
-      "name": "Census",
-      "slug": "census"
     },
     {
       "id": "sequoia:nubank",
@@ -141,6 +96,51 @@
       "id": "sequoia:etched",
       "name": "Etched",
       "slug": "etched"
+    },
+    {
+      "id": "sequoia:attentive",
+      "name": "Attentive",
+      "slug": "attentive"
+    },
+    {
+      "id": "sequoia:census",
+      "name": "Census",
+      "slug": "census"
+    },
+    {
+      "id": "sequoia:cribl",
+      "name": "Cribl",
+      "slug": "cribl"
+    },
+    {
+      "id": "sequoia:dashlane",
+      "name": "Dashlane",
+      "slug": "dashlane"
+    },
+    {
+      "id": "sequoia:fintual",
+      "name": "Fintual",
+      "slug": "fintual"
+    },
+    {
+      "id": "sequoia:pendulum-therapeutics",
+      "name": "Pendulum",
+      "slug": "pendulum-therapeutics"
+    },
+    {
+      "id": "sequoia:tecton",
+      "name": "Tecton",
+      "slug": "tecton"
+    },
+    {
+      "id": "sequoia:thumbtack",
+      "name": "Thumbtack",
+      "slug": "thumbtack"
+    },
+    {
+      "id": "sequoia:amplitude",
+      "name": "Amplitude",
+      "slug": "amplitude"
     }
   ]
 }

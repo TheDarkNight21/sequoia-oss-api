@@ -13,11 +13,6 @@
       "slug": "wonolo"
     },
     {
-      "id": "sequoia:pendulum-therapeutics",
-      "name": "Pendulum",
-      "slug": "pendulum-therapeutics"
-    },
-    {
       "id": "sequoia:maven-clinic",
       "name": "Maven",
       "slug": "maven-clinic"
@@ -86,6 +81,11 @@
       "id": "sequoia:mos",
       "name": "Mos",
       "slug": "mos"
+    },
+    {
+      "id": "sequoia:pendulum-therapeutics",
+      "name": "Pendulum",
+      "slug": "pendulum-therapeutics"
     }
   ]
 }

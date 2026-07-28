@@ -13,11 +13,6 @@
       "slug": "pydantic"
     },
     {
-      "id": "sequoia:reflection-ai",
-      "name": "Reflection AI",
-      "slug": "reflection-ai"
-    },
-    {
       "id": "sequoia:traversal",
       "name": "Traversal",
       "slug": "traversal"
@@ -36,6 +31,11 @@
       "id": "sequoia:harvey",
       "name": "Harvey",
       "slug": "harvey"
+    },
+    {
+      "id": "sequoia:reflection-ai",
+      "name": "Reflection AI",
+      "slug": "reflection-ai"
     }
   ]
 }

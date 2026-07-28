@@ -88,11 +88,6 @@
       "slug": "robco"
     },
     {
-      "id": "sequoia:mach",
-      "name": "Mach Industries",
-      "slug": "mach"
-    },
-    {
       "id": "sequoia:kela",
       "name": "Kela",
       "slug": "kela"
@@ -191,6 +186,11 @@
       "id": "sequoia:glow",
       "name": "Glow",
       "slug": "glow"
+    },
+    {
+      "id": "sequoia:mach",
+      "name": "Mach Industries",
+      "slug": "mach"
     }
   ]
 }

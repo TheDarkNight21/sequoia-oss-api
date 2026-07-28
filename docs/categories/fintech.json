@@ -43,11 +43,6 @@
       "slug": "citadel-securities"
     },
     {
-      "id": "sequoia:fintual",
-      "name": "Fintual",
-      "slug": "fintual"
-    },
-    {
       "id": "sequoia:vise",
       "name": "Vise",
       "slug": "vise"
@@ -206,6 +201,11 @@
       "id": "sequoia:block",
       "name": "Block",
       "slug": "block"
+    },
+    {
+      "id": "sequoia:fintual",
+      "name": "Fintual",
+      "slug": "fintual"
     }
   ]
 }

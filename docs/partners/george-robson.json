@@ -53,11 +53,6 @@
       "slug": "trade-republic"
     },
     {
-      "id": "sequoia:evy",
-      "name": "Evy",
-      "slug": "evy"
-    },
-    {
       "id": "sequoia:tola",
       "name": "Tola",
       "slug": "tola"
@@ -76,6 +71,11 @@
       "id": "sequoia:withcoverage",
       "name": "WithCoverage",
       "slug": "withcoverage"
+    },
+    {
+      "id": "sequoia:evy",
+      "name": "Evy",
+      "slug": "evy"
     }
   ]
 }

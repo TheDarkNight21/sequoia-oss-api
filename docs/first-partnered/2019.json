@@ -57,11 +57,6 @@
       "slug": "temporal-technologies"
     },
     {
-      "id": "sequoia:dashlane",
-      "name": "Dashlane",
-      "slug": "dashlane"
-    },
-    {
       "id": "sequoia:verkada",
       "name": "Verkada",
       "slug": "verkada"
@@ -70,16 +65,6 @@
       "id": "sequoia:vise",
       "name": "Vise",
       "slug": "vise"
-    },
-    {
-      "id": "sequoia:attentive",
-      "name": "Attentive",
-      "slug": "attentive"
-    },
-    {
-      "id": "sequoia:linear",
-      "name": "Linear",
-      "slug": "linear"
     },
     {
       "id": "sequoia:noom",
@@ -165,6 +150,21 @@
       "id": "sequoia:figma",
       "name": "Figma",
       "slug": "figma"
+    },
+    {
+      "id": "sequoia:attentive",
+      "name": "Attentive",
+      "slug": "attentive"
+    },
+    {
+      "id": "sequoia:dashlane",
+      "name": "Dashlane",
+      "slug": "dashlane"
+    },
+    {
+      "id": "sequoia:linear",
+      "name": "Linear",
+      "slug": "linear"
     }
   ]
 }

@@ -18,11 +18,6 @@
       "slug": "medallia"
     },
     {
-      "id": "sequoia:amplitude",
-      "name": "Amplitude",
-      "slug": "amplitude"
-    },
-    {
       "id": "sequoia:qualtrics",
       "name": "Qualtrics",
       "slug": "qualtrics"
@@ -46,16 +41,6 @@
       "id": "sequoia:gather",
       "name": "Gather",
       "slug": "gather"
-    },
-    {
-      "id": "sequoia:cribl",
-      "name": "Cribl",
-      "slug": "cribl"
-    },
-    {
-      "id": "sequoia:attentive",
-      "name": "Attentive",
-      "slug": "attentive"
     },
     {
       "id": "sequoia:sunrun",
@@ -156,6 +141,21 @@
       "id": "sequoia:chai-discovery",
       "name": "Chai Discovery",
       "slug": "chai-discovery"
+    },
+    {
+      "id": "sequoia:attentive",
+      "name": "Attentive",
+      "slug": "attentive"
+    },
+    {
+      "id": "sequoia:cribl",
+      "name": "Cribl",
+      "slug": "cribl"
+    },
+    {
+      "id": "sequoia:amplitude",
+      "name": "Amplitude",
+      "slug": "amplitude"
     }
   ]
 }

@@ -32,11 +32,6 @@
       "slug": "truework"
     },
     {
-      "id": "sequoia:amplitude",
-      "name": "Amplitude",
-      "slug": "amplitude"
-    },
-    {
       "id": "sequoia:maven-clinic",
       "name": "Maven",
       "slug": "maven-clinic"
@@ -55,11 +50,6 @@
       "id": "sequoia:lilt",
       "name": "Lilt",
       "slug": "lilt"
-    },
-    {
-      "id": "sequoia:tecton",
-      "name": "Tecton",
-      "slug": "tecton"
     },
     {
       "id": "sequoia:100-thieves",
@@ -95,6 +85,16 @@
       "id": "sequoia:snowflake",
       "name": "Snowflake",
       "slug": "snowflake"
+    },
+    {
+      "id": "sequoia:tecton",
+      "name": "Tecton",
+      "slug": "tecton"
+    },
+    {
+      "id": "sequoia:amplitude",
+      "name": "Amplitude",
+      "slug": "amplitude"
     }
   ]
 }

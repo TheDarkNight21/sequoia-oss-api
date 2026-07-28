@@ -3,11 +3,6 @@
   "name": "Bryan Schreier",
   "companies": [
     {
-      "id": "sequoia:thumbtack",
-      "name": "Thumbtack",
-      "slug": "thumbtack"
-    },
-    {
       "id": "sequoia:trulia",
       "name": "Trulia",
       "slug": "trulia"
@@ -96,6 +91,11 @@
       "id": "sequoia:anrok",
       "name": "Anrok",
       "slug": "anrok"
+    },
+    {
+      "id": "sequoia:thumbtack",
+      "name": "Thumbtack",
+      "slug": "thumbtack"
     }
   ]
 }

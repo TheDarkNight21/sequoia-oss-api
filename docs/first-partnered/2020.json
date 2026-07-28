@@ -27,11 +27,6 @@
       "slug": "landis"
     },
     {
-      "id": "sequoia:cribl",
-      "name": "Cribl",
-      "slug": "cribl"
-    },
-    {
       "id": "sequoia:found",
       "name": "Found",
       "slug": "found"
@@ -50,11 +45,6 @@
       "id": "sequoia:monad",
       "name": "Monad",
       "slug": "monad"
-    },
-    {
-      "id": "sequoia:census",
-      "name": "Census",
-      "slug": "census"
     },
     {
       "id": "sequoia:watershed",
@@ -180,6 +170,16 @@
       "id": "sequoia:island",
       "name": "Island",
       "slug": "island"
+    },
+    {
+      "id": "sequoia:census",
+      "name": "Census",
+      "slug": "census"
+    },
+    {
+      "id": "sequoia:cribl",
+      "name": "Cribl",
+      "slug": "cribl"
     }
   ]
 }

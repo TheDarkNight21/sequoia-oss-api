@@ -63,11 +63,6 @@
       "slug": "monad"
     },
     {
-      "id": "sequoia:linear",
-      "name": "Linear",
-      "slug": "linear"
-    },
-    {
       "id": "sequoia:commons",
       "name": "Commons",
       "slug": "commons"
@@ -116,11 +111,6 @@
       "id": "sequoia:zafran",
       "name": "Zafran",
       "slug": "zafran"
-    },
-    {
-      "id": "sequoia:skild-ai",
-      "name": "Skild AI",
-      "slug": "skild-ai"
     },
     {
       "id": "sequoia:airtop",
@@ -243,11 +233,6 @@
       "slug": "blues"
     },
     {
-      "id": "sequoia:reflection-ai",
-      "name": "Reflection AI",
-      "slug": "reflection-ai"
-    },
-    {
       "id": "sequoia:telda",
       "name": "Telda",
       "slug": "telda"
@@ -313,19 +298,9 @@
       "slug": "mithril"
     },
     {
-      "id": "sequoia:tavus",
-      "name": "Tavus",
-      "slug": "tavus"
-    },
-    {
       "id": "sequoia:replicate",
       "name": "Replicate",
       "slug": "replicate"
-    },
-    {
-      "id": "sequoia:ricursive-intelligence",
-      "name": "Ricursive Intelligence",
-      "slug": "ricursive-intelligence"
     },
     {
       "id": "sequoia:dust",
@@ -341,11 +316,6 @@
       "id": "sequoia:tacto",
       "name": "Tacto",
       "slug": "tacto"
-    },
-    {
-      "id": "sequoia:evy",
-      "name": "Evy",
-      "slug": "evy"
     },
     {
       "id": "sequoia:nevis",

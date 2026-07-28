@@ -43,11 +43,6 @@
       "slug": "tourlane"
     },
     {
-      "id": "sequoia:thumbtack",
-      "name": "Thumbtack",
-      "slug": "thumbtack"
-    },
-    {
       "id": "sequoia:trulia",
       "name": "Trulia",
       "slug": "trulia"
@@ -116,11 +111,6 @@
       "id": "sequoia:electronic-arts",
       "name": "Electronic Arts",
       "slug": "electronic-arts"
-    },
-    {
-      "id": "sequoia:fintual",
-      "name": "Fintual",
-      "slug": "fintual"
     },
     {
       "id": "sequoia:picsart",
@@ -441,6 +431,16 @@
       "id": "sequoia:x",
       "name": "X",
       "slug": "x"
+    },
+    {
+      "id": "sequoia:fintual",
+      "name": "Fintual",
+      "slug": "fintual"
+    },
+    {
+      "id": "sequoia:thumbtack",
+      "name": "Thumbtack",
+      "slug": "thumbtack"
     }
   ]
 }

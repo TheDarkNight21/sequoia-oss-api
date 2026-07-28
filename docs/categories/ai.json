@@ -38,19 +38,9 @@
       "slug": "sourcegraph"
     },
     {
-      "id": "sequoia:tecton",
-      "name": "Tecton",
-      "slug": "tecton"
-    },
-    {
       "id": "sequoia:vise",
       "name": "Vise",
       "slug": "vise"
-    },
-    {
-      "id": "sequoia:attentive",
-      "name": "Attentive",
-      "slug": "attentive"
     },
     {
       "id": "sequoia:keen-technologies",
@@ -121,11 +111,6 @@
       "id": "sequoia:factory",
       "name": "Factory",
       "slug": "factory"
-    },
-    {
-      "id": "sequoia:skild-ai",
-      "name": "Skild AI",
-      "slug": "skild-ai"
     },
     {
       "id": "sequoia:airtop",
@@ -293,11 +278,6 @@
       "slug": "warp"
     },
     {
-      "id": "sequoia:reflection-ai",
-      "name": "Reflection AI",
-      "slug": "reflection-ai"
-    },
-    {
       "id": "sequoia:cresta",
       "name": "Cresta",
       "slug": "cresta"
@@ -423,11 +403,6 @@
       "slug": "mithril"
     },
     {
-      "id": "sequoia:tavus",
-      "name": "Tavus",
-      "slug": "tavus"
-    },
-    {
       "id": "sequoia:sunflower-labs",
       "name": "Sunflower Labs",
       "slug": "sunflower-labs"
@@ -441,11 +416,6 @@
       "id": "sequoia:rift",
       "name": "Rift",
       "slug": "rift"
-    },
-    {
-      "id": "sequoia:ricursive-intelligence",
-      "name": "Ricursive Intelligence",
-      "slug": "ricursive-intelligence"
     },
     {
       "id": "sequoia:fal",
@@ -636,6 +606,36 @@
       "id": "sequoia:etched",
       "name": "Etched",
       "slug": "etched"
+    },
+    {
+      "id": "sequoia:attentive",
+      "name": "Attentive",
+      "slug": "attentive"
+    },
+    {
+      "id": "sequoia:tecton",
+      "name": "Tecton",
+      "slug": "tecton"
+    },
+    {
+      "id": "sequoia:reflection-ai",
+      "name": "Reflection AI",
+      "slug": "reflection-ai"
+    },
+    {
+      "id": "sequoia:ricursive-intelligence",
+      "name": "Ricursive Intelligence",
+      "slug": "ricursive-intelligence"
+    },
+    {
+      "id": "sequoia:skild-ai",
+      "name": "Skild AI",
+      "slug": "skild-ai"
+    },
+    {
+      "id": "sequoia:tavus",
+      "name": "Tavus",
+      "slug": "tavus"
     }
   ]
 }

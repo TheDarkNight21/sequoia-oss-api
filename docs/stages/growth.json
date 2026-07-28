@@ -23,14 +23,14 @@
       "slug": "houzz"
     },
     {
-      "id": "sequoia:productboard",
-      "name": "Productboard",
-      "slug": "productboard"
-    },
-    {
       "id": "sequoia:rappi",
       "name": "Rappi",
       "slug": "rappi"
+    },
+    {
+      "id": "sequoia:productboard",
+      "name": "Productboard",
+      "slug": "productboard"
     },
     {
       "id": "sequoia:remote",
@@ -56,11 +56,6 @@
       "id": "sequoia:tourlane",
       "name": "Tourlane",
       "slug": "tourlane"
-    },
-    {
-      "id": "sequoia:thumbtack",
-      "name": "Thumbtack",
-      "slug": "thumbtack"
     },
     {
       "id": "sequoia:truework",
@@ -173,11 +168,6 @@
       "slug": "nimble-rx"
     },
     {
-      "id": "sequoia:cribl",
-      "name": "Cribl",
-      "slug": "cribl"
-    },
-    {
       "id": "sequoia:found",
       "name": "Found",
       "slug": "found"
@@ -208,16 +198,6 @@
       "slug": "ftx"
     },
     {
-      "id": "sequoia:dashlane",
-      "name": "Dashlane",
-      "slug": "dashlane"
-    },
-    {
-      "id": "sequoia:fintual",
-      "name": "Fintual",
-      "slug": "fintual"
-    },
-    {
       "id": "sequoia:biomodal",
       "name": "biomodal",
       "slug": "biomodal"
@@ -238,11 +218,6 @@
       "slug": "sourcegraph"
     },
     {
-      "id": "sequoia:tecton",
-      "name": "Tecton",
-      "slug": "tecton"
-    },
-    {
       "id": "sequoia:verkada",
       "name": "Verkada",
       "slug": "verkada"
@@ -251,11 +226,6 @@
       "id": "sequoia:vise",
       "name": "Vise",
       "slug": "vise"
-    },
-    {
-      "id": "sequoia:attentive",
-      "name": "Attentive",
-      "slug": "attentive"
     },
     {
       "id": "sequoia:semgrep",
@@ -271,11 +241,6 @@
       "id": "sequoia:magic-eden",
       "name": "Magic Eden",
       "slug": "magic-eden"
-    },
-    {
-      "id": "sequoia:census",
-      "name": "Census",
-      "slug": "census"
     },
     {
       "id": "sequoia:mutiny",
@@ -801,6 +766,71 @@
       "id": "sequoia:etched",
       "name": "Etched",
       "slug": "etched"
+    },
+    {
+      "id": "sequoia:attentive",
+      "name": "Attentive",
+      "slug": "attentive"
+    },
+    {
+      "id": "sequoia:census",
+      "name": "Census",
+      "slug": "census"
+    },
+    {
+      "id": "sequoia:cribl",
+      "name": "Cribl",
+      "slug": "cribl"
+    },
+    {
+      "id": "sequoia:dashlane",
+      "name": "Dashlane",
+      "slug": "dashlane"
+    },
+    {
+      "id": "sequoia:fintual",
+      "name": "Fintual",
+      "slug": "fintual"
+    },
+    {
+      "id": "sequoia:tecton",
+      "name": "Tecton",
+      "slug": "tecton"
+    },
+    {
+      "id": "sequoia:thumbtack",
+      "name": "Thumbtack",
+      "slug": "thumbtack"
+    },
+    {
+      "id": "sequoia:evy",
+      "name": "Evy",
+      "slug": "evy"
+    },
+    {
+      "id": "sequoia:linear",
+      "name": "Linear",
+      "slug": "linear"
+    },
+    {
+      "id": "sequoia:reflection-ai",
+      "name": "Reflection AI",
+      "slug": "reflection-ai"
+    },
+    {
+      "id": "sequoia:ricursive-intelligence",
+      "name": "Ricursive Intelligence",
+      "slug": "ricursive-intelligence"
+    },
+    {
+      "id": "sequoia:skild-ai",
+      "name": "Skild AI",
+      "slug": "skild-ai"
+    },
+    {
+      "id": "sequoia:tavus",
+      "name": "Tavus",
+      "slug": "tavus"
     }
   ]
 }
