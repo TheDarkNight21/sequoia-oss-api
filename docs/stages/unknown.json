@@ -1,0 +1,2006 @@
+{
+  "id": "unknown",
+  "label": "Unknown",
+  "companies": [
+    {
+      "id": "sequoia:admob",
+      "name": "AdMob",
+      "slug": "admob"
+    },
+    {
+      "id": "sequoia:alkira",
+      "name": "Alkira",
+      "slug": "alkira"
+    },
+    {
+      "id": "sequoia:bigpanda",
+      "name": "BigPanda",
+      "slug": "bigpanda"
+    },
+    {
+      "id": "sequoia:bird",
+      "name": "Bird",
+      "slug": "bird"
+    },
+    {
+      "id": "sequoia:bridgebio",
+      "name": "BridgeBio",
+      "slug": "bridgebio"
+    },
+    {
+      "id": "sequoia:dolls-kill",
+      "name": "Dolls Kill",
+      "slug": "dolls-kill"
+    },
+    {
+      "id": "sequoia:green-dot",
+      "name": "Green Dot",
+      "slug": "green-dot"
+    },
+    {
+      "id": "sequoia:houzz",
+      "name": "Houzz",
+      "slug": "houzz"
+    },
+    {
+      "id": "sequoia:kayak",
+      "name": "KAYAK",
+      "slug": "kayak"
+    },
+    {
+      "id": "sequoia:linkedin",
+      "name": "LinkedIn",
+      "slug": "linkedin"
+    },
+    {
+      "id": "sequoia:netapp",
+      "name": "NetApp",
+      "slug": "netapp"
+    },
+    {
+      "id": "sequoia:oracle",
+      "name": "Oracle",
+      "slug": "oracle"
+    },
+    {
+      "id": "sequoia:opendns",
+      "name": "OpenDNS",
+      "slug": "opendns"
+    },
+    {
+      "id": "sequoia:otter",
+      "name": "Otter",
+      "slug": "otter"
+    },
+    {
+      "id": "sequoia:oso",
+      "name": "Oso",
+      "slug": "oso"
+    },
+    {
+      "id": "sequoia:rappi",
+      "name": "Rappi",
+      "slug": "rappi"
+    },
+    {
+      "id": "sequoia:productboard",
+      "name": "Productboard",
+      "slug": "productboard"
+    },
+    {
+      "id": "sequoia:remote",
+      "name": "Remote",
+      "slug": "remote"
+    },
+    {
+      "id": "sequoia:security-scorecard",
+      "name": "Security Scorecard",
+      "slug": "security-scorecard"
+    },
+    {
+      "id": "sequoia:starkware",
+      "name": "StarkWare",
+      "slug": "starkware"
+    },
+    {
+      "id": "sequoia:sumo-logic",
+      "name": "Sumo Logic",
+      "slug": "sumo-logic"
+    },
+    {
+      "id": "sequoia:the-org",
+      "name": "The Org",
+      "slug": "the-org"
+    },
+    {
+      "id": "sequoia:tourlane",
+      "name": "Tourlane",
+      "slug": "tourlane"
+    },
+    {
+      "id": "sequoia:truework",
+      "name": "Truework",
+      "slug": "truework"
+    },
+    {
+      "id": "sequoia:trulia",
+      "name": "Trulia",
+      "slug": "trulia"
+    },
+    {
+      "id": "sequoia:tumblr",
+      "name": "Tumblr",
+      "slug": "tumblr"
+    },
+    {
+      "id": "sequoia:versa-networks",
+      "name": "Versa Networks",
+      "slug": "versa-networks"
+    },
+    {
+      "id": "sequoia:xoom",
+      "name": "Xoom",
+      "slug": "xoom"
+    },
+    {
+      "id": "sequoia:captivateiq",
+      "name": "CaptivateIQ",
+      "slug": "captivateiq"
+    },
+    {
+      "id": "sequoia:plangrid",
+      "name": "PlanGrid",
+      "slug": "plangrid"
+    },
+    {
+      "id": "sequoia:dbt-labs",
+      "name": "dbt Labs",
+      "slug": "dbt-labs"
+    },
+    {
+      "id": "sequoia:yahoo",
+      "name": "Yahoo",
+      "slug": "yahoo"
+    },
+    {
+      "id": "sequoia:fireblocks",
+      "name": "Fireblocks",
+      "slug": "fireblocks"
+    },
+    {
+      "id": "sequoia:stairwell",
+      "name": "Stairwell",
+      "slug": "stairwell"
+    },
+    {
+      "id": "sequoia:infracost",
+      "name": "Infracost",
+      "slug": "infracost"
+    },
+    {
+      "id": "sequoia:cellworks",
+      "name": "Cellworks",
+      "slug": "cellworks"
+    },
+    {
+      "id": "sequoia:thousandeyes",
+      "name": "ThousandEyes",
+      "slug": "thousandeyes"
+    },
+    {
+      "id": "sequoia:doppler",
+      "name": "Doppler",
+      "slug": "doppler"
+    },
+    {
+      "id": "sequoia:evervault",
+      "name": "Evervault",
+      "slug": "evervault"
+    },
+    {
+      "id": "sequoia:filecoin",
+      "name": "Filecoin",
+      "slug": "filecoin"
+    },
+    {
+      "id": "sequoia:clever",
+      "name": "Clever",
+      "slug": "clever"
+    },
+    {
+      "id": "sequoia:ringcentral",
+      "name": "RingCentral",
+      "slug": "ringcentral"
+    },
+    {
+      "id": "sequoia:fireeye",
+      "name": "FireEye",
+      "slug": "fireeye"
+    },
+    {
+      "id": "sequoia:guardant-health",
+      "name": "Guardant Health",
+      "slug": "guardant-health"
+    },
+    {
+      "id": "sequoia:medallia",
+      "name": "Medallia",
+      "slug": "medallia"
+    },
+    {
+      "id": "sequoia:nimble-storage",
+      "name": "Nimble Storage",
+      "slug": "nimble-storage"
+    },
+    {
+      "id": "sequoia:confluent",
+      "name": "Confluent",
+      "slug": "confluent"
+    },
+    {
+      "id": "sequoia:bolt",
+      "name": "Bolt",
+      "slug": "bolt"
+    },
+    {
+      "id": "sequoia:cyera",
+      "name": "Cyera",
+      "slug": "cyera"
+    },
+    {
+      "id": "sequoia:wonolo",
+      "name": "Wonolo",
+      "slug": "wonolo"
+    },
+    {
+      "id": "sequoia:qualtrics",
+      "name": "Qualtrics",
+      "slug": "qualtrics"
+    },
+    {
+      "id": "sequoia:whatsapp",
+      "name": "WhatsApp",
+      "slug": "whatsapp"
+    },
+    {
+      "id": "sequoia:instagram",
+      "name": "Instagram",
+      "slug": "instagram"
+    },
+    {
+      "id": "sequoia:apple",
+      "name": "Apple",
+      "slug": "apple"
+    },
+    {
+      "id": "sequoia:zoom",
+      "name": "Zoom",
+      "slug": "zoom"
+    },
+    {
+      "id": "sequoia:the-boring-company",
+      "name": "The Boring Company",
+      "slug": "the-boring-company"
+    },
+    {
+      "id": "sequoia:zappos",
+      "name": "Zappos",
+      "slug": "zappos"
+    },
+    {
+      "id": "sequoia:fides",
+      "name": "Fides",
+      "slug": "fides"
+    },
+    {
+      "id": "sequoia:revmap",
+      "name": "RevMap",
+      "slug": "revmap"
+    },
+    {
+      "id": "sequoia:telescope",
+      "name": "Telescope",
+      "slug": "telescope"
+    },
+    {
+      "id": "sequoia:meter",
+      "name": "Meter",
+      "slug": "meter"
+    },
+    {
+      "id": "sequoia:pilot",
+      "name": "Pilot",
+      "slug": "pilot"
+    },
+    {
+      "id": "sequoia:clipboard-health",
+      "name": "Clipboard Health",
+      "slug": "clipboard-health"
+    },
+    {
+      "id": "sequoia:drift",
+      "name": "Drift",
+      "slug": "drift"
+    },
+    {
+      "id": "sequoia:papaya",
+      "name": "Papaya",
+      "slug": "papaya"
+    },
+    {
+      "id": "sequoia:layerzero",
+      "name": "LayerZero",
+      "slug": "layerzero"
+    },
+    {
+      "id": "sequoia:cohesity",
+      "name": "Cohesity",
+      "slug": "cohesity"
+    },
+    {
+      "id": "sequoia:glossier",
+      "name": "Glossier",
+      "slug": "glossier"
+    },
+    {
+      "id": "sequoia:carbon",
+      "name": "Carbon",
+      "slug": "carbon"
+    },
+    {
+      "id": "sequoia:atari",
+      "name": "Atari",
+      "slug": "atari"
+    },
+    {
+      "id": "sequoia:jitx",
+      "name": "JITX",
+      "slug": "jitx"
+    },
+    {
+      "id": "sequoia:parallel",
+      "name": "Parallel",
+      "slug": "parallel"
+    },
+    {
+      "id": "sequoia:middesk",
+      "name": "Middesk",
+      "slug": "middesk"
+    },
+    {
+      "id": "sequoia:protege",
+      "name": "Protégé",
+      "slug": "protege"
+    },
+    {
+      "id": "sequoia:landis",
+      "name": "Landis",
+      "slug": "landis"
+    },
+    {
+      "id": "sequoia:gather",
+      "name": "Gather",
+      "slug": "gather"
+    },
+    {
+      "id": "sequoia:linkexchange",
+      "name": "LinkExchange",
+      "slug": "linkexchange"
+    },
+    {
+      "id": "sequoia:nimble-rx",
+      "name": "Nimble Rx",
+      "slug": "nimble-rx"
+    },
+    {
+      "id": "sequoia:found",
+      "name": "Found",
+      "slug": "found"
+    },
+    {
+      "id": "sequoia:clari",
+      "name": "Clari",
+      "slug": "clari"
+    },
+    {
+      "id": "sequoia:electronic-arts",
+      "name": "Electronic Arts",
+      "slug": "electronic-arts"
+    },
+    {
+      "id": "sequoia:orbital-insight",
+      "name": "Orbital Insight",
+      "slug": "orbital-insight"
+    },
+    {
+      "id": "sequoia:evernote",
+      "name": "Evernote",
+      "slug": "evernote"
+    },
+    {
+      "id": "sequoia:temporal-technologies",
+      "name": "Temporal Technologies",
+      "slug": "temporal-technologies"
+    },
+    {
+      "id": "sequoia:caldera",
+      "name": "Caldera",
+      "slug": "caldera"
+    },
+    {
+      "id": "sequoia:citadel-securities",
+      "name": "Citadel Securities",
+      "slug": "citadel-securities"
+    },
+    {
+      "id": "sequoia:ftx",
+      "name": "FTX",
+      "slug": "ftx"
+    },
+    {
+      "id": "sequoia:biomodal",
+      "name": "biomodal",
+      "slug": "biomodal"
+    },
+    {
+      "id": "sequoia:arcwise",
+      "name": "Arcwise",
+      "slug": "arcwise"
+    },
+    {
+      "id": "sequoia:lilt",
+      "name": "Lilt",
+      "slug": "lilt"
+    },
+    {
+      "id": "sequoia:picsart",
+      "name": "PicsArt",
+      "slug": "picsart"
+    },
+    {
+      "id": "sequoia:sourcegraph",
+      "name": "Sourcegraph",
+      "slug": "sourcegraph"
+    },
+    {
+      "id": "sequoia:verkada",
+      "name": "Verkada",
+      "slug": "verkada"
+    },
+    {
+      "id": "sequoia:vise",
+      "name": "Vise",
+      "slug": "vise"
+    },
+    {
+      "id": "sequoia:semgrep",
+      "name": "Semgrep",
+      "slug": "semgrep"
+    },
+    {
+      "id": "sequoia:rippling",
+      "name": "Rippling",
+      "slug": "rippling"
+    },
+    {
+      "id": "sequoia:pace",
+      "name": "Pace",
+      "slug": "pace"
+    },
+    {
+      "id": "sequoia:iron-fish",
+      "name": "Iron Fish",
+      "slug": "iron-fish"
+    },
+    {
+      "id": "sequoia:monad",
+      "name": "Monad",
+      "slug": "monad"
+    },
+    {
+      "id": "sequoia:magic-eden",
+      "name": "Magic Eden",
+      "slug": "magic-eden"
+    },
+    {
+      "id": "sequoia:flagship",
+      "name": "Flagship",
+      "slug": "flagship"
+    },
+    {
+      "id": "sequoia:mutiny",
+      "name": "Mutiny",
+      "slug": "mutiny"
+    },
+    {
+      "id": "sequoia:xentral",
+      "name": "xentral",
+      "slug": "xentral"
+    },
+    {
+      "id": "sequoia:surein",
+      "name": "SureIn",
+      "slug": "surein"
+    },
+    {
+      "id": "sequoia:snapdocs",
+      "name": "Snapdocs",
+      "slug": "snapdocs"
+    },
+    {
+      "id": "sequoia:noom",
+      "name": "Noom",
+      "slug": "noom"
+    },
+    {
+      "id": "sequoia:studeo",
+      "name": "Studeo",
+      "slug": "studeo"
+    },
+    {
+      "id": "sequoia:loom",
+      "name": "Loom",
+      "slug": "loom"
+    },
+    {
+      "id": "sequoia:zum",
+      "name": "Zum",
+      "slug": "zum"
+    },
+    {
+      "id": "sequoia:aurora",
+      "name": "Aurora",
+      "slug": "aurora"
+    },
+    {
+      "id": "sequoia:commons",
+      "name": "Commons",
+      "slug": "commons"
+    },
+    {
+      "id": "sequoia:safara",
+      "name": "Safara",
+      "slug": "safara"
+    },
+    {
+      "id": "sequoia:eventbrite",
+      "name": "Eventbrite",
+      "slug": "eventbrite"
+    },
+    {
+      "id": "sequoia:chkk",
+      "name": "Chkk",
+      "slug": "chkk"
+    },
+    {
+      "id": "sequoia:blockaid",
+      "name": "Blockaid",
+      "slug": "blockaid"
+    },
+    {
+      "id": "sequoia:gladia",
+      "name": "Gladia",
+      "slug": "gladia"
+    },
+    {
+      "id": "sequoia:sunrun",
+      "name": "Sunrun",
+      "slug": "sunrun"
+    },
+    {
+      "id": "sequoia:medallion",
+      "name": "Medallion",
+      "slug": "medallion"
+    },
+    {
+      "id": "sequoia:stripe",
+      "name": "Stripe",
+      "slug": "stripe"
+    },
+    {
+      "id": "sequoia:oasis-security",
+      "name": "Oasis Security",
+      "slug": "oasis-security"
+    },
+    {
+      "id": "sequoia:meeno",
+      "name": "Meeno",
+      "slug": "meeno"
+    },
+    {
+      "id": "sequoia:iambic-therapeutics",
+      "name": "Iambic Therapeutics",
+      "slug": "iambic-therapeutics"
+    },
+    {
+      "id": "sequoia:iris-labs",
+      "name": "Iris Labs",
+      "slug": "iris-labs"
+    },
+    {
+      "id": "sequoia:guided-energy",
+      "name": "Guided Energy",
+      "slug": "guided-energy"
+    },
+    {
+      "id": "sequoia:visual-electric",
+      "name": "Visual Electric",
+      "slug": "visual-electric"
+    },
+    {
+      "id": "sequoia:hallway",
+      "name": "Hallway",
+      "slug": "hallway"
+    },
+    {
+      "id": "sequoia:gadget",
+      "name": "Gadget",
+      "slug": "gadget"
+    },
+    {
+      "id": "sequoia:strongdm",
+      "name": "strongDM",
+      "slug": "strongdm"
+    },
+    {
+      "id": "sequoia:zipline",
+      "name": "Zipline",
+      "slug": "zipline"
+    },
+    {
+      "id": "sequoia:quilt",
+      "name": "Quilt",
+      "slug": "quilt"
+    },
+    {
+      "id": "sequoia:open",
+      "name": "Open",
+      "slug": "open"
+    },
+    {
+      "id": "sequoia:okta",
+      "name": "Okta",
+      "slug": "okta"
+    },
+    {
+      "id": "sequoia:meraki",
+      "name": "Meraki",
+      "slug": "meraki"
+    },
+    {
+      "id": "sequoia:elyn",
+      "name": "Elyn",
+      "slug": "elyn"
+    },
+    {
+      "id": "sequoia:pocket-gems",
+      "name": "Pocket Gems",
+      "slug": "pocket-gems"
+    },
+    {
+      "id": "sequoia:citizen",
+      "name": "Citizen",
+      "slug": "citizen"
+    },
+    {
+      "id": "sequoia:watershed",
+      "name": "Watershed",
+      "slug": "watershed"
+    },
+    {
+      "id": "sequoia:neeva",
+      "name": "Neeva",
+      "slug": "neeva"
+    },
+    {
+      "id": "sequoia:nxyz",
+      "name": "nxyz",
+      "slug": "nxyz"
+    },
+    {
+      "id": "sequoia:100-thieves",
+      "name": "100 Thieves",
+      "slug": "100-thieves"
+    },
+    {
+      "id": "sequoia:cockroach-labs",
+      "name": "Cockroach Labs",
+      "slug": "cockroach-labs"
+    },
+    {
+      "id": "sequoia:the-melt",
+      "name": "The Melt",
+      "slug": "the-melt"
+    },
+    {
+      "id": "sequoia:lugg",
+      "name": "Lugg",
+      "slug": "lugg"
+    },
+    {
+      "id": "sequoia:piazza",
+      "name": "Piazza",
+      "slug": "piazza"
+    },
+    {
+      "id": "sequoia:jasper",
+      "name": "Jasper",
+      "slug": "jasper"
+    },
+    {
+      "id": "sequoia:commure",
+      "name": "Commure",
+      "slug": "commure"
+    },
+    {
+      "id": "sequoia:summer-health",
+      "name": "Summer Health",
+      "slug": "summer-health"
+    },
+    {
+      "id": "sequoia:brewbird",
+      "name": "Brewbird",
+      "slug": "brewbird"
+    },
+    {
+      "id": "sequoia:apex",
+      "name": "Apex",
+      "slug": "apex"
+    },
+    {
+      "id": "sequoia:physical-intelligence",
+      "name": "Physical Intelligence",
+      "slug": "physical-intelligence"
+    },
+    {
+      "id": "sequoia:jive-software",
+      "name": "Jive Software",
+      "slug": "jive-software"
+    },
+    {
+      "id": "sequoia:retool",
+      "name": "Retool",
+      "slug": "retool"
+    },
+    {
+      "id": "sequoia:cisco",
+      "name": "Cisco",
+      "slug": "cisco"
+    },
+    {
+      "id": "sequoia:moovit",
+      "name": "Moovit",
+      "slug": "moovit"
+    },
+    {
+      "id": "sequoia:captions",
+      "name": "Captions",
+      "slug": "captions"
+    },
+    {
+      "id": "sequoia:factory",
+      "name": "Factory",
+      "slug": "factory"
+    },
+    {
+      "id": "sequoia:zafran",
+      "name": "Zafran",
+      "slug": "zafran"
+    },
+    {
+      "id": "sequoia:quantum-circuits",
+      "name": "Quantum Circuits",
+      "slug": "quantum-circuits"
+    },
+    {
+      "id": "sequoia:airtop",
+      "name": "Airtop",
+      "slug": "airtop"
+    },
+    {
+      "id": "sequoia:otto-finance",
+      "name": "Otto Finance",
+      "slug": "otto-finance"
+    },
+    {
+      "id": "sequoia:observable",
+      "name": "Observable",
+      "slug": "observable"
+    },
+    {
+      "id": "sequoia:robust-intelligence",
+      "name": "Robust Intelligence",
+      "slug": "robust-intelligence"
+    },
+    {
+      "id": "sequoia:cortex",
+      "name": "Cortex",
+      "slug": "cortex"
+    },
+    {
+      "id": "sequoia:grafana",
+      "name": "Grafana",
+      "slug": "grafana"
+    },
+    {
+      "id": "sequoia:eon",
+      "name": "Eon",
+      "slug": "eon"
+    },
+    {
+      "id": "sequoia:safe-superintelligence",
+      "name": "Safe Superintelligence",
+      "slug": "safe-superintelligence"
+    },
+    {
+      "id": "sequoia:querypal",
+      "name": "QueryPal",
+      "slug": "querypal"
+    },
+    {
+      "id": "sequoia:liquidmetal-ai",
+      "name": "LiquidMetal AI",
+      "slug": "liquidmetal-ai"
+    },
+    {
+      "id": "sequoia:cove",
+      "name": "Cove",
+      "slug": "cove"
+    },
+    {
+      "id": "sequoia:pharming-group",
+      "name": "Pharming Group",
+      "slug": "pharming-group"
+    },
+    {
+      "id": "sequoia:microchip-technology",
+      "name": "Microchip Technology",
+      "slug": "microchip-technology"
+    },
+    {
+      "id": "sequoia:flextronics",
+      "name": "Flextronics",
+      "slug": "flextronics"
+    },
+    {
+      "id": "sequoia:cafepress",
+      "name": "CafePress",
+      "slug": "cafepress"
+    },
+    {
+      "id": "sequoia:lsi-logic",
+      "name": "LSI Logic",
+      "slug": "lsi-logic"
+    },
+    {
+      "id": "sequoia:omnicell",
+      "name": "Omnicell",
+      "slug": "omnicell"
+    },
+    {
+      "id": "sequoia:quince-therapeutics",
+      "name": "Quince Therapeutics",
+      "slug": "quince-therapeutics"
+    },
+    {
+      "id": "sequoia:health-catalyst",
+      "name": "Health Catalyst",
+      "slug": "health-catalyst"
+    },
+    {
+      "id": "sequoia:cadence-design-systems",
+      "name": "Cadence Design Systems",
+      "slug": "cadence-design-systems"
+    },
+    {
+      "id": "sequoia:rackspace",
+      "name": "Rackspace",
+      "slug": "rackspace"
+    },
+    {
+      "id": "sequoia:getir",
+      "name": "Getir",
+      "slug": "getir"
+    },
+    {
+      "id": "sequoia:catch",
+      "name": "Catch",
+      "slug": "catch"
+    },
+    {
+      "id": "sequoia:odoo",
+      "name": "Odoo",
+      "slug": "odoo"
+    },
+    {
+      "id": "sequoia:release",
+      "name": "Release",
+      "slug": "release"
+    },
+    {
+      "id": "sequoia:roon",
+      "name": "Roon",
+      "slug": "roon"
+    },
+    {
+      "id": "sequoia:amp-robotics",
+      "name": "AMP Robotics",
+      "slug": "amp-robotics"
+    },
+    {
+      "id": "sequoia:xaira",
+      "name": "Xaira",
+      "slug": "xaira"
+    },
+    {
+      "id": "sequoia:rox",
+      "name": "Rox",
+      "slug": "rox"
+    },
+    {
+      "id": "sequoia:stainless",
+      "name": "Stainless",
+      "slug": "stainless"
+    },
+    {
+      "id": "sequoia:bigeye",
+      "name": "Bigeye",
+      "slug": "bigeye"
+    },
+    {
+      "id": "sequoia:curie",
+      "name": "Curie",
+      "slug": "curie"
+    },
+    {
+      "id": "sequoia:sunday",
+      "name": "Sunday",
+      "slug": "sunday"
+    },
+    {
+      "id": "sequoia:domino-data-lab",
+      "name": "Domino Data Lab",
+      "slug": "domino-data-lab"
+    },
+    {
+      "id": "sequoia:nsave",
+      "name": "nsave",
+      "slug": "nsave"
+    },
+    {
+      "id": "sequoia:gridware",
+      "name": "Gridware",
+      "slug": "gridware"
+    },
+    {
+      "id": "sequoia:phantom",
+      "name": "Phantom",
+      "slug": "phantom"
+    },
+    {
+      "id": "sequoia:edx-markets",
+      "name": "EDX Markets",
+      "slug": "edx-markets"
+    },
+    {
+      "id": "sequoia:nubank",
+      "name": "Nubank",
+      "slug": "nubank"
+    },
+    {
+      "id": "sequoia:dropbox",
+      "name": "Dropbox",
+      "slug": "dropbox"
+    },
+    {
+      "id": "sequoia:robinhood",
+      "name": "Robinhood",
+      "slug": "robinhood"
+    },
+    {
+      "id": "sequoia:youtube",
+      "name": "YouTube",
+      "slug": "youtube"
+    },
+    {
+      "id": "sequoia:natera",
+      "name": "Natera",
+      "slug": "natera"
+    },
+    {
+      "id": "sequoia:doordash",
+      "name": "DoorDash",
+      "slug": "doordash"
+    },
+    {
+      "id": "sequoia:uipath",
+      "name": "UiPath",
+      "slug": "uipath"
+    },
+    {
+      "id": "sequoia:reddit",
+      "name": "reddit",
+      "slug": "reddit"
+    },
+    {
+      "id": "sequoia:servicenow",
+      "name": "ServiceNow",
+      "slug": "servicenow"
+    },
+    {
+      "id": "sequoia:hubspot",
+      "name": "HubSpot",
+      "slug": "hubspot"
+    },
+    {
+      "id": "sequoia:airbnb",
+      "name": "Airbnb",
+      "slug": "airbnb"
+    },
+    {
+      "id": "sequoia:paypal",
+      "name": "PayPal",
+      "slug": "paypal"
+    },
+    {
+      "id": "sequoia:kumo",
+      "name": "Kumo",
+      "slug": "kumo"
+    },
+    {
+      "id": "sequoia:xbow",
+      "name": "XBOW",
+      "slug": "xbow"
+    },
+    {
+      "id": "sequoia:decart",
+      "name": "Decart",
+      "slug": "decart"
+    },
+    {
+      "id": "sequoia:glean",
+      "name": "Glean",
+      "slug": "glean"
+    },
+    {
+      "id": "sequoia:harmonic",
+      "name": "Harmonic",
+      "slug": "harmonic"
+    },
+    {
+      "id": "sequoia:github",
+      "name": "GitHub",
+      "slug": "github"
+    },
+    {
+      "id": "sequoia:vanta",
+      "name": "Vanta",
+      "slug": "vanta"
+    },
+    {
+      "id": "sequoia:robco",
+      "name": "Robco",
+      "slug": "robco"
+    },
+    {
+      "id": "sequoia:pennylane",
+      "name": "Pennylane",
+      "slug": "pennylane"
+    },
+    {
+      "id": "sequoia:lemni",
+      "name": "Lemni",
+      "slug": "lemni"
+    },
+    {
+      "id": "sequoia:peregrine",
+      "name": "Peregrine",
+      "slug": "peregrine"
+    },
+    {
+      "id": "sequoia:freed",
+      "name": "Freed",
+      "slug": "freed"
+    },
+    {
+      "id": "sequoia:claim",
+      "name": "Claim",
+      "slug": "claim"
+    },
+    {
+      "id": "sequoia:pydantic",
+      "name": "Pydantic",
+      "slug": "pydantic"
+    },
+    {
+      "id": "sequoia:uber",
+      "name": "Uber",
+      "slug": "uber"
+    },
+    {
+      "id": "sequoia:humble-bundle",
+      "name": "Humble Bundle",
+      "slug": "humble-bundle"
+    },
+    {
+      "id": "sequoia:titus",
+      "name": "Titus",
+      "slug": "titus"
+    },
+    {
+      "id": "sequoia:futureadvisor",
+      "name": "FutureAdvisor",
+      "slug": "futureadvisor"
+    },
+    {
+      "id": "sequoia:enter",
+      "name": "Enter",
+      "slug": "enter"
+    },
+    {
+      "id": "sequoia:clay",
+      "name": "Clay",
+      "slug": "clay"
+    },
+    {
+      "id": "sequoia:notion",
+      "name": "Notion",
+      "slug": "notion"
+    },
+    {
+      "id": "sequoia:kela",
+      "name": "Kela",
+      "slug": "kela"
+    },
+    {
+      "id": "sequoia:mercury",
+      "name": "Mercury",
+      "slug": "mercury"
+    },
+    {
+      "id": "sequoia:myome",
+      "name": "MyOme",
+      "slug": "myome"
+    },
+    {
+      "id": "sequoia:supernova",
+      "name": "Supernova",
+      "slug": "supernova"
+    },
+    {
+      "id": "sequoia:front",
+      "name": "Front",
+      "slug": "front"
+    },
+    {
+      "id": "sequoia:apollo",
+      "name": "Apollo",
+      "slug": "apollo"
+    },
+    {
+      "id": "sequoia:faraway",
+      "name": "Faraway",
+      "slug": "faraway"
+    },
+    {
+      "id": "sequoia:espresso-systems",
+      "name": "Espresso Systems",
+      "slug": "espresso-systems"
+    },
+    {
+      "id": "sequoia:hex",
+      "name": "Hex",
+      "slug": "hex"
+    },
+    {
+      "id": "sequoia:inside",
+      "name": "Inside",
+      "slug": "inside"
+    },
+    {
+      "id": "sequoia:wirescreen",
+      "name": "WireScreen",
+      "slug": "wirescreen"
+    },
+    {
+      "id": "sequoia:despegar",
+      "name": "Despegar",
+      "slug": "despegar"
+    },
+    {
+      "id": "sequoia:physna",
+      "name": "Physna",
+      "slug": "physna"
+    },
+    {
+      "id": "sequoia:pixelworks",
+      "name": "Pixelworks",
+      "slug": "pixelworks"
+    },
+    {
+      "id": "sequoia:quantenna",
+      "name": "Quantenna",
+      "slug": "quantenna"
+    },
+    {
+      "id": "sequoia:quicklogic",
+      "name": "QuickLogic",
+      "slug": "quicklogic"
+    },
+    {
+      "id": "sequoia:ruckus-networks",
+      "name": "Ruckus Networks",
+      "slug": "ruckus-networks"
+    },
+    {
+      "id": "sequoia:western-digital",
+      "name": "Western Digital",
+      "slug": "western-digital"
+    },
+    {
+      "id": "sequoia:synativ",
+      "name": "Synativ",
+      "slug": "synativ"
+    },
+    {
+      "id": "sequoia:finch",
+      "name": "Finch",
+      "slug": "finch"
+    },
+    {
+      "id": "sequoia:dagster",
+      "name": "Dagster",
+      "slug": "dagster"
+    },
+    {
+      "id": "sequoia:salt-security",
+      "name": "Salt Security",
+      "slug": "salt-security"
+    },
+    {
+      "id": "sequoia:deno",
+      "name": "Deno",
+      "slug": "deno"
+    },
+    {
+      "id": "sequoia:popsink",
+      "name": "Popsink",
+      "slug": "popsink"
+    },
+    {
+      "id": "sequoia:airtime",
+      "name": "Airtime",
+      "slug": "airtime"
+    },
+    {
+      "id": "sequoia:nuvo",
+      "name": "Nuvo",
+      "slug": "nuvo"
+    },
+    {
+      "id": "sequoia:ironclad",
+      "name": "Ironclad",
+      "slug": "ironclad"
+    },
+    {
+      "id": "sequoia:alpha-omega-semiconductor",
+      "name": "Alpha &amp; Omega Semiconductor",
+      "slug": "alpha-omega-semiconductor"
+    },
+    {
+      "id": "sequoia:fastapi-labs",
+      "name": "FastAPI Labs",
+      "slug": "fastapi-labs"
+    },
+    {
+      "id": "sequoia:reflect-orbital",
+      "name": "Reflect Orbital",
+      "slug": "reflect-orbital"
+    },
+    {
+      "id": "sequoia:neuralink",
+      "name": "Neuralink",
+      "slug": "neuralink"
+    },
+    {
+      "id": "sequoia:strava",
+      "name": "Strava",
+      "slug": "strava"
+    },
+    {
+      "id": "sequoia:mellanox",
+      "name": "Mellanox",
+      "slug": "mellanox"
+    },
+    {
+      "id": "sequoia:blues",
+      "name": "Blues",
+      "slug": "blues"
+    },
+    {
+      "id": "sequoia:warp",
+      "name": "Warp",
+      "slug": "warp"
+    },
+    {
+      "id": "sequoia:formation-bio",
+      "name": "Formation Bio",
+      "slug": "formation-bio"
+    },
+    {
+      "id": "sequoia:bridge",
+      "name": "Bridge",
+      "slug": "bridge"
+    },
+    {
+      "id": "sequoia:privy",
+      "name": "Privy",
+      "slug": "privy"
+    },
+    {
+      "id": "sequoia:cresta",
+      "name": "Cresta",
+      "slug": "cresta"
+    },
+    {
+      "id": "sequoia:magentic",
+      "name": "Magentic",
+      "slug": "magentic"
+    },
+    {
+      "id": "sequoia:gigi",
+      "name": "Gigi",
+      "slug": "gigi"
+    },
+    {
+      "id": "sequoia:anterior",
+      "name": "Anterior",
+      "slug": "anterior"
+    },
+    {
+      "id": "sequoia:telda",
+      "name": "Telda",
+      "slug": "telda"
+    },
+    {
+      "id": "sequoia:two",
+      "name": "Two",
+      "slug": "two"
+    },
+    {
+      "id": "sequoia:zefir",
+      "name": "Zefir",
+      "slug": "zefir"
+    },
+    {
+      "id": "sequoia:turnkey",
+      "name": "Turnkey",
+      "slug": "turnkey"
+    },
+    {
+      "id": "sequoia:squint",
+      "name": "Squint",
+      "slug": "squint"
+    },
+    {
+      "id": "sequoia:elevate",
+      "name": "Elevate",
+      "slug": "elevate"
+    },
+    {
+      "id": "sequoia:zed",
+      "name": "Zed",
+      "slug": "zed"
+    },
+    {
+      "id": "sequoia:klarna",
+      "name": "Klarna",
+      "slug": "klarna"
+    },
+    {
+      "id": "sequoia:irregular",
+      "name": "Irregular",
+      "slug": "irregular"
+    },
+    {
+      "id": "sequoia:nominal",
+      "name": "Nominal",
+      "slug": "nominal"
+    },
+    {
+      "id": "sequoia:elevenlabs",
+      "name": "ElevenLabs",
+      "slug": "elevenlabs"
+    },
+    {
+      "id": "sequoia:fireworks-ai",
+      "name": "Fireworks AI",
+      "slug": "fireworks-ai"
+    },
+    {
+      "id": "sequoia:sierra",
+      "name": "Sierra",
+      "slug": "sierra"
+    },
+    {
+      "id": "sequoia:magic",
+      "name": "Magic",
+      "slug": "magic"
+    },
+    {
+      "id": "sequoia:snowflake",
+      "name": "Snowflake",
+      "slug": "snowflake"
+    },
+    {
+      "id": "sequoia:google",
+      "name": "Google",
+      "slug": "google"
+    },
+    {
+      "id": "sequoia:ramp",
+      "name": "Ramp",
+      "slug": "ramp"
+    },
+    {
+      "id": "sequoia:palo-alto-networks",
+      "name": "Palo Alto Networks",
+      "slug": "palo-alto-networks"
+    },
+    {
+      "id": "sequoia:openevidence",
+      "name": "OpenEvidence",
+      "slug": "openevidence"
+    },
+    {
+      "id": "sequoia:nvidia",
+      "name": "NVIDIA",
+      "slug": "nvidia"
+    },
+    {
+      "id": "sequoia:paid",
+      "name": "Paid",
+      "slug": "paid"
+    },
+    {
+      "id": "sequoia:gong",
+      "name": "Gong",
+      "slug": "gong"
+    },
+    {
+      "id": "sequoia:traversal",
+      "name": "Traversal",
+      "slug": "traversal"
+    },
+    {
+      "id": "sequoia:n8n",
+      "name": "n8n",
+      "slug": "n8n"
+    },
+    {
+      "id": "sequoia:hugging-face",
+      "name": "Hugging Face",
+      "slug": "hugging-face"
+    },
+    {
+      "id": "sequoia:listen-labs",
+      "name": "Listen Labs",
+      "slug": "listen-labs"
+    },
+    {
+      "id": "sequoia:zapier",
+      "name": "Zapier",
+      "slug": "zapier"
+    },
+    {
+      "id": "sequoia:tilt",
+      "name": "Tilt",
+      "slug": "tilt"
+    },
+    {
+      "id": "sequoia:juicebox",
+      "name": "Juicebox",
+      "slug": "juicebox"
+    },
+    {
+      "id": "sequoia:trade-republic",
+      "name": "Trade Republic",
+      "slug": "trade-republic"
+    },
+    {
+      "id": "sequoia:avelios",
+      "name": "Avelios",
+      "slug": "avelios"
+    },
+    {
+      "id": "sequoia:ledgy",
+      "name": "Ledgy",
+      "slug": "ledgy"
+    },
+    {
+      "id": "sequoia:profound",
+      "name": "Profound",
+      "slug": "profound"
+    },
+    {
+      "id": "sequoia:upway",
+      "name": "Upway",
+      "slug": "upway"
+    },
+    {
+      "id": "sequoia:delphi",
+      "name": "Delphi",
+      "slug": "delphi"
+    },
+    {
+      "id": "sequoia:knowde",
+      "name": "Knowde",
+      "slug": "knowde"
+    },
+    {
+      "id": "sequoia:abby-care",
+      "name": "Abby Care",
+      "slug": "abby-care"
+    },
+    {
+      "id": "sequoia:crosby",
+      "name": "Crosby",
+      "slug": "crosby"
+    },
+    {
+      "id": "sequoia:mithril",
+      "name": "Mithril",
+      "slug": "mithril"
+    },
+    {
+      "id": "sequoia:cue-labs",
+      "name": "CUE Labs",
+      "slug": "cue-labs"
+    },
+    {
+      "id": "sequoia:sunflower-labs",
+      "name": "Sunflower Labs",
+      "slug": "sunflower-labs"
+    },
+    {
+      "id": "sequoia:chainguard",
+      "name": "Chainguard",
+      "slug": "chainguard"
+    },
+    {
+      "id": "sequoia:instacart",
+      "name": "Instacart",
+      "slug": "instacart"
+    },
+    {
+      "id": "sequoia:mongodb",
+      "name": "MongoDB",
+      "slug": "mongodb"
+    },
+    {
+      "id": "sequoia:neros",
+      "name": "Neros",
+      "slug": "neros"
+    },
+    {
+      "id": "sequoia:garner-health",
+      "name": "Garner Health",
+      "slug": "garner-health"
+    },
+    {
+      "id": "sequoia:replicate",
+      "name": "Replicate",
+      "slug": "replicate"
+    },
+    {
+      "id": "sequoia:whatnot",
+      "name": "Whatnot",
+      "slug": "whatnot"
+    },
+    {
+      "id": "sequoia:rift",
+      "name": "Rift",
+      "slug": "rift"
+    },
+    {
+      "id": "sequoia:fin",
+      "name": "Fin",
+      "slug": "fin"
+    },
+    {
+      "id": "sequoia:fal",
+      "name": "fal",
+      "slug": "fal"
+    },
+    {
+      "id": "sequoia:dust",
+      "name": "Dust",
+      "slug": "dust"
+    },
+    {
+      "id": "sequoia:agency",
+      "name": "Agency",
+      "slug": "agency"
+    },
+    {
+      "id": "sequoia:tacto",
+      "name": "Tacto",
+      "slug": "tacto"
+    },
+    {
+      "id": "sequoia:tola",
+      "name": "Tola",
+      "slug": "tola"
+    },
+    {
+      "id": "sequoia:mos",
+      "name": "Mos",
+      "slug": "mos"
+    },
+    {
+      "id": "sequoia:nevis",
+      "name": "Nevis",
+      "slug": "nevis"
+    },
+    {
+      "id": "sequoia:withcoverage",
+      "name": "WithCoverage",
+      "slug": "withcoverage"
+    },
+    {
+      "id": "sequoia:sandstone",
+      "name": "Sandstone",
+      "slug": "sandstone"
+    },
+    {
+      "id": "sequoia:figma",
+      "name": "Figma",
+      "slug": "figma"
+    },
+    {
+      "id": "sequoia:inferact",
+      "name": "Inferact",
+      "slug": "inferact"
+    },
+    {
+      "id": "sequoia:blockit-ai",
+      "name": "Blockit AI",
+      "slug": "blockit-ai"
+    },
+    {
+      "id": "sequoia:anrok",
+      "name": "Anrok",
+      "slug": "anrok"
+    },
+    {
+      "id": "sequoia:mindy",
+      "name": "Mindy",
+      "slug": "mindy"
+    },
+    {
+      "id": "sequoia:waymo",
+      "name": "Waymo",
+      "slug": "waymo"
+    },
+    {
+      "id": "sequoia:sesame-ai",
+      "name": "Sesame AI",
+      "slug": "sesame-ai"
+    },
+    {
+      "id": "sequoia:firetiger",
+      "name": "Firetiger",
+      "slug": "firetiger"
+    },
+    {
+      "id": "sequoia:bruce",
+      "name": "Bruce",
+      "slug": "bruce"
+    },
+    {
+      "id": "sequoia:rogo",
+      "name": "Rogo",
+      "slug": "rogo"
+    },
+    {
+      "id": "sequoia:rowspace",
+      "name": "Rowspace",
+      "slug": "rowspace"
+    },
+    {
+      "id": "sequoia:flapping-airplanes",
+      "name": "Flapping Airplanes",
+      "slug": "flapping-airplanes"
+    },
+    {
+      "id": "sequoia:twain",
+      "name": "Twain",
+      "slug": "twain"
+    },
+    {
+      "id": "sequoia:arq",
+      "name": "ARQ",
+      "slug": "arq"
+    },
+    {
+      "id": "sequoia:langchain",
+      "name": "LangChain",
+      "slug": "langchain"
+    },
+    {
+      "id": "sequoia:kalshi",
+      "name": "Kalshi",
+      "slug": "kalshi"
+    },
+    {
+      "id": "sequoia:scanner",
+      "name": "Scanner",
+      "slug": "scanner"
+    },
+    {
+      "id": "sequoia:wiz",
+      "name": "Wiz",
+      "slug": "wiz"
+    },
+    {
+      "id": "sequoia:edra",
+      "name": "Edra",
+      "slug": "edra"
+    },
+    {
+      "id": "sequoia:rillet",
+      "name": "Rillet",
+      "slug": "rillet"
+    },
+    {
+      "id": "sequoia:draftea",
+      "name": "Draftea",
+      "slug": "draftea"
+    },
+    {
+      "id": "sequoia:harvey",
+      "name": "Harvey",
+      "slug": "harvey"
+    },
+    {
+      "id": "sequoia:openai",
+      "name": "OpenAI",
+      "slug": "openai"
+    },
+    {
+      "id": "sequoia:block",
+      "name": "Block",
+      "slug": "block"
+    },
+    {
+      "id": "sequoia:serval",
+      "name": "Serval",
+      "slug": "serval"
+    },
+    {
+      "id": "sequoia:auctor",
+      "name": "Auctor",
+      "slug": "auctor"
+    },
+    {
+      "id": "sequoia:veed",
+      "name": "VEED",
+      "slug": "veed"
+    },
+    {
+      "id": "sequoia:nuvacore",
+      "name": "NUVACORE",
+      "slug": "nuvacore"
+    },
+    {
+      "id": "sequoia:ineffable-intelligence",
+      "name": "Ineffable Intelligence",
+      "slug": "ineffable-intelligence"
+    },
+    {
+      "id": "sequoia:breezebio",
+      "name": "BreezeBio",
+      "slug": "breezebio"
+    },
+    {
+      "id": "sequoia:standard-intelligence",
+      "name": "Standard Intelligence",
+      "slug": "standard-intelligence"
+    },
+    {
+      "id": "sequoia:astrocade",
+      "name": "Astrocade",
+      "slug": "astrocade"
+    },
+    {
+      "id": "sequoia:statsig",
+      "name": "Statsig",
+      "slug": "statsig"
+    },
+    {
+      "id": "sequoia:graphiant",
+      "name": "Graphiant",
+      "slug": "graphiant"
+    },
+    {
+      "id": "sequoia:rec-room",
+      "name": "Rec Room",
+      "slug": "rec-room"
+    },
+    {
+      "id": "sequoia:grow-therapy",
+      "name": "Grow Therapy",
+      "slug": "grow-therapy"
+    },
+    {
+      "id": "sequoia:anthropic",
+      "name": "Anthropic",
+      "slug": "anthropic"
+    },
+    {
+      "id": "sequoia:parallel-web-systems",
+      "name": "Parallel Web Systems",
+      "slug": "parallel-web-systems"
+    },
+    {
+      "id": "sequoia:sendcutsend",
+      "name": "SendCutSend",
+      "slug": "sendcutsend"
+    },
+    {
+      "id": "sequoia:odessia",
+      "name": "Odessia",
+      "slug": "odessia"
+    },
+    {
+      "id": "sequoia:spacex",
+      "name": "SpaceX",
+      "slug": "spacex"
+    },
+    {
+      "id": "sequoia:ninjaone",
+      "name": "NinjaOne",
+      "slug": "ninjaone"
+    },
+    {
+      "id": "sequoia:skyramp",
+      "name": "Skyramp",
+      "slug": "skyramp"
+    },
+    {
+      "id": "sequoia:flow-engineering",
+      "name": "Flow Engineering",
+      "slug": "flow-engineering"
+    },
+    {
+      "id": "sequoia:probook",
+      "name": "Probook",
+      "slug": "probook"
+    },
+    {
+      "id": "sequoia:x",
+      "name": "X",
+      "slug": "x"
+    },
+    {
+      "id": "sequoia:xai",
+      "name": "xAI",
+      "slug": "xai"
+    },
+    {
+      "id": "sequoia:engram",
+      "name": "Engram",
+      "slug": "engram"
+    },
+    {
+      "id": "sequoia:stark",
+      "name": "STARK",
+      "slug": "stark"
+    },
+    {
+      "id": "sequoia:sail-research",
+      "name": "Sail Research",
+      "slug": "sail-research"
+    },
+    {
+      "id": "sequoia:chai-discovery",
+      "name": "Chai Discovery",
+      "slug": "chai-discovery"
+    },
+    {
+      "id": "sequoia:sable-ai",
+      "name": "Sable AI",
+      "slug": "sable-ai"
+    },
+    {
+      "id": "sequoia:bunkerhill-health",
+      "name": "Bunkerhill Health",
+      "slug": "bunkerhill-health"
+    },
+    {
+      "id": "sequoia:island",
+      "name": "Island",
+      "slug": "island"
+    },
+    {
+      "id": "sequoia:glow",
+      "name": "Glow",
+      "slug": "glow"
+    },
+    {
+      "id": "sequoia:etched",
+      "name": "Etched",
+      "slug": "etched"
+    },
+    {
+      "id": "sequoia:attentive",
+      "name": "Attentive",
+      "slug": "attentive"
+    },
+    {
+      "id": "sequoia:census",
+      "name": "Census",
+      "slug": "census"
+    },
+    {
+      "id": "sequoia:cribl",
+      "name": "Cribl",
+      "slug": "cribl"
+    },
+    {
+      "id": "sequoia:dashlane",
+      "name": "Dashlane",
+      "slug": "dashlane"
+    },
+    {
+      "id": "sequoia:fintual",
+      "name": "Fintual",
+      "slug": "fintual"
+    },
+    {
+      "id": "sequoia:tecton",
+      "name": "Tecton",
+      "slug": "tecton"
+    },
+    {
+      "id": "sequoia:thumbtack",
+      "name": "Thumbtack",
+      "slug": "thumbtack"
+    },
+    {
+      "id": "sequoia:amplitude",
+      "name": "Amplitude",
+      "slug": "amplitude"
+    },
+    {
+      "id": "sequoia:evy",
+      "name": "Evy",
+      "slug": "evy"
+    },
+    {
+      "id": "sequoia:linear",
+      "name": "Linear",
+      "slug": "linear"
+    },
+    {
+      "id": "sequoia:reflection-ai",
+      "name": "Reflection AI",
+      "slug": "reflection-ai"
+    },
+    {
+      "id": "sequoia:ricursive-intelligence",
+      "name": "Ricursive Intelligence",
+      "slug": "ricursive-intelligence"
+    },
+    {
+      "id": "sequoia:skild-ai",
+      "name": "Skild AI",
+      "slug": "skild-ai"
+    },
+    {
+      "id": "sequoia:tavus",
+      "name": "Tavus",
+      "slug": "tavus"
+    }
+  ]
+}

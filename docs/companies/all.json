@@ -13,7 +13,7 @@
     "categories": [
       "gtm"
     ],
-    "current_stage": "acquired",
+    "current_stage": "unknown",
     "first_partnered_year": 2006,
     "partners": [
       "jim-goetz"
@@ -51,7 +51,7 @@
     "categories": [
       "infrastructure"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2018,
     "partners": [
       "bill-coughran"
@@ -93,7 +93,7 @@
     "categories": [
       "infrastructure"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2011,
     "partners": [],
     "primary_partner": null,
@@ -134,7 +134,7 @@
       "consumer",
       "hardware"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 2018,
     "partners": [
       "roelof-botha"
@@ -171,7 +171,7 @@
     "categories": [
       "healthcare"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 2018,
     "partners": [
       "roelof-botha"
@@ -208,7 +208,7 @@
     "categories": [
       "consumer"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2019,
     "partners": [
       "alfred-lin"
@@ -250,7 +250,7 @@
     "categories": [
       "fintech"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 2003,
     "partners": [
       "michael-moritz"
@@ -289,7 +289,7 @@
       "consumer",
       "marketplace"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2011,
     "partners": [
       "alfred-lin"
@@ -331,7 +331,7 @@
     "categories": [
       "consumer"
     ],
-    "current_stage": "acquired",
+    "current_stage": "unknown",
     "first_partnered_year": 2005,
     "partners": [
       "michael-moritz"
@@ -374,7 +374,7 @@
       "consumer",
       "data-analytics"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 2003,
     "partners": [
       "michael-moritz"
@@ -416,7 +416,7 @@
     "categories": [
       "infrastructure"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 1994,
     "partners": [],
     "primary_partner": null,
@@ -461,7 +461,7 @@
       "hardware",
       "infrastructure"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 1983,
     "partners": [],
     "primary_partner": null,
@@ -498,7 +498,7 @@
       "infrastructure",
       "security"
     ],
-    "current_stage": "acquired",
+    "current_stage": "unknown",
     "first_partnered_year": 2009,
     "partners": [
       "pat-grady"
@@ -536,7 +536,7 @@
     "categories": [
       "consumer"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2021,
     "partners": [
       "jess-lee",
@@ -576,7 +576,7 @@
       "developer-tools",
       "security"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2019,
     "partners": [
       "bill-coughran"
@@ -618,7 +618,7 @@
     "categories": [
       "consumer"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2016,
     "partners": [
       "andrew-reed"
@@ -665,7 +665,7 @@
     "categories": [
       "operations"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2019,
     "partners": [
       "andrew-reed"
@@ -708,7 +708,7 @@
     "categories": [
       "operations"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2020,
     "partners": [
       "ravi-gupta"
@@ -749,7 +749,7 @@
     "categories": [
       "security"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2015,
     "partners": [
       "doug-leone"
@@ -792,7 +792,7 @@
       "crypto",
       "infrastructure"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2018,
     "partners": [],
     "primary_partner": null,
@@ -841,7 +841,7 @@
       "ai",
       "data-analytics"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 2014,
     "partners": [
       "pat-grady",
@@ -885,7 +885,7 @@
     "categories": [
       "gtm"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2019,
     "partners": [
       "roelof-botha"
@@ -927,7 +927,7 @@
     "categories": [
       "consumer"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2018,
     "partners": [
       "andrew-reed",
@@ -970,7 +970,7 @@
     "categories": [
       "operations"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2018,
     "partners": [
       "alfred-lin"
@@ -1017,7 +1017,7 @@
       "consumer",
       "marketplace"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 2007,
     "partners": [
       "bryan-schreier"
@@ -1059,7 +1059,7 @@
     "categories": [
       "consumer"
     ],
-    "current_stage": "acquired",
+    "current_stage": "unknown",
     "first_partnered_year": 2010,
     "partners": [
       "roelof-botha"
@@ -1098,7 +1098,7 @@
       "infrastructure",
       "security"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2012,
     "partners": [
       "jim-goetz"
@@ -1141,7 +1141,7 @@
       "consumer",
       "fintech"
     ],
-    "current_stage": "acquired",
+    "current_stage": "unknown",
     "first_partnered_year": 2003,
     "partners": [
       "roelof-botha"
@@ -1187,7 +1187,7 @@
     "categories": [
       "gtm"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2020,
     "partners": [
       "konstantine-buhler",
@@ -1234,7 +1234,7 @@
     "categories": [
       "productivity"
     ],
-    "current_stage": "acquired",
+    "current_stage": "unknown",
     "first_partnered_year": 2014,
     "partners": [
       "doug-leone"
@@ -1280,7 +1280,7 @@
     "categories": [
       "data-analytics"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2020,
     "partners": [
       "sonya-huang"
@@ -1318,7 +1318,7 @@
     "categories": [
       "consumer"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 1995,
     "partners": [
       "michael-moritz"
@@ -1361,7 +1361,7 @@
       "crypto",
       "fintech"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2021,
     "partners": [
       "ravi-gupta"
@@ -1407,7 +1407,7 @@
     "categories": [
       "security"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2019,
     "partners": [
       "bill-coughran"
@@ -1446,7 +1446,7 @@
       "developer-tools",
       "operations"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2021,
     "partners": [
       "bogomil-balkansky"
@@ -1494,7 +1494,7 @@
     "categories": [
       "healthcare"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2012,
     "partners": [],
     "primary_partner": null,
@@ -1526,7 +1526,7 @@
     "categories": [
       "security"
     ],
-    "current_stage": "acquired",
+    "current_stage": "unknown",
     "first_partnered_year": 2011,
     "partners": [
       "jim-goetz",
@@ -1569,7 +1569,7 @@
     "categories": [
       "security"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2019,
     "partners": [],
     "primary_partner": null,
@@ -1607,7 +1607,7 @@
       "developer-tools",
       "security"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2019,
     "partners": [],
     "primary_partner": null,
@@ -1640,7 +1640,7 @@
     "categories": [
       "crypto"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2017,
     "partners": [
       "alfred-lin"
@@ -1731,7 +1731,7 @@
     "categories": [
       "security"
     ],
-    "current_stage": "acquired",
+    "current_stage": "unknown",
     "first_partnered_year": 2013,
     "partners": [
       "bryan-schreier"
@@ -1778,7 +1778,7 @@
       "operations",
       "productivity"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 2006,
     "partners": [
       "doug-leone"
@@ -1862,7 +1862,7 @@
     "categories": [
       "security"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 2004,
     "partners": [
       "bill-coughran"
@@ -1900,7 +1900,7 @@
     "categories": [
       "healthcare"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 2013,
     "partners": [],
     "primary_partner": null,
@@ -1945,7 +1945,7 @@
       "ai",
       "gtm"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 2011,
     "partners": [
       "doug-leone",
@@ -1993,7 +1993,7 @@
     "categories": [
       "infrastructure"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 2008,
     "partners": [
       "jim-goetz"
@@ -2039,7 +2039,7 @@
     "categories": [
       "data-analytics"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 2017,
     "partners": [],
     "primary_partner": null,
@@ -2127,7 +2127,7 @@
     "categories": [
       "consumer"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2021,
     "partners": [
       "andrew-reed",
@@ -2174,7 +2174,7 @@
     "categories": [
       "security"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2022,
     "partners": [
       "doug-leone",
@@ -2217,7 +2217,7 @@
     "categories": [
       "operations"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2017,
     "partners": [
       "jess-lee"
@@ -2292,7 +2292,7 @@
     "categories": [
       "gtm"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 2012,
     "partners": [
       "bryan-schreier",
@@ -2335,7 +2335,7 @@
     "categories": [
       "consumer"
     ],
-    "current_stage": "acquired",
+    "current_stage": "unknown",
     "first_partnered_year": 2011,
     "partners": [
       "jim-goetz"
@@ -2378,7 +2378,7 @@
     "categories": [
       "consumer"
     ],
-    "current_stage": "acquired",
+    "current_stage": "unknown",
     "first_partnered_year": 2012,
     "partners": [
       "roelof-botha"
@@ -2420,7 +2420,7 @@
       "consumer",
       "hardware"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 1978,
     "partners": [],
     "primary_partner": null,
@@ -2460,7 +2460,7 @@
     "categories": [
       "productivity"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 2016,
     "partners": [
       "carl-eschenbach",
@@ -2499,7 +2499,7 @@
     "categories": [
       "hardware"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2022,
     "partners": [
       "shaun-maguire"
@@ -2537,7 +2537,7 @@
     "categories": [
       "consumer"
     ],
-    "current_stage": "acquired",
+    "current_stage": "unknown",
     "first_partnered_year": 2004,
     "partners": [
       "michael-moritz",
@@ -2581,7 +2581,7 @@
       "legal",
       "operations"
     ],
-    "current_stage": "pre-seed-seed",
+    "current_stage": "unknown",
     "first_partnered_year": 2022,
     "partners": [],
     "primary_partner": null,
@@ -2624,7 +2624,7 @@
     "categories": [
       "gtm"
     ],
-    "current_stage": "pre-seed-seed",
+    "current_stage": "unknown",
     "first_partnered_year": 2022,
     "partners": [],
     "primary_partner": null,
@@ -2660,7 +2660,7 @@
       "ai",
       "gtm"
     ],
-    "current_stage": "pre-seed-seed",
+    "current_stage": "unknown",
     "first_partnered_year": 2022,
     "partners": [],
     "primary_partner": null,
@@ -2696,7 +2696,7 @@
     "categories": [
       "infrastructure"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2022,
     "partners": [
       "ravi-gupta",
@@ -2740,7 +2740,7 @@
     "categories": [
       "operations"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2020,
     "partners": [
       "pat-grady"
@@ -2789,7 +2789,7 @@
     "categories": [
       "healthcare"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2022,
     "partners": [
       "bryan-schreier"
@@ -2827,7 +2827,7 @@
     "categories": [
       "gtm"
     ],
-    "current_stage": "acquired",
+    "current_stage": "unknown",
     "first_partnered_year": 2017,
     "partners": [
       "pat-grady"
@@ -2870,7 +2870,7 @@
       "fintech",
       "operations"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2018,
     "partners": [
       "andrew-reed"
@@ -2913,7 +2913,7 @@
       "crypto",
       "developer-tools"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2022,
     "partners": [
       "shaun-maguire"
@@ -2960,7 +2960,7 @@
       "data-analytics",
       "security"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2013,
     "partners": [
       "bill-coughran",
@@ -3004,7 +3004,7 @@
     "categories": [
       "consumer"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2019,
     "partners": [
       "sonya-huang"
@@ -3046,7 +3046,7 @@
     "categories": [
       "hardware"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2013,
     "partners": [
       "jim-goetz"
@@ -3100,7 +3100,7 @@
     "categories": [
       "consumer"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 1975,
     "partners": [],
     "primary_partner": null,
@@ -3174,7 +3174,7 @@
     "categories": [
       "hardware"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2019,
     "partners": [
       "bill-coughran"
@@ -3220,7 +3220,7 @@
       "crypto",
       "fintech"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2021,
     "partners": [],
     "primary_partner": null,
@@ -3256,7 +3256,7 @@
     "categories": [
       "legal"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2019,
     "partners": [
       "stephanie-zhan"
@@ -3299,7 +3299,7 @@
     "categories": [
       "consumer"
     ],
-    "current_stage": "pre-seed-seed",
+    "current_stage": "unknown",
     "first_partnered_year": 2021,
     "partners": [
       "jess-lee"
@@ -3343,7 +3343,7 @@
       "consumer",
       "fintech"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2020,
     "partners": [
       "roelof-botha"
@@ -3385,7 +3385,7 @@
     "categories": [
       "productivity"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2021,
     "partners": [
       "shaun-maguire",
@@ -3434,7 +3434,7 @@
       "gtm",
       "marketplace"
     ],
-    "current_stage": "acquired",
+    "current_stage": "unknown",
     "first_partnered_year": 1997,
     "partners": [
       "michael-moritz"
@@ -3484,7 +3484,7 @@
     "categories": [
       "healthcare"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2015,
     "partners": [],
     "primary_partner": null,
@@ -3522,7 +3522,7 @@
       "fintech",
       "operations"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2020,
     "partners": [
       "alfred-lin",
@@ -3565,7 +3565,7 @@
     "categories": [
       "gtm"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2012,
     "partners": [
       "jim-goetz"
@@ -3611,7 +3611,7 @@
     "categories": [
       "consumer"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 1982,
     "partners": [],
     "primary_partner": null,
@@ -3651,7 +3651,7 @@
     "categories": [
       "data-analytics"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2014,
     "partners": [],
     "primary_partner": null,
@@ -3687,7 +3687,7 @@
     "categories": [
       "productivity"
     ],
-    "current_stage": "acquired",
+    "current_stage": "unknown",
     "first_partnered_year": 2010,
     "partners": [
       "roelof-botha"
@@ -3729,7 +3729,7 @@
     "categories": [
       "hardware"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2019,
     "partners": [
       "bogomil-balkansky"
@@ -3772,7 +3772,7 @@
       "crypto",
       "infrastructure"
     ],
-    "current_stage": "pre-seed-seed",
+    "current_stage": "unknown",
     "first_partnered_year": 2022,
     "partners": [
       "shaun-maguire"
@@ -3816,7 +3816,7 @@
     "categories": [
       "fintech"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2022,
     "partners": [
       "alfred-lin",
@@ -3858,7 +3858,7 @@
     "categories": [
       "crypto"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2021,
     "partners": [],
     "primary_partner": null,
@@ -3889,7 +3889,7 @@
     "categories": [
       "healthcare"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2016,
     "partners": [
       "roelof-botha"
@@ -3935,7 +3935,7 @@
       "ai",
       "data-analytics"
     ],
-    "current_stage": "pre-seed-seed",
+    "current_stage": "unknown",
     "first_partnered_year": 2022,
     "partners": [],
     "primary_partner": null,
@@ -3972,7 +3972,7 @@
       "ai",
       "productivity"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2018,
     "partners": [
       "bill-coughran"
@@ -4015,7 +4015,7 @@
       "ai",
       "consumer"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2014,
     "partners": [],
     "primary_partner": null,
@@ -4056,7 +4056,7 @@
       "ai",
       "developer-tools"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2020,
     "partners": [
       "andrew-reed"
@@ -4098,7 +4098,7 @@
     "categories": [
       "security"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2019,
     "partners": [
       "konstantine-buhler"
@@ -4150,7 +4150,7 @@
       "ai",
       "fintech"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2019,
     "partners": [
       "shaun-maguire"
@@ -4193,7 +4193,7 @@
       "developer-tools",
       "security"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2017,
     "partners": [
       "jim-goetz",
@@ -4241,7 +4241,7 @@
     "categories": [
       "operations"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2021,
     "partners": [
       "isaiah-boone"
@@ -4279,7 +4279,7 @@
     "categories": [
       "healthcare"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2020,
     "partners": [
       "jess-lee"
@@ -4324,7 +4324,7 @@
     "categories": [
       "crypto"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2021,
     "partners": [
       "shaun-maguire"
@@ -4392,7 +4392,7 @@
     "categories": [
       "security"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2020,
     "partners": [
       "shaun-maguire"
@@ -4431,7 +4431,7 @@
     "categories": [
       "crypto"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2021,
     "partners": [
       "josephine-chen"
@@ -4478,7 +4478,7 @@
     "categories": [
       "marketplace"
     ],
-    "current_stage": "pre-seed-seed",
+    "current_stage": "unknown",
     "first_partnered_year": 2022,
     "partners": [
       "jess-lee"
@@ -4524,7 +4524,7 @@
     "categories": [
       "gtm"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2021,
     "partners": [
       "bogomil-balkansky"
@@ -4566,7 +4566,7 @@
     "categories": [
       "operations"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2021,
     "partners": [
       "luciana-lixandru",
@@ -4613,7 +4613,7 @@
     "categories": [
       "operations"
     ],
-    "current_stage": "pre-seed-seed",
+    "current_stage": "unknown",
     "first_partnered_year": 2022,
     "partners": [],
     "primary_partner": null,
@@ -4657,7 +4657,7 @@
     "categories": [
       "fintech"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2017,
     "partners": [
       "andrew-reed"
@@ -4700,7 +4700,7 @@
       "consumer",
       "healthcare"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2019,
     "partners": [
       "ravi-gupta"
@@ -4748,7 +4748,7 @@
     "categories": [
       "consumer"
     ],
-    "current_stage": "pre-seed-seed",
+    "current_stage": "unknown",
     "first_partnered_year": 2022,
     "partners": [],
     "primary_partner": null,
@@ -4787,7 +4787,7 @@
     "categories": [
       "productivity"
     ],
-    "current_stage": "acquired",
+    "current_stage": "unknown",
     "first_partnered_year": 2019,
     "partners": [
       "andrew-reed"
@@ -4829,7 +4829,7 @@
     "categories": [
       "consumer"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2017,
     "partners": [
       "bryan-schreier"
@@ -4876,7 +4876,7 @@
       "ai",
       "hardware"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 2019,
     "partners": [
       "carl-eschenbach"
@@ -4925,7 +4925,7 @@
       "climate",
       "consumer"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2019,
     "partners": [
       "bryan-schreier"
@@ -4963,7 +4963,7 @@
     "categories": [
       "consumer"
     ],
-    "current_stage": "pre-seed-seed",
+    "current_stage": "unknown",
     "first_partnered_year": 2022,
     "partners": [],
     "primary_partner": null,
@@ -5004,7 +5004,7 @@
       "consumer",
       "marketplace"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 2009,
     "partners": [
       "roelof-botha"
@@ -5050,7 +5050,7 @@
     "categories": [
       "infrastructure"
     ],
-    "current_stage": "pre-seed-seed",
+    "current_stage": "unknown",
     "first_partnered_year": 2022,
     "partners": [
       "bogomil-balkansky",
@@ -5098,7 +5098,7 @@
       "crypto",
       "security"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2022,
     "partners": [
       "shaun-maguire"
@@ -5141,7 +5141,7 @@
       "ai",
       "developer-tools"
     ],
-    "current_stage": "pre-seed-seed",
+    "current_stage": "unknown",
     "first_partnered_year": 2022,
     "partners": [],
     "primary_partner": null,
@@ -5182,7 +5182,7 @@
       "climate",
       "consumer"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 2010,
     "partners": [
       "pat-grady"
@@ -5225,7 +5225,7 @@
       "ai",
       "healthcare"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2021,
     "partners": [
       "andrew-reed"
@@ -5263,7 +5263,7 @@
     "categories": [
       "fintech"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2010,
     "partners": [
       "michael-moritz",
@@ -5308,7 +5308,7 @@
     "categories": [
       "security"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2023,
     "partners": [
       "bogomil-balkansky",
@@ -5352,7 +5352,7 @@
     "categories": [
       "consumer"
     ],
-    "current_stage": "pre-seed-seed",
+    "current_stage": "unknown",
     "first_partnered_year": 2023,
     "partners": [
       "roelof-botha"
@@ -5391,7 +5391,7 @@
       "ai",
       "healthcare"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2021,
     "partners": [
       "bill-coughran"
@@ -5442,7 +5442,7 @@
     "categories": [
       "consumer"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2019,
     "partners": [
       "jess-lee"
@@ -5479,7 +5479,7 @@
     "categories": [
       "climate"
     ],
-    "current_stage": "pre-seed-seed",
+    "current_stage": "unknown",
     "first_partnered_year": 2023,
     "partners": [
       "bryan-schreier"
@@ -5521,7 +5521,7 @@
       "ai",
       "productivity"
     ],
-    "current_stage": "pre-seed-seed",
+    "current_stage": "unknown",
     "first_partnered_year": 2023,
     "partners": [],
     "primary_partner": null,
@@ -5569,7 +5569,7 @@
       "ai",
       "consumer"
     ],
-    "current_stage": "pre-seed-seed",
+    "current_stage": "unknown",
     "first_partnered_year": 2022,
     "partners": [],
     "primary_partner": null,
@@ -5609,7 +5609,7 @@
     "categories": [
       "developer-tools"
     ],
-    "current_stage": "pre-seed-seed",
+    "current_stage": "unknown",
     "first_partnered_year": 2021,
     "partners": [],
     "primary_partner": null,
@@ -5649,7 +5649,7 @@
     "categories": [
       "security"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2019,
     "partners": [
       "doug-leone"
@@ -5741,7 +5741,7 @@
       "hardware",
       "healthcare"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2012,
     "partners": [
       "alfred-lin"
@@ -5784,7 +5784,7 @@
       "ai",
       "gtm"
     ],
-    "current_stage": "pre-seed-seed",
+    "current_stage": "unknown",
     "first_partnered_year": 2023,
     "partners": [
       "konstantine-buhler"
@@ -5826,7 +5826,7 @@
     "categories": [
       "operations"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2021,
     "partners": [
       "ravi-gupta",
@@ -5865,7 +5865,7 @@
     "categories": [
       "security"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 2012,
     "partners": [
       "pat-grady",
@@ -5908,7 +5908,7 @@
     "categories": [
       "infrastructure"
     ],
-    "current_stage": "acquired",
+    "current_stage": "unknown",
     "first_partnered_year": 2006,
     "partners": [
       "doug-leone",
@@ -5955,7 +5955,7 @@
       "marketplace",
       "operations"
     ],
-    "current_stage": "pre-seed-seed",
+    "current_stage": "unknown",
     "first_partnered_year": 2023,
     "partners": [],
     "primary_partner": null,
@@ -5994,7 +5994,7 @@
     "categories": [
       "consumer"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2010,
     "partners": [],
     "primary_partner": null,
@@ -6035,7 +6035,7 @@
     "categories": [
       "consumer"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2017,
     "partners": [],
     "primary_partner": null,
@@ -6066,7 +6066,7 @@
     "categories": [
       "climate"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2020,
     "partners": [
       "michael-moritz",
@@ -6114,7 +6114,7 @@
     "categories": [
       "ai"
     ],
-    "current_stage": "acquired",
+    "current_stage": "unknown",
     "first_partnered_year": 2019,
     "partners": [
       "bill-coughran",
@@ -6157,7 +6157,7 @@
     "categories": [
       "crypto"
     ],
-    "current_stage": "acquired",
+    "current_stage": "unknown",
     "first_partnered_year": 2022,
     "partners": [
       "bill-coughran"
@@ -6196,7 +6196,7 @@
     "categories": [
       "consumer"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2018,
     "partners": [],
     "primary_partner": null,
@@ -6226,7 +6226,7 @@
     "categories": [
       "data-analytics"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2015,
     "partners": [],
     "primary_partner": null,
@@ -6258,7 +6258,7 @@
     "categories": [
       "consumer"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2010,
     "partners": [],
     "primary_partner": null,
@@ -6292,7 +6292,7 @@
     "categories": [
       "consumer"
     ],
-    "current_stage": "pre-seed-seed",
+    "current_stage": "unknown",
     "first_partnered_year": 2015,
     "partners": [],
     "primary_partner": null,
@@ -6323,7 +6323,7 @@
     "categories": [
       "consumer"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2011,
     "partners": [],
     "primary_partner": null,
@@ -6354,7 +6354,7 @@
     "categories": [
       "infrastructure"
     ],
-    "current_stage": "acquired",
+    "current_stage": "unknown",
     "first_partnered_year": 2005,
     "partners": [
       "jim-goetz"
@@ -6440,7 +6440,7 @@
     "categories": [
       "healthcare"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2016,
     "partners": [
       "alfred-lin"
@@ -6481,7 +6481,7 @@
     "categories": [
       "healthcare"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2022,
     "partners": [
       "alfred-lin"
@@ -6520,7 +6520,7 @@
     "categories": [
       "operations"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2019,
     "partners": [],
     "primary_partner": null,
@@ -6551,7 +6551,7 @@
       "ai",
       "security"
     ],
-    "current_stage": "pre-seed-seed",
+    "current_stage": "unknown",
     "first_partnered_year": 2023,
     "partners": [
       "bogomil-balkansky"
@@ -6592,7 +6592,7 @@
     "categories": [
       "ai"
     ],
-    "current_stage": "pre-seed-seed",
+    "current_stage": "unknown",
     "first_partnered_year": 2024,
     "partners": [
       "alfred-lin"
@@ -6654,7 +6654,7 @@
     "categories": [
       "productivity"
     ],
-    "current_stage": "acquired",
+    "current_stage": "unknown",
     "first_partnered_year": 2007,
     "partners": [
       "jim-goetz",
@@ -6705,7 +6705,7 @@
     "categories": [
       "developer-tools"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2019,
     "partners": [
       "bryan-schreier",
@@ -6745,7 +6745,7 @@
       "hardware",
       "infrastructure"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 1987,
     "partners": [],
     "primary_partner": null,
@@ -6788,7 +6788,7 @@
     "categories": [
       "consumer"
     ],
-    "current_stage": "acquired",
+    "current_stage": "unknown",
     "first_partnered_year": 2013,
     "partners": [
       "alfred-lin"
@@ -6831,7 +6831,7 @@
       "ai",
       "consumer"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2021,
     "partners": [],
     "primary_partner": null,
@@ -6872,7 +6872,7 @@
       "ai",
       "developer-tools"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2023,
     "partners": [
       "shaun-maguire"
@@ -6914,7 +6914,7 @@
     "categories": [
       "security"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2023,
     "partners": [
       "doug-leone",
@@ -6958,7 +6958,7 @@
     "categories": [
       "hardware"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2017,
     "partners": [
       "bill-coughran"
@@ -7012,7 +7012,7 @@
       "ai",
       "productivity"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2020,
     "partners": [],
     "primary_partner": null,
@@ -7051,7 +7051,7 @@
       "ai",
       "fintech"
     ],
-    "current_stage": "pre-seed-seed",
+    "current_stage": "unknown",
     "first_partnered_year": 2022,
     "partners": [],
     "primary_partner": null,
@@ -7092,7 +7092,7 @@
       "data-analytics",
       "developer-tools"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2016,
     "partners": [
       "jim-goetz"
@@ -7130,7 +7130,7 @@
     "categories": [
       "ai"
     ],
-    "current_stage": "acquired",
+    "current_stage": "unknown",
     "first_partnered_year": 2019,
     "partners": [
       "bill-coughran"
@@ -7172,7 +7172,7 @@
     "categories": [
       "developer-tools"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2020,
     "partners": [
       "bogomil-balkansky"
@@ -7218,7 +7218,7 @@
     "categories": [
       "data-analytics"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2021,
     "partners": [
       "carl-eschenbach"
@@ -7263,7 +7263,7 @@
     "categories": [
       "infrastructure"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2024,
     "partners": [
       "shaun-maguire",
@@ -7307,7 +7307,7 @@
     "categories": [
       "ai"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2024,
     "partners": [
       "shaun-maguire",
@@ -7355,7 +7355,7 @@
       "ai",
       "operations"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2020,
     "partners": [
       "bill-coughran"
@@ -7393,7 +7393,7 @@
       "ai",
       "developer-tools"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2020,
     "partners": [
       "bill-coughran"
@@ -7443,7 +7443,7 @@
       "ai",
       "productivity"
     ],
-    "current_stage": "pre-seed-seed",
+    "current_stage": "unknown",
     "first_partnered_year": 2023,
     "partners": [
       "jess-lee"
@@ -7486,7 +7486,7 @@
     "categories": [
       "healthcare"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 1995,
     "partners": [],
     "primary_partner": null,
@@ -7514,7 +7514,7 @@
     "categories": [
       "hardware"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 1989,
     "partners": [],
     "primary_partner": null,
@@ -7543,7 +7543,7 @@
       "ai",
       "hardware"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 1993,
     "partners": [],
     "primary_partner": null,
@@ -7571,7 +7571,7 @@
     "categories": [
       "consumer"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 2005,
     "partners": [],
     "primary_partner": null,
@@ -7599,7 +7599,7 @@
     "categories": [
       "hardware"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 1981,
     "partners": [],
     "primary_partner": null,
@@ -7627,7 +7627,7 @@
     "categories": [
       "healthcare"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 1995,
     "partners": [],
     "primary_partner": null,
@@ -7655,7 +7655,7 @@
     "categories": [
       "healthcare"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 2018,
     "partners": [],
     "primary_partner": null,
@@ -7683,7 +7683,7 @@
     "categories": [
       "healthcare"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 2011,
     "partners": [],
     "primary_partner": null,
@@ -7712,7 +7712,7 @@
       "ai",
       "hardware"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 1992,
     "partners": [],
     "primary_partner": null,
@@ -7740,7 +7740,7 @@
     "categories": [
       "infrastructure"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 2000,
     "partners": [],
     "primary_partner": null,
@@ -7773,7 +7773,7 @@
       "consumer",
       "marketplace"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2021,
     "partners": [
       "michael-moritz"
@@ -7821,7 +7821,7 @@
       "consumer",
       "fintech"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2020,
     "partners": [
       "alfred-lin"
@@ -7875,7 +7875,7 @@
       "gtm",
       "operations"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2024,
     "partners": [
       "andrew-reed",
@@ -7915,7 +7915,7 @@
     "categories": [
       "developer-tools"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2020,
     "partners": [],
     "primary_partner": null,
@@ -7960,7 +7960,7 @@
       "consumer",
       "healthcare"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2022,
     "partners": [
       "jess-lee"
@@ -8007,7 +8007,7 @@
       "climate",
       "hardware"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2019,
     "partners": [
       "shaun-maguire",
@@ -8050,7 +8050,7 @@
       "ai",
       "healthcare"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2024,
     "partners": [
       "roelof-botha",
@@ -8085,7 +8085,7 @@
       "ai",
       "gtm"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2024,
     "partners": [
       "konstantine-buhler",
@@ -8136,7 +8136,7 @@
     "categories": [
       "developer-tools"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2022,
     "partners": [
       "lauren-reeder"
@@ -8174,7 +8174,7 @@
     "categories": [
       "data-analytics"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2021,
     "partners": [
       "bogomil-balkansky"
@@ -8219,7 +8219,7 @@
     "categories": [
       "healthcare"
     ],
-    "current_stage": "pre-seed-seed",
+    "current_stage": "unknown",
     "first_partnered_year": 2022,
     "partners": [],
     "primary_partner": null,
@@ -8260,7 +8260,7 @@
     "categories": [
       "consumer"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2020,
     "partners": [],
     "primary_partner": null,
@@ -8301,7 +8301,7 @@
       "ai",
       "data-analytics"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2016,
     "partners": [
       "bryan-schreier"
@@ -8349,7 +8349,7 @@
     "categories": [
       "fintech"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2022,
     "partners": [
       "george-robson"
@@ -8391,7 +8391,7 @@
     "categories": [
       "climate"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2024,
     "partners": [
       "bryan-schreier",
@@ -8439,7 +8439,7 @@
     "categories": [
       "crypto"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2024,
     "partners": [
       "andrew-reed",
@@ -8486,7 +8486,7 @@
       "crypto",
       "marketplace"
     ],
-    "current_stage": "pre-seed-seed",
+    "current_stage": "unknown",
     "first_partnered_year": 2022,
     "partners": [
       "konstantine-buhler"
@@ -8529,7 +8529,7 @@
       "consumer",
       "fintech"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 2013,
     "partners": [
       "doug-leone",
@@ -8577,7 +8577,7 @@
       "consumer",
       "productivity"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 2007,
     "partners": [
       "bryan-schreier"
@@ -8621,7 +8621,7 @@
       "crypto",
       "fintech"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 2018,
     "partners": [
       "andrew-reed"
@@ -8664,7 +8664,7 @@
     "categories": [
       "consumer"
     ],
-    "current_stage": "acquired",
+    "current_stage": "unknown",
     "first_partnered_year": 2005,
     "partners": [
       "roelof-botha"
@@ -8710,7 +8710,7 @@
     "categories": [
       "healthcare"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 2007,
     "partners": [
       "roelof-botha"
@@ -8754,7 +8754,7 @@
       "consumer",
       "marketplace"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 2014,
     "partners": [
       "alfred-lin",
@@ -8802,7 +8802,7 @@
       "ai",
       "operations"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 2018,
     "partners": [
       "carl-eschenbach"
@@ -8844,7 +8844,7 @@
     "categories": [
       "consumer"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 2014,
     "partners": [
       "alfred-lin"
@@ -8888,7 +8888,7 @@
       "ai",
       "operations"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 2009,
     "partners": [
       "doug-leone",
@@ -8931,7 +8931,7 @@
     "categories": [
       "gtm"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 2011,
     "partners": [
       "pat-grady",
@@ -8976,7 +8976,7 @@
       "consumer",
       "marketplace"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 2009,
     "partners": [
       "alfred-lin"
@@ -9023,7 +9023,7 @@
       "consumer",
       "fintech"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 1999,
     "partners": [
       "michael-moritz"
@@ -9069,7 +9069,7 @@
       "ai",
       "data-analytics"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2021,
     "partners": [
       "konstantine-buhler",
@@ -9116,7 +9116,7 @@
       "ai",
       "security"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2024,
     "partners": [
       "konstantine-buhler",
@@ -9155,7 +9155,7 @@
       "ai",
       "consumer"
     ],
-    "current_stage": "pre-seed-seed",
+    "current_stage": "unknown",
     "first_partnered_year": 2024,
     "partners": [
       "shaun-maguire",
@@ -9202,7 +9202,7 @@
       "ai",
       "productivity"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2022,
     "partners": [
       "sonya-huang"
@@ -9251,7 +9251,7 @@
     "categories": [
       "ai"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2024,
     "partners": [
       "shaun-maguire",
@@ -9295,7 +9295,7 @@
     "categories": [
       "developer-tools"
     ],
-    "current_stage": "acquired",
+    "current_stage": "unknown",
     "first_partnered_year": 2015,
     "partners": [
       "jim-goetz",
@@ -9339,7 +9339,7 @@
       "legal",
       "operations"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2021,
     "partners": [
       "andrew-reed",
@@ -9380,7 +9380,7 @@
       "ai",
       "hardware"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2022,
     "partners": [
       "luciana-lixandru",
@@ -9428,7 +9428,7 @@
     "categories": [
       "operations"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2021,
     "partners": [
       "luciana-lixandru",
@@ -9493,7 +9493,7 @@
       "ai",
       "productivity"
     ],
-    "current_stage": "pre-seed-seed",
+    "current_stage": "unknown",
     "first_partnered_year": 2024,
     "partners": [
       "julien-bek"
@@ -9534,7 +9534,7 @@
     "categories": [
       "data-analytics"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2025,
     "partners": [
       "andrew-reed"
@@ -9578,7 +9578,7 @@
       "ai",
       "healthcare"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2024,
     "partners": [
       "josephine-chen",
@@ -9618,7 +9618,7 @@
     "categories": [
       "consumer"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2023,
     "partners": [
       "jess-lee"
@@ -9660,7 +9660,7 @@
       "ai",
       "developer-tools"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2023,
     "partners": [
       "charlie-curnin",
@@ -9703,7 +9703,7 @@
       "consumer",
       "marketplace"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 2015,
     "partners": [
       "alfred-lin"
@@ -9752,7 +9752,7 @@
       "consumer",
       "marketplace"
     ],
-    "current_stage": "acquired",
+    "current_stage": "unknown",
     "first_partnered_year": 2011,
     "partners": [
       "alfred-lin"
@@ -9793,7 +9793,7 @@
     "categories": [
       "fintech"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2019,
     "partners": [
       "bryan-schreier"
@@ -9837,7 +9837,7 @@
       "consumer",
       "fintech"
     ],
-    "current_stage": "acquired",
+    "current_stage": "unknown",
     "first_partnered_year": 2010,
     "partners": [
       "alfred-lin"
@@ -9880,7 +9880,7 @@
       "ai",
       "legal"
     ],
-    "current_stage": "pre-seed-seed",
+    "current_stage": "unknown",
     "first_partnered_year": 2024,
     "partners": [
       "konstantine-buhler",
@@ -9928,7 +9928,7 @@
       "ai",
       "gtm"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2019,
     "partners": [
       "alfred-lin",
@@ -9976,7 +9976,7 @@
     "categories": [
       "productivity"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2021,
     "partners": [
       "pat-grady",
@@ -10023,7 +10023,7 @@
       "ai",
       "defense"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2024,
     "partners": [
       "david-cahn",
@@ -10072,7 +10072,7 @@
     "categories": [
       "fintech"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2025,
     "partners": [
       "sonya-huang",
@@ -10119,7 +10119,7 @@
       "consumer",
       "healthcare"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2019,
     "partners": [
       "roelof-botha"
@@ -10162,7 +10162,7 @@
       "ai",
       "data-analytics"
     ],
-    "current_stage": "pre-seed-seed",
+    "current_stage": "unknown",
     "first_partnered_year": 2020,
     "partners": [],
     "primary_partner": null,
@@ -10206,7 +10206,7 @@
     "categories": [
       "productivity"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2017,
     "partners": [
       "bryan-schreier",
@@ -10257,7 +10257,7 @@
     "categories": [
       "gtm"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2021,
     "partners": [
       "sonya-huang"
@@ -10300,7 +10300,7 @@
       "consumer",
       "crypto"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2021,
     "partners": [],
     "primary_partner": null,
@@ -10341,7 +10341,7 @@
       "crypto",
       "developer-tools"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2022,
     "partners": [
       "shaun-maguire"
@@ -10374,7 +10374,7 @@
       "ai",
       "data-analytics"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2023,
     "partners": [],
     "primary_partner": null,
@@ -10420,7 +10420,7 @@
     "categories": [
       "consumer"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2007,
     "partners": [],
     "primary_partner": null,
@@ -10456,7 +10456,7 @@
     "categories": [
       "data-analytics"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2020,
     "partners": [
       "michael-moritz",
@@ -10496,7 +10496,7 @@
     "categories": [
       "consumer"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 2011,
     "partners": [],
     "primary_partner": null,
@@ -10527,7 +10527,7 @@
     "categories": [
       "data-analytics"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2020,
     "partners": [
       "shaun-maguire",
@@ -10567,7 +10567,7 @@
     "categories": [
       "hardware"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 1998,
     "partners": [],
     "primary_partner": null,
@@ -10598,7 +10598,7 @@
     "categories": [
       "hardware"
     ],
-    "current_stage": "acquired",
+    "current_stage": "unknown",
     "first_partnered_year": 2006,
     "partners": [
       "jim-goetz"
@@ -10645,7 +10645,7 @@
     "categories": [
       "hardware"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 1989,
     "partners": [],
     "primary_partner": null,
@@ -10677,7 +10677,7 @@
       "hardware",
       "infrastructure"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 2002,
     "partners": [
       "jim-goetz"
@@ -10720,7 +10720,7 @@
     "categories": [
       "hardware"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 1980,
     "partners": [],
     "primary_partner": null,
@@ -10751,7 +10751,7 @@
       "ai",
       "data-analytics"
     ],
-    "current_stage": "pre-seed-seed",
+    "current_stage": "unknown",
     "first_partnered_year": 2022,
     "partners": [],
     "primary_partner": null,
@@ -10792,7 +10792,7 @@
       "ai",
       "legal"
     ],
-    "current_stage": "pre-seed-seed",
+    "current_stage": "unknown",
     "first_partnered_year": 2024,
     "partners": [
       "alfred-lin"
@@ -10834,7 +10834,7 @@
     "categories": [
       "data-analytics"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2018,
     "partners": [],
     "primary_partner": null,
@@ -10874,7 +10874,7 @@
     "categories": [
       "security"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2020,
     "partners": [
       "carl-eschenbach",
@@ -10914,7 +10914,7 @@
     "categories": [
       "developer-tools"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2022,
     "partners": [
       "lauren-reeder",
@@ -10956,7 +10956,7 @@
     "categories": [
       "data-analytics"
     ],
-    "current_stage": "pre-seed-seed",
+    "current_stage": "unknown",
     "first_partnered_year": 2022,
     "partners": [],
     "primary_partner": null,
@@ -10998,7 +10998,7 @@
     "categories": [
       "productivity"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2020,
     "partners": [
       "roelof-botha"
@@ -11036,7 +11036,7 @@
       "fintech",
       "operations"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2024,
     "partners": [
       "bryan-schreier",
@@ -11080,7 +11080,7 @@
       "ai",
       "legal"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2018,
     "partners": [
       "jess-lee"
@@ -11166,7 +11166,7 @@
     "categories": [
       "hardware"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 2006,
     "partners": [],
     "primary_partner": null,
@@ -11196,7 +11196,7 @@
     "categories": [
       "developer-tools"
     ],
-    "current_stage": "pre-seed-seed",
+    "current_stage": "unknown",
     "first_partnered_year": 2024,
     "partners": [
       "bogomil-balkansky",
@@ -11236,7 +11236,7 @@
     "categories": [
       "hardware"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2024,
     "partners": [
       "shaun-maguire"
@@ -11281,7 +11281,7 @@
       "ai",
       "healthcare"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2025,
     "partners": [
       "shaun-maguire",
@@ -11324,7 +11324,7 @@
     "categories": [
       "consumer"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2014,
     "partners": [
       "andrew-reed"
@@ -11368,7 +11368,7 @@
       "hardware",
       "infrastructure"
     ],
-    "current_stage": "acquired",
+    "current_stage": "unknown",
     "first_partnered_year": 1999,
     "partners": [],
     "primary_partner": null,
@@ -11442,7 +11442,7 @@
       "hardware",
       "infrastructure"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2020,
     "partners": [
       "roelof-botha"
@@ -11486,7 +11486,7 @@
       "ai",
       "developer-tools"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2022,
     "partners": [
       "andrew-reed"
@@ -11524,7 +11524,7 @@
     "categories": [
       "healthcare"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2017,
     "partners": [
       "alfred-lin"
@@ -11565,7 +11565,7 @@
     "categories": [
       "crypto"
     ],
-    "current_stage": "acquired",
+    "current_stage": "unknown",
     "first_partnered_year": 2023,
     "partners": [
       "shaun-maguire",
@@ -11609,7 +11609,7 @@
       "crypto",
       "security"
     ],
-    "current_stage": "acquired",
+    "current_stage": "unknown",
     "first_partnered_year": 2021,
     "partners": [
       "shaun-maguire",
@@ -11653,7 +11653,7 @@
       "ai",
       "gtm"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2021,
     "partners": [
       "doug-leone",
@@ -11704,7 +11704,7 @@
       "ai",
       "operations"
     ],
-    "current_stage": "pre-seed-seed",
+    "current_stage": "unknown",
     "first_partnered_year": 2024,
     "partners": [
       "julien-bek"
@@ -11746,7 +11746,7 @@
       "ai",
       "consumer"
     ],
-    "current_stage": "pre-seed-seed",
+    "current_stage": "unknown",
     "first_partnered_year": 2023,
     "partners": [
       "jess-lee"
@@ -11785,7 +11785,7 @@
       "ai",
       "healthcare"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2023,
     "partners": [
       "george-robson"
@@ -11829,7 +11829,7 @@
       "consumer",
       "fintech"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2021,
     "partners": [
       "george-robson"
@@ -11871,7 +11871,7 @@
     "categories": [
       "fintech"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2021,
     "partners": [
       "george-robson"
@@ -11926,7 +11926,7 @@
     "categories": [
       "marketplace"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2022,
     "partners": [
       "george-robson"
@@ -11968,7 +11968,7 @@
     "categories": [
       "crypto"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2022,
     "partners": [
       "alfred-lin"
@@ -12016,7 +12016,7 @@
       "ai",
       "operations"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2023,
     "partners": [
       "jess-lee"
@@ -12053,7 +12053,7 @@
     "categories": [
       "consumer"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2014,
     "partners": [
       "bryan-schreier"
@@ -12092,7 +12092,7 @@
       "ai",
       "developer-tools"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2024,
     "partners": [
       "sonya-huang",
@@ -12139,7 +12139,7 @@
     "categories": [
       "fintech"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 2010,
     "partners": [
       "andrew-reed"
@@ -12185,7 +12185,7 @@
       "ai",
       "security"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2025,
     "partners": [
       "shaun-maguire",
@@ -12228,7 +12228,7 @@
       "data-analytics",
       "defense"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2025,
     "partners": [
       "alfred-lin",
@@ -12277,7 +12277,7 @@
     "categories": [
       "ai"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2023,
     "partners": [
       "andrew-reed",
@@ -12321,7 +12321,7 @@
       "ai",
       "infrastructure"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2022,
     "partners": [
       "sonya-huang",
@@ -12373,7 +12373,7 @@
       "ai",
       "gtm"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2023,
     "partners": [
       "ravi-gupta"
@@ -12415,7 +12415,7 @@
       "ai",
       "developer-tools"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2024,
     "partners": [
       "sonya-huang"
@@ -12459,7 +12459,7 @@
       "ai",
       "data-analytics"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 2018,
     "partners": [
       "pat-grady",
@@ -12515,7 +12515,7 @@
       "consumer",
       "productivity"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 1999,
     "partners": [
       "michael-moritz"
@@ -12555,7 +12555,7 @@
       "fintech",
       "operations"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2023,
     "partners": [
       "ravi-gupta"
@@ -12601,7 +12601,7 @@
     "categories": [
       "security"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 2005,
     "partners": [
       "jim-goetz",
@@ -12659,7 +12659,7 @@
       "ai",
       "data-analytics"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2024,
     "partners": [
       "pat-grady",
@@ -12703,7 +12703,7 @@
       "ai",
       "hardware"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 1993,
     "partners": [],
     "primary_partner": null,
@@ -12793,7 +12793,7 @@
       "ai",
       "gtm"
     ],
-    "current_stage": "pre-seed-seed",
+    "current_stage": "unknown",
     "first_partnered_year": 2025,
     "partners": [
       "pat-grady"
@@ -12844,7 +12844,7 @@
     "categories": [
       "gtm"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2019,
     "partners": [
       "carl-eschenbach",
@@ -12888,7 +12888,7 @@
       "ai",
       "developer-tools"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2024,
     "partners": [
       "bogomil-balkansky",
@@ -12940,7 +12940,7 @@
       "developer-tools",
       "productivity"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2020,
     "partners": [
       "george-robson"
@@ -12980,7 +12980,7 @@
       "ai",
       "developer-tools"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2022,
     "partners": [
       "pat-grady",
@@ -13029,7 +13029,7 @@
       "ai",
       "gtm"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2023,
     "partners": [
       "bryan-schreier",
@@ -13074,7 +13074,7 @@
       "ai",
       "productivity"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2020,
     "partners": [
       "andrew-reed"
@@ -13122,7 +13122,7 @@
       "consumer",
       "fintech"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2020,
     "partners": [],
     "primary_partner": null,
@@ -13162,7 +13162,7 @@
       "ai",
       "operations"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2025,
     "partners": [
       "david-cahn",
@@ -13209,7 +13209,7 @@
       "consumer",
       "fintech"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2021,
     "partners": [
       "doug-leone",
@@ -13256,7 +13256,7 @@
     "categories": [
       "healthcare"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2025,
     "partners": [
       "anas-biad"
@@ -13302,7 +13302,7 @@
     "categories": [
       "fintech"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2021,
     "partners": [
       "luciana-lixandru",
@@ -13353,7 +13353,7 @@
       "ai",
       "operations"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2025,
     "partners": [
       "anas-biad"
@@ -13396,7 +13396,7 @@
     "categories": [
       "consumer"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2021,
     "partners": [
       "luciana-lixandru",
@@ -13440,7 +13440,7 @@
       "ai",
       "consumer"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2025,
     "partners": [
       "jess-lee"
@@ -13484,7 +13484,7 @@
       "data-analytics",
       "marketplace"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2020,
     "partners": [
       "shaun-maguire"
@@ -13536,7 +13536,7 @@
       "consumer",
       "healthcare"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2021,
     "partners": [
       "josephine-chen",
@@ -13575,7 +13575,7 @@
       "ai",
       "legal"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2024,
     "partners": [
       "josephine-chen",
@@ -13619,7 +13619,7 @@
       "ai",
       "infrastructure"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2022,
     "partners": [
       "shaun-maguire"
@@ -13657,7 +13657,7 @@
     "categories": [
       "developer-tools"
     ],
-    "current_stage": "pre-seed-seed",
+    "current_stage": "unknown",
     "first_partnered_year": 2021,
     "partners": [
       "bill-coughran"
@@ -13700,7 +13700,7 @@
       "ai",
       "hardware"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2025,
     "partners": [
       "roelof-botha"
@@ -13748,7 +13748,7 @@
       "developer-tools",
       "security"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2022,
     "partners": [
       "bogomil-balkansky",
@@ -13799,7 +13799,7 @@
     "categories": [
       "consumer"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 2013,
     "partners": [
       "michael-moritz",
@@ -13852,7 +13852,7 @@
     "categories": [
       "developer-tools"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 2010,
     "partners": [
       "roelof-botha"
@@ -13899,7 +13899,7 @@
       "defense",
       "hardware"
     ],
-    "current_stage": "pre-seed-seed",
+    "current_stage": "unknown",
     "first_partnered_year": 2023,
     "partners": [
       "shaun-maguire",
@@ -13942,7 +13942,7 @@
     "categories": [
       "healthcare"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2019,
     "partners": [],
     "primary_partner": null,
@@ -13979,7 +13979,7 @@
       "ai",
       "developer-tools"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2021,
     "partners": [],
     "primary_partner": null,
@@ -14020,7 +14020,7 @@
     "categories": [
       "consumer"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2025,
     "partners": [
       "alfred-lin",
@@ -14064,7 +14064,7 @@
       "ai",
       "gtm"
     ],
-    "current_stage": "pre-seed-seed",
+    "current_stage": "unknown",
     "first_partnered_year": 2022,
     "partners": [
       "charlie-curnin"
@@ -14104,7 +14104,7 @@
       "crypto",
       "fintech"
     ],
-    "current_stage": "pre-seed-seed",
+    "current_stage": "unknown",
     "first_partnered_year": 2022,
     "partners": [
       "shaun-maguire"
@@ -14146,7 +14146,7 @@
     "categories": [
       "ai"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2025,
     "partners": [
       "sonya-huang",
@@ -14189,7 +14189,7 @@
       "ai",
       "productivity"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2023,
     "partners": [
       "konstantine-buhler",
@@ -14232,7 +14232,7 @@
       "ai",
       "gtm"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2024,
     "partners": [
       "pat-grady",
@@ -14270,7 +14270,7 @@
     "categories": [
       "operations"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2023,
     "partners": [
       "luciana-lixandru",
@@ -14364,7 +14364,7 @@
     "categories": [
       "fintech"
     ],
-    "current_stage": "acquired",
+    "current_stage": "unknown",
     "first_partnered_year": 2022,
     "partners": [
       "george-robson"
@@ -14408,7 +14408,7 @@
       "consumer",
       "fintech"
     ],
-    "current_stage": "acquired",
+    "current_stage": "unknown",
     "first_partnered_year": 2020,
     "partners": [
       "jess-lee",
@@ -14446,7 +14446,7 @@
     "categories": [
       "fintech"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2024,
     "partners": [
       "luciana-lixandru",
@@ -14492,7 +14492,7 @@
     "categories": [
       "ai"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2025,
     "partners": [
       "roelof-botha",
@@ -14534,7 +14534,7 @@
     "categories": [
       "legal"
     ],
-    "current_stage": "pre-seed-seed",
+    "current_stage": "unknown",
     "first_partnered_year": 2025,
     "partners": [
       "bogomil-balkansky"
@@ -14580,7 +14580,7 @@
     "categories": [
       "productivity"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 2019,
     "partners": [
       "andrew-reed"
@@ -14615,7 +14615,7 @@
     "categories": [
       "ai"
     ],
-    "current_stage": "pre-seed-seed",
+    "current_stage": "unknown",
     "first_partnered_year": 2025,
     "partners": [
       "lauren-reeder"
@@ -14702,7 +14702,7 @@
     "categories": [
       "ai"
     ],
-    "current_stage": "pre-seed-seed",
+    "current_stage": "unknown",
     "first_partnered_year": 2024,
     "partners": [
       "pat-grady"
@@ -14745,7 +14745,7 @@
       "fintech",
       "operations"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2020,
     "partners": [
       "bryan-schreier",
@@ -14837,7 +14837,7 @@
       "ai",
       "productivity"
     ],
-    "current_stage": "pre-seed-seed",
+    "current_stage": "unknown",
     "first_partnered_year": 2023,
     "partners": [
       "roelof-botha"
@@ -14883,7 +14883,7 @@
       "ai",
       "consumer"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2026,
     "partners": [
       "abhishek-malani",
@@ -14925,7 +14925,7 @@
     "categories": [
       "ai"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2025,
     "partners": [
       "david-cahn",
@@ -14971,7 +14971,7 @@
     "categories": [
       "ai"
     ],
-    "current_stage": "pre-seed-seed",
+    "current_stage": "unknown",
     "first_partnered_year": 2025,
     "partners": [
       "lauren-reeder",
@@ -15015,7 +15015,7 @@
     "categories": [
       "ai"
     ],
-    "current_stage": "pre-seed-seed",
+    "current_stage": "unknown",
     "first_partnered_year": 2023,
     "partners": [],
     "primary_partner": null,
@@ -15058,7 +15058,7 @@
     "categories": [
       "ai"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2025,
     "partners": [
       "brian-halligan"
@@ -15103,7 +15103,7 @@
     "categories": [
       "fintech"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2025,
     "partners": [
       "alfred-lin"
@@ -15144,7 +15144,7 @@
     "categories": [
       "ai"
     ],
-    "current_stage": "pre-seed-seed",
+    "current_stage": "unknown",
     "first_partnered_year": 2025,
     "partners": [
       "david-cahn"
@@ -15191,7 +15191,7 @@
       "ai",
       "gtm"
     ],
-    "current_stage": "pre-seed-seed",
+    "current_stage": "unknown",
     "first_partnered_year": 2022,
     "partners": [],
     "primary_partner": null,
@@ -15229,7 +15229,7 @@
     "categories": [
       "fintech"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2024,
     "partners": [
       "andrew-reed"
@@ -15277,7 +15277,7 @@
       "ai",
       "developer-tools"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2024,
     "partners": [
       "sonya-huang"
@@ -15321,7 +15321,7 @@
       "consumer",
       "fintech"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2020,
     "partners": [
       "alfred-lin",
@@ -15364,7 +15364,7 @@
     "categories": [
       "security"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2026,
     "partners": [
       "bogomil-balkansky"
@@ -15407,7 +15407,7 @@
     "categories": [
       "security"
     ],
-    "current_stage": "acquired",
+    "current_stage": "unknown",
     "first_partnered_year": 2020,
     "partners": [
       "doug-leone",
@@ -15457,7 +15457,7 @@
     "categories": [
       "ai"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2025,
     "partners": [
       "luciana-lixandru"
@@ -15500,7 +15500,7 @@
       "ai",
       "operations"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2025,
     "partners": [
       "julien-bek",
@@ -15545,7 +15545,7 @@
     "categories": [
       "consumer"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2021,
     "partners": [
       "konstantine-buhler"
@@ -15587,7 +15587,7 @@
       "ai",
       "legal"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2023,
     "partners": [
       "pat-grady",
@@ -15631,7 +15631,7 @@
     "categories": [
       "ai"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2021,
     "partners": [
       "pat-grady",
@@ -15680,7 +15680,7 @@
       "consumer",
       "fintech"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 2011,
     "partners": [
       "roelof-botha"
@@ -15722,7 +15722,7 @@
     "categories": [
       "ai"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2025,
     "partners": [
       "anas-biad"
@@ -15764,7 +15764,7 @@
     "categories": [
       "ai"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2025,
     "partners": [
       "julien-bek"
@@ -15813,7 +15813,7 @@
       "ai",
       "consumer"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2021,
     "partners": [
       "luciana-lixandru",
@@ -15855,7 +15855,7 @@
     "categories": [
       "hardware"
     ],
-    "current_stage": "pre-seed-seed",
+    "current_stage": "unknown",
     "first_partnered_year": 2026,
     "partners": [
       "konstantine-buhler",
@@ -15901,7 +15901,7 @@
     "categories": [
       "ai"
     ],
-    "current_stage": "pre-seed-seed",
+    "current_stage": "unknown",
     "first_partnered_year": 2026,
     "partners": [
       "alfred-lin",
@@ -15939,7 +15939,7 @@
     "categories": [
       "healthcare"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2016,
     "partners": [
       "roelof-botha"
@@ -15984,7 +15984,7 @@
     "categories": [
       "ai"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2026,
     "partners": [
       "sonya-huang"
@@ -16027,7 +16027,7 @@
     "categories": [
       "consumer"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2025,
     "partners": [
       "david-cahn"
@@ -16073,7 +16073,7 @@
     "categories": [
       "data-analytics"
     ],
-    "current_stage": "acquired",
+    "current_stage": "unknown",
     "first_partnered_year": 2021,
     "partners": [
       "lauren-reeder"
@@ -16111,7 +16111,7 @@
     "categories": [
       "infrastructure"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2020,
     "partners": [
       "bill-coughran"
@@ -16155,7 +16155,7 @@
       "ai",
       "consumer"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2016,
     "partners": [
       "stephanie-zhan",
@@ -16216,7 +16216,7 @@
     "categories": [
       "healthcare"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2024,
     "partners": [
       "pat-grady"
@@ -16261,7 +16261,7 @@
     "categories": [
       "ai"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2026,
     "partners": [
       "sonya-huang",
@@ -16312,7 +16312,7 @@
     "categories": [
       "ai"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2026,
     "partners": [
       "andrew-reed"
@@ -16357,7 +16357,7 @@
       "consumer",
       "hardware"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2026,
     "partners": [
       "andrew-reed"
@@ -16395,7 +16395,7 @@
     "categories": [
       "consumer"
     ],
-    "current_stage": "pre-seed-seed",
+    "current_stage": "unknown",
     "first_partnered_year": 2025,
     "partners": [
       "konstantine-buhler"
@@ -16435,7 +16435,7 @@
     "categories": [
       "hardware"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 2020,
     "partners": [
       "shaun-maguire"
@@ -16475,7 +16475,7 @@
     "categories": [
       "operations"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2025,
     "partners": [
       "isaiah-boone"
@@ -16517,7 +16517,7 @@
       "ai",
       "developer-tools"
     ],
-    "current_stage": "pre-seed-seed",
+    "current_stage": "unknown",
     "first_partnered_year": 2022,
     "partners": [
       "shaun-maguire",
@@ -16556,7 +16556,7 @@
     "categories": [
       "hardware"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2025,
     "partners": [
       "roelof-botha"
@@ -16593,7 +16593,7 @@
     "categories": [
       "ai"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2025,
     "partners": [
       "konstantine-buhler"
@@ -16638,7 +16638,7 @@
     "categories": [
       "consumer"
     ],
-    "current_stage": "acquired",
+    "current_stage": "unknown",
     "first_partnered_year": 2022,
     "partners": [
       "shaun-maguire",
@@ -16682,7 +16682,7 @@
     "categories": [
       "ai"
     ],
-    "current_stage": "acquired",
+    "current_stage": "unknown",
     "first_partnered_year": 2024,
     "partners": [
       "shaun-maguire"
@@ -16719,7 +16719,7 @@
     "categories": [
       "ai"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2025,
     "partners": [
       "shaun-maguire"
@@ -16774,7 +16774,7 @@
       "ai",
       "defense"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2024,
     "partners": [
       "luciana-lixandru"
@@ -16811,7 +16811,7 @@
     "categories": [
       "ai"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2025,
     "partners": [
       "konstantine-buhler",
@@ -16854,7 +16854,7 @@
       "ai",
       "healthcare"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2026,
     "partners": [
       "pat-grady",
@@ -16906,7 +16906,7 @@
     "categories": [
       "ai"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2025,
     "partners": [
       "shaun-maguire"
@@ -16956,7 +16956,7 @@
     "categories": [
       "healthcare"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2023,
     "partners": [
       "alfred-lin"
@@ -17037,7 +17037,7 @@
       "productivity",
       "security"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2020,
     "partners": [
       "doug-leone"
@@ -17080,7 +17080,7 @@
       "ai",
       "security"
     ],
-    "current_stage": "early",
+    "current_stage": "unknown",
     "first_partnered_year": 2025,
     "partners": [
       "shaun-maguire",
@@ -17127,7 +17127,7 @@
       "ai",
       "infrastructure"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2026,
     "partners": [
       "sonya-huang",
@@ -17176,7 +17176,7 @@
       "ai",
       "gtm"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2019,
     "partners": [
       "pat-grady",
@@ -17224,7 +17224,7 @@
       "data-analytics",
       "gtm"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2020,
     "partners": [
       "sonya-huang"
@@ -17275,7 +17275,7 @@
       "data-analytics",
       "security"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2020,
     "partners": [
       "pat-grady",
@@ -17323,7 +17323,7 @@
     "categories": [
       "security"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2019,
     "partners": [
       "jim-goetz",
@@ -17373,7 +17373,7 @@
       "consumer",
       "fintech"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2021,
     "partners": [
       "sonya-huang"
@@ -17472,7 +17472,7 @@
       "ai",
       "data-analytics"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2018,
     "partners": [
       "sonya-huang",
@@ -17519,7 +17519,7 @@
     "categories": [
       "consumer"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2013,
     "partners": [
       "bryan-schreier",
@@ -17562,7 +17562,7 @@
     "categories": [
       "data-analytics"
     ],
-    "current_stage": "ipo",
+    "current_stage": "unknown",
     "first_partnered_year": 2018,
     "partners": [
       "pat-grady",
@@ -17609,7 +17609,7 @@
     "categories": [
       "marketplace"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2021,
     "partners": [
       "stephanie-zhan",
@@ -17657,7 +17657,7 @@
       "developer-tools",
       "productivity"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2019,
     "partners": [
       "stephanie-zhan"
@@ -17739,7 +17739,7 @@
     "categories": [
       "ai"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2024,
     "partners": [
       "stephanie-zhan",
@@ -17779,7 +17779,7 @@
     "categories": [
       "ai"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2025,
     "partners": [
       "stephanie-zhan"
@@ -17822,7 +17822,7 @@
     "categories": [
       "ai"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2023,
     "partners": [
       "stephanie-zhan"
@@ -17864,7 +17864,7 @@
       "ai",
       "gtm"
     ],
-    "current_stage": "growth",
+    "current_stage": "unknown",
     "first_partnered_year": 2021,
     "partners": [
       "stephanie-zhan"

@@ -1,13 +1,11 @@
 {
-  "last_updated_iso": "2026-07-30T08:00:12.608932+00:00",
+  "last_updated_iso": "2026-07-31T08:24:17.654576+00:00",
   "schema_version": "1.0.0",
   "total_companies": 417,
   "counts_by_stage": {
-    "acquired": 37,
-    "growth": 166,
-    "ipo": 67,
-    "early": 81,
-    "pre-seed-seed": 53
+    "unknown": 400,
+    "ipo": 3,
+    "acquired": 1
   },
   "counts_by_category": {
     "gtm": 30,
