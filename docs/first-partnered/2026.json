@@ -50,6 +50,11 @@
       "id": "sequoia:etched",
       "name": "Etched",
       "slug": "etched"
+    },
+    {
+      "id": "sequoia:valar-atomics",
+      "name": "Valar Atomics",
+      "slug": "valar-atomics"
     }
   ]
 }

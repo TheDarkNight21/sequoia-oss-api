@@ -2001,6 +2001,11 @@
       "id": "sequoia:tavus",
       "name": "Tavus",
       "slug": "tavus"
+    },
+    {
+      "id": "sequoia:valar-atomics",
+      "name": "Valar Atomics",
+      "slug": "valar-atomics"
     }
   ]
 }

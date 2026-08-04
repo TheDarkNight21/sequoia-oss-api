@@ -1,9 +1,9 @@
 {
-  "last_updated_iso": "2026-08-03T08:52:32.869469+00:00",
+  "last_updated_iso": "2026-08-04T08:11:11.321039+00:00",
   "schema_version": "1.0.0",
-  "total_companies": 417,
+  "total_companies": 418,
   "counts_by_stage": {
-    "unknown": 400,
+    "unknown": 401,
     "ipo": 3,
     "acquired": 1
   },
@@ -11,7 +11,7 @@
     "gtm": 30,
     "infrastructure": 23,
     "consumer": 88,
-    "hardware": 35,
+    "hardware": 36,
     "healthcare": 35,
     "fintech": 41,
     "marketplace": 16,

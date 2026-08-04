@@ -1,0 +1,38 @@
+{
+  "id": "sequoia:valar-atomics",
+  "sequoia_id": "22502",
+  "name": "Valar Atomics",
+  "slug": "valar-atomics",
+  "description": "Valar Atomics is scaling nuclear fission reactors to make energy in the universe cheaper and more abundant than ever before. Where traditional nuclear suffers from long timelines and cost overruns, Valar shifts nuclear from construction to manufacturing in a fully vertically integrated company that sells power rather than reactors. Valar chains hundreds of manufactured reactors onto the largest energy campuses on earth, called Gigasites, which will power the next generation of AI and heavy industry, fundamentally reducing the cost of energy for all mankind.",
+  "website": "https://www.valaratomics.com/",
+  "socials": {
+    "linkedin": "https://linkedin.com/company/valar-atomics/",
+    "youtube": "https://www.youtube.com/@ValarAtomics"
+  },
+  "categories": [
+    "hardware"
+  ],
+  "current_stage": "unknown",
+  "first_partnered_year": 2026,
+  "partners": [
+    "shaun-maguire"
+  ],
+  "primary_partner": "shaun-maguire",
+  "milestones": {
+    "founded_year": 2023,
+    "partnered_year": 2026,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Isaiah Taylor",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/valar-atomics/"
+  }
+}
