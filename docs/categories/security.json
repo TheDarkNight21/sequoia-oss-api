@@ -181,6 +181,11 @@
       "id": "sequoia:dashlane",
       "name": "Dashlane",
       "slug": "dashlane"
+    },
+    {
+      "id": "sequoia:corma",
+      "name": "Corma",
+      "slug": "corma"
     }
   ]
 }

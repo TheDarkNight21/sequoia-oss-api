@@ -1,9 +1,9 @@
 {
-  "last_updated_iso": "2026-08-10T07:00:27.487578+00:00",
+  "last_updated_iso": "2026-08-11T06:40:27.353068+00:00",
   "schema_version": "1.0.0",
-  "total_companies": 418,
+  "total_companies": 419,
   "counts_by_stage": {
-    "unknown": 401,
+    "unknown": 402,
     "ipo": 3,
     "acquired": 1
   },
@@ -16,7 +16,7 @@
     "fintech": 41,
     "marketplace": 16,
     "data-analytics": 30,
-    "security": 36,
+    "security": 37,
     "developer-tools": 34,
     "operations": 33,
     "crypto": 22,

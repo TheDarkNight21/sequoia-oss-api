@@ -1,0 +1,38 @@
+{
+  "id": "sequoia:corma",
+  "sequoia_id": "21370",
+  "name": "Corma",
+  "slug": "corma",
+  "description": "Corma is the first frontier AI lab for defensive cybersecurity, building foundation models toward superintelligence for cyber defense. AI has given attackers unprecedented speed, sophistication and scale, but it hasn’t elevated defensive security in the same way. Corma’s mission is to make sure the defenders win the intelligence race in cybersecurity—and every challenge that comes next.",
+  "website": "https://corma.ai/",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/company/cormaai/"
+  },
+  "categories": [
+    "security"
+  ],
+  "current_stage": "unknown",
+  "first_partnered_year": 2026,
+  "partners": [
+    "shaun-maguire",
+    "sonya-huang"
+  ],
+  "primary_partner": "shaun-maguire",
+  "milestones": {
+    "founded_year": 2025,
+    "partnered_year": 2026,
+    "ipo_year": null,
+    "acquired_year": null
+  },
+  "team": [
+    {
+      "name": "Alon Pluda",
+      "role": null
+    }
+  ],
+  "why_partnered": null,
+  "source_urls": {
+    "directory": "https://sequoiacap.com/our-companies/",
+    "profile": "https://sequoiacap.com/companies/corma/"
+  }
+}
